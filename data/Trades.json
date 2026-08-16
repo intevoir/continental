@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lippiew",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-16T12:33:03.907Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lippiew",
     "world": "GWBS",
@@ -128,5 +115,18 @@
     "price_wl": 110,
     "traded_with": null,
     "timestamp": "2026-08-16T12:35:48.154Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VitaminA",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 137,
+    "p_name": "World Locks",
+    "p_count": 109600,
+    "price_wl": 109600,
+    "traded_with": null,
+    "timestamp": "2026-08-16T12:37:21.222Z"
   }
 ]
