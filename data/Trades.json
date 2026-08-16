@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "l23",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-16T21:43:46.644Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WazeMoon",
     "world": "PROKERZ",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 642,
     "traded_with": null,
     "timestamp": "2026-08-16T21:51:21.418Z"
+  },
+  {
+    "player1": "CDEF",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-16T21:52:01.955Z"
   }
 ]
