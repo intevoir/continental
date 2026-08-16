@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Legendsxyzs",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T07:56:18.558Z"
-  },
-  {
-    "player1": "DrIitch",
-    "player2": "Renting Station",
-    "world": "8R",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-16T07:57:19.209Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZidanBaik",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T07:57:31.339Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@SecretBgmUser",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-08-16T07:59:20.137Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZidanBaik",
+    "world": "BFGCOX",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 490,
+    "price_wl": 490,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:00:33.427Z"
+  },
+  {
+    "player1": "DrAwam",
+    "player2": "OPEN of Legend",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OPEN of Legend",
+    "timestamp": "2026-08-16T08:00:44.061Z"
+  },
+  {
+    "player1": "OPEN of Legend",
+    "player2": "DrAwam",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAwam",
+    "timestamp": "2026-08-16T08:00:44.062Z"
   }
 ]
