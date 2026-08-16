@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMythicalFist [ELITE]",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-16T06:16:19.808Z"
-  },
-  {
     "player1": "X0X0",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-08-16T06:22:09.989Z"
+  },
+  {
+    "player1": "X0X0",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "GrowScan 9000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-16T06:23:10.701Z"
   }
 ]
