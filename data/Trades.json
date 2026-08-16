@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:25:50.469Z"
-  },
-  {
-    "player1": "@0545",
-    "player2": "Renting Station",
-    "world": "BUYWORLD",
-    "action": "RENT",
-    "item_name": "World Catastrophe - 03",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238000,
-    "price_wl": 238000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:26:51.048Z"
-  },
-  {
-    "player1": "Dombol",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Ultra World Spray",
     "item_count": 20,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-16T14:30:04.973Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zurnalas",
+    "world": "BUYS",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Charcoal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:30:57.579Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zurnalas",
+    "world": "BUYS",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:31:01.195Z"
   }
 ]
