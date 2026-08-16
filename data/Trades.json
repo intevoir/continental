@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-16T15:36:35.308Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ecek",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T15:37:15.270Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "l23",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-08-16T15:37:15.281Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FLAIRx",
     "world": "RTORIICH",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 85000,
     "traded_with": null,
     "timestamp": "2026-08-16T15:40:33.081Z"
+  },
+  {
+    "player1": "Advance",
+    "player2": "OPEN of Legend",
+    "world": "BUYIOTMS",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OPEN of Legend",
+    "timestamp": "2026-08-16T15:41:17.552Z"
+  },
+  {
+    "player1": "Advance",
+    "player2": "OPEN of Legend",
+    "world": "BUYIOTMS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OPEN of Legend",
+    "timestamp": "2026-08-16T15:41:17.555Z"
+  },
+  {
+    "player1": "OPEN of Legend",
+    "player2": "Advance",
+    "world": "BUYIOTMS",
+    "action": "TRADE",
+    "item_name": "Nightmare Katana",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Advance",
+    "timestamp": "2026-08-16T15:41:17.555Z"
   }
 ]
