@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OzanKotak",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-16T23:00:24.696Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "torjago",
     "world": "BFGWE",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-16T23:01:20.702Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLolly",
+    "world": "PROKERZ",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-08-16T23:03:10.295Z"
   }
 ]
