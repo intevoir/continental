@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@ttt",
-    "player2": "SEBAGAISTORE",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Hellfire Horns - Blue",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "SEBAGAISTORE",
-    "timestamp": "2026-08-16T08:32:34.567Z"
-  },
-  {
-    "player1": "DrGillter",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:32:45.524Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrJustVins",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-08-16T08:42:58.267Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Moondrop",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Serpent Staff",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:43:39.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AUDIO",
+    "world": "BFGMEAN",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:43:39.020Z"
   }
 ]
