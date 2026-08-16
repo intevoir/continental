@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VinnPY",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T12:32:45.890Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VinnPY",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-16T12:34:47.410Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dolgledek",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3100,
+    "price_wl": 3100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T12:35:16.429Z"
   }
 ]
