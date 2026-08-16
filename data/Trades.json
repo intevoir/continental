@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "Z4",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 23700,
-    "price_wl": 23700,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:30:35.205Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZetsuNii",
-    "world": "GWBS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:31:03.449Z"
-  },
-  {
     "player1": "Vitrum",
     "player2": "Renting Station",
     "world": "ANYTIME",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-16T10:33:09.364Z"
+  },
+  {
+    "player1": "AlexPter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-16T10:34:05.118Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lippiew",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-16T10:34:05.131Z"
   }
 ]
