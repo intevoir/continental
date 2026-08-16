@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Legendsxyzs",
-    "world": "TOBRUT",
-    "action": "BUY",
-    "item_name": "Wooden Platform",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:27:58.569Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NAGAPERI",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 40500,
-    "price_wl": 40500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:29:44.735Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCyzuuGT",
     "world": "RUCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8730,
     "traded_with": null,
     "timestamp": "2026-08-16T08:38:48.627Z"
+  },
+  {
+    "player1": "Sulasokkk",
+    "player2": "Filipino",
+    "world": "BFGOYI",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Filipino",
+    "timestamp": "2026-08-16T08:39:41.087Z"
+  },
+  {
+    "player1": "Filipino",
+    "player2": "Sulasokkk",
+    "world": "BFGOYI",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Sulasokkk",
+    "timestamp": "2026-08-16T08:39:41.091Z"
   }
 ]
