@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Raffaiq",
-    "player2": "Buying Machine",
-    "world": "SAME",
-    "action": "SELL",
-    "item_name": "Legendbot-009",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 450000,
-    "price_wl": 450000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:55:10.585Z"
-  },
-  {
     "player1": "Callwy",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-16T11:00:12.700Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ThrowingKnife",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Fishing Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T11:00:39.327Z"
   }
 ]
