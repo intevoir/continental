@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "REME [CHAD!]",
-    "world": "RUNK",
-    "action": "BUY",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 85000,
-    "price_wl": 85000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T19:13:27.554Z"
-  },
-  {
     "player1": "DrRegans",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4165,
     "traded_with": null,
     "timestamp": "2026-08-16T19:16:54.214Z"
+  },
+  {
+    "player1": "DrRegans",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Rebana's Lizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-08-16T19:17:22.059Z"
   }
 ]
