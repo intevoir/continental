@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DEPOSITT",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-16T07:13:01.092Z"
-  },
-  {
-    "player1": "HighRank [SUPER]",
-    "player2": "Buying Machine",
-    "world": "CANTEEN",
-    "action": "SELL",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 270000,
-    "price_wl": 270000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T07:14:01.794Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sulasokkk",
     "world": "NOW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10080,
     "traded_with": null,
     "timestamp": "2026-08-16T07:17:29.491Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bapakee",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-16T07:18:10.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bapakee",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T07:18:10.966Z"
   }
 ]
