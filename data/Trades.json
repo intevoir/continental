@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BStarz",
-    "player2": "Renting Station",
-    "world": "GEIGER",
-    "action": "RENT",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-16T15:45:19.222Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Motobe",
     "world": "TOBRUT",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-16T15:50:32.548Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KertaNegara",
+    "world": "CIVIL",
+    "action": "BUY",
+    "item_name": "EQ Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 550,
+    "price_wl": 550,
+    "traded_with": null,
+    "timestamp": "2026-08-16T15:53:22.167Z"
   }
 ]
