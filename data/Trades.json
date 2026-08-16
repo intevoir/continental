@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lupemalas",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Electric Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:58:49.901Z"
-  },
-  {
     "player1": "DrGillter",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-08-16T09:02:15.426Z"
+  },
+  {
+    "player1": "Fertys",
+    "player2": "Renting Station",
+    "world": "MADRENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-16T09:02:51.656Z"
   }
 ]
