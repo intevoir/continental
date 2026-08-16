@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "golfr",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Fireplace",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T18:41:55.770Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BStarz",
     "world": "BASAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-08-16T18:50:39.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EdwHere",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Dark Magic Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-16T18:52:04.563Z"
   }
 ]
