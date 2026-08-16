@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wellplayer",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 370,
-    "price_wl": 370,
-    "traded_with": null,
-    "timestamp": "2026-08-16T11:50:30.887Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "golfr",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T11:50:58.663Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrJustVins",
     "world": "RICH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-16T11:52:38.854Z"
+  },
+  {
+    "player1": "Rexxxx",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-16T11:53:30.935Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zurnalas",
+    "world": "HYBAR",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 18000,
+    "price_wl": 18000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T11:53:53.567Z"
   }
 ]
