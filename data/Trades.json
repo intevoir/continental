@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:21:13.043Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:21:17.627Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "plenger",
     "world": "BFGAPW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-16T14:25:18.060Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zurnalas",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:25:50.450Z"
+  },
+  {
+    "player1": "Dombol",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:25:50.469Z"
   }
 ]
