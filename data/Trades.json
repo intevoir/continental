@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JeroIndri1",
-    "world": "MAD",
-    "action": "BUY",
-    "item_name": "Pot O' Gems",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-16T23:46:48.448Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JeroIndri1",
-    "world": "MAD",
-    "action": "BUY",
-    "item_name": "Pot O' Gems",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-16T23:47:31.084Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DOD",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4700,
     "traded_with": null,
     "timestamp": "2026-08-16T23:50:31.767Z"
+  },
+  {
+    "player1": "OzanKotak",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 580,
+    "price_wl": 580,
+    "traded_with": null,
+    "timestamp": "2026-08-16T23:51:40.625Z"
+  },
+  {
+    "player1": "OzanKotak",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T23:51:51.515Z"
   }
 ]
