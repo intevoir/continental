@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drliy",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-16T09:21:54.812Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Becker",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "DrIitch",
     "timestamp": "2026-08-16T09:30:59.391Z"
+  },
+  {
+    "player1": "HACLONE",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 77,
+    "p_name": "World Locks",
+    "p_count": 616,
+    "price_wl": 616,
+    "traded_with": null,
+    "timestamp": "2026-08-16T09:32:19.618Z"
   }
 ]
