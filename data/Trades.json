@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "VENDTASY",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-08-16T18:28:30.115Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KhansGrow",
     "world": "SHOP2",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-16T18:31:59.081Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NoirStride",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T18:32:31.665Z"
   }
 ]
