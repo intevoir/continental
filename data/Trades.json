@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CDEF",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-08-16T21:52:01.955Z"
-  },
-  {
     "player1": "Mufeed",
     "player2": "Buying Machine",
     "world": "RIO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-16T21:57:53.545Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SenzuParker",
+    "world": "JUALANS",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-16T22:01:25.408Z"
   }
 ]
