@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BStarz",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Medical Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T17:33:34.503Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "mykelly",
     "world": "AGE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 140,
     "traded_with": null,
     "timestamp": "2026-08-16T17:47:19.797Z"
+  },
+  {
+    "player1": "HackHammer_146",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Golden Booty Chest",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-16T17:49:12.777Z"
   }
 ]
