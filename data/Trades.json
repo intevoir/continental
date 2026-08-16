@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BraveGrip_422",
-    "player2": "Buying Machine",
-    "world": "BUYGBC",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-16T05:36:16.424Z"
-  },
-  {
-    "player1": "Advance",
-    "player2": "shojo of Legend",
-    "world": "QX",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "shojo of Legend",
-    "timestamp": "2026-08-16T05:36:16.438Z"
-  },
-  {
     "player1": "Advance",
     "player2": "shojo of Legend",
     "world": "QX",
@@ -128,5 +102,31 @@
     "price_wl": 109,
     "traded_with": null,
     "timestamp": "2026-08-16T05:36:58.492Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZeroPie_422",
+    "world": "MATTSHOP",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-16T05:37:05.356Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Legendsxyzs",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Athar's Warrior Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T05:37:16.732Z"
   }
 ]
