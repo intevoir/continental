@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Legendsxyzs",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-08-16T13:55:41.776Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAFABW",
-    "world": "BUYKU",
-    "action": "BUY",
-    "item_name": "Cultist Hood",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T13:55:41.782Z"
-  },
-  {
     "player1": "GTX1650",
     "player2": "Renting Station",
     "world": "RENTMOZ",
@@ -128,5 +102,31 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-08-16T13:57:10.604Z"
+  },
+  {
+    "player1": "Lucky",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-16T13:57:18.243Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Legendsxyzs",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Chandelier",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-16T13:57:42.326Z"
   }
 ]
