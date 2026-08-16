@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OzanKotak",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:19:05.467Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@MrFunk []",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-16T10:20:20.871Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OzanKotak",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-16T10:21:19.500Z"
   }
 ]
