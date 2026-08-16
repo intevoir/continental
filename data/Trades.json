@@ -4,19 +4,6 @@
     "player2": "Lelouch",
     "world": "ZANAM",
     "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:15:32.874Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lelouch",
-    "world": "ZANAM",
-    "action": "BUY",
     "item_name": "Radioactive Chemical",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 24600,
     "traded_with": null,
     "timestamp": "2026-08-16T08:23:30.652Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZE3T",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:23:35.075Z"
   }
 ]
