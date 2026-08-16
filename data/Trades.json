@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@AUDIO",
-    "world": "BFGMEAN",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:43:39.020Z"
-  },
-  {
     "player1": "putroadto2",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-08-16T08:49:42.574Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KhansGrow",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:52:07.762Z"
   }
 ]
