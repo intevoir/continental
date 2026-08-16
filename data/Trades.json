@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kaixiugt",
-    "world": "NAWAR",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-16T12:29:13.692Z"
-  },
-  {
     "player1": "VinnPY",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-16T12:31:19.066Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-08-16T12:32:06.095Z"
   }
 ]
