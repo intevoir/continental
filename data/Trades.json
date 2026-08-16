@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KhansGrow",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:52:43.480Z"
-  },
-  {
     "player1": "razi9",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-16T08:59:04.352Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Renting Station",
+    "world": "SHOPGG",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:59:49.501Z"
   }
 ]
