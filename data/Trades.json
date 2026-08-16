@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "EdwHere",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ghastly Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T18:47:45.929Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AsepWanyz",
-    "world": "AULA",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-16T18:50:39.099Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EdwHere",
     "world": "CLOTHES",
     "action": "BUY",
     "item_name": "Dark Magic Katana",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-16T18:56:43.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LABAS1",
+    "world": "IGEMSS",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 2880,
+    "price_wl": 2880,
+    "traded_with": null,
+    "timestamp": "2026-08-16T18:57:42.901Z"
+  },
+  {
+    "player1": "kaiitu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-08-16T18:57:42.921Z"
   }
 ]
