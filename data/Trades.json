@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EdwHere",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Finias' Red Javelin",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-16T17:54:15.836Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lelouch",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-16T18:00:17.991Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTX5090",
+    "world": "BUYBRIEF",
+    "action": "BUY",
+    "item_name": "Legal Briefs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-08-16T18:00:25.404Z"
   }
 ]
