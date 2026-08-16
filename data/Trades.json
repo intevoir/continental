@@ -1,44 +1,5 @@
 [
   {
-    "player1": "OppanAja",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T09:12:15.373Z"
-  },
-  {
-    "player1": "ShapakID",
-    "player2": "Renting Station",
-    "world": "53",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-16T09:14:52.804Z"
-  },
-  {
-    "player1": "softsays",
-    "player2": "Renting Station",
-    "world": "53",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-16T09:16:55.341Z"
-  },
-  {
     "player1": "DarkSysTems2",
     "player2": "Renting Station",
     "world": "MADRENT",
@@ -128,5 +89,44 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-16T09:20:06.438Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DirtBanana_422",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Heatbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-16T09:20:25.737Z"
+  },
+  {
+    "player1": "SirZenith",
+    "player2": "KroYY",
+    "world": "RAAV",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 4,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KroYY",
+    "timestamp": "2026-08-16T09:20:54.069Z"
+  },
+  {
+    "player1": "KroYY",
+    "player2": "SirZenith",
+    "world": "RAAV",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SirZenith",
+    "timestamp": "2026-08-16T09:20:54.077Z"
   }
 ]
