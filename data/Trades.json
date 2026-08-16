@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "plenger",
-    "world": "BFGAPW",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 28,
-    "p_name": "World Locks",
-    "p_count": 1316,
-    "price_wl": 1316,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:21:51.269Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Motobe",
     "world": "QYM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-08-16T14:25:50.469Z"
+  },
+  {
+    "player1": "@0545",
+    "player2": "Renting Station",
+    "world": "BUYWORLD",
+    "action": "RENT",
+    "item_name": "World Catastrophe - 03",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238000,
+    "price_wl": 238000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:26:51.048Z"
   }
 ]
