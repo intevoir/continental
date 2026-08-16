@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "wintered",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:02:10.015Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dombol",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-08-16T10:02:10.025Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@AppleJuice",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-16T10:06:41.359Z"
+  },
+  {
+    "player1": "ArthurBaik",
+    "player2": "ISAYAAFK",
+    "world": "HCM",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ISAYAAFK",
+    "timestamp": "2026-08-16T10:10:03.696Z"
+  },
+  {
+    "player1": "ISAYAAFK",
+    "player2": "ArthurBaik",
+    "world": "HCM",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ArthurBaik",
+    "timestamp": "2026-08-16T10:10:03.701Z"
   }
 ]
