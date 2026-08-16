@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTX5090",
-    "world": "QORD",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T16:21:12.423Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KhansGrow",
     "world": "NOTSTORE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 95,
     "traded_with": null,
     "timestamp": "2026-08-16T16:25:32.457Z"
+  },
+  {
+    "player1": "redyz",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-16T16:25:46.524Z"
   }
 ]
