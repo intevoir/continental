@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "golfr",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-16T17:51:46.934Z"
-  },
-  {
     "player1": "torjago",
     "player2": "Renting Station",
     "world": "MADIRENT",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-08-16T17:57:33.207Z"
+  },
+  {
+    "player1": "BananaZero_341",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-08-16T17:59:33.337Z"
   }
 ]
