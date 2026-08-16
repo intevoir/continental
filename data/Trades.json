@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrJustIcunz []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:49:42.574Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KhansGrow",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-16T08:52:07.762Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KhansGrow",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-16T08:57:44.996Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lupemalas",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Electric Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:58:49.901Z"
+  },
+  {
+    "player1": "DrGillter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:59:04.352Z"
   }
 ]
