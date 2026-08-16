@@ -1,57 +1,5 @@
 [
   {
-    "player1": "fasyaaa",
-    "player2": "Renting Station",
-    "world": "LINK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 22610,
-    "price_wl": 22610,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:04:45.784Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vyrn",
-    "world": "RTORIICH",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:05:00.445Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vyrn",
-    "world": "RTORIICH",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:05:08.065Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vyrn",
-    "world": "RTORIICH",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-16T14:05:42.188Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Vyrn",
     "world": "RTORIICH",
@@ -128,5 +76,57 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-08-16T14:08:43.649Z"
+  },
+  {
+    "player1": "SEBAGAISTORE",
+    "player2": "MythicalFist [ELITE]",
+    "world": "GBCMYT",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MythicalFist [ELITE]",
+    "timestamp": "2026-08-16T14:09:43.672Z"
+  },
+  {
+    "player1": "MythicalFist [ELITE]",
+    "player2": "SEBAGAISTORE",
+    "world": "GBCMYT",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-16T14:09:43.673Z"
+  },
+  {
+    "player1": "MythicalFist [ELITE]",
+    "player2": "SEBAGAISTORE",
+    "world": "GBCMYT",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 12,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-16T14:09:43.673Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NathanCH",
+    "world": "SABTU",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8500,
+    "price_wl": 8500,
+    "traded_with": null,
+    "timestamp": "2026-08-16T14:09:43.673Z"
   }
 ]
