@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "EdwHere",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Cursed Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-16T19:18:54.978Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lostname",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-16T19:18:54.985Z"
-  },
-  {
     "player1": "SEBAGAISTORE",
     "player2": "Dvinnnn",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-08-16T19:23:57.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EdwHere",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Black Balrog's Tail",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-16T19:24:11.752Z"
+  },
+  {
+    "player1": "Dvinnnn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 2025,
+    "price_wl": 2025,
+    "traded_with": null,
+    "timestamp": "2026-08-16T19:24:32.363Z"
   }
 ]
