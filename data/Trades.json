@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SEBAGAISTORE",
-    "player2": "@ttt",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 4,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@ttt",
-    "timestamp": "2026-08-16T08:32:34.562Z"
-  },
-  {
     "player1": "@ttt",
     "player2": "SEBAGAISTORE",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 375,
     "traded_with": null,
     "timestamp": "2026-08-16T08:42:03.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SamIsHere",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-16T08:42:58.267Z"
   }
 ]
