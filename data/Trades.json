@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrMeWantEat",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Muhammad Ali!",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-08-16T16:44:53.942Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "WazeMoon",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-16T16:48:51.894Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "WazeMoon",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Fiesta Sombrero",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-16T16:49:51.736Z"
   }
 ]
