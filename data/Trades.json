@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Anonimousss",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-17T19:12:27.193Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrNarunn",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 3600000,
     "traded_with": null,
     "timestamp": "2026-08-17T19:15:24.907Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "namunamu",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-17T19:18:41.313Z"
   }
 ]
