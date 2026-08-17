@@ -1,31 +1,5 @@
 [
   {
-    "player1": "SEBAGAISTORE",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 52,
-    "p_name": "World Locks",
-    "p_count": 41600,
-    "price_wl": 41600,
-    "traded_with": null,
-    "timestamp": "2026-08-17T20:59:35.346Z"
-  },
-  {
-    "player1": "SkyXy",
-    "player2": "Renting Station",
-    "world": "CIVIL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-17T21:00:21.750Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SEBAGAISTORE",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 4900,
     "traded_with": null,
     "timestamp": "2026-08-17T21:23:45.517Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BagusV1",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Heart Monitor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-17T21:28:32.153Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BagusV1",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-17T21:28:32.197Z"
   }
 ]
