@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Dvinnnn",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-17T18:41:19.642Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Dvinnnn",
     "world": "MOONSHOP",
@@ -128,5 +115,18 @@
     "price_wl": 611,
     "traded_with": null,
     "timestamp": "2026-08-17T18:43:12.364Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNarunn",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-08-17T18:44:28.469Z"
   }
 ]
