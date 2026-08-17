@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OzanKotak",
-    "world": "DOOR",
-    "action": "BUY",
-    "item_name": "Tutorial Exit Door",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-17T16:34:03.474Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LOVEKLEE",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-17T16:40:05.792Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LOVEKLEE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Haunted Chemical",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T16:40:23.169Z"
   }
 ]
