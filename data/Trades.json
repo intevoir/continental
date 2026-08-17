@@ -1,31 +1,5 @@
 [
   {
-    "player1": "bfn",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-17T06:47:40.498Z"
-  },
-  {
-    "player1": "bfn",
-    "player2": "Buying Machine",
-    "world": "1",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T06:48:40.600Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GalaxeGT",
     "world": "SHOP2",
@@ -128,5 +102,31 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-08-17T06:56:18.757Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "MCD",
+    "action": "BUY",
+    "item_name": "Whatchamacallit",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-17T06:57:48.714Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "MCD",
+    "action": "BUY",
+    "item_name": "Kerjigger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-17T06:58:02.991Z"
   }
 ]
