@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Pernandez",
-    "world": "CHICKEN",
-    "action": "BUY",
-    "item_name": "Riding Chicken",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-17T05:39:18.160Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wellplayer",
-    "world": "SABTU",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-17T05:40:13.292Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Legendsxyzs",
     "world": "SABTU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-08-17T05:42:14.800Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RappWasHere",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-17T05:42:29.917Z"
+  },
+  {
+    "player1": "Ilegals",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 127,
+    "p_name": "World Locks",
+    "p_count": 2667,
+    "price_wl": 2667,
+    "traded_with": null,
+    "timestamp": "2026-08-17T05:42:33.911Z"
   }
 ]
