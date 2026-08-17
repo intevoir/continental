@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LOVEKLEE",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Radioactive Chemical",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 1800,
-    "price_wl": 1800,
-    "traded_with": null,
-    "timestamp": "2026-08-17T16:15:55.849Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XcLeCps",
-    "world": "CTOKO",
-    "action": "BUY",
-    "item_name": "Chinese Temple Awning",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-17T16:16:07.835Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XcLeCps",
     "world": "CTOKO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-17T16:19:58.131Z"
+  },
+  {
+    "player1": "DrMeWantEat",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-17T16:21:59.772Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Meydilin []",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-17T16:22:08.432Z"
   }
 ]
