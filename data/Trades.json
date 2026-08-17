@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JuuSanz",
-    "world": "M1T",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:13:37.056Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JuuSanz",
-    "world": "M1T",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:13:44.080Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TonyJK",
     "world": "LOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-08-17T11:17:17.449Z"
+  },
+  {
+    "player1": "Aoii",
+    "player2": "Buying Machine",
+    "world": "PIG",
+    "action": "SELL",
+    "item_name": "Nightking's Cape - Black",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:17:38.071Z"
+  },
+  {
+    "player1": "BurJiro",
+    "player2": "Buying Machine",
+    "world": "BFGID",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 6750,
+    "price_wl": 6750,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:17:52.353Z"
   }
 ]
