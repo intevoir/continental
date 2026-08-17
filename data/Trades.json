@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vorax",
-    "player2": "Mufeed",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 30,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Mufeed",
-    "timestamp": "2026-08-17T19:42:01.797Z"
-  },
-  {
-    "player1": "Vorax",
-    "player2": "Mufeed",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 3,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Mufeed",
-    "timestamp": "2026-08-17T19:42:01.802Z"
-  },
-  {
     "player1": "Mufeed",
     "player2": "Vorax",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1105,
     "traded_with": null,
     "timestamp": "2026-08-17T19:55:54.736Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SugabV1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-17T19:58:40.483Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SugabV1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-17T19:58:55.638Z"
   }
 ]
