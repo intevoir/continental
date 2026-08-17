@@ -1,31 +1,5 @@
 [
   {
-    "player1": "wera1234509",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-17T00:19:43.837Z"
-  },
-  {
-    "player1": "@Anonimousss",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 107,
-    "p_name": "World Locks",
-    "p_count": 4922,
-    "price_wl": 4922,
-    "traded_with": null,
-    "timestamp": "2026-08-17T00:19:43.856Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrKorcupine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-17T00:24:57.202Z"
+  },
+  {
+    "player1": "Acustic of Legend [PRO ]",
+    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "world": "BUYBENZYL",
+    "action": "TRADE",
+    "item_name": "Acustic's LUCK Katana",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "timestamp": "2026-08-17T00:26:21.286Z"
+  },
+  {
+    "player1": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "player2": "Acustic of Legend [PRO ]",
+    "world": "BUYBENZYL",
+    "action": "TRADE",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Acustic of Legend [PRO ]",
+    "timestamp": "2026-08-17T00:26:21.287Z"
   }
 ]
