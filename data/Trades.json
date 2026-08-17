@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MattyzePS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Seed of Life",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:05:20.092Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Seime",
     "world": "SPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-17T11:10:40.328Z"
+  },
+  {
+    "player1": "Fertys",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:12:16.403Z"
   }
 ]
