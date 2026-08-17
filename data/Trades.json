@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T04:07:36.864Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SenzuParker",
-    "world": "PLAZAX",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-17T04:07:36.870Z"
-  },
-  {
     "player1": "Aoixixi",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-17T04:10:38.474Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "Renting Station",
+    "world": "BENZYL",
+    "action": "RENT",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-17T04:11:38.621Z"
+  },
+  {
+    "player1": "LOVEKLEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-17T04:11:54.378Z"
   }
 ]
