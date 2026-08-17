@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "skm012",
-    "world": "RENTC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-08-17T23:22:58.263Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMythicalFist [ELITE]",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-17T23:26:59.117Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Motobe",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-17T23:51:40.562Z"
+  },
+  {
+    "player1": "inisot []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-08-17T23:54:14.680Z"
+  },
+  {
+    "player1": "inisot []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-17T23:54:14.692Z"
   }
 ]
