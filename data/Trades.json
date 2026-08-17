@@ -1,18 +1,5 @@
 [
   {
-    "player1": "abelimut",
-    "player2": "Buying Machine",
-    "world": "BFGDRA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T22:22:40.678Z"
-  },
-  {
     "player1": "@Jejean",
     "player2": "Renting Station",
     "world": "RENTC",
@@ -128,5 +115,18 @@
     "price_wl": 11609,
     "traded_with": null,
     "timestamp": "2026-08-17T22:27:36.310Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMythicalFist [ELITE]",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-17T22:28:36.311Z"
   }
 ]
