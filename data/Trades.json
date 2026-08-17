@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTX5090",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 24000,
-    "price_wl": 24000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T17:35:28.336Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "exyot",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-17T17:43:34.677Z"
+  },
+  {
+    "player1": "MattyzePS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9400,
+    "price_wl": 9400,
+    "traded_with": null,
+    "timestamp": "2026-08-17T17:44:27.876Z"
   }
 ]
