@@ -4,19 +4,6 @@
     "player2": "DrBvre",
     "world": "VEND3",
     "action": "BUY",
-    "item_name": "Starfleet Uniform Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-17T22:10:51.848Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBvre",
-    "world": "VEND3",
-    "action": "BUY",
     "item_name": "Black Radical Rollers",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-08-17T22:18:31.877Z"
+  },
+  {
+    "player1": "abelimut",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T22:20:33.058Z"
   }
 ]
