@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrJustIcunz",
-    "player2": "Renting Station",
-    "world": "GIBUU",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20230,
-    "price_wl": 20230,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:56:44.396Z"
-  },
-  {
-    "player1": "OzanKotak",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 105,
-    "price_wl": 105,
-    "traded_with": null,
-    "timestamp": "2026-08-17T02:01:40.345Z"
-  },
-  {
     "player1": "OzanKotak",
     "player2": "Buying Machine",
     "world": "NMART",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@Bang",
     "timestamp": "2026-08-17T02:04:29.248Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OzanKotak",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T02:05:29.316Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ItsDva",
+    "world": "BUYSLIPPERS",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-17T02:05:29.387Z"
   }
 ]
