@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JuuSanz",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Chain",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:04:15.819Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CDEF",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-17T11:06:35.394Z"
+  },
+  {
+    "player1": "@LegendQ",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:07:12.587Z"
   }
 ]
