@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Aetrus",
-    "world": "VENDRT",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-17T04:07:36.820Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-17T04:09:54.558Z"
+  },
+  {
+    "player1": "LOVEKLEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-17T04:10:38.474Z"
   }
 ]
