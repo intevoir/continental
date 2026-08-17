@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EnalStore",
-    "world": "GEIGXANB",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:15:18.923Z"
-  },
-  {
-    "player1": "EnalStore",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:15:25.792Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrIYeso []",
     "world": "GEIGXANB",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-08-17T01:25:10.252Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Osas [PRO ]",
+    "world": "BUYDEATHRAY",
+    "action": "BUY",
+    "item_name": "Death Ray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-17T01:31:27.838Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OPEN of Legend",
+    "world": "BUYBENZYL",
+    "action": "BUY",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000000,
+    "price_wl": 1000000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T01:31:27.863Z"
   }
 ]
