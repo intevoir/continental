@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 4860,
-    "price_wl": 4860,
-    "traded_with": null,
-    "timestamp": "2026-08-17T00:54:56.688Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPesiar [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 167,
-    "p_name": "World Locks",
-    "p_count": 167,
-    "price_wl": 167,
-    "traded_with": null,
-    "timestamp": "2026-08-17T00:55:00.334Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JuuSanz",
     "world": "BFGWE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-08-17T00:56:57.467Z"
+  },
+  {
+    "player1": "Zhiling",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-08-17T00:57:58.208Z"
+  },
+  {
+    "player1": "Clohtes",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-17T00:58:18.009Z"
   }
 ]
