@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "KDPlover",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-17T21:34:38.626Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KDPlover",
-    "world": "BFGFQ",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-17T21:36:36.703Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KDPlover",
     "world": "BFGFQ",
     "action": "BUY",
     "item_name": "Lucky Clover",
@@ -128,5 +102,31 @@
     "price_wl": 24600,
     "traded_with": null,
     "timestamp": "2026-08-17T21:50:11.194Z"
+  },
+  {
+    "player1": "REME",
+    "player2": "Renting Station",
+    "world": "BUYBENZYL",
+    "action": "RENT",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23800,
+    "price_wl": 23800,
+    "traded_with": null,
+    "timestamp": "2026-08-17T21:51:56.219Z"
+  },
+  {
+    "player1": "CDEF",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-17T21:52:10.143Z"
   }
 ]
