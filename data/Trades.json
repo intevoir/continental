@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ndemit",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 174,
-    "p_name": "World Locks",
-    "p_count": 696,
-    "price_wl": 696,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:20:19.538Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ndemit",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 175,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:20:19.606Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "softsays",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3975,
     "traded_with": null,
     "timestamp": "2026-08-17T11:22:14.786Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLUKLUK",
+    "world": "JAGUNG",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 72450,
+    "price_wl": 72450,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:22:27.486Z"
+  },
+  {
+    "player1": "softsays",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 795,
+    "price_wl": 795,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:22:38.156Z"
   }
 ]
