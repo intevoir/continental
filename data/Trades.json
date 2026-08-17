@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DOD",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-08-17T02:49:47.383Z"
-  },
-  {
-    "player1": "EnalStore",
-    "player2": "Renting Station",
-    "world": "AZOID",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-17T02:50:48.078Z"
-  },
-  {
     "player1": "Drrabiel",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Lygo",
     "timestamp": "2026-08-17T03:02:39.723Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zuble",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 160000,
+    "price_wl": 160000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T03:03:10.432Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zuble",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T03:03:31.077Z"
   }
 ]
