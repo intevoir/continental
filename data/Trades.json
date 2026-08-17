@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Callwy",
-    "player2": "Buying Machine",
-    "world": "RIO",
-    "action": "SELL",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T12:33:24.374Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrWarLords",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-08-17T12:33:24.378Z"
-  },
-  {
     "player1": "Taneli of Legend []",
     "player2": "Buying Machine",
     "world": "PIG",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-17T12:37:52.063Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GadaCB",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T12:38:52.375Z"
+  },
+  {
+    "player1": "Vitrum",
+    "player2": "Renting Station",
+    "world": "ANYTIME",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19635,
+    "price_wl": 19635,
+    "traded_with": null,
+    "timestamp": "2026-08-17T12:39:04.828Z"
   }
 ]
