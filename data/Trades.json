@@ -1,31 +1,5 @@
 [
   {
-    "player1": "PICT1",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23800,
-    "price_wl": 23800,
-    "traded_with": null,
-    "timestamp": "2026-08-17T04:09:50.477Z"
-  },
-  {
-    "player1": "LOVEKLEE",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-17T04:09:54.558Z"
-  },
-  {
     "player1": "LOVEKLEE",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-08-17T04:13:48.561Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tbsj",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2460,
+    "price_wl": 2460,
+    "traded_with": null,
+    "timestamp": "2026-08-17T04:14:04.894Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Venttus [PRO ]",
+    "world": "BUYBENZYL",
+    "action": "BUY",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000000,
+    "price_wl": 1000000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T04:14:33.380Z"
   }
 ]
