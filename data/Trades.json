@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BosPlenger",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 576,
-    "price_wl": 576,
-    "traded_with": null,
-    "timestamp": "2026-08-17T15:11:31.687Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "DSHS",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 11040,
-    "price_wl": 11040,
-    "traded_with": null,
-    "timestamp": "2026-08-17T15:11:31.699Z"
-  },
-  {
     "player1": "OzanKotak",
     "player2": "Buying Machine",
     "world": "NMART",
@@ -128,5 +102,31 @@
     "price_wl": 5800,
     "traded_with": null,
     "timestamp": "2026-08-17T15:14:40.781Z"
+  },
+  {
+    "player1": "SamIsHere",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3850,
+    "price_wl": 3850,
+    "traded_with": null,
+    "timestamp": "2026-08-17T15:15:33.166Z"
+  },
+  {
+    "player1": "BaliPeople",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-17T15:15:50.574Z"
   }
 ]
