@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mufeed [CHAD!]",
-    "world": "AULA",
-    "action": "BUY",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3600000,
-    "price_wl": 3600000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T19:15:24.907Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "namunamu",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Angel Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-17T19:18:41.313Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "namunamu",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1785,
     "traded_with": null,
     "timestamp": "2026-08-17T19:23:27.554Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNarunn",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Streetlamp",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-17T19:24:38.539Z"
+  },
+  {
+    "player1": "Nexon",
+    "player2": "Renting Station",
+    "world": "CIVIL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-17T19:24:52.563Z"
   }
 ]
