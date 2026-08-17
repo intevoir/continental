@@ -1,31 +1,5 @@
 [
   {
-    "player1": "CDEF",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-08-17T21:52:10.143Z"
-  },
-  {
-    "player1": "RIKUA",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-17T21:55:25.584Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrValeztena",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 996,
     "traded_with": null,
     "timestamp": "2026-08-17T21:59:38.688Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBvre",
+    "world": "VEND3",
+    "action": "BUY",
+    "item_name": "Astral Aura - Dragon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-17T22:00:18.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrValeztena",
+    "world": "SGPY",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-17T22:00:33.888Z"
   }
 ]
