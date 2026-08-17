@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SAMUELXTOMPEL",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-17T09:06:25.010Z"
-  },
-  {
     "player1": "Cimins",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +115,18 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-08-17T09:09:26.355Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arcteryx",
+    "world": "GWBS",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-17T09:09:45.368Z"
   }
 ]
