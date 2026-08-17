@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Flooryn",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-17T14:08:27.344Z"
-  },
-  {
     "player1": "xxMANZxx",
     "player2": "NEPstore",
     "world": "RB",
@@ -128,5 +115,18 @@
     "price_wl": 4100,
     "traded_with": null,
     "timestamp": "2026-08-17T14:09:27.939Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NEPstore",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 33750,
+    "price_wl": 33750,
+    "traded_with": null,
+    "timestamp": "2026-08-17T14:10:16.115Z"
   }
 ]
