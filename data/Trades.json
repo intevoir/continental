@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Tie Baller Monocle",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-17T03:16:17.184Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Neon Hightops",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-17T03:16:29.184Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
     "world": "RIO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 22610,
     "traded_with": null,
     "timestamp": "2026-08-17T03:24:20.293Z"
+  },
+  {
+    "player1": "totono",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9800,
+    "price_wl": 9800,
+    "traded_with": null,
+    "timestamp": "2026-08-17T03:25:21.068Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MrFunk []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-17T03:25:21.081Z"
   }
 ]
