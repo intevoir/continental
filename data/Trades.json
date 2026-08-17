@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDDN",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-17T06:03:23.131Z"
-  },
-  {
-    "player1": "DrName",
-    "player2": "@RIP []",
-    "world": "QX",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 75,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@RIP []",
-    "timestamp": "2026-08-17T06:04:02.045Z"
-  },
-  {
     "player1": "@RIP []",
     "player2": "DrName",
     "world": "QX",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-17T06:10:54.345Z"
+  },
+  {
+    "player1": "Baabayo",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 127,
+    "p_name": "World Locks",
+    "p_count": 5842,
+    "price_wl": 5842,
+    "traded_with": null,
+    "timestamp": "2026-08-17T06:11:26.025Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EdwHere",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-17T06:11:54.084Z"
   }
 ]
