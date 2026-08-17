@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "IFuunyV2",
-    "world": "SHOPFAIL",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3400,
-    "price_wl": 3400,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:00:22.772Z"
-  },
-  {
-    "player1": "RAYUAN",
-    "player2": "Renting Station",
-    "world": "BUYITEM",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-08-17T11:01:29.445Z"
-  },
-  {
     "player1": "GLHYX",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 892,
     "traded_with": null,
     "timestamp": "2026-08-17T11:04:34.609Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CDEF",
+    "world": "SHOPP",
+    "action": "BUY",
+    "item_name": "Music Amplifier",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:05:11.759Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bfn",
+    "world": "JHS",
+    "action": "BUY",
+    "item_name": "Regal Bannister",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-17T11:05:11.777Z"
   }
 ]
