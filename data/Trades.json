@@ -4,32 +4,6 @@
     "player2": "EnalStore",
     "world": "SAW",
     "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:06:03.509Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EnalStore",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:06:07.397Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EnalStore",
-    "world": "SAW",
-    "action": "BUY",
     "item_name": "Paint Bucket - Yellow",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-08-17T01:13:33.666Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JeroIndri",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Chicken Plow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-08-17T01:13:37.329Z"
+  },
+  {
+    "player1": "CDEF",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Crown Of Madness",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-08-17T01:14:05.191Z"
   }
 ]
