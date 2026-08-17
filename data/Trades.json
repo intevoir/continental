@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Anarios",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-17T16:30:24.005Z"
-  },
-  {
     "player1": "@asROSIE",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-17T16:34:27.077Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrName",
+    "world": "VENDDL1",
+    "action": "BUY",
+    "item_name": "Crystallized Reality",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-17T16:35:04.274Z"
   }
 ]
