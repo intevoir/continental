@@ -4,32 +4,6 @@
     "player2": "NEPstore",
     "world": "8X8",
     "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-17T12:39:52.759Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NEPstore",
-    "world": "8X8",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-17T12:39:56.144Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NEPstore",
-    "world": "8X8",
-    "action": "BUY",
     "item_name": "Black Gems",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-17T12:42:16.919Z"
+  },
+  {
+    "player1": "tbsj",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Super Golden Booty Chest",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 275,
+    "price_wl": 275,
+    "traded_with": null,
+    "timestamp": "2026-08-17T12:42:54.312Z"
+  },
+  {
+    "player1": "tbsj",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Golden Booty Chest",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-17T12:42:54.327Z"
   }
 ]
