@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@NEPzy",
-    "world": "BFGNEO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:53:24.975Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@NEPzy",
-    "world": "BFGNEO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:53:30.525Z"
-  },
-  {
     "player1": "DrJustIcunz",
     "player2": "Renting Station",
     "world": "GIBUU",
@@ -128,5 +102,31 @@
     "price_wl": 16500,
     "traded_with": null,
     "timestamp": "2026-08-17T02:04:05.019Z"
+  },
+  {
+    "player1": "@Bang",
+    "player2": "WWL",
+    "world": "BUYCAMO",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "WWL",
+    "timestamp": "2026-08-17T02:04:29.245Z"
+  },
+  {
+    "player1": "WWL",
+    "player2": "@Bang",
+    "world": "BUYCAMO",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Bang",
+    "timestamp": "2026-08-17T02:04:29.248Z"
   }
 ]
