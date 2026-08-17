@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OzanKotak",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-08-16T23:52:55.761Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "mfadila",
     "world": "KEDAI",
@@ -128,5 +115,18 @@
     "price_wl": 1140,
     "traded_with": null,
     "timestamp": "2026-08-17T00:00:08.295Z"
+  },
+  {
+    "player1": "OzanKotak",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-17T00:05:38.736Z"
   }
 ]
