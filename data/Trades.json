@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CDEF",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Nightmare Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-08-17T01:13:33.666Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JeroIndri",
     "world": "MURAH",
@@ -128,5 +115,18 @@
     "price_wl": 11205,
     "traded_with": null,
     "timestamp": "2026-08-17T01:15:36.332Z"
+  },
+  {
+    "player1": "lostname",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3160,
+    "price_wl": 3160,
+    "traded_with": null,
+    "timestamp": "2026-08-17T01:17:06.519Z"
   }
 ]
