@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LABAS1",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Rainbow Hair",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-16T23:54:37.492Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "mfadila",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-17T00:13:07.045Z"
+  },
+  {
+    "player1": "@Anonimousss",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-17T00:14:42.334Z"
   }
 ]
