@@ -1,18 +1,5 @@
 [
   {
-    "player1": "FlameGrip_370",
-    "player2": "Renting Station",
-    "world": "SHOPL",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-18T21:35:27.128Z"
-  },
-  {
     "player1": "@Tenkai",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-18T21:42:42.215Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Saber of Legend",
+    "world": "VENDCHEAP",
+    "action": "BUY",
+    "item_name": "Mannequin",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-18T21:43:07.815Z"
   }
 ]
