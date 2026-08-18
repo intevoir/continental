@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "spica",
-    "world": "CORE",
-    "action": "BUY",
-    "item_name": "Summer Surprise",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:23:02.789Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CiaaMeow",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Unicorn Jumper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 29,
-    "price_wl": 29,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:24:02.753Z"
-  },
-  {
-    "player1": "coze",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Cursed Spirit Pendant - Purple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:24:02.764Z"
-  },
-  {
     "player1": "DrMadeline",
     "player2": "@voyS",
     "world": "SAMURAI",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-18T18:26:38.201Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZhenX",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T18:27:05.875Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CiaaMeow",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Hideous Holiday Sweater",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-18T18:27:05.885Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CiaaMeow",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Gross Golden Holiday Sweater",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-18T18:27:05.893Z"
   }
 ]
