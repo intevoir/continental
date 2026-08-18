@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ambagasSUKILIAR",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-18T23:00:15.203Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ambagasSUKILIAR",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-18T23:00:15.229Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KDPlover",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 238,
     "traded_with": null,
     "timestamp": "2026-08-18T23:08:45.233Z"
+  },
+  {
+    "player1": "KDPlover",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 208,
+    "price_wl": 208,
+    "traded_with": null,
+    "timestamp": "2026-08-18T23:09:47.908Z"
+  },
+  {
+    "player1": "HAMZCIT1",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-18T23:09:51.245Z"
   }
 ]
