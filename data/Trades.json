@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "BUYT",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-08-18T07:48:16.453Z"
-  },
-  {
-    "player1": "XcLeCps",
-    "player2": "Renting Station",
-    "world": "HV",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-18T07:48:16.510Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lelouch",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-18T07:52:17.596Z"
+  },
+  {
+    "player1": "RTX5090",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-18T07:52:25.561Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MaybeItsPutra of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Dragon Gate",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-08-18T07:52:33.420Z"
   }
 ]
