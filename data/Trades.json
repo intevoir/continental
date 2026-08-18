@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KhansGrow",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T01:19:23.923Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Meydilin []",
     "world": "PIG",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-18T01:28:30.353Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MayoGT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T01:29:01.832Z"
   }
 ]
