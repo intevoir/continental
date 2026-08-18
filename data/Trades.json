@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Saber of Legend",
-    "world": "VENDCHEAP",
-    "action": "BUY",
-    "item_name": "Mannequin",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-18T21:40:06.159Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "0nyx",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-08-18T21:47:09.383Z"
+  },
+  {
+    "player1": "DrDDN",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-18T21:52:10.828Z"
   }
 ]
