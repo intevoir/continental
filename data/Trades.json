@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KhansGrow []",
-    "world": "SHOP3",
-    "action": "BUY",
-    "item_name": "Laboratory",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:23:36.484Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GuThai",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 47,
-    "p_name": "World Locks",
-    "p_count": 235,
-    "price_wl": 235,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:25:35.452Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TonyJK",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-08-18T04:30:26.335Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drpibi",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "White Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-18T04:33:03.848Z"
+  },
+  {
+    "player1": "Taneli of Legend []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9200,
+    "price_wl": 9200,
+    "traded_with": null,
+    "timestamp": "2026-08-18T04:33:03.860Z"
   }
 ]
