@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "0nyx",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Surgical Scalpel",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-18T21:28:07.011Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "0nyx",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-18T21:28:13.946Z"
-  },
-  {
     "player1": "q1jj",
     "player2": "Buying Machine",
     "world": "BFGIBU",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-18T21:30:31.783Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KDPlover",
+    "world": "UYMD",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 188,
+    "p_name": "World Locks",
+    "p_count": 94,
+    "price_wl": 94,
+    "traded_with": null,
+    "timestamp": "2026-08-18T21:31:03.903Z"
+  },
+  {
+    "player1": "Napcuy",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T21:31:19.679Z"
   }
 ]
