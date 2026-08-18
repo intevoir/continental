@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Bubble Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:03:24.251Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PopMart of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6525,
     "traded_with": null,
     "timestamp": "2026-08-18T16:06:27.874Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "showup",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:08:19.285Z"
   }
 ]
