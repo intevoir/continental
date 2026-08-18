@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MayoGT",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:13:12.993Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Jejowyy",
     "world": "AJE",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@Meydilin []",
     "timestamp": "2026-08-18T04:20:07.532Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KhansGrow []",
+    "world": "SHOP3",
+    "action": "BUY",
+    "item_name": "Laboratory",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-18T04:23:36.484Z"
   }
 ]
