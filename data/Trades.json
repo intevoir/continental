@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T15:12:36.863Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealB",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-18T15:12:41.725Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "java",
     "world": "PAAA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-18T15:14:56.666Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "java",
+    "world": "RUUL",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-18T15:15:54.349Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "java",
+    "world": "RUUL",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-18T15:16:06.903Z"
   }
 ]
