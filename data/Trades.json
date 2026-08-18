@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "iNearyGT",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Janeway's Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-08-18T12:20:23.707Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PopMart of Legend",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1620,
     "traded_with": null,
     "timestamp": "2026-08-18T12:22:47.172Z"
+  },
+  {
+    "player1": "Filipino",
+    "player2": "Buying Machine",
+    "world": "QMN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T12:23:21.828Z"
   }
 ]
