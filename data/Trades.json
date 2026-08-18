@@ -1,31 +1,5 @@
 [
   {
-    "player1": "zraik24 [] [BLOCKMO]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pay Wall",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 825,
-    "price_wl": 825,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:26:03.687Z"
-  },
-  {
-    "player1": "zraik24 [] [BLOCKMO]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:26:28.425Z"
-  },
-  {
     "player1": "DrIYeso []",
     "player2": "Renting Station",
     "world": "MAUU",
@@ -128,5 +102,31 @@
     "price_wl": 380,
     "traded_with": null,
     "timestamp": "2026-08-18T04:36:26.843Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GuThai",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 43,
+    "p_name": "World Locks",
+    "p_count": 301,
+    "price_wl": 301,
+    "traded_with": null,
+    "timestamp": "2026-08-18T04:38:07.667Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zraik24 [] [BLOCKMO]",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Crystal Gate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T04:38:11.695Z"
   }
 ]
