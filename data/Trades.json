@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NEPstore",
-    "world": "8X8",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:26:30.759Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kaizens1",
     "world": "BFGTAS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-08-18T16:34:17.751Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "spica",
+    "world": "BUYCITEM",
+    "action": "BUY",
+    "item_name": "Kembar's Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 550000,
+    "price_wl": 550000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:36:30.413Z"
   }
 ]
