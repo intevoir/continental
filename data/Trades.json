@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "java",
-    "world": "GLV",
-    "action": "BUY",
-    "item_name": "Heart Monitor",
-    "item_count": 95,
-    "p_name": "World Locks",
-    "p_count": 95,
-    "price_wl": 95,
-    "traded_with": null,
-    "timestamp": "2026-08-18T14:16:32.867Z"
-  },
-  {
-    "player1": "Vitrum",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T14:16:32.899Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCALCU",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-18T14:19:42.167Z"
+  },
+  {
+    "player1": "Influence",
+    "player2": "Renting Station",
+    "world": "RENTMOZ",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-18T14:20:08.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrGodnes of Legend [] []",
+    "world": "BUYBATM",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 625000,
+    "price_wl": 625000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T14:20:35.048Z"
   }
 ]
