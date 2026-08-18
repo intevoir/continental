@@ -1,18 +1,5 @@
 [
   {
-    "player1": "coze",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:15:58.839Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CiaaMeow",
     "world": "VENDSPOT10",
@@ -128,5 +115,18 @@
     "price_wl": 23750,
     "traded_with": null,
     "timestamp": "2026-08-18T18:19:26.380Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@voyS",
+    "world": "SAMURAI",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 108,
+    "p_name": "World Locks",
+    "p_count": 10260,
+    "price_wl": 10260,
+    "traded_with": null,
+    "timestamp": "2026-08-18T18:20:30.383Z"
   }
 ]
