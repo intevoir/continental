@@ -1,31 +1,5 @@
 [
   {
-    "player1": "tbsj",
-    "player2": "kaiituru",
-    "world": "USZW",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "kaiituru",
-    "timestamp": "2026-08-18T14:21:35.952Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-18T14:21:35.952Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KhansGrow",
     "world": "SHOPEE",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-18T14:24:05.821Z"
+  },
+  {
+    "player1": "quetha",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Bloodveil Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-18T14:24:38.436Z"
+  },
+  {
+    "player1": "quetha",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Rebana's Lizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-08-18T14:24:59.081Z"
   }
 ]
