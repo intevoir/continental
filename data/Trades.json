@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kaizens1",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:26:30.766Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LUCIFER",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Squirt Gun",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:27:11.305Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 550000,
     "traded_with": null,
     "timestamp": "2026-08-18T16:36:30.413Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arcteryx",
+    "world": "MCD",
+    "action": "BUY",
+    "item_name": "Street Sign",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:41:17.317Z"
+  },
+  {
+    "player1": "UlarKadut",
+    "player2": "Renting Station",
+    "world": "WHITE",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:41:17.329Z"
   }
 ]
