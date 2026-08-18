@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tbsj",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:13:05.260Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "AJE",
-    "action": "BUY",
-    "item_name": "Unearthly Chemical",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-18T04:13:05.277Z"
-  },
-  {
     "player1": "MayoGT",
     "player2": "Buying Machine",
     "world": "SHOPFAIL",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-18T04:19:29.488Z"
+  },
+  {
+    "player1": "@Meydilin []",
+    "player2": "DrDausTtb",
+    "world": "BUYCITEM",
+    "action": "TRADE",
+    "item_name": "Gogeta Blue - 03",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrDausTtb",
+    "timestamp": "2026-08-18T04:20:07.531Z"
+  },
+  {
+    "player1": "DrDausTtb",
+    "player2": "@Meydilin []",
+    "world": "BUYCITEM",
+    "action": "TRADE",
+    "item_name": "Yia's Buddha Earth Blade",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Meydilin []",
+    "timestamp": "2026-08-18T04:20:07.532Z"
   }
 ]
