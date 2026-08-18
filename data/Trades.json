@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RTX5090",
-    "player2": "Buying Machine",
-    "world": "1",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-08-18T07:56:18.825Z"
-  },
-  {
     "player1": "GTX1650",
     "player2": "Renting Station",
     "world": "8R",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-08-18T08:06:53.836Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMayano of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T08:07:24.190Z"
   }
 ]
