@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BosPlenger",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:54:11.426Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "[PRO ]",
-    "world": "CIVIL",
-    "action": "BUY",
-    "item_name": "Curse Wand",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:56:45.886Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "[PRO ]",
-    "world": "CIVIL",
-    "action": "BUY",
-    "item_name": "Duct Tape",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:56:50.282Z"
-  },
-  {
-    "player1": "SINAZGIM",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 42,
-    "p_name": "World Locks",
-    "p_count": 3990,
-    "price_wl": 3990,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:56:58.131Z"
-  },
-  {
     "player1": "SINAZGIM",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 4165,
     "traded_with": null,
     "timestamp": "2026-08-18T06:02:40.194Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Neptune's Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-18T06:03:40.334Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Neptune's Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-18T06:03:40.367Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Neptune's Chariot",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-18T06:03:40.377Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Clohtes",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T06:03:40.384Z"
   }
 ]
