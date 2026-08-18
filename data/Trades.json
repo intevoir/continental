@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Listens",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T17:42:42.919Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrRawits of Legend [PRO ] []",
     "world": "SHOP2",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-18T17:47:14.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNarunn",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Cranial Lagomorph",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T17:47:45.319Z"
   }
 ]
