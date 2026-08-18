@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BosPlenger",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Royal Master Magic",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-18T06:07:42.347Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jwype",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-18T06:15:13.300Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "SHOPING",
+    "action": "BUY",
+    "item_name": "Royal Lightning Boots",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-18T06:15:47.724Z"
   }
 ]
