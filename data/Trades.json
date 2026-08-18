@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CiaaMeow",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Hideous Holiday Sweater",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:27:05.885Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CiaaMeow",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Gross Golden Holiday Sweater",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-18T18:27:05.893Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NangAidenD",
     "world": "AGE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 19635,
     "traded_with": null,
     "timestamp": "2026-08-18T18:30:37.162Z"
+  },
+  {
+    "player1": "DavinMoon",
+    "player2": "@Cupli",
+    "world": "SBY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Cupli",
+    "timestamp": "2026-08-18T18:31:07.871Z"
+  },
+  {
+    "player1": "@Cupli",
+    "player2": "DavinMoon",
+    "world": "SBY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DavinMoon",
+    "timestamp": "2026-08-18T18:31:07.872Z"
   }
 ]
