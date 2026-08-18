@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DoniPejuang",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:11:04.783Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bartomelo",
-    "world": "GWBS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:12:00.691Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "pibi",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Curse Wand",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:12:00.720Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Clis",
-    "world": "GWBS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:12:00.733Z"
-  },
-  {
     "player1": "RAYUAN",
     "player2": "Buying Machine",
     "world": "JAVASHOP",
@@ -128,5 +76,57 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-18T16:13:34.083Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Buying Machine",
+    "world": "JAVASHOP",
+    "action": "SELL",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:14:02.136Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "java",
+    "world": "VEN7",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 106,
+    "p_name": "World Locks",
+    "p_count": 530,
+    "price_wl": 530,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:14:02.155Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Buying Machine",
+    "world": "JAVASHOP",
+    "action": "SELL",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:14:02.165Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAdvance",
+    "world": "BUYCITEM",
+    "action": "BUY",
+    "item_name": "Frost Dragon of Legend - 104",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2900000,
+    "price_wl": 2900000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:14:14.517Z"
   }
 ]
