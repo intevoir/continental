@@ -2,32 +2,6 @@
   {
     "player1": "RTX5090",
     "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T07:54:34.015Z"
-  },
-  {
-    "player1": "RTX5090",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 168,
-    "p_name": "World Locks",
-    "p_count": 7896,
-    "price_wl": 7896,
-    "traded_with": null,
-    "timestamp": "2026-08-18T07:55:17.582Z"
-  },
-  {
-    "player1": "RTX5090",
-    "player2": "Buying Machine",
     "world": "1",
     "action": "SELL",
     "item_name": "Megaphone",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-08-18T08:03:50.327Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Motobe",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T08:06:41.989Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMayano of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T08:06:53.836Z"
   }
 ]
