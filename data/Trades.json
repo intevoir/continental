@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "LISTGT",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:21:59.880Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RealB",
     "world": "MCD",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-18T13:25:48.456Z"
+  },
+  {
+    "player1": "Azad",
+    "player2": "Renting Station",
+    "world": "REME",
+    "action": "RENT",
+    "item_name": "The King's Secret Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-08-18T13:26:24.702Z"
   }
 ]
