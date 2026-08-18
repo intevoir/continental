@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrRawits of Legend [PRO ] []",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-18T17:42:52.619Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mystrix",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 8100,
-    "price_wl": 8100,
-    "traded_with": null,
-    "timestamp": "2026-08-18T17:43:43.764Z"
-  },
-  {
-    "player1": "Listens",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T17:43:52.299Z"
-  },
-  {
-    "player1": "Listens",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 560,
-    "price_wl": 560,
-    "traded_with": null,
-    "timestamp": "2026-08-18T17:44:16.680Z"
-  },
-  {
     "player1": "DrExtinct",
     "player2": "Renting Station",
     "world": "PHONEBFG",
@@ -128,5 +76,57 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-18T17:47:45.319Z"
+  },
+  {
+    "player1": "SEBAGAISTORE",
+    "player2": "Dvinnnn",
+    "world": "SAME",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 60,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dvinnnn",
+    "timestamp": "2026-08-18T17:48:45.207Z"
+  },
+  {
+    "player1": "Dvinnnn",
+    "player2": "SEBAGAISTORE",
+    "world": "SAME",
+    "action": "TRADE",
+    "item_name": "Zraei's Dragoscarf",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-18T17:48:45.208Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CiaaMeow",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Dreamcatcher Staff",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-18T17:48:45.208Z"
+  },
+  {
+    "player1": "YogCPS",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-08-18T17:48:49.741Z"
   }
 ]
