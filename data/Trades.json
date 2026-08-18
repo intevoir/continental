@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KhansGrow",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Astral Aura - Rabbit",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:04:37.107Z"
-  },
-  {
-    "player1": "@Kosovo",
-    "player2": "Buying Machine",
-    "world": "BFGID",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 89,
-    "p_name": "World Locks",
-    "p_count": 66750,
-    "price_wl": 66750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:04:37.122Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KhansGrow",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:05:01.962Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Apebendela",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-18T13:07:08.455Z"
+  },
+  {
+    "player1": "Vorax",
+    "player2": "SEBAGAISTORE",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 46,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-18T13:07:51.529Z"
+  },
+  {
+    "player1": "SEBAGAISTORE",
+    "player2": "Vorax",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Dual Crescent Blade",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vorax",
+    "timestamp": "2026-08-18T13:07:51.530Z"
+  },
+  {
+    "player1": "SEBAGAISTORE",
+    "player2": "Vorax",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Lantern's ChronoReaper",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vorax",
+    "timestamp": "2026-08-18T13:07:51.530Z"
   }
 ]
