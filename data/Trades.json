@@ -1,31 +1,5 @@
 [
   {
-    "player1": "okay",
-    "player2": "Renting Station",
-    "world": "RAGRENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 22610,
-    "price_wl": 22610,
-    "traded_with": null,
-    "timestamp": "2026-08-18T22:26:46.515Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RV178",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-18T22:26:59.129Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RV178",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 12800,
     "traded_with": null,
     "timestamp": "2026-08-18T22:35:59.976Z"
+  },
+  {
+    "player1": "RAFABW",
+    "player2": "Buying Machine",
+    "world": "QMN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T22:36:30.284Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "0nyx",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Golden Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 85000,
+    "price_wl": 85000,
+    "traded_with": null,
+    "timestamp": "2026-08-18T22:36:51.924Z"
   }
 ]
