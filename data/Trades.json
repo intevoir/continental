@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MayoGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-18T23:12:28.916Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrStar4You",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T23:13:19.691Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "boxboxbox",
     "world": "L4VE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4050,
     "traded_with": null,
     "timestamp": "2026-08-18T23:22:27.785Z"
+  },
+  {
+    "player1": "boxboxbox",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-18T23:23:24.236Z"
+  },
+  {
+    "player1": "MaxVerstapen",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-18T23:23:36.896Z"
   }
 ]
