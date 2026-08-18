@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrNarunn",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Chain",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-18T08:34:35.785Z"
-  },
-  {
     "player1": "PICT1",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-18T08:41:02.988Z"
+  },
+  {
+    "player1": "MaulToMray",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 8460,
+    "price_wl": 8460,
+    "traded_with": null,
+    "timestamp": "2026-08-18T08:41:38.781Z"
   }
 ]
