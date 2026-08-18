@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RAYUAN",
-    "player2": "Buying Machine",
-    "world": "JAVASHOP",
-    "action": "SELL",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-18T16:14:02.136Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "java",
     "world": "VEN7",
@@ -128,5 +115,18 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-08-18T16:19:21.885Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jack of Legend [PRO ] []",
+    "world": "SHOP2",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 65,
+    "p_name": "World Locks",
+    "p_count": 13,
+    "price_wl": 13,
+    "traded_with": null,
+    "timestamp": "2026-08-18T16:20:28.040Z"
   }
 ]
