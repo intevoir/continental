@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrPais",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:43:34.907Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPais",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T05:43:34.934Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BosPlenger",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-18T05:48:36.348Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-18T05:49:36.327Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-18T05:49:36.349Z"
   }
 ]
