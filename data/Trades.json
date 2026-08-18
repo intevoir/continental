@@ -4,32 +4,6 @@
     "player2": "radana",
     "world": "8SHOP",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:13:37.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealB",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Neptune's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:13:37.520Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "8SHOP",
-    "action": "BUY",
     "item_name": "Giant Eye Head",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-08-18T13:18:44.485Z"
+  },
+  {
+    "player1": "Kzek",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 208,
+    "p_name": "World Locks",
+    "p_count": 1664,
+    "price_wl": 1664,
+    "traded_with": null,
+    "timestamp": "2026-08-18T13:19:11.794Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VASYN",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Neptune's Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-18T13:19:11.807Z"
   }
 ]
