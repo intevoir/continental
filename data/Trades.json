@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HAMZCIT1",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-18T23:09:51.245Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BStarz",
     "world": "DISPLAY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-18T23:17:21.187Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HAMZCIT1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 4100,
+    "price_wl": 4100,
+    "traded_with": null,
+    "timestamp": "2026-08-18T23:18:50.945Z"
   }
 ]
