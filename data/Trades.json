@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RealB",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:21:59.896Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Huihuiyap",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:25:35.715Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Huihuiyap",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:25:36.589Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealB",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-18T13:25:38.365Z"
-  },
-  {
     "player1": "slebewaja",
     "player2": "Buying Machine",
     "world": "BFGHANZ",
@@ -128,5 +76,57 @@
     "price_wl": 5950,
     "traded_with": null,
     "timestamp": "2026-08-18T13:26:24.702Z"
+  },
+  {
+    "player1": "LUCKYME",
+    "player2": "Wlu",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Wlu",
+    "timestamp": "2026-08-18T13:27:00.541Z"
+  },
+  {
+    "player1": "Wlu",
+    "player2": "LUCKYME",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "LUCKYME",
+    "timestamp": "2026-08-18T13:27:00.545Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB",
+    "world": "BUYDELUXE",
+    "action": "BUY",
+    "item_name": "Deluxe Grow Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-18T13:27:04.009Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SamIsHere",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-08-18T13:27:04.014Z"
   }
 ]
