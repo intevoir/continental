@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KDPlover",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-18T21:13:10.071Z"
-  },
-  {
     "player1": "GRAYSAIKORO",
     "player2": "Mystrix",
     "world": "KWTU",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-18T21:18:26.399Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xilos",
+    "world": "CHEAPES",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-18T21:20:28.443Z"
   }
 ]
