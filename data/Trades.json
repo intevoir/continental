@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Clis",
-    "world": "GWBS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:27:37.023Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Kaishee",
-    "world": "BULAD",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:27:53.389Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Kaishee",
     "world": "BULAD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-19T03:31:38.547Z"
+  },
+  {
+    "player1": "DrVendinQ",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:32:58.864Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Ceiling Fan",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:33:03.066Z"
   }
 ]
