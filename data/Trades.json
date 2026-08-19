@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NightDone",
-    "player2": "Buying Machine",
-    "world": "BFGADVAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 159,
-    "p_name": "World Locks",
-    "p_count": 127200,
-    "price_wl": 127200,
-    "traded_with": null,
-    "timestamp": "2026-08-19T19:37:15.040Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NightDone",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-19T19:47:10.315Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrExtinct",
+    "world": "DPR",
+    "action": "BUY",
+    "item_name": "HyperTech Starship Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-19T19:57:13.623Z"
   }
 ]
