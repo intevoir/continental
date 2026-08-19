@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Shadow Spirit of the Underworld",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:57:23.254Z"
-  },
-  {
     "player1": "Gyuto",
     "player2": "Buying Machine",
     "world": "ASSOY",
@@ -128,5 +115,18 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-08-19T21:07:26.972Z"
+  },
+  {
+    "player1": "ENALRTO",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 117,
+    "p_name": "World Locks",
+    "p_count": 5499,
+    "price_wl": 5499,
+    "traded_with": null,
+    "timestamp": "2026-08-19T21:10:28.527Z"
   }
 ]
