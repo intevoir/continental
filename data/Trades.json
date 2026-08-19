@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "VENDBO",
-    "action": "BUY",
-    "item_name": "Mannequin",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T00:50:48.361Z"
-  },
-  {
     "player1": "CEVII",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 94,
     "traded_with": null,
     "timestamp": "2026-08-19T01:01:21.098Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "RIECHS",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:01:55.148Z"
   }
 ]
