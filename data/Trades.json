@@ -4,19 +4,6 @@
     "player2": "DrMbox",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Genie's Lamp - Blue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:26:09.695Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Hovernator Drone - Black",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2160,
     "traded_with": null,
     "timestamp": "2026-08-19T20:27:42.953Z"
+  },
+  {
+    "player1": "NATNATZ",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 220000,
+    "price_wl": 220000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:30:16.200Z"
   }
 ]
