@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "QIZAN",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Harvester",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-19T04:10:54.060Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMadeline",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Challenge Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-19T04:11:54.396Z"
-  },
-  {
     "player1": "@Sannnzy [] []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-19T04:15:23.580Z"
+  },
+  {
+    "player1": "GuThai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T04:15:55.864Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TerJungkirBalik",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Black Air Robinsons",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T04:16:15.811Z"
   }
 ]
