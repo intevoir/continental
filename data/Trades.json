@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RAYUAN",
-    "player2": "Buying Machine",
-    "world": "NONGKI",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:38:17.316Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JeroIndri",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 23800,
     "traded_with": null,
     "timestamp": "2026-08-19T17:46:49.581Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrRii",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 7200,
+    "price_wl": 7200,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:47:43.700Z"
   }
 ]
