@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Thick [PRO ]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T00:30:08.797Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@dsw",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-19T00:35:41.469Z"
+  },
+  {
+    "player1": "Zavlya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-19T00:37:01.276Z"
   }
 ]
