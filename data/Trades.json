@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDDN",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-19T08:08:48.299Z"
-  },
-  {
     "player1": "VASYN",
     "player2": "Buying Machine",
     "world": "RIO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-19T08:19:51.216Z"
+  },
+  {
+    "player1": "DUSHN",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-19T08:21:33.400Z"
   }
 ]
