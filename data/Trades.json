@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hasbe",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:37:15.854Z"
-  },
-  {
-    "player1": "Bebellac",
-    "player2": "Renting Station",
-    "world": "DOCS",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:37:43.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aoii",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-19T13:41:06.081Z"
+  },
+  {
+    "player1": "KroYY",
+    "player2": "Jack of Legend [PRO ] []",
+    "world": "KANTIN",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Jack of Legend [PRO ] []",
+    "timestamp": "2026-08-19T13:42:00.767Z"
+  },
+  {
+    "player1": "Jack of Legend [PRO ] []",
+    "player2": "KroYY",
+    "world": "KANTIN",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KroYY",
+    "timestamp": "2026-08-19T13:42:00.767Z"
   }
 ]
