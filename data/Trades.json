@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "rdiitk",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:38:58.813Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zavlya",
     "world": "WHITE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-19T13:45:02.827Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T13:45:47.436Z"
   }
 ]
