@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NightDone",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 170,
-    "p_name": "World Locks",
-    "p_count": 136000,
-    "price_wl": 136000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T19:21:05.705Z"
-  },
-  {
     "player1": "NightDone",
     "player2": "Buying Machine",
     "world": "BFGTAS",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-08-19T19:36:06.126Z"
+  },
+  {
+    "player1": "NightDone",
+    "player2": "Buying Machine",
+    "world": "BFGADVAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 159,
+    "p_name": "World Locks",
+    "p_count": 127200,
+    "price_wl": 127200,
+    "traded_with": null,
+    "timestamp": "2026-08-19T19:37:15.040Z"
   }
 ]
