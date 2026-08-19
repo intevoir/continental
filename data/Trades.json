@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 2755,
-    "price_wl": 2755,
-    "traded_with": null,
-    "timestamp": "2026-08-19T21:32:02.047Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "STORES",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-19T21:35:44.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TerJungkirBalik",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-19T21:36:44.226Z"
   }
 ]
