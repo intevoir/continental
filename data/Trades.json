@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NightDone",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 43,
-    "p_name": "World Locks",
-    "p_count": 34185,
-    "price_wl": 34185,
-    "traded_with": null,
-    "timestamp": "2026-08-19T19:38:06.863Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NightDone",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3200,
-    "price_wl": 3200,
-    "traded_with": null,
-    "timestamp": "2026-08-19T19:39:38.486Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BStarz",
     "world": "BUYFOODS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-19T19:57:13.623Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BStarz",
+    "world": "BUYFOODS",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-19T19:59:15.203Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 111,
+    "p_name": "World Locks",
+    "p_count": 9990,
+    "price_wl": 9990,
+    "traded_with": null,
+    "timestamp": "2026-08-19T19:59:15.222Z"
   }
 ]
