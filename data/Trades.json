@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "putroadto",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:16:10.819Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "xepzax",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:16:15.136Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "xepzax",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-19T12:20:11.977Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDDN",
+    "world": "GROWMART",
+    "action": "BUY",
+    "item_name": "Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:21:26.159Z"
+  },
+  {
+    "player1": "lisa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3200,
+    "price_wl": 3200,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:21:26.184Z"
   }
 ]
