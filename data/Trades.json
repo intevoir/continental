@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ENALRTO",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:41:43.122Z"
-  },
-  {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Super Fireworks",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:41:48.100Z"
-  },
-  {
     "player1": "DrSdach of Legend",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 2002,
     "traded_with": null,
     "timestamp": "2026-08-19T20:44:22.430Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "SHOPTEK",
+    "action": "BUY",
+    "item_name": "Golem's Gift",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:46:38.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "SHOPTEK",
+    "action": "BUY",
+    "item_name": "Blue Laser Scimitar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:46:46.083Z"
   }
 ]
