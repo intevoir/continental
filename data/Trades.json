@@ -4,32 +4,6 @@
     "player2": "GROWBIBI",
     "world": "SHOPL",
     "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-19T01:41:04.975Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GROWBIBI",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Pepper",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T01:41:08.688Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GROWBIBI",
-    "world": "SHOPL",
-    "action": "BUY",
     "item_name": "Rice",
     "item_count": 25,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-08-19T01:43:29.587Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fertys",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8100,
+    "price_wl": 8100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:44:02.268Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:44:05.467Z"
   }
 ]
