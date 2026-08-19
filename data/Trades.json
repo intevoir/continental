@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Freaa",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Girls's School Uniform Skirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-19T18:10:51.642Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Hilgi",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-19T18:26:38.215Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MythicalFistBOT",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-19T18:26:47.599Z"
   }
 ]
