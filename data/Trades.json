@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TheScripter",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Checkpoint",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 1900,
-    "price_wl": 1900,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:32:16.250Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tyenz",
-    "world": "REC",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:32:24.289Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1610,
     "traded_with": null,
     "timestamp": "2026-08-19T17:37:37.973Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Buying Machine",
+    "world": "NONGKI",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:38:17.316Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JeroIndri",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:38:17.336Z"
   }
 ]
