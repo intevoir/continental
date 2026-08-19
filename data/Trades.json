@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "MOST",
-    "action": "BUY",
-    "item_name": "Plasma Heart",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:42:16.285Z"
-  },
-  {
     "player1": "BStarz",
     "player2": "Renting Station",
     "world": "XC",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-19T20:47:18.560Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Nightking's Cape - Dark Red",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:50:49.541Z"
   }
 ]
