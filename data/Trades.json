@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrSdach of Legend",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Legendbot-009",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5950,
-    "price_wl": 5950,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:41:48.106Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "MOST",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-19T20:46:46.083Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "SHOPTEK",
+    "action": "BUY",
+    "item_name": "Crystal Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:47:18.560Z"
   }
 ]
