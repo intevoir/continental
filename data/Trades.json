@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FXP",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T08:38:01.126Z"
-  },
-  {
     "player1": "DrPROFESI",
     "player2": "DrJustVins",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-19T08:46:16.158Z"
+  },
+  {
+    "player1": "Fivo",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-19T08:49:46.423Z"
   }
 ]
