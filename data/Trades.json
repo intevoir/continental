@@ -4,19 +4,6 @@
     "player2": "radana",
     "world": "240",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-19T07:14:27.183Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "240",
-    "action": "BUY",
     "item_name": "Ultra World Spray",
     "item_count": 36,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-19T07:17:42.246Z"
+  },
+  {
+    "player1": "GuThai",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-19T07:19:34.041Z"
   }
 ]
