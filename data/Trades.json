@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrOsmora",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T01:44:05.467Z"
-  },
-  {
     "player1": "DrFlawss",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-19T01:51:00.167Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BStarz",
+    "world": "BUYROD",
+    "action": "BUY",
+    "item_name": "Fishing Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:51:34.984Z"
   }
 ]
