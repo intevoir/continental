@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Kaishee",
-    "world": "BULAD",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:30:40.545Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Kaishee",
-    "world": "BULAD",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:30:40.558Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
     "world": "STORES",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-19T03:35:04.578Z"
+  },
+  {
+    "player1": "@asLALISA",
+    "player2": "Renting Station",
+    "world": "AZOID",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:36:39.247Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingLort",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:36:58.497Z"
   }
 ]
