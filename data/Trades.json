@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "beber",
-    "world": "NMART",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:07:54.151Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CIPULARANG",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 245,
-    "price_wl": 245,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:08:25.803Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Shampoo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:08:45.469Z"
-  },
-  {
     "player1": "Rallllld",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 24500,
     "traded_with": null,
     "timestamp": "2026-08-19T14:10:59.729Z"
+  },
+  {
+    "player1": "bfn",
+    "player2": "Buying Machine",
+    "world": "RB",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 8800,
+    "price_wl": 8800,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:11:38.053Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSUD",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:11:38.061Z"
+  },
+  {
+    "player1": "Gelooo",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:11:55.728Z"
   }
 ]
