@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ReaThings",
-    "player2": "Renting Station",
-    "world": "TOKOZ",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:13:03.718Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ReaThings",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-08-19T12:17:06.647Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:17:21.537Z"
   }
 ]
