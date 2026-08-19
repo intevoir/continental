@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-19T11:36:49.236Z"
-  },
-  {
     "player1": "Vopa",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-19T11:41:11.964Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Clohtes",
+    "world": "LUCK",
+    "action": "BUY",
+    "item_name": "Emerald Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T11:41:24.266Z"
   }
 ]
