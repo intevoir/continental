@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SINGKU",
-    "player2": "Buying Machine",
-    "world": "HV",
-    "action": "SELL",
-    "item_name": "Creative Coin",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200000,
-    "price_wl": 200000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T21:50:07.536Z"
-  },
-  {
     "player1": "",
     "player2": "Buying Machine",
     "world": "HV",
@@ -128,5 +115,18 @@
     "price_wl": 624,
     "traded_with": null,
     "timestamp": "2026-08-19T21:59:22.284Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ClBarton",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 110,
+    "p_name": "World Locks",
+    "p_count": 89650,
+    "price_wl": 89650,
+    "traded_with": null,
+    "timestamp": "2026-08-19T22:00:19.522Z"
   }
 ]
