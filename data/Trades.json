@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "beber",
-    "world": "BFGMARCH",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:58:55.086Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bebellac",
     "world": "SHOPFAIL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-08-19T14:02:30.072Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BAPEx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 115,
+    "price_wl": 115,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:03:22.305Z"
   }
 ]
