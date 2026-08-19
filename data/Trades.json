@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Happy",
-    "world": "BLOCKM",
-    "action": "BUY",
-    "item_name": "Red Eye Drops",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:57:11.227Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Happy",
-    "world": "BLOCKM",
-    "action": "BUY",
-    "item_name": "Bathroom Mirror",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:57:52.919Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMadeline",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-19T04:03:09.133Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lippiew",
+    "world": "MANCING",
+    "action": "BUY",
+    "item_name": "E-Z Rod",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-19T04:05:00.118Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lippiew",
+    "world": "MANCING",
+    "action": "BUY",
+    "item_name": "Catch-of-the-Day Bait",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-19T04:05:14.797Z"
   }
 ]
