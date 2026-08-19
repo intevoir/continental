@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VASYN",
-    "world": "LPU",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 92,
-    "p_name": "World Locks",
-    "p_count": 736,
-    "price_wl": 736,
-    "traded_with": null,
-    "timestamp": "2026-08-19T07:39:37.725Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GRAYSAIKORO",
-    "world": "UWS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 570,
-    "price_wl": 570,
-    "traded_with": null,
-    "timestamp": "2026-08-19T07:40:09.223Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Suroso",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T07:40:09.240Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Suroso",
     "world": "BFGNG",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-08-19T07:46:04.449Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "klenyok2",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 820,
+    "price_wl": 820,
+    "traded_with": null,
+    "timestamp": "2026-08-19T07:48:40.848Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "Velyn",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "Velyn",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Velyn",
+    "timestamp": "2026-08-19T07:48:40.876Z"
+  },
+  {
+    "player1": "Velyn",
+    "player2": "DrMbox",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "CreativePS World Lock",
+    "item_count": 67,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMbox",
+    "timestamp": "2026-08-19T07:48:40.878Z"
   }
 ]
