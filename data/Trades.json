@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Aloena",
-    "player2": "Renting Station",
-    "world": "SHOPGG",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-19T09:25:05.080Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ManyolL",
     "world": "KIVO",
@@ -128,5 +115,18 @@
     "price_wl": 49,
     "traded_with": null,
     "timestamp": "2026-08-19T09:26:09.949Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "KIVO",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T09:27:05.040Z"
   }
 ]
