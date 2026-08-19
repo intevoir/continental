@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@voyS",
-    "world": "TANGAN",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T21:00:24.718Z"
-  },
-  {
     "player1": "ugj",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 95,
     "traded_with": null,
     "timestamp": "2026-08-19T21:12:30.044Z"
+  },
+  {
+    "player1": "LOVEKLEE",
+    "player2": "Buying Machine",
+    "world": "BUYBATM",
+    "action": "SELL",
+    "item_name": "Black ATM Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T21:15:32.144Z"
   }
 ]
