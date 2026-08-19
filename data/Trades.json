@@ -4,19 +4,6 @@
     "player2": "GROWBIBI",
     "world": "SHOPL",
     "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-19T01:40:56.159Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GROWBIBI",
-    "world": "SHOPL",
-    "action": "BUY",
     "item_name": "Salt",
     "item_count": 25,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-19T01:42:57.188Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:43:29.587Z"
   }
 ]
