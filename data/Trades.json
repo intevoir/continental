@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:28:26.077Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hasbe",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:28:40.505Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BabuXarvier",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-19T14:31:29.391Z"
+  },
+  {
+    "player1": "maxxGALAGHER",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:32:17.831Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Qali",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:32:26.009Z"
   }
 ]
