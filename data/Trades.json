@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "skm012",
-    "world": "RENTC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 264,
-    "price_wl": 264,
-    "traded_with": null,
-    "timestamp": "2026-08-19T15:07:30.539Z"
-  },
-  {
     "player1": "HAMZCIT1",
     "player2": "Renting Station",
     "world": "LIST2",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-19T15:10:30.544Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "LUCK",
+    "action": "BUY",
+    "item_name": "Emerald Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100000,
+    "price_wl": 100000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T15:10:42.854Z"
   }
 ]
