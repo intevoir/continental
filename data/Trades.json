@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PrinceKyzen",
-    "world": "SABTU",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:58:41.914Z"
-  },
-  {
     "player1": "ZhenX",
     "player2": "PANGERANMODOL",
     "world": "SUNPLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-19T18:03:27.881Z"
+  },
+  {
+    "player1": "PANGERANMODOL",
+    "player2": "Buying Machine",
+    "world": "SUNPLAZA",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 1081,
+    "price_wl": 1081,
+    "traded_with": null,
+    "timestamp": "2026-08-19T18:03:58.859Z"
   }
 ]
