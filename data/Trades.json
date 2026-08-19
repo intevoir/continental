@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@JKH []",
-    "world": "BUYCITEM",
-    "action": "BUY",
-    "item_name": "Kembar's Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600000,
-    "price_wl": 600000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:28:46.983Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Drego",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Giant Eye Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:29:00.990Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Thick [PRO ]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 198750,
-    "price_wl": 198750,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:29:42.279Z"
-  },
-  {
-    "player1": "DrDudaMuda",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 21420,
-    "price_wl": 21420,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:30:42.256Z"
-  },
-  {
     "player1": "Mance",
     "player2": "Renting Station",
     "world": "C9Q",
@@ -128,5 +76,57 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-19T13:34:43.046Z"
+  },
+  {
+    "player1": "fhira",
+    "player2": "Renting Station",
+    "world": "CORE",
+    "action": "RENT",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3570,
+    "price_wl": 3570,
+    "traded_with": null,
+    "timestamp": "2026-08-19T13:34:46.726Z"
+  },
+  {
+    "player1": "SEBAGAISTORE",
+    "player2": "Dvinnnn",
+    "world": "TAKEPHOTO",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 80,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dvinnnn",
+    "timestamp": "2026-08-19T13:34:54.906Z"
+  },
+  {
+    "player1": "Dvinnnn",
+    "player2": "SEBAGAISTORE",
+    "world": "TAKEPHOTO",
+    "action": "TRADE",
+    "item_name": "Zraei's Dragoscarf",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-19T13:34:54.908Z"
+  },
+  {
+    "player1": "Dvinnnn",
+    "player2": "SEBAGAISTORE",
+    "world": "TAKEPHOTO",
+    "action": "TRADE",
+    "item_name": "Zephyr Helm",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SEBAGAISTORE",
+    "timestamp": "2026-08-19T13:34:54.908Z"
   }
 ]
