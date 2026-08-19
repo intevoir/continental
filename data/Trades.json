@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "[PRO ]",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Boxed Lock",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-19T18:51:47.120Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSdach of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-19T18:54:01.432Z"
+  },
+  {
+    "player1": "DrDudaMuda",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 154700,
+    "price_wl": 154700,
+    "traded_with": null,
+    "timestamp": "2026-08-19T18:54:48.657Z"
   }
 ]
