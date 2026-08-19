@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PANGERANMODOL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 80000,
-    "price_wl": 80000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:54:24.543Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@vow",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 115,
     "traded_with": null,
     "timestamp": "2026-08-19T14:55:56.382Z"
+  },
+  {
+    "player1": "@wggreme",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:56:25.875Z"
   }
 ]
