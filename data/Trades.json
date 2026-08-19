@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Happy",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Troll Face #1",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:50:00.653Z"
-  },
-  {
     "player1": "DrOsmora",
     "player2": "Buying Machine",
     "world": "SHOPFAIL",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "RealHubby",
     "timestamp": "2026-08-19T03:55:49.082Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMadeline",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Party Bubble Blaster",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:56:33.519Z"
   }
 ]
