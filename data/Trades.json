@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "santnas",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Undersea Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-19T22:56:34.617Z"
-  },
-  {
     "player1": "DrOsmora",
     "player2": "Buying Machine",
     "world": "BFGTAS",
@@ -128,5 +115,18 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-19T23:01:56.486Z"
+  },
+  {
+    "player1": "BStarz",
+    "player2": "Buying Machine",
+    "world": "WAW",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 560,
+    "price_wl": 560,
+    "traded_with": null,
+    "timestamp": "2026-08-19T23:04:34.872Z"
   }
 ]
