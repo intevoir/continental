@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TerJungkirBalik",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-08-19T21:38:09.566Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "klenyok2",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-19T21:48:48.771Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "Buying Machine",
+    "world": "HV",
+    "action": "SELL",
+    "item_name": "Creative Coin",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200000,
+    "price_wl": 200000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T21:50:07.536Z"
   }
 ]
