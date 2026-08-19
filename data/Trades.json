@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mance",
-    "player2": "Renting Station",
-    "world": "C9Q",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-19T13:31:42.351Z"
-  },
-  {
     "player1": "Drego",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "SEBAGAISTORE",
     "timestamp": "2026-08-19T13:34:54.908Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hasbe",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-19T13:37:15.854Z"
   }
 ]
