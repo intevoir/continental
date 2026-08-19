@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nadiav []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-19T18:01:27.888Z"
-  },
-  {
     "player1": "RAYUAN",
     "player2": "Buying Machine",
     "world": "SUNPLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-19T18:05:59.512Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Listens",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Shampoo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T18:06:41.336Z"
   }
 ]
