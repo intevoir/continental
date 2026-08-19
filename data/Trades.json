@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MrRii",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 152,
-    "price_wl": 152,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:43:18.762Z"
-  },
-  {
-    "player1": "Vorax",
-    "player2": "DrDudaMuda",
-    "world": "AULA",
-    "action": "TRADE",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrDudaMuda",
-    "timestamp": "2026-08-19T17:46:33.207Z"
-  },
-  {
-    "player1": "DrDudaMuda",
-    "player2": "Vorax",
-    "world": "AULA",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 70,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Vorax",
-    "timestamp": "2026-08-19T17:46:33.214Z"
-  },
-  {
     "player1": "DrDudaMuda",
     "player2": "Vorax",
     "world": "AULA",
@@ -128,5 +89,44 @@
     "price_wl": 9353,
     "traded_with": null,
     "timestamp": "2026-08-19T17:49:49.689Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MythicalFistBOT",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:49:53.000Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "VEND8",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:50:22.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MythicalFistBOT",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:50:22.635Z"
   }
 ]
