@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dystopia",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-08-19T07:38:36.926Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VASYN",
     "world": "LPU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000000,
     "traded_with": null,
     "timestamp": "2026-08-19T07:42:43.125Z"
+  },
+  {
+    "player1": "BranP",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-19T07:46:04.449Z"
   }
 ]
