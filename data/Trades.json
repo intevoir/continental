@@ -1,18 +1,5 @@
 [
   {
-    "player1": "xSmike",
-    "player2": "Renting Station",
-    "world": "TRADING",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:18:07.492Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SEBAGAISTORE",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 600000,
     "traded_with": null,
     "timestamp": "2026-08-19T12:23:39.768Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Gakuran",
+    "world": "BUYCITEM",
+    "action": "BUY",
+    "item_name": "Osas's Azure Blade",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800000,
+    "price_wl": 800000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:24:39.626Z"
   }
 ]
