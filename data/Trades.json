@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "GROWBIBI",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Home Oven",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-19T01:40:56.138Z"
-  },
-  {
     "player1": "Age of Legend",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-19T01:41:27.401Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T01:42:00.946Z"
   }
 ]
