@@ -4,32 +4,6 @@
     "player2": "DrMbox",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Powerful Ponytail Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:51:20.827Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Green Laser Scimitar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:51:20.845Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Dueling Star Fighter - Imperial Enforcer",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-19T20:56:47.584Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Shadow Spirit of the Underworld",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:57:23.254Z"
+  },
+  {
+    "player1": "Gyuto",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:57:27.918Z"
   }
 ]
