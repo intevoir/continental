@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JeroIndri",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:38:17.336Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JeroIndri",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:39:18.193Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Arcteryx",
     "world": "SELLTHERMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7200,
     "traded_with": null,
     "timestamp": "2026-08-19T17:47:43.700Z"
+  },
+  {
+    "player1": "bergituk",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 23000,
+    "price_wl": 23000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:48:22.166Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vorax",
+    "world": "SABER",
+    "action": "BUY",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500000,
+    "price_wl": 3500000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:48:22.177Z"
   }
 ]
