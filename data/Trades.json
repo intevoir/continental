@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "STOREK",
-    "action": "BUY",
-    "item_name": "Emerald Block",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-19T17:20:16.898Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "maxxGALAGHER",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-08-19T17:21:28.743Z"
+  },
+  {
+    "player1": "OtongGoFarm",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-19T17:21:44.567Z"
   }
 ]
