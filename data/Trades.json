@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ManyolL",
-    "world": "KIVO",
-    "action": "BUY",
-    "item_name": "Black Crystal",
-    "item_count": 108,
-    "p_name": "World Locks",
-    "p_count": 324,
-    "price_wl": 324,
-    "traded_with": null,
-    "timestamp": "2026-08-19T09:29:16.942Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LuckDead",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Horns of Infinity",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-19T09:29:25.311Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrHmo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-19T09:29:33.928Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "nfshaqir",
-    "world": "FIREHAQI",
-    "action": "BUY",
-    "item_name": "Bouncy Boxed Boiled Egg",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-19T09:30:05.788Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "nfshaqir",
     "world": "FIREHAQI",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 23800,
     "traded_with": null,
     "timestamp": "2026-08-19T09:31:06.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "KIVO",
+    "action": "BUY",
+    "item_name": "White Crystal",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T09:32:06.592Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T09:32:06.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "KIVO",
+    "action": "BUY",
+    "item_name": "White Crystal",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T09:32:14.578Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T09:32:27.084Z"
   }
 ]
