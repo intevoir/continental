@@ -4,19 +4,6 @@
     "player2": "DrMbox",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Galactic Destructor - Purple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T20:27:09.459Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Galactic Destructor - Red",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-08-19T20:33:43.612Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 220,
+    "price_wl": 220,
+    "traded_with": null,
+    "timestamp": "2026-08-19T20:34:46.770Z"
   }
 ]
