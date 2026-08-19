@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Gakuran",
-    "world": "BUYCITEM",
-    "action": "BUY",
-    "item_name": "Osas's Azure Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 800000,
-    "price_wl": 800000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:24:39.626Z"
-  },
-  {
-    "player1": "Bocil23",
-    "player2": "Renting Station",
-    "world": "SHOPL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-19T12:25:21.217Z"
-  },
-  {
     "player1": "EBUU",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-08-19T12:27:20.214Z"
+  },
+  {
+    "player1": "lisa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:28:12.653Z"
+  },
+  {
+    "player1": "lisa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-19T12:28:32.772Z"
   }
 ]
