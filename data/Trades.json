@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Curse Wand",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:44:53.640Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Happy",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Pure Being of Light and Shadow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T03:46:00.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jejowyy",
     "world": "THRIF",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-19T03:50:00.653Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:50:46.812Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-08-19T03:50:46.821Z"
   }
 ]
