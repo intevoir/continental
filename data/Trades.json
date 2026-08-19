@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Clis",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-19T14:36:26.574Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrVeIyn of Legend []",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-19T14:39:32.947Z"
+  },
+  {
+    "player1": "Ainow",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-08-19T14:40:40.326Z"
   }
 ]
