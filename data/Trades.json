@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ainow",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-20T12:13:28.900Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrPerciaDaBest",
     "world": "1I",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-20T12:17:12.083Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Exgemz",
+    "world": "BFGGRATIS",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-08-20T12:17:44.462Z"
   }
 ]
