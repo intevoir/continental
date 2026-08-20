@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mystrix",
-    "world": "CHA",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-19T23:51:54.516Z"
-  },
-  {
     "player1": "PGBOYS",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-20T00:04:39.469Z"
+  },
+  {
+    "player1": "fhira",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:07:38.813Z"
   }
 ]
