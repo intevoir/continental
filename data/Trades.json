@@ -1,18 +1,5 @@
 [
   {
-    "player1": "AikoChan",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20230,
-    "price_wl": 20230,
-    "traded_with": null,
-    "timestamp": "2026-08-20T01:06:42.888Z"
-  },
-  {
     "player1": "@IH0",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "YogCPS",
     "timestamp": "2026-08-20T01:14:00.947Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EdwHere",
+    "world": "VEN",
+    "action": "BUY",
+    "item_name": "3OP's Purple Flaming Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-20T01:14:31.454Z"
   }
 ]
