@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Wrein",
-    "world": "BFG20K",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-20T00:12:45.120Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wrein",
-    "world": "BFG20K",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-20T00:13:26.787Z"
-  },
-  {
     "player1": "Rcghost",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 312,
     "traded_with": null,
     "timestamp": "2026-08-20T00:16:54.252Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:17:28.198Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:17:51.308Z"
   }
 ]
