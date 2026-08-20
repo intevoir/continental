@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OldSpices []",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Weather Machine - Meteor Shower",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:21:19.808Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VANOSS",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-20T14:24:06.659Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "KANTIN",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:24:19.305Z"
   }
 ]
