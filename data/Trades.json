@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDuxxy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:14:34.256Z"
-  },
-  {
     "player1": "ThrowingKnife",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-08-20T17:17:54.913Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "golfr",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Squirrel King",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:18:40.256Z"
   }
 ]
