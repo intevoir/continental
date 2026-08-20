@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "golfr",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Poseidon's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:25:10.625Z"
-  },
-  {
-    "player1": "Rakhat",
-    "player2": "Renting Station",
-    "world": "15K",
-    "action": "RENT",
-    "item_name": "Dragon of Legend",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 27965,
-    "price_wl": 27965,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:25:51.271Z"
-  },
-  {
     "player1": "clocker",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000000,
     "traded_with": null,
     "timestamp": "2026-08-20T17:31:49.813Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:32:06.109Z"
+  },
+  {
+    "player1": "MazdaN",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Golden Booty Chest",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 17,
+    "price_wl": 17,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:33:19.022Z"
   }
 ]
