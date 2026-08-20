@@ -4,19 +4,6 @@
     "player2": "lis",
     "world": "SHOPCW",
     "action": "BUY",
-    "item_name": "Cherry",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T06:50:58.550Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "SHOPCW",
-    "action": "BUY",
     "item_name": "Lemon",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-08-20T06:51:55.222Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T06:53:15.569Z"
   }
 ]
