@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "BFGPWD",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-20T23:09:24.131Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKorcupine",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-20T23:17:34.568Z"
+  },
+  {
+    "player1": "RyutaaNEW",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-08-20T23:18:09.159Z"
   }
 ]
