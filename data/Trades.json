@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZeroTorz",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-20T01:51:43.429Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "EdwHere",
     "world": "BUYWALLPAPER",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-20T01:53:44.969Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZeroTorz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-20T01:54:45.080Z"
   }
 ]
