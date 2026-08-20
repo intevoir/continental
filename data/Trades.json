@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BagusV1",
-    "world": "RAGRENT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 62,
-    "p_name": "World Locks",
-    "p_count": 50220,
-    "price_wl": 50220,
-    "traded_with": null,
-    "timestamp": "2026-08-20T21:52:48.946Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BStarz",
     "world": "BUYFOODS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-20T22:07:31.641Z"
+  },
+  {
+    "player1": "@AWPANDA",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-20T22:20:48.537Z"
   }
 ]
