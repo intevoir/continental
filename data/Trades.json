@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "EdwHere",
-    "world": "BUYWALLPAPER",
-    "action": "BUY",
-    "item_name": "Green Wallpaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-20T01:50:43.464Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EdwHere",
-    "world": "BUYWALLPAPER",
-    "action": "BUY",
-    "item_name": "Yellow Wallpaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-20T01:51:43.412Z"
-  },
-  {
     "player1": "ZeroTorz",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 16300,
     "traded_with": null,
     "timestamp": "2026-08-20T01:53:11.384Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDudaMuda",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 16300,
+    "price_wl": 16300,
+    "traded_with": null,
+    "timestamp": "2026-08-20T01:53:44.954Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "showup",
+    "world": "GROWMART",
+    "action": "BUY",
+    "item_name": "Couch",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-20T01:53:44.969Z"
   }
 ]
