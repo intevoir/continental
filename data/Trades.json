@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "parance",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T15:43:31.613Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "heny",
-    "world": "RISS",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T15:44:03.833Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EnalStore",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 25200,
-    "price_wl": 25200,
-    "traded_with": null,
-    "timestamp": "2026-08-20T15:44:03.859Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "heny",
     "world": "RISS",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-20T15:45:08.492Z"
+  },
+  {
+    "player1": "BranP",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T15:45:13.068Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSdach of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T15:45:28.715Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "heny",
+    "world": "RISS",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 75,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-20T15:45:35.639Z"
   }
 ]
