@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wellplayer",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:17:06.614Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VANOSS",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-20T14:18:06.690Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VANOSS",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Giant Eye Head",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:18:10.407Z"
   }
 ]
