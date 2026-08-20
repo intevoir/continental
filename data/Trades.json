@@ -1,44 +1,5 @@
 [
   {
-    "player1": "RTX5090",
-    "player2": "Renting Station",
-    "world": "8R",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-20T08:19:25.506Z"
-  },
-  {
-    "player1": "yorend",
-    "player2": "WWL",
-    "world": "ZFQ",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 25,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "WWL",
-    "timestamp": "2026-08-20T08:19:50.897Z"
-  },
-  {
-    "player1": "WWL",
-    "player2": "yorend",
-    "world": "ZFQ",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "yorend",
-    "timestamp": "2026-08-20T08:19:50.898Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMadeline",
     "world": "PLAZA",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-20T08:20:50.498Z"
+  },
+  {
+    "player1": "xvxavian",
+    "player2": "Buying Machine",
+    "world": "DVIN",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T08:21:49.439Z"
+  },
+  {
+    "player1": "Bocil24",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-20T08:21:49.450Z"
+  },
+  {
+    "player1": "xvxavian",
+    "player2": "Buying Machine",
+    "world": "DVIN",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 234,
+    "p_name": "World Locks",
+    "p_count": 11232,
+    "price_wl": 11232,
+    "traded_with": null,
+    "timestamp": "2026-08-20T08:22:13.101Z"
   }
 ]
