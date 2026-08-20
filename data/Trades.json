@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "DrAxylot",
-    "world": "BXZ",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrAxylot",
-    "timestamp": "2026-08-20T17:13:02.635Z"
-  },
-  {
-    "player1": "DrAxylot",
-    "player2": "Benihime",
-    "world": "BXZ",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Benihime",
-    "timestamp": "2026-08-20T17:13:02.635Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrDuxxy",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-08-20T17:14:21.763Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDuxxy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:14:34.256Z"
+  },
+  {
+    "player1": "ThrowingKnife",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Cloak",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:14:38.218Z"
   }
 ]
