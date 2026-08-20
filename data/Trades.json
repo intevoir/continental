@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CDEF",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-20T10:09:39.511Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bocil23",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-08-20T10:14:13.877Z"
+  },
+  {
+    "player1": "DrNesProfit",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 17500,
+    "price_wl": 17500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T10:15:42.388Z"
   }
 ]
