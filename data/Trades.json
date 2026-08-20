@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "THRIF",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T02:59:11.637Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "THRIF",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-20T02:59:19.197Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "THRIF",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-20T02:59:27.197Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@KRYX []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 7800,
     "traded_with": null,
     "timestamp": "2026-08-20T03:02:28.937Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-20T03:03:13.899Z"
+  },
+  {
+    "player1": "DrErsey",
+    "player2": "Renting Station",
+    "world": "PHONEBFG",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20825,
+    "price_wl": 20825,
+    "traded_with": null,
+    "timestamp": "2026-08-20T03:03:13.917Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MayoGT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 12300,
+    "price_wl": 12300,
+    "traded_with": null,
+    "timestamp": "2026-08-20T03:03:13.926Z"
   }
 ]
