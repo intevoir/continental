@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Saii1",
-    "world": "RIECHS",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-20T03:36:51.311Z"
-  },
-  {
     "player1": "DrRoico",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 370,
     "traded_with": null,
     "timestamp": "2026-08-20T03:39:42.728Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MoonBear",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T03:40:52.614Z"
   }
 ]
