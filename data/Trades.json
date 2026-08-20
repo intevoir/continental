@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMESA",
-    "world": "WHITE",
-    "action": "BUY",
-    "item_name": "Red Laser Scimitar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-20T19:17:25.715Z"
-  },
-  {
-    "player1": "Dzikajalah",
-    "player2": "Buying Machine",
-    "world": "BFGTAS",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2415,
-    "price_wl": 2415,
-    "traded_with": null,
-    "timestamp": "2026-08-20T19:20:15.867Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Dzikajalah",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-20T19:23:47.349Z"
+  },
+  {
+    "player1": "Frizx98",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-20T19:24:25.497Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RyutaaNEW",
+    "world": "BAPOG",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-20T19:24:40.999Z"
   }
 ]
