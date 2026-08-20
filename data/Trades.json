@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZhenX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5900,
-    "price_wl": 5900,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:35:51.468Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BudakBJ1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 158,
-    "p_name": "World Locks",
-    "p_count": 790,
-    "price_wl": 790,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:38:45.916Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SamIsHere",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-20T04:44:38.302Z"
+  },
+  {
+    "player1": "Yoiss",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:46:22.635Z"
+  },
+  {
+    "player1": "DrDuxxy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:46:46.341Z"
   }
 ]
