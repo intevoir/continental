@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Shop",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Spikey Anime Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:24:06.659Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Pernandez",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:24:19.305Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lalsssss",
-    "world": "LUCK",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:25:06.568Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lalsssss",
-    "world": "LUCK",
-    "action": "BUY",
-    "item_name": "Emerald Block",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:25:06.578Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VANOSS",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-20T14:28:15.126Z"
+  },
+  {
+    "player1": "jiminy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Golden Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47600,
+    "price_wl": 47600,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:28:40.966Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "AOV",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 999,
+    "price_wl": 999,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:28:52.301Z"
+  },
+  {
+    "player1": "DeathDuck_698",
+    "player2": "DrJustIcunz",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrJustIcunz",
+    "timestamp": "2026-08-20T14:28:55.543Z"
+  },
+  {
+    "player1": "DrJustIcunz",
+    "player2": "DeathDuck_698",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 6,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DeathDuck_698",
+    "timestamp": "2026-08-20T14:28:55.547Z"
   }
 ]
