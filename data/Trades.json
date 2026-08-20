@@ -4,19 +4,6 @@
     "player2": "lis",
     "world": "SHOPCP",
     "action": "BUY",
-    "item_name": "Haunted Door",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-20T07:04:00.419Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "SHOPCP",
-    "action": "BUY",
     "item_name": "Crystal Block",
     "item_count": 225,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-20T07:07:27.966Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMacallans",
+    "world": "PUK",
+    "action": "BUY",
+    "item_name": "Love Potion #8",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T07:08:01.792Z"
   }
 ]
