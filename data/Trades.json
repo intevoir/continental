@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PieCream_370",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-20T20:28:13.705Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@ZuanteZx [PRO ]",
-    "world": "BFGCOX",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 960,
-    "price_wl": 960,
-    "traded_with": null,
-    "timestamp": "2026-08-20T20:28:17.202Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@ZuanteZx [PRO ]",
     "world": "BFGCOX",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-20T20:34:47.674Z"
+  },
+  {
+    "player1": "Btg",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Sec's Obito Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-20T20:37:53.473Z"
+  },
+  {
+    "player1": "Bopet",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-20T20:37:56.853Z"
   }
 ]
