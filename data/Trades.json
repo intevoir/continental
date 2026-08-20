@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DexHort",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 192,
-    "p_name": "World Locks",
-    "p_count": 9024,
-    "price_wl": 9024,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:43:14.321Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrDuxxy",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-20T04:51:16.450Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDidIKnowYou",
+    "world": "BUYRIFLE",
+    "action": "BUY",
+    "item_name": "BLYoshi's Free Dirt",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:51:39.708Z"
   }
 ]
