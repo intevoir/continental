@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JeroIndri",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Storage Box Xtreme - Level 3",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T07:21:09.347Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CDEF",
-    "world": "PUK",
-    "action": "BUY",
-    "item_name": "Guardian Pineapple Seed",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-20T07:21:13.341Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CDEF",
     "world": "PUK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-08-20T07:25:10.926Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 94,
+    "p_name": "World Locks",
+    "p_count": 8930,
+    "price_wl": 8930,
+    "traded_with": null,
+    "timestamp": "2026-08-20T07:25:18.801Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VOGZ",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Valensign",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-08-20T07:25:22.825Z"
   }
 ]
