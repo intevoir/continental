@@ -5,32 +5,6 @@
     "world": "SET",
     "action": "BUY",
     "item_name": "Flamingo",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 3500,
-    "price_wl": 3500,
-    "traded_with": null,
-    "timestamp": "2026-08-20T12:55:25.880Z"
-  },
-  {
-    "player1": "shamporer",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-20T12:55:25.965Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SEBAGAISTORE",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Flamingo",
     "item_count": 2,
     "p_name": "World Locks",
     "p_count": 200,
@@ -128,5 +102,31 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-08-20T12:58:47.833Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DapaBujeng",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T12:59:28.129Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zeekunn",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T12:59:32.050Z"
   }
 ]
