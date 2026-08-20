@@ -4,19 +4,6 @@
     "player2": "lis",
     "world": "SHOPCW",
     "action": "BUY",
-    "item_name": "Lemon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T06:51:02.604Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "SHOPCW",
-    "action": "BUY",
     "item_name": "Sugar",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-20T06:53:15.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wellplayer",
+    "world": "RENTJAK",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-20T06:53:29.807Z"
   }
 ]
