@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "SHOPCW",
-    "action": "BUY",
-    "item_name": "Milk",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T06:54:56.427Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pernandez",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-20T06:55:25.494Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lis",
+    "world": "SHOPCP",
+    "action": "BUY",
+    "item_name": "Tavern Sign",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-08-20T06:56:28.919Z"
   }
 ]
