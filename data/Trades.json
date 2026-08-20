@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Qali",
-    "world": "SHOPE",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-19T23:58:39.979Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Farraahh",
     "world": "SHOPGX",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-08-20T00:12:45.120Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wrein",
+    "world": "BFG20K",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:13:26.787Z"
   }
 ]
