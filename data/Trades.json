@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Farraahh",
-    "world": "SHOPGX",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-19T23:59:29.085Z"
-  },
-  {
-    "player1": "Rcghost",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-08-20T00:00:28.778Z"
-  },
-  {
     "player1": "@asROSIE [CHAD!]",
     "player2": "Renting Station",
     "world": "TVA",
@@ -128,5 +102,31 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-08-20T00:13:26.787Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:14:34.411Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YouOne",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:14:59.907Z"
   }
 ]
