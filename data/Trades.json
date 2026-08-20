@@ -4,32 +4,6 @@
     "player2": "VANOSS",
     "world": "SET",
     "action": "BUY",
-    "item_name": "Ancestral Orb of Time",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:12:17.171Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Totem of Wisdom",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:12:20.773Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "SET",
-    "action": "BUY",
     "item_name": "Ancestral Seed of Life",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-08-20T14:15:06.850Z"
+  },
+  {
+    "player1": "Exardk",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:15:10.656Z"
+  },
+  {
+    "player1": "DrDudaMuda",
+    "player2": "Buying Machine",
+    "world": "SET",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:15:34.148Z"
   }
 ]
