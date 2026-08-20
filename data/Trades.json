@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrMbox",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Legendary Super Mario",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100000,
-    "price_wl": 100000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T19:47:27.057Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMESA",
     "world": "RVEND",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-08-20T19:57:31.083Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LABAS1",
+    "world": "TRADING",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-20T20:07:35.552Z"
   }
 ]
