@@ -1,18 +1,5 @@
 [
   {
-    "player1": "purnomo1",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T18:51:41.280Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GIH",
     "world": "VENDQ",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-20T19:06:19.729Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLukis of Legend",
+    "world": "B9",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T19:07:45.134Z"
   }
 ]
