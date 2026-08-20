@@ -1,18 +1,5 @@
 [
   {
-    "player1": "GLHYX",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 152000,
-    "price_wl": 152000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:24:09.470Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lukova",
     "world": "MWSHOP",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-20T17:27:15.461Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZFinery",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 24000,
+    "price_wl": 24000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:27:59.655Z"
   }
 ]
