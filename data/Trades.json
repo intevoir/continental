@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "IshioNeedNoLove",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T05:01:46.567Z"
-  },
-  {
-    "player1": "Gogonyoi12",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23800,
-    "price_wl": 23800,
-    "traded_with": null,
-    "timestamp": "2026-08-20T05:02:47.942Z"
-  },
-  {
-    "player1": "Rcghost []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T05:03:22.979Z"
-  },
-  {
     "player1": "Rcghost []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-20T05:06:39.205Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "VEND8",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T05:10:27.153Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "VEND8",
+    "action": "BUY",
+    "item_name": "Ancestral Seed of Life",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T05:10:27.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FaithInRay",
+    "world": "8T",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 42500,
+    "price_wl": 42500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T05:10:35.446Z"
   }
 ]
