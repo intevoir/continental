@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sciunp",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T10:35:22.959Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "VENDIIN",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T10:35:22.972Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAYUAN",
     "world": "VENDIIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-20T10:36:54.947Z"
+  },
+  {
+    "player1": "Brokee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T10:37:24.471Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BayUbi",
+    "world": "STORE",
+    "action": "BUY",
+    "item_name": "Chemical P",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-20T10:37:24.485Z"
   }
 ]
