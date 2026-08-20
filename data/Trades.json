@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "DrAxylot",
-    "world": "HWC",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrAxylot",
-    "timestamp": "2026-08-20T16:40:31.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FLAIRx",
-    "world": "KULINER",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:40:53.580Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JKH of Legend []",
-    "world": "CORE",
-    "action": "BUY",
-    "item_name": "Creative Coin",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 2160000,
-    "price_wl": 2160000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:40:55.929Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JKH of Legend []",
-    "world": "RICH",
-    "action": "BUY",
-    "item_name": "Creative Coin",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 2000000,
-    "price_wl": 2000000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:41:32.409Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JKH of Legend []",
     "world": "RIO",
@@ -128,5 +76,57 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-20T16:44:41.526Z"
+  },
+  {
+    "player1": "JKH of Legend []",
+    "player2": "Open of Legend",
+    "world": "LINK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 48,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Open of Legend",
+    "timestamp": "2026-08-20T16:45:25.986Z"
+  },
+  {
+    "player1": "Open of Legend",
+    "player2": "JKH of Legend []",
+    "world": "LINK",
+    "action": "TRADE",
+    "item_name": "Creative Coin",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JKH of Legend []",
+    "timestamp": "2026-08-20T16:45:25.986Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "DrAxylot",
+    "world": "BPT",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAxylot",
+    "timestamp": "2026-08-20T16:45:25.986Z"
+  },
+  {
+    "player1": "DrAxylot",
+    "player2": "Benihime",
+    "world": "BPT",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benihime",
+    "timestamp": "2026-08-20T16:45:25.986Z"
   }
 ]
