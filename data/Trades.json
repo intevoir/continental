@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RIKUA",
-    "world": "FREERENT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-20T21:37:27.302Z"
-  },
-  {
     "player1": "RIKUA",
     "player2": "Buying Machine",
     "world": "ASUBFG",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-20T21:47:30.222Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "l23",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-20T21:49:50.464Z"
   }
 ]
