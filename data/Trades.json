@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BayUbi",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-20T10:38:28.955Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sciunp",
     "world": "GROWMART",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-20T10:40:54.190Z"
+  },
+  {
+    "player1": "rxka",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-20T10:41:26.147Z"
   }
 ]
