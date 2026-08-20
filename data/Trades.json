@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Aimurai",
-    "world": "AULA",
-    "action": "BUY",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3700000,
-    "price_wl": 3700000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T03:43:30.307Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MoonBear",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-20T03:52:50.388Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 225,
+    "price_wl": 225,
+    "traded_with": null,
+    "timestamp": "2026-08-20T03:54:56.378Z"
   }
 ]
