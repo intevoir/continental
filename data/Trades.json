@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@CloudeyX9",
-    "world": "MURAHH",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-20T11:43:53.915Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "torjago",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-20T11:43:53.928Z"
-  },
-  {
     "player1": "@Eryuken",
     "player2": "Buying Machine",
     "world": "SHOPFAIL",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-20T11:45:23.684Z"
+  },
+  {
+    "player1": "@Eryuken",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T11:45:55.435Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRegans",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-08-20T11:45:55.451Z"
   }
 ]
