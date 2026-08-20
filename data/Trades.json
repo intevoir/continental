@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "<REDACTED>",
-    "world": "BUYVISOR",
-    "action": "BUY",
-    "item_name": "Cyclopean Visor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-20T00:16:49.879Z"
-  },
-  {
-    "player1": "Unilodge",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 312,
-    "price_wl": 312,
-    "traded_with": null,
-    "timestamp": "2026-08-20T00:16:54.252Z"
-  },
-  {
     "player1": "Rcghost",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 90160,
     "traded_with": null,
     "timestamp": "2026-08-20T00:23:31.252Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NightDone",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 19200,
+    "price_wl": 19200,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:23:39.468Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DexHort",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 223,
+    "p_name": "World Locks",
+    "p_count": 1338,
+    "price_wl": 1338,
+    "traded_with": null,
+    "timestamp": "2026-08-20T00:23:47.449Z"
   }
 ]
