@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "l23",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-20T21:49:50.464Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "l23",
     "world": "TRADING",
     "action": "BUY",
     "item_name": "Black Gems",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-20T21:54:35.568Z"
+  },
+  {
+    "player1": "Kainyx",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-20T21:59:59.578Z"
   }
 ]
