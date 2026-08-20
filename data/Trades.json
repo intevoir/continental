@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "MYRA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 275,
-    "price_wl": 275,
-    "traded_with": null,
-    "timestamp": "2026-08-20T20:53:21.587Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrYunShan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-20T21:00:59.762Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrYunShan",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-20T21:28:17.102Z"
+  },
+  {
+    "player1": "ArthaSTOREv2",
+    "player2": "Buying Machine",
+    "world": "BFGTAS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 16905,
+    "price_wl": 16905,
+    "traded_with": null,
+    "timestamp": "2026-08-20T21:29:12.583Z"
+  },
+  {
+    "player1": "ArthaSTOREv2",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-20T21:29:31.998Z"
   }
 ]
