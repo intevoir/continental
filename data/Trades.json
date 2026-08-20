@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SamIsHere",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 65,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:52:23.923Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrUnipin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:53:20.113Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SamIsHere",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 191,
-    "p_name": "World Locks",
-    "p_count": 764,
-    "price_wl": 764,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:53:20.124Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MoonBear",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 20825,
     "traded_with": null,
     "timestamp": "2026-08-20T18:00:23.310Z"
+  },
+  {
+    "player1": "Drspica",
+    "player2": "Benihime",
+    "world": "NSY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benihime",
+    "timestamp": "2026-08-20T18:01:56.098Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Drspica",
+    "world": "NSY",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Drspica",
+    "timestamp": "2026-08-20T18:01:56.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Influence",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T18:02:22.185Z"
   }
 ]
