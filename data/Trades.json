@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JeongGuwon",
-    "world": "WARUNG",
-    "action": "BUY",
-    "item_name": "Challenge Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T08:27:57.722Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sabtugtcool",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T08:28:40.396Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Apebendela",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "WWL",
     "timestamp": "2026-08-20T08:38:27.787Z"
+  },
+  {
+    "player1": "GadaCB",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-20T08:39:58.525Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Buying Machine",
+    "world": "DVIN",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 159,
+    "p_name": "World Locks",
+    "p_count": 7632,
+    "price_wl": 7632,
+    "traded_with": null,
+    "timestamp": "2026-08-20T08:40:02.787Z"
   }
 ]
