@@ -5,19 +5,6 @@
     "world": "MWSHOP",
     "action": "BUY",
     "item_name": "Display Block",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-20T17:36:14.579Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lukova",
-    "world": "MWSHOP",
-    "action": "BUY",
-    "item_name": "Display Block",
     "item_count": 40,
     "p_name": "World Locks",
     "p_count": 2,
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-20T17:41:18.985Z"
+  },
+  {
+    "player1": "BStarz",
+    "player2": "Buying Machine",
+    "world": "BFGNG",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T17:42:13.496Z"
   }
 ]
