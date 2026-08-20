@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Kainyx",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1420,
-    "price_wl": 1420,
-    "traded_with": null,
-    "timestamp": "2026-08-20T21:50:32.865Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "l23",
     "world": "TRADING",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-20T22:01:39.007Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vile of Legend",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T22:02:28.743Z"
   }
 ]
