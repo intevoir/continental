@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMythicalFist [ELITE]",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Purple Chest",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:15:25.581Z"
-  },
-  {
-    "player1": "Comedian",
-    "player2": "Buying Machine",
-    "world": "WHOLESALESTORE",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 125,
-    "p_name": "World Locks",
-    "p_count": 11875,
-    "price_wl": 11875,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:17:14.285Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Madeline",
     "world": "SKIL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-20T16:25:33.242Z"
+  },
+  {
+    "player1": "DrVendinQ",
+    "player2": "Dr652 [SUPER]",
+    "world": "WAYAM",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 45,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr652 [SUPER]",
+    "timestamp": "2026-08-20T16:26:36.388Z"
+  },
+  {
+    "player1": "Dr652 [SUPER]",
+    "player2": "DrVendinQ",
+    "world": "WAYAM",
+    "action": "TRADE",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrVendinQ",
+    "timestamp": "2026-08-20T16:26:36.390Z"
   }
 ]
