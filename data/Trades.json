@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GIH",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-20T18:41:37.621Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rxka",
     "world": "SABTU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-20T18:53:14.769Z"
+  },
+  {
+    "player1": "ROLLES",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-08-20T18:55:07.163Z"
   }
 ]
