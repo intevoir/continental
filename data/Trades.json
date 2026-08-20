@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDuxxy",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T05:06:39.205Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "VEND8",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-20T05:17:16.701Z"
+  },
+  {
+    "player1": "yorend",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-20T05:18:33.635Z"
   }
 ]
