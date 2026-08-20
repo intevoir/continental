@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Pernandez",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:19:24.225Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:20:10.015Z"
-  },
-  {
     "player1": "YogCPS",
     "player2": "Renting Station",
     "world": "RENTMOZ",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-08-20T14:22:06.623Z"
+  },
+  {
+    "player1": "DrDudaMuda",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:23:14.989Z"
+  },
+  {
+    "player1": "DrDudaMuda",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:23:45.638Z"
   }
 ]
