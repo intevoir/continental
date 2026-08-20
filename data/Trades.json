@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "THRIF",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:15:42.777Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "THRIF",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:15:45.957Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-20T04:16:14.124Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BAPEx",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-20T04:18:44.547Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lis",
+    "world": "MARKET3",
+    "action": "BUY",
+    "item_name": "ATM Machine",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:19:43.771Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lis",
+    "world": "MARKET3",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:19:43.789Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lis",
+    "world": "MARKET3",
+    "action": "BUY",
+    "item_name": "Train-E",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-08-20T04:19:47.541Z"
   }
 ]
