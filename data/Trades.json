@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ainow",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 225,
-    "price_wl": 225,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:14:38.360Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ainow",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-20T16:15:12.905Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@RIP []",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-08-20T16:20:14.057Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ainow",
+    "world": "SELLTRACTOR",
+    "action": "BUY",
+    "item_name": "Harvester",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-20T16:23:30.909Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Thekindman",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-20T16:23:30.919Z"
   }
 ]
