@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ENALRTO",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-20T07:11:36.634Z"
-  },
-  {
     "player1": "LOVEKLEE",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-08-20T07:18:42.244Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CDEF",
+    "world": "RENTJAK",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-20T07:19:17.177Z"
   }
 ]
