@@ -1,31 +1,5 @@
 [
   {
-    "player1": "torjago",
-    "player2": "Buying Machine",
-    "world": "BFGWE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 52,
-    "p_name": "World Locks",
-    "p_count": 41600,
-    "price_wl": 41600,
-    "traded_with": null,
-    "timestamp": "2026-08-20T11:40:53.665Z"
-  },
-  {
-    "player1": "jaegerw",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-08-20T11:40:53.678Z"
-  },
-  {
     "player1": "jaegerw",
     "player2": "Buying Machine",
     "world": "VENDIIN",
@@ -128,5 +102,31 @@
     "price_wl": 600000,
     "traded_with": null,
     "timestamp": "2026-08-20T11:41:57.005Z"
+  },
+  {
+    "player1": "@Eryuken",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T11:42:08.718Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "torjago",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-20T11:42:20.567Z"
   }
 ]
