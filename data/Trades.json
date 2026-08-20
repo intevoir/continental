@@ -4,32 +4,6 @@
     "player2": "VANOSS",
     "world": "SET",
     "action": "BUY",
-    "item_name": "Royal Petals of Purity",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:35:38.190Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Royal Arcane Armor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-20T14:35:38.197Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "SET",
-    "action": "BUY",
     "item_name": "Royal Captain Bark",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-08-20T14:36:38.122Z"
+  },
+  {
+    "player1": "Gokslol",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:36:54.904Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "radana",
+    "world": "BFG12",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-20T14:37:10.619Z"
   }
 ]
