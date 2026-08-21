@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "canathian []",
-    "world": "STORE",
-    "action": "BUY",
-    "item_name": "14-Day Free Subscription Token",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:33:06.493Z"
-  },
-  {
-    "player1": "Trivo",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:33:10.074Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DEPOSITT",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@Open",
     "timestamp": "2026-08-21T15:35:30.079Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iNearyGT",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "BlueMan's Crystal Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:36:06.135Z"
+  },
+  {
+    "player1": "freepale",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:36:34.843Z"
   }
 ]
