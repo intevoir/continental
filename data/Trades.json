@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KITMAN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T11:01:02.905Z"
-  },
-  {
     "player1": "sciunp",
     "player2": "Buying Machine",
     "world": "WHOLESALESTORE",
@@ -128,5 +115,18 @@
     "price_wl": 2491,
     "traded_with": null,
     "timestamp": "2026-08-21T11:02:37.881Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hesa",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-08-21T11:04:39.361Z"
   }
 ]
