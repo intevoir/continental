@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zarn",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Crystal Block",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:58:15.211Z"
-  },
-  {
-    "player1": "RtoRiich",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20230,
-    "price_wl": 20230,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:58:15.229Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OneHP",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-21T16:02:44.819Z"
+  },
+  {
+    "player1": "@Kepincut [BLOCKMO]",
+    "player2": "DrAdvance",
+    "world": "REPLAYBASE",
+    "action": "TRADE",
+    "item_name": "Gogeta Blue - 03",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAdvance",
+    "timestamp": "2026-08-21T16:03:16.168Z"
+  },
+  {
+    "player1": "DrAdvance",
+    "player2": "@Kepincut [BLOCKMO]",
+    "world": "REPLAYBASE",
+    "action": "TRADE",
+    "item_name": "Kontol Gun",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Kepincut [BLOCKMO]",
+    "timestamp": "2026-08-21T16:03:16.169Z"
   }
 ]
