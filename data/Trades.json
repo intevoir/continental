@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Rcghost",
-    "world": "BUYPRINCESS",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:29:31.896Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KembarStore of Legend [BLOCKMO]",
-    "world": "AOV",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:29:33.139Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LanzJnk",
-    "world": "STOREC",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:29:34.767Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KembarStore of Legend [BLOCKMO]",
-    "world": "AOV",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:29:37.363Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KembarStore of Legend [BLOCKMO]",
     "world": "AOV",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-21T06:32:38.614Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:33:21.001Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Emes []",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Winter Radiance Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:33:32.806Z"
+  },
+  {
+    "player1": "DrNusa",
+    "player2": "Roxo",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Roxo",
+    "timestamp": "2026-08-21T06:33:44.813Z"
+  },
+  {
+    "player1": "Roxo",
+    "player2": "DrNusa",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrNusa",
+    "timestamp": "2026-08-21T06:33:44.813Z"
   }
 ]
