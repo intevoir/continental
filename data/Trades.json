@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrExtinct",
-    "player2": "Renting Station",
-    "world": "KAMADO",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:57:45.083Z"
-  },
-  {
-    "player1": "@Kepincut [BLOCKMO]",
-    "player2": "DrAdvance",
-    "world": "REPLAYBASE",
-    "action": "TRADE",
-    "item_name": "Kontol Gun",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrAdvance",
-    "timestamp": "2026-08-21T15:57:48.790Z"
-  },
-  {
     "player1": "DrAdvance",
     "player2": "@Kepincut [BLOCKMO]",
     "world": "REPLAYBASE",
@@ -128,5 +102,31 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-21T15:59:43.775Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "canathian []",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Telephone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-21T16:00:35.063Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "xK0ng",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-21T16:00:43.970Z"
   }
 ]
