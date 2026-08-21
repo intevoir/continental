@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrAgamemnon",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 3525,
-    "price_wl": 3525,
-    "traded_with": null,
-    "timestamp": "2026-08-20T23:47:30.222Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VOGZ",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-20T23:58:36.601Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingLort",
+    "world": "IO",
+    "action": "BUY",
+    "item_name": "Vending Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-21T00:00:48.243Z"
   }
 ]
