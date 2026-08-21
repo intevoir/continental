@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Crono69",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:00:54.921Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "canathian",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:05:00.856Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "canathian",
     "world": "BFGHANZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-21T19:09:00.911Z"
+  },
+  {
+    "player1": "DuckW",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-21T19:09:08.690Z"
+  },
+  {
+    "player1": "iam4youu",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-21T19:09:17.378Z"
   }
 ]
