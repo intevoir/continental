@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Azoid",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 23,
-    "p_name": "World Locks",
-    "p_count": 18400,
-    "price_wl": 18400,
-    "traded_with": null,
-    "timestamp": "2026-08-21T01:54:46.086Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KingLort",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 540,
     "traded_with": null,
     "timestamp": "2026-08-21T02:08:51.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DotExe",
+    "world": "JHS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 84000,
+    "price_wl": 84000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T02:10:22.221Z"
   }
 ]
