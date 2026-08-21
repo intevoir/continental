@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SuamiFurina",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 106,
-    "p_name": "World Locks",
-    "p_count": 318,
-    "price_wl": 318,
-    "traded_with": null,
-    "timestamp": "2026-08-21T12:32:18.967Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "parance",
     "world": "DISPLAY",
@@ -128,5 +115,18 @@
     "price_wl": 236,
     "traded_with": null,
     "timestamp": "2026-08-21T12:33:19.183Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SuamiFurina",
+    "world": "CHA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T12:33:40.260Z"
   }
 ]
