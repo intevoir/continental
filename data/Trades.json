@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "4KIR4",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-21T09:45:40.226Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ainow",
     "world": "BELI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-21T09:48:07.996Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Sunset Cape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-21T09:48:57.037Z"
   }
 ]
