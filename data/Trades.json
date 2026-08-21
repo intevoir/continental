@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrGillter",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Crystal Tree",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-21T00:44:45.339Z"
-  },
-  {
     "player1": "Fklng",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 81000,
     "traded_with": null,
     "timestamp": "2026-08-21T01:03:29.642Z"
+  },
+  {
+    "player1": "Mandut",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:04:04.659Z"
   }
 ]
