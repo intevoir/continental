@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Edgy []",
-    "player2": "Renting Station",
-    "world": "SUNPLAZA",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-21T08:56:10.677Z"
-  },
-  {
     "player1": "parance",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 19635,
     "traded_with": null,
     "timestamp": "2026-08-21T09:03:10.130Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5600,
+    "price_wl": 5600,
+    "traded_with": null,
+    "timestamp": "2026-08-21T09:06:11.685Z"
   }
 ]
