@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Scywin [ELITE]",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Red Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-21T01:13:56.622Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bocil23",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-21T01:17:58.836Z"
+  },
+  {
+    "player1": "AikoChan",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:19:13.190Z"
   }
 ]
