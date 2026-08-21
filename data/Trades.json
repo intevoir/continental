@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "OldSpices",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-21T10:10:01.415Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
     "world": "SPOT",
     "action": "BUY",
     "item_name": "Songpyeon",
@@ -128,5 +115,18 @@
     "price_wl": 50000,
     "traded_with": null,
     "timestamp": "2026-08-21T10:13:17.476Z"
+  },
+  {
+    "player1": "@SHIINASOBBER",
+    "player2": "Renting Station",
+    "world": "RENTMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19635,
+    "price_wl": 19635,
+    "traded_with": null,
+    "timestamp": "2026-08-21T10:13:24.615Z"
   }
 ]
