@@ -1,57 +1,5 @@
 [
   {
-    "player1": "BStarz",
-    "player2": "Buying Machine",
-    "world": "BFGNG",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T11:31:21.499Z"
-  },
-  {
-    "player1": "OldSpices",
-    "player2": "UNPA",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "UNPA",
-    "timestamp": "2026-08-21T11:31:53.189Z"
-  },
-  {
-    "player1": "UNPA",
-    "player2": "OldSpices",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 51,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "OldSpices",
-    "timestamp": "2026-08-21T11:31:53.192Z"
-  },
-  {
-    "player1": "BStarz",
-    "player2": "Buying Machine",
-    "world": "BFGNG",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T11:31:53.192Z"
-  },
-  {
     "player1": "@GotQ",
     "player2": "IyannZy of Legend [ELITE] [BLOCKMO]",
     "world": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 23500,
     "traded_with": null,
     "timestamp": "2026-08-21T11:33:17.952Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrVTCassano",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-08-21T11:33:25.654Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 520,
+    "price_wl": 520,
+    "traded_with": null,
+    "timestamp": "2026-08-21T11:33:25.658Z"
+  },
+  {
+    "player1": "DrSFC",
+    "player2": "@Eryuken",
+    "world": "OIS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Eryuken",
+    "timestamp": "2026-08-21T11:33:55.526Z"
+  },
+  {
+    "player1": "@Eryuken",
+    "player2": "DrSFC",
+    "world": "OIS",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrSFC",
+    "timestamp": "2026-08-21T11:33:55.526Z"
   }
 ]
