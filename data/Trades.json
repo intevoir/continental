@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "santnas",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Raptor Legs",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T22:04:22.510Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-21T22:25:12.165Z"
-  },
-  {
     "player1": "@Anonimousss",
     "player2": "Buying Machine",
     "world": "SHOPFAIL",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-21T22:29:06.555Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OldSpices",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-21T22:29:34.536Z"
+  },
+  {
+    "player1": "santnas",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-21T22:29:34.552Z"
   }
 ]
