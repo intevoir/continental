@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CreiFx",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:19:34.495Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LanzJnk",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:19:38.216Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PRIBSNSB",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1800,
-    "price_wl": 1800,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:19:42.374Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LanzJnk",
     "world": "BUYCSN",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-21T06:21:01.454Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:21:44.983Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@LegendQ",
+    "world": "BUYCITEM",
+    "action": "BUY",
+    "item_name": "Frost Dragon of Legend - 104",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3300000,
+    "price_wl": 3300000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:21:47.006Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LanzJnk",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Glowy Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:21:47.628Z"
   }
 ]
