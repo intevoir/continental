@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-21T10:10:29.557Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "carewyn",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Messy Brown Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-21T10:10:45.308Z"
-  },
-  {
     "player1": "Panutsa",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +102,31 @@
     "price_wl": 19635,
     "traded_with": null,
     "timestamp": "2026-08-21T10:13:24.615Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Most Wanted: DrRealB1 of Legend [HODL!] []",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 214500,
+    "price_wl": 214500,
+    "traded_with": null,
+    "timestamp": "2026-08-21T10:14:30.884Z"
+  },
+  {
+    "player1": "Panutsa",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-21T10:14:38.078Z"
   }
 ]
