@@ -1,31 +1,5 @@
 [
   {
-    "player1": "parance",
-    "player2": "Acustic of Legend [PRO ]",
-    "world": "TRADING",
-    "action": "TRADE",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Acustic of Legend [PRO ]",
-    "timestamp": "2026-08-21T09:29:04.515Z"
-  },
-  {
-    "player1": "Acustic of Legend [PRO ]",
-    "player2": "parance",
-    "world": "TRADING",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 8,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "parance",
-    "timestamp": "2026-08-21T09:29:04.519Z"
-  },
-  {
     "player1": "Acustic of Legend [PRO ]",
     "player2": "parance",
     "world": "TRADING",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-21T09:32:59.309Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RODOKS",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T09:33:51.635Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OneHP",
+    "world": "SELLCHAIN",
+    "action": "BUY",
+    "item_name": "Chain",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T09:33:59.390Z"
   }
 ]
