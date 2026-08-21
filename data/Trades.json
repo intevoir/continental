@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KembarCPS",
-    "player2": "Renting Station",
-    "world": "BLOCKMO",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 21420,
-    "price_wl": 21420,
-    "traded_with": null,
-    "timestamp": "2026-08-21T00:31:39.199Z"
-  },
-  {
     "player1": "BStarz",
     "player2": "Buying Machine",
     "world": "KKK",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "BStarz",
     "timestamp": "2026-08-21T00:40:44.042Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DexHort",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 118,
+    "p_name": "World Locks",
+    "p_count": 708,
+    "price_wl": 708,
+    "traded_with": null,
+    "timestamp": "2026-08-21T00:42:03.504Z"
   }
 ]
