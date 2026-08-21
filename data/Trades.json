@@ -4,32 +4,6 @@
     "player2": "OldSpices",
     "world": "MARKET",
     "action": "BUY",
-    "item_name": "Master Sensei's White Eyebrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-21T22:28:45.735Z"
-  },
-  {
-    "player1": "@Anonimousss",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-21T22:29:06.555Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "MARKET",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-21T22:38:11.234Z"
+  },
+  {
+    "player1": "Fklng",
+    "player2": "BfnPRINCE",
+    "world": "JOD",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 12,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BfnPRINCE",
+    "timestamp": "2026-08-21T22:40:54.982Z"
+  },
+  {
+    "player1": "BfnPRINCE",
+    "player2": "Fklng",
+    "world": "JOD",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Fklng",
+    "timestamp": "2026-08-21T22:40:54.983Z"
   }
 ]
