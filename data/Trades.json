@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PROKERZ",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 54600,
-    "price_wl": 54600,
-    "traded_with": null,
-    "timestamp": "2026-08-21T14:09:36.207Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zarn",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-08-21T14:09:36.211Z"
-  },
-  {
-    "player1": "PROKERZ",
-    "player2": "Buying Machine",
-    "world": "BFGNAL",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T14:09:36.217Z"
-  },
-  {
     "player1": "F27MAXWIN",
     "player2": "Ryyyyyy",
     "world": "F27BFG",
@@ -128,5 +89,44 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-21T14:09:58.572Z"
+  },
+  {
+    "player1": "xSmike",
+    "player2": "@vow",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 90,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@vow",
+    "timestamp": "2026-08-21T14:11:04.973Z"
+  },
+  {
+    "player1": "xSmike",
+    "player2": "@vow",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@vow",
+    "timestamp": "2026-08-21T14:11:04.974Z"
+  },
+  {
+    "player1": "@vow",
+    "player2": "xSmike",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "xSmike",
+    "timestamp": "2026-08-21T14:11:04.974Z"
   }
 ]
