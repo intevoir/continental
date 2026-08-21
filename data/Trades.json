@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "iam4youu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-08-21T18:07:01.318Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "iam4youu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-21T18:07:12.102Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrJustVins of Legend",
     "world": "WHITE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 82000,
     "traded_with": null,
     "timestamp": "2026-08-21T18:09:50.555Z"
+  },
+  {
+    "player1": "softsays",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T18:10:37.516Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "filaa",
+    "world": "WHITE",
+    "action": "BUY",
+    "item_name": "Dynamite Sparks",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-21T18:10:46.102Z"
   }
 ]
