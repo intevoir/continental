@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZhenX",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-21T10:37:49.491Z"
-  },
-  {
     "player1": "DrHmo",
     "player2": "Buying Machine",
     "world": "TRADING",
@@ -128,5 +115,18 @@
     "price_wl": 2565,
     "traded_with": null,
     "timestamp": "2026-08-21T10:40:27.334Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PENCINTAWL",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Crystal Gate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-21T10:41:30.211Z"
   }
 ]
