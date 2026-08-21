@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sciunp",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Demonic Soul Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-21T08:52:49.633Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 4050,
-    "price_wl": 4050,
-    "traded_with": null,
-    "timestamp": "2026-08-21T08:54:07.945Z"
-  },
-  {
     "player1": "DrFadilS1K",
     "player2": "Renting Station",
     "world": "FIREHAQI",
@@ -128,5 +102,31 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-08-21T08:59:33.212Z"
+  },
+  {
+    "player1": "sciunp",
+    "player2": "razi9",
+    "world": "TARKZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 33,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "razi9",
+    "timestamp": "2026-08-21T09:00:08.783Z"
+  },
+  {
+    "player1": "razi9",
+    "player2": "sciunp",
+    "world": "TARKZ",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "sciunp",
+    "timestamp": "2026-08-21T09:00:08.783Z"
   }
 ]
