@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-08-21T12:54:27.736Z"
-  },
-  {
     "player1": "SLDYUKI",
     "player2": "Buying Machine",
     "world": "BFGIBU",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-21T12:56:53.310Z"
+  },
+  {
+    "player1": "Juraganss",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-21T12:57:03.671Z"
   }
 ]
