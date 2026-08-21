@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DexHort",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 95,
-    "p_name": "World Locks",
-    "p_count": 475,
-    "price_wl": 475,
-    "traded_with": null,
-    "timestamp": "2026-08-21T00:42:44.545Z"
-  },
-  {
     "player1": "DrGillter",
     "player2": "Buying Machine",
     "world": "NMART",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-21T01:01:55.374Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMESA",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 81000,
+    "price_wl": 81000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:03:29.642Z"
   }
 ]
