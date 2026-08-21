@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RNF12",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 140,
-    "p_name": "World Locks",
-    "p_count": 840,
-    "price_wl": 840,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:44:27.811Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RNF12",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 97,
-    "p_name": "World Locks",
-    "p_count": 970,
-    "price_wl": 970,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:44:34.275Z"
-  },
-  {
     "player1": "GpUv",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-08-21T06:55:03.134Z"
+  },
+  {
+    "player1": "DuckW",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:57:33.836Z"
+  },
+  {
+    "player1": "DuckW",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:57:45.811Z"
   }
 ]
