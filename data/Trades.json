@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrGillter",
-    "world": "BIRU",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 815,
-    "price_wl": 815,
-    "traded_with": null,
-    "timestamp": "2026-08-21T01:12:20.453Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fklng",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-21T01:13:12.012Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fklng",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-08-21T01:15:18.910Z"
+  },
+  {
+    "player1": "BagusV1",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:16:00.988Z"
+  },
+  {
+    "player1": "Aweis",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 202,
+    "p_name": "World Locks",
+    "p_count": 9494,
+    "price_wl": 9494,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:16:01.005Z"
   }
 ]
