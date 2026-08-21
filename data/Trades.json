@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ryyyyyy",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-21T21:04:06.710Z"
-  },
-  {
-    "player1": "PrinceKyzen",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T21:05:17.064Z"
-  },
-  {
     "player1": "PrinceKyzen",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-21T21:08:08.494Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aiwan",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 406,
+    "price_wl": 406,
+    "traded_with": null,
+    "timestamp": "2026-08-21T21:08:41.119Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3550,
+    "price_wl": 3550,
+    "traded_with": null,
+    "timestamp": "2026-08-21T21:09:08.640Z"
   }
 ]
