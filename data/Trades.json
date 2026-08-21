@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Agusmakankecap",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:53:11.510Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HAMZCIT1",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 140,
-    "p_name": "World Locks",
-    "p_count": 109200,
-    "price_wl": 109200,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:53:42.046Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Mirazaki [ELITE]",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-21T15:55:22.391Z"
+  },
+  {
+    "player1": "canathian []",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:56:26.266Z"
+  },
+  {
+    "player1": "NIMA",
+    "player2": "Renting Station",
+    "world": "SUCI",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19635,
+    "price_wl": 19635,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:56:43.237Z"
   }
 ]
