@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "EinstShiny_190",
-    "world": "HWN",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 175,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-08-21T23:40:45.067Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
     "world": "8T",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-08-21T23:44:16.630Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAgamemnon",
+    "world": "8T",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-21T23:50:49.118Z"
   }
 ]
