@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Kepincut [BLOCKMO]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-21T16:25:20.049Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrKESH",
     "world": "BFGUA",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-08-21T16:48:24.628Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-08-21T16:48:56.610Z"
   }
 ]
