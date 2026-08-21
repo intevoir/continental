@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BangKatzo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 163,
-    "p_name": "World Locks",
-    "p_count": 978,
-    "price_wl": 978,
-    "traded_with": null,
-    "timestamp": "2026-08-21T08:48:31.892Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sciunp",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Nightmare Devil Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-21T08:49:05.580Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArrangGT",
     "world": "BFGADVAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20825,
     "traded_with": null,
     "timestamp": "2026-08-21T08:54:30.831Z"
+  },
+  {
+    "player1": "LucyDemon",
+    "player2": "Buying Machine",
+    "world": "EABFG",
+    "action": "SELL",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250000,
+    "price_wl": 250000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T08:55:07.838Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-21T08:55:07.856Z"
   }
 ]
