@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LanzJnk",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Balloon Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-21T06:20:18.138Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PRIBSNSB",
     "world": "BUYCSN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-21T06:21:47.628Z"
+  },
+  {
+    "player1": "Rcghost",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-21T06:22:31.586Z"
   }
 ]
