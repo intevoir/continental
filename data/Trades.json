@@ -1,18 +1,5 @@
 [
   {
-    "player1": "wintered",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T11:39:00.108Z"
-  },
-  {
     "player1": "NakPeguyangan",
     "player2": "Renting Station",
     "world": "KANTIN",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-21T11:43:10.494Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "wintered",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-08-21T11:43:58.416Z"
   }
 ]
