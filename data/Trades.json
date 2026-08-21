@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrPesiar [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-21T09:28:31.851Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "parance",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-21T09:30:04.392Z"
+  },
+  {
+    "player1": "otulo",
+    "player2": "Buying Machine",
+    "world": "WHOLESALESTORE",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T09:30:46.477Z"
   }
 ]
