@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "xK0ng",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Yin Yang Pendant",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:34:31.649Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zarn",
     "world": "BUYTAIL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "JeongGuwon",
     "timestamp": "2026-08-21T19:47:13.850Z"
+  },
+  {
+    "player1": "GLHYX",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Super Mario",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-21T19:58:26.237Z"
   }
 ]
