@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingLort",
-    "world": "IO",
-    "action": "BUY",
-    "item_name": "Vending Machine",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-21T00:00:48.243Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fklng",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-21T00:03:30.264Z"
+  },
+  {
+    "player1": "@Eryuken",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-21T00:06:47.133Z"
   }
 ]
