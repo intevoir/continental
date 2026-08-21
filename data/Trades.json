@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "canathian []",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:21:01.027Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "BFGUA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 125,
-    "p_name": "World Locks",
-    "p_count": 95000,
-    "price_wl": 95000,
-    "traded_with": null,
-    "timestamp": "2026-08-21T15:22:01.200Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Motobe",
     "world": "BFGUA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-21T15:24:09.105Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iNearyGT",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Assassin's Creed: Renaissance Road",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:24:32.204Z"
+  },
+  {
+    "player1": "Fiura",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 28,
+    "p_name": "World Locks",
+    "p_count": 2240,
+    "price_wl": 2240,
+    "traded_with": null,
+    "timestamp": "2026-08-21T15:25:01.049Z"
   }
 ]
