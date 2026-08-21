@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "henhau1",
-    "world": "BFGT",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-21T04:43:58.305Z"
-  },
-  {
     "player1": "woi1",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-21T04:48:00.516Z"
+  },
+  {
+    "player1": "CoolWoah",
+    "player2": "Renting Station",
+    "world": "BA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-21T04:50:00.616Z"
   }
 ]
