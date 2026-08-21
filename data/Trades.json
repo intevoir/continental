@@ -4,19 +4,6 @@
     "player2": "JeongGuwon",
     "world": "6SHOP",
     "action": "BUY",
-    "item_name": "Weather Machine - Apocalypse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-21T00:34:59.802Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JeongGuwon",
-    "world": "6SHOP",
-    "action": "BUY",
     "item_name": "Weather Machine - Concert Lights",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 475,
     "traded_with": null,
     "timestamp": "2026-08-21T00:42:44.545Z"
+  },
+  {
+    "player1": "DrGillter",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Crystal Tree",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-21T00:44:45.339Z"
   }
 ]
