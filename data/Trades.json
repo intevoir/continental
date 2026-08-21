@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "canathian",
-    "world": "BFGADVAN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-21T17:03:42.986Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@OliviaGrowtopia",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 202500,
-    "price_wl": 202500,
-    "traded_with": null,
-    "timestamp": "2026-08-21T17:04:32.102Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Saber of Legend",
     "world": "MANDI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-21T17:50:21.523Z"
+  },
+  {
+    "player1": "@GotQ",
+    "player2": "Buying Machine",
+    "world": "DMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-21T17:50:52.616Z"
+  },
+  {
+    "player1": "@GotQ",
+    "player2": "Buying Machine",
+    "world": "DMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 194,
+    "p_name": "World Locks",
+    "p_count": 3880,
+    "price_wl": 3880,
+    "traded_with": null,
+    "timestamp": "2026-08-21T17:51:03.741Z"
   }
 ]
