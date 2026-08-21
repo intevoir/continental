@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GIH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:26:03.221Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "xK0ng",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Snow Leopard Tail",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:27:04.016Z"
-  },
-  {
-    "player1": "Dzikajalah",
-    "player2": "Renting Station",
-    "world": "BFGNG",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2975,
-    "price_wl": 2975,
-    "traded_with": null,
-    "timestamp": "2026-08-21T19:27:04.030Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "xK0ng",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-21T19:46:23.382Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "xK0ng",
+    "world": "SHIRT",
+    "action": "BUY",
+    "item_name": "Death's Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-21T19:47:13.825Z"
+  },
+  {
+    "player1": "JeongGuwon",
+    "player2": "JustVins of Legend",
+    "world": "MAFIA",
+    "action": "TRADE",
+    "item_name": "Pruy's Bahlil Face",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JustVins of Legend",
+    "timestamp": "2026-08-21T19:47:13.844Z"
+  },
+  {
+    "player1": "JustVins of Legend",
+    "player2": "JeongGuwon",
+    "world": "MAFIA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JeongGuwon",
+    "timestamp": "2026-08-21T19:47:13.850Z"
   }
 ]
