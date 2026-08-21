@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SHA [SUPER] [PRO ]",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-21T01:28:15.656Z"
-  },
-  {
     "player1": "ItsDva",
     "player2": "Renting Station",
     "world": "KANTIN",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-21T01:43:21.679Z"
+  },
+  {
+    "player1": "CsperLEK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-21T01:45:43.125Z"
   }
 ]
