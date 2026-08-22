@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Cicoww",
-    "player2": "Renting Station",
-    "world": "FIREHAQI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20825,
-    "price_wl": 20825,
-    "traded_with": null,
-    "timestamp": "2026-08-22T12:15:44.195Z"
-  },
-  {
-    "player1": "MazdaN",
-    "player2": "@LegendQ",
-    "world": "CSNQ",
-    "action": "TRADE",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@LegendQ",
-    "timestamp": "2026-08-22T12:15:44.215Z"
-  },
-  {
     "player1": "@LegendQ",
     "player2": "MazdaN",
     "world": "CSNQ",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-22T12:19:45.690Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAgamemnon",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Huge Lock",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-22T12:20:01.518Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Legendsxyzs",
+    "world": "BFGERN",
+    "action": "BUY",
+    "item_name": "Ancient Altar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-22T12:20:13.101Z"
   }
 ]
