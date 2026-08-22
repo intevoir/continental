@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HACLONE",
-    "world": "HYBAR",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-08-22T08:53:54.514Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HACLONE",
-    "world": "HYBAR",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T08:54:17.422Z"
-  },
-  {
     "player1": "ShapakID",
     "player2": "Renting Station",
     "world": "53",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-08-22T09:00:56.287Z"
+  },
+  {
+    "player1": "DrIitch",
+    "player2": "Moyy of Legend []",
+    "world": "BUYOBLIVION",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 86,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Moyy of Legend []",
+    "timestamp": "2026-08-22T09:02:06.173Z"
+  },
+  {
+    "player1": "Moyy of Legend []",
+    "player2": "DrIitch",
+    "world": "BUYOBLIVION",
+    "action": "TRADE",
+    "item_name": "Oblivion Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrIitch",
+    "timestamp": "2026-08-22T09:02:06.178Z"
   }
 ]
