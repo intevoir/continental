@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "N1XS",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T20:46:16.803Z"
-  },
-  {
     "player1": "LucyDemon",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-22T21:00:15.280Z"
+  },
+  {
+    "player1": "xK0ng",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-22T21:01:14.952Z"
   }
 ]
