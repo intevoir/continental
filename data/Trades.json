@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lippiew",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-22T15:57:14.499Z"
-  },
-  {
     "player1": "PREAPSOVATH",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-22T16:01:37.736Z"
+  },
+  {
+    "player1": "Rexamon",
+    "player2": "Renting Station",
+    "world": "SET",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-22T16:02:46.388Z"
   }
 ]
