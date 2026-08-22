@@ -1,44 +1,5 @@
 [
   {
-    "player1": "SdachBOT",
-    "player2": "KomuS",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 50,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "KomuS",
-    "timestamp": "2026-08-22T03:57:15.238Z"
-  },
-  {
-    "player1": "KomuS",
-    "player2": "SdachBOT",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "SdachBOT",
-    "timestamp": "2026-08-22T03:57:15.242Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lomazon",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-22T03:58:02.088Z"
-  },
-  {
     "player1": "@Bang",
     "player2": "Akvrn",
     "world": "MURAH",
@@ -128,5 +89,44 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-08-22T04:00:23.652Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lomazon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-22T04:01:02.042Z"
+  },
+  {
+    "player1": "PrinceKyzen",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-22T04:01:05.669Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lomazon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-08-22T04:01:08.979Z"
   }
 ]
