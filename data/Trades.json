@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Juraganss",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-08-22T00:19:33.225Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "BLOCKW",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 195,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-08-22T00:19:33.231Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RealHubby",
     "world": "BLOCKW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-22T00:21:46.629Z"
+  },
+  {
+    "player1": "Solomon",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-08-22T00:23:33.955Z"
+  },
+  {
+    "player1": "Solomon",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1900,
+    "price_wl": 1900,
+    "traded_with": null,
+    "timestamp": "2026-08-22T00:23:33.972Z"
   }
 ]
