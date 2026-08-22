@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VANOSS",
-    "world": "CBS",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-22T03:26:48.263Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fklng",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-22T03:31:50.467Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VANOSS",
+    "world": "BUYBRIEF",
+    "action": "BUY",
+    "item_name": "Legal Briefs",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-08-22T03:32:59.943Z"
   }
 ]
