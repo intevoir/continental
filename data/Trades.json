@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T09:21:48.626Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Listens",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-08-22T09:28:51.294Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Btg",
+    "world": "VENDS",
+    "action": "BUY",
+    "item_name": "Donut Donation Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-22T09:30:43.795Z"
   }
 ]
