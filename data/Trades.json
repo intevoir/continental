@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DarkSysTems2",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-22T11:07:20.015Z"
-  },
-  {
-    "player1": "XIXA",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-22T11:07:20.032Z"
-  },
-  {
     "player1": "hooks",
     "player2": "Renting Station",
     "world": "LIST2",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-22T11:09:37.737Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XCMS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-08-22T11:10:25.624Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kiel01",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Pineapple Plough",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-22T11:10:25.641Z"
   }
 ]
