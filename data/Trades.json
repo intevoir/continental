@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tbsj",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Shop Sign",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-08-22T18:01:01.067Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DDMU",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T18:01:23.687Z"
-  },
-  {
     "player1": "NightDone",
     "player2": "Buying Machine",
     "world": "BFGIBU",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-08-22T18:15:26.037Z"
+  },
+  {
+    "player1": "DDMU []",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 246,
+    "p_name": "World Locks",
+    "p_count": 492,
+    "price_wl": 492,
+    "traded_with": null,
+    "timestamp": "2026-08-22T18:16:21.162Z"
+  },
+  {
+    "player1": "DDMU []",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-22T18:16:26.065Z"
   }
 ]
