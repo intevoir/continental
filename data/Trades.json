@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tbsj",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-08-22T07:58:02.842Z"
-  },
-  {
-    "player1": "parance",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5001,
-    "price_wl": 5001,
-    "traded_with": null,
-    "timestamp": "2026-08-22T07:58:26.638Z"
-  },
-  {
     "player1": "Raxy8",
     "player2": "Buying Machine",
     "world": "BFGIBU",
@@ -128,5 +102,31 @@
     "price_wl": 238,
     "traded_with": null,
     "timestamp": "2026-08-22T07:59:42.880Z"
+  },
+  {
+    "player1": "Jack of Legend [PRO ] []",
+    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "world": "BUYOBLIVION",
+    "action": "TRADE",
+    "item_name": "Oblivion Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "timestamp": "2026-08-22T08:00:32.597Z"
+  },
+  {
+    "player1": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "player2": "Jack of Legend [PRO ] []",
+    "world": "BUYOBLIVION",
+    "action": "TRADE",
+    "item_name": "Legendary Abyssal Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Jack of Legend [PRO ] []",
+    "timestamp": "2026-08-22T08:00:32.598Z"
   }
 ]
