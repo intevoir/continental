@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "cobalray1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T05:04:04.023Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MarcelOky",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T05:05:05.312Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MarcelOky",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T05:05:07.676Z"
-  },
-  {
     "player1": "cobalray1",
     "player2": "Renting Station",
     "world": "HYBAR",
@@ -128,5 +89,44 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-08-22T05:08:48.657Z"
+  },
+  {
+    "player1": "DrPesiar [ELITE]",
+    "player2": "Dr652 [SUPER]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr652 [SUPER]",
+    "timestamp": "2026-08-22T05:10:00.614Z"
+  },
+  {
+    "player1": "DrPesiar [ELITE]",
+    "player2": "Dr652 [SUPER]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr652 [SUPER]",
+    "timestamp": "2026-08-22T05:10:00.617Z"
+  },
+  {
+    "player1": "Dr652 [SUPER]",
+    "player2": "DrPesiar [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Golden Heartthrob Helm",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrPesiar [ELITE]",
+    "timestamp": "2026-08-22T05:10:00.618Z"
   }
 ]
