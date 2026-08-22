@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "bangnix",
-    "world": "AZZES",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 19800,
-    "price_wl": 19800,
-    "traded_with": null,
-    "timestamp": "2026-08-22T22:55:51.231Z"
-  },
-  {
     "player1": "@SenzuParker",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-22T23:00:54.271Z"
+  },
+  {
+    "player1": "Dr939",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-08-22T23:01:55.208Z"
   }
 ]
