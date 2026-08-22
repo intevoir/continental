@@ -1,31 +1,5 @@
 [
   {
-    "player1": "XIXA",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-22T11:14:38.142Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BUYWALLPAPER",
-    "action": "BUY",
-    "item_name": "Cotton Candy Swirl Background",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-22T11:14:50.397Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "BUYWALLPAPER",
@@ -128,5 +102,31 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-08-22T11:15:23.035Z"
+  },
+  {
+    "player1": "XIXA",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-08-22T11:15:35.249Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Solomon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 20700,
+    "price_wl": 20700,
+    "traded_with": null,
+    "timestamp": "2026-08-22T11:15:35.269Z"
   }
 ]
