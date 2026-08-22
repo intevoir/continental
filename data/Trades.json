@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "M1K0",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-22T21:23:38.669Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "YouOne",
     "world": "MARTS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-22T21:42:52.449Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YouOne",
+    "world": "STEAM",
+    "action": "BUY",
+    "item_name": "Steam Collector",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-22T21:43:34.020Z"
   }
 ]
