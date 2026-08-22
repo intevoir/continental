@@ -4,32 +4,6 @@
     "player2": "Vile of Legend",
     "world": "MARKET",
     "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-08-22T21:02:42.111Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vile of Legend",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T21:03:15.744Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vile of Legend",
-    "world": "MARKET",
-    "action": "BUY",
     "item_name": "Red Crystal",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-22T21:21:22.970Z"
+  },
+  {
+    "player1": "@Anonimousss",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-22T21:22:22.516Z"
+  },
+  {
+    "player1": "@Anonimousss",
+    "player2": "Renting Station",
+    "world": "53",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-22T21:22:27.000Z"
   }
 ]
