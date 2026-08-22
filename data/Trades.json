@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Brokee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T06:38:21.679Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Emes",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Eldritch Eyes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T06:38:54.084Z"
-  },
-  {
     "player1": "Rtsdvsn",
     "player2": "Renting Station",
     "world": "TRADING",
@@ -128,5 +102,31 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-08-22T06:42:54.520Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BaliPeople",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-22T06:44:57.151Z"
+  },
+  {
+    "player1": "ZFinery",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-22T06:45:07.487Z"
   }
 ]
