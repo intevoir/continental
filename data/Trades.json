@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Bird [PRO ] [] [RICH]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 52010,
-    "price_wl": 52010,
-    "traded_with": null,
-    "timestamp": "2026-08-22T15:16:58.186Z"
-  },
-  {
     "player1": "KingApet",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-22T15:22:06.498Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GHONDUR",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 95,
+    "price_wl": 95,
+    "traded_with": null,
+    "timestamp": "2026-08-22T15:23:24.231Z"
   }
 ]
