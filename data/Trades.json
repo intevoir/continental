@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LIENO",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "No-Face",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-22T22:30:49.763Z"
-  },
-  {
-    "player1": "XIXA",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-22T22:30:59.996Z"
-  },
-  {
     "player1": "XIXA",
     "player2": "Buying Machine",
     "world": "TRADING",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-22T22:48:58.057Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bangnix",
+    "world": "AZZES",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-22T22:49:48.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bangnix",
+    "world": "AZZES",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-22T22:49:48.271Z"
   }
 ]
