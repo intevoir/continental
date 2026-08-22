@@ -4,32 +4,6 @@
     "player2": "Listens",
     "world": "SET",
     "action": "BUY",
-    "item_name": "Ancestral Seed of Life",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T08:51:53.858Z"
-  },
-  {
-    "player1": "Cept [ELITE]",
-    "player2": "Renting Station",
-    "world": "ISPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16065,
-    "price_wl": 16065,
-    "traded_with": null,
-    "timestamp": "2026-08-22T08:51:53.874Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Listens",
-    "world": "SET",
-    "action": "BUY",
     "item_name": "Ancestral Totem of Wisdom",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 2870,
     "traded_with": null,
     "timestamp": "2026-08-22T08:53:14.412Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HACLONE",
+    "world": "HYBAR",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:53:54.514Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HACLONE",
+    "world": "HYBAR",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:54:17.422Z"
   }
 ]
