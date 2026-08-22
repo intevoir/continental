@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BaliPeople",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2350,
-    "price_wl": 2350,
-    "traded_with": null,
-    "timestamp": "2026-08-22T03:25:44.546Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VANOSS",
     "world": "CBS",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-22T03:28:14.721Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SINGKU",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 5460,
+    "price_wl": 5460,
+    "traded_with": null,
+    "timestamp": "2026-08-22T03:28:45.588Z"
   }
 ]
