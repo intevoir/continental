@@ -2,32 +2,6 @@
   {
     "player1": "DDMU",
     "player2": "Buying Machine",
-    "world": "MYGEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T16:59:40.250Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Fish Tank",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-22T17:00:10.164Z"
-  },
-  {
-    "player1": "DDMU",
-    "player2": "Buying Machine",
     "world": "NMART",
     "action": "SELL",
     "item_name": "Haunted Chemical",
@@ -128,5 +102,31 @@
     "price_wl": 1450,
     "traded_with": null,
     "timestamp": "2026-08-22T17:01:05.666Z"
+  },
+  {
+    "player1": "DDMU",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-08-22T17:01:13.654Z"
+  },
+  {
+    "player1": "DDMU",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-22T17:01:40.291Z"
   }
 ]
