@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Semua",
-    "world": "HA",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T13:31:41.113Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Peleruu",
     "world": "CBS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Open of Legend [ELITE] [RICH]",
     "timestamp": "2026-08-22T13:34:09.654Z"
+  },
+  {
+    "player1": "RNF12",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000000,
+    "price_wl": 3000000,
+    "traded_with": null,
+    "timestamp": "2026-08-22T13:35:43.543Z"
   }
 ]
