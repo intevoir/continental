@@ -1,31 +1,5 @@
 [
   {
-    "player1": "heny",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-22T13:02:31.537Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Btg",
-    "world": "BUYTELEPON",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T13:02:39.655Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wellplayer",
     "world": "HYBAR",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-22T13:09:52.399Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Upods",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 198750,
+    "price_wl": 198750,
+    "traded_with": null,
+    "timestamp": "2026-08-22T13:11:04.476Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKmetsch",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Heart Monitor",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-22T13:11:34.061Z"
   }
 ]
