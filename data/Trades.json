@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fklng",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T03:27:11.769Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AkoSiNishikata",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-22T03:27:48.814Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AkoSiNishikata",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 35000,
     "traded_with": null,
     "timestamp": "2026-08-22T03:32:59.943Z"
+  },
+  {
+    "player1": "GadaCB",
+    "player2": "Renting Station",
+    "world": "C9Q",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-22T03:33:54.342Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fklng",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-22T03:34:15.147Z"
   }
 ]
