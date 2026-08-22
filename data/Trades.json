@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zarn",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-08-22T10:40:25.317Z"
-  },
-  {
     "player1": "DDMU",
     "player2": "Buying Machine",
     "world": "NMART",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-22T10:42:09.314Z"
+  },
+  {
+    "player1": "DDMU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 475,
+    "price_wl": 475,
+    "traded_with": null,
+    "timestamp": "2026-08-22T10:42:38.009Z"
   }
 ]
