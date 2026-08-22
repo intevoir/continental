@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Brokee",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T19:04:38.680Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ChikaMiix",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Haunted Chemical",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T19:05:47.410Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ChikaMiix",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Unearthly Chemical",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T19:06:04.810Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RODOKS",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 170,
-    "price_wl": 170,
-    "traded_with": null,
-    "timestamp": "2026-08-22T19:07:34.871Z"
-  },
-  {
     "player1": "M1K0",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 22500,
     "traded_with": null,
     "timestamp": "2026-08-22T19:20:02.712Z"
+  },
+  {
+    "player1": "Brokee",
+    "player2": "Buying Machine",
+    "world": "DSHS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 23550,
+    "price_wl": 23550,
+    "traded_with": null,
+    "timestamp": "2026-08-22T19:20:40.983Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Brokee",
+    "world": "LIBUR",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 22500,
+    "price_wl": 22500,
+    "traded_with": null,
+    "timestamp": "2026-08-22T19:20:41.002Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AurelNathalie",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 5049,
+    "price_wl": 5049,
+    "traded_with": null,
+    "timestamp": "2026-08-22T19:21:01.460Z"
+  },
+  {
+    "player1": "Brokee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3750,
+    "price_wl": 3750,
+    "traded_with": null,
+    "timestamp": "2026-08-22T19:21:09.139Z"
   }
 ]
