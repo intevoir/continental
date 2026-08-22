@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ClBarton",
-    "player2": "Buying Machine",
-    "world": "MARKET",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T23:49:07.015Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FLAIRx",
     "world": "0RENT",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-22T23:58:21.513Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "jaegerw",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-22T23:59:00.523Z"
   }
 ]
