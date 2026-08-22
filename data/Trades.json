@@ -1,18 +1,5 @@
 [
   {
-    "player1": "hooks",
-    "player2": "Buying Machine",
-    "world": "BFGIFUN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 18750,
-    "price_wl": 18750,
-    "traded_with": null,
-    "timestamp": "2026-08-22T11:00:17.651Z"
-  },
-  {
     "player1": "GROWBIBI",
     "player2": "Renting Station",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-22T11:02:22.787Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAgamemnon",
+    "world": "VENDS",
+    "action": "BUY",
+    "item_name": "Huge Lock",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-22T11:03:22.105Z"
   }
 ]
