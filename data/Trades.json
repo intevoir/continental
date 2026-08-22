@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Emes",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Royal Lightning Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-22T06:37:59.678Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Brokee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 24000,
-    "price_wl": 24000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T06:38:09.429Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Brokee",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-22T06:42:16.041Z"
+  },
+  {
+    "player1": "BucksAzure_304",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-08-22T06:42:54.512Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "BOOST",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-08-22T06:42:54.520Z"
   }
 ]
