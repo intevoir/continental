@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RayyLOL",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Duct Tape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T08:16:37.207Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zavlya",
     "world": "SHOP1",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 35,
     "traded_with": null,
     "timestamp": "2026-08-22T08:19:02.146Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zavlya",
+    "world": "SHOP3",
+    "action": "BUY",
+    "item_name": "Diamond Lollipop Garden",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:19:26.800Z"
   }
 ]
