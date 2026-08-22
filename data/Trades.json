@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lippiew",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 198,
-    "p_name": "World Locks",
-    "p_count": 66,
-    "price_wl": 66,
-    "traded_with": null,
-    "timestamp": "2026-08-22T15:57:14.524Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrAgamemnon",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-22T16:02:50.164Z"
+  },
+  {
+    "player1": "VinnPY",
+    "player2": "Buying Machine",
+    "world": "KANTIN",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 224,
+    "price_wl": 224,
+    "traded_with": null,
+    "timestamp": "2026-08-22T16:03:34.985Z"
   }
 ]
