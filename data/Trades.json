@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VinnPY",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-22T01:03:50.799Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ainow",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-08-22T01:10:25.054Z"
+  },
+  {
+    "player1": "@CloudeyX9",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Ghostface Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8330,
+    "price_wl": 8330,
+    "traded_with": null,
+    "timestamp": "2026-08-22T01:12:10.225Z"
   }
 ]
