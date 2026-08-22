@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrMESA",
-    "player2": "Buying Machine",
-    "world": "MARKET",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-22T04:10:03.492Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrHarrington",
     "world": "MURAH",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-22T04:16:25.901Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MondySl",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-22T04:17:12.858Z"
   }
 ]
