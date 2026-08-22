@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DDMU",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-22T14:37:43.422Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ArsyaMauBmw",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "ELPABS",
     "timestamp": "2026-08-22T14:46:55.467Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 18600,
+    "price_wl": 18600,
+    "traded_with": null,
+    "timestamp": "2026-08-22T14:47:45.963Z"
   }
 ]
