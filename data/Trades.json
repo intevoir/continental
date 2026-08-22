@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AurelNathalie",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Crystal Gate",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-22T20:09:19.337Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Arcteryx",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50000,
     "traded_with": null,
     "timestamp": "2026-08-22T20:33:08.861Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gunungkidul",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 780,
+    "price_wl": 780,
+    "traded_with": null,
+    "timestamp": "2026-08-22T20:34:08.860Z"
   }
 ]
