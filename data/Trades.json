@@ -1,18 +1,5 @@
 [
   {
-    "player1": "X0X0",
-    "player2": "Buying Machine",
-    "world": "DSHS",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 32,
-    "p_name": "World Locks",
-    "p_count": 25120,
-    "price_wl": 25120,
-    "traded_with": null,
-    "timestamp": "2026-08-22T10:18:20.979Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrBukuRusak",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-22T10:20:18.664Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBukuRusak",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-22T10:21:14.597Z"
   }
 ]
