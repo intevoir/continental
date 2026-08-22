@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drpdqu",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Blue Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-22T07:59:38.638Z"
-  },
-  {
-    "player1": "M4K",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-08-22T07:59:42.880Z"
-  },
-  {
-    "player1": "Jack of Legend [PRO ] []",
-    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
-    "world": "BUYOBLIVION",
-    "action": "TRADE",
-    "item_name": "Oblivion Scythe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
-    "timestamp": "2026-08-22T08:00:32.597Z"
-  },
-  {
-    "player1": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "BUYOBLIVION",
-    "action": "TRADE",
-    "item_name": "Legendary Abyssal Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Jack of Legend [PRO ] []",
-    "timestamp": "2026-08-22T08:00:32.598Z"
-  },
-  {
     "player1": "Raxy8",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-08-22T08:02:47.908Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BotVinn",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:03:42.470Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "irenkback",
+    "world": "IVU",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 181,
+    "p_name": "World Locks",
+    "p_count": 1448,
+    "price_wl": 1448,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:03:49.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BotVinn",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:03:49.648Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "irenkback",
+    "world": "IVU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 36,
+    "price_wl": 36,
+    "traded_with": null,
+    "timestamp": "2026-08-22T08:03:59.749Z"
   }
 ]
