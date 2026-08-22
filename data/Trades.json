@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "N1XS",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-22T20:39:11.121Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "N1XS",
     "world": "BUYCSN",
     "action": "BUY",
     "item_name": "Heartbow",
@@ -128,5 +115,18 @@
     "price_wl": 1020,
     "traded_with": null,
     "timestamp": "2026-08-22T20:58:26.822Z"
+  },
+  {
+    "player1": "xK0ng",
+    "player2": "Renting Station",
+    "world": "NMART",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-22T21:00:15.280Z"
   }
 ]
