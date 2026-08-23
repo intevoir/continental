@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "QIZAN",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-23T06:42:18.958Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TrioGT",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T06:42:56.464Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GHONDUR",
     "world": "FREERENT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-23T06:47:05.926Z"
+  },
+  {
+    "player1": "onlyhero",
+    "player2": "Renting Station",
+    "world": "AFKS",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-23T06:47:46.571Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrVendinQ [ELITE]",
+    "world": "ML",
+    "action": "BUY",
+    "item_name": "Infernal Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T06:47:46.582Z"
   }
 ]
