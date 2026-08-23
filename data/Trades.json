@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MadHIGH",
-    "world": "VENDO",
-    "action": "BUY",
-    "item_name": "Cigar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-23T13:45:36.861Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TheGreatAlpha",
-    "world": "BUYGBC",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-08-23T13:45:36.867Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TheGreatAlpha",
     "world": "BUYGBC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-08-23T13:47:39.069Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "SELLLC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-23T13:47:41.646Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "SELLLC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-23T13:47:45.032Z"
   }
 ]
