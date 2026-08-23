@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Shop [ELITE] [PRO ] []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Shifty Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T03:08:48.914Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Shop [ELITE] [PRO ] []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-23T03:08:55.867Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CPSxSICE",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-23T03:10:51.070Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@RIP []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-08-23T03:11:26.019Z"
+  },
+  {
+    "player1": "DrBukuRusak",
+    "player2": "Renting Station",
+    "world": "NJUN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-23T03:11:26.039Z"
   }
 ]
