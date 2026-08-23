@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingXury",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-23T08:28:51.726Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RayyLOL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-23T08:29:32.530Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rextboy",
     "world": "SUPERS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-23T08:32:09.624Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-23T08:33:46.747Z"
+  },
+  {
+    "player1": "VinnPY",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-23T08:33:55.118Z"
   }
 ]
