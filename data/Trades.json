@@ -5,19 +5,6 @@
     "world": "VEND1B",
     "action": "BUY",
     "item_name": "Roulette Wheel",
-    "item_count": 190,
-    "p_name": "World Locks",
-    "p_count": 19,
-    "price_wl": 19,
-    "traded_with": null,
-    "timestamp": "2026-08-23T08:31:34.028Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XCMS",
-    "world": "VEND1B",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
     "item_count": 60,
     "p_name": "World Locks",
     "p_count": 6,
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-23T08:35:04.922Z"
+  },
+  {
+    "player1": "Arniuss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T08:36:04.415Z"
   }
 ]
