@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "xKira",
-    "world": "BITCOIN",
-    "action": "BUY",
-    "item_name": "Old Crystal Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:54:48.873Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KingLort",
     "world": "PAPI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-23T14:57:34.467Z"
+  },
+  {
+    "player1": "Darrick",
+    "player2": "Buying Machine",
+    "world": "BFGPWD",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 126,
+    "price_wl": 126,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:58:39.895Z"
   }
 ]
