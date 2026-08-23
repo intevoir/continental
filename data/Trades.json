@@ -4,19 +4,6 @@
     "player2": "KaiSmitch",
     "world": "VENDS",
     "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:39:07.622Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "VENDS",
-    "action": "BUY",
     "item_name": "Surgical Anesthetic",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1071,
     "traded_with": null,
     "timestamp": "2026-08-23T15:41:24.212Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "DBS",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:41:35.726Z"
   }
 ]
