@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "X0X0",
-    "world": "BUYDTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 237,
-    "p_name": "World Locks",
-    "p_count": 1185,
-    "price_wl": 1185,
-    "traded_with": null,
-    "timestamp": "2026-08-23T11:08:56.062Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "[ELITE]",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-23T11:10:01.241Z"
+  },
+  {
+    "player1": "RODOKS",
+    "player2": "Renting Station",
+    "world": "HEY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19635,
+    "price_wl": 19635,
+    "traded_with": null,
+    "timestamp": "2026-08-23T11:10:26.034Z"
   }
 ]
