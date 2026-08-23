@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrEnalStore",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 94,
-    "price_wl": 94,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:04:01.098Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mystrix",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:05:01.364Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mystrix",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:05:10.366Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZetsuNii",
     "world": "PLAZA",
@@ -128,5 +89,44 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-08-23T22:12:21.856Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZetsuNii",
+    "world": "BUYCONSUMABLE",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 110,
+    "p_name": "World Locks",
+    "p_count": 220,
+    "price_wl": 220,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:13:24.359Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZetsuNii",
+    "world": "BUYCONSUMABLE",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 54,
+    "price_wl": 54,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:13:28.153Z"
+  },
+  {
+    "player1": "Drbidang",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:13:52.860Z"
   }
 ]
