@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OneHP",
-    "world": "BUYLIGHT",
-    "action": "BUY",
-    "item_name": "Lightning Lord's Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-23T17:54:43.237Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fhira",
     "world": "CERAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-23T18:01:40.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gyuto",
+    "world": "XML",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-23T18:02:51.121Z"
   }
 ]
