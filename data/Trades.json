@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "VENDS",
-    "action": "BUY",
-    "item_name": "Surgical Splint",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:40:03.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "VENDS",
-    "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:40:14.283Z"
-  },
-  {
     "player1": "@Tenkai",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-08-23T15:43:30.310Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:44:12.242Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:44:44.496Z"
   }
 ]
