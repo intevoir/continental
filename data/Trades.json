@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMythicalFist [ELITE]",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Sheet Music: Sharp Bass",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-23T16:55:33.354Z"
-  },
-  {
-    "player1": "DrOsmora",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-23T16:57:31.960Z"
-  },
-  {
     "player1": "OldSpices",
     "player2": "Renting Station",
     "world": "RAGRENT",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-08-23T16:58:45.745Z"
+  },
+  {
+    "player1": "DrGojira",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "dDraco's Chariot Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-08-23T16:59:31.739Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Open of Legend [ELITE] [RICH]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 4290,
+    "price_wl": 4290,
+    "traded_with": null,
+    "timestamp": "2026-08-23T16:59:54.366Z"
   }
 ]
