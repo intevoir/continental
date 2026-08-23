@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SkyDeath",
-    "player2": "Azad",
-    "world": "AZZES",
-    "action": "TRADE",
-    "item_name": "Ultra World Spray",
-    "item_count": 111,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Azad",
-    "timestamp": "2026-08-23T08:14:25.721Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lali",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-23T08:16:46.141Z"
+  },
+  {
+    "player1": "DrAdvance",
+    "player2": "Buying Machine",
+    "world": "PIG",
+    "action": "SELL",
+    "item_name": "Phoenix Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T08:17:43.990Z"
   }
 ]
