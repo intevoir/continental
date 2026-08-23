@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AldiTuru",
-    "world": "JUBEL",
-    "action": "BUY",
-    "item_name": "The Darkness",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:09:54.055Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AldiTuru",
-    "world": "JUBEL",
-    "action": "BUY",
-    "item_name": "Movie Screen",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:09:57.633Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Akuganteng",
     "world": "SAW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 275,
     "traded_with": null,
     "timestamp": "2026-08-23T15:12:54.299Z"
+  },
+  {
+    "player1": "Cept [ELITE]",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 230000,
+    "price_wl": 230000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:13:01.514Z"
+  },
+  {
+    "player1": "EBUU",
+    "player2": "Renting Station",
+    "world": "8R",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:13:01.523Z"
   }
 ]
