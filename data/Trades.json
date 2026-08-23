@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 2820,
-    "price_wl": 2820,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:31:48.340Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "showup",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:32:02.712Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Darrick",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 3149,
     "traded_with": null,
     "timestamp": "2026-08-23T14:33:19.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Darrick",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 3174,
+    "price_wl": 3174,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:33:53.951Z"
+  },
+  {
+    "player1": "Darrick",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 3243,
+    "price_wl": 3243,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:34:09.500Z"
   }
 ]
