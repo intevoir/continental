@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 480,
-    "price_wl": 480,
-    "traded_with": null,
-    "timestamp": "2026-08-23T02:35:48.524Z"
-  },
-  {
     "player1": "Nepir",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-23T02:39:10.692Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nepir",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-23T02:40:27.101Z"
   }
 ]
