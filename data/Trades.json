@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@ANIX",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 21420,
-    "price_wl": 21420,
-    "traded_with": null,
-    "timestamp": "2026-08-23T23:15:24.373Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VinnPY",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T23:17:17.841Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nepir",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-23T23:24:42.211Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Crystal of Legend [PRO ]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 89,
+    "p_name": "World Locks",
+    "p_count": 623,
+    "price_wl": 623,
+    "traded_with": null,
+    "timestamp": "2026-08-23T23:25:39.526Z"
+  },
+  {
+    "player1": "Crystal of Legend [PRO ]",
+    "player2": "Renting Station",
+    "world": "53",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-23T23:25:39.860Z"
   }
 ]
