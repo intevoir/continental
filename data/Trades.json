@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "IvangGT2",
-    "world": "WK",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-08-23T07:40:09.116Z"
-  },
-  {
-    "player1": "JuuSanz",
-    "player2": "Harrington",
-    "world": "BFGSANZZ",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 22,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Harrington",
-    "timestamp": "2026-08-23T07:40:09.138Z"
-  },
-  {
     "player1": "Harrington",
     "player2": "JuuSanz",
     "world": "BFGSANZZ",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-23T07:46:12.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nepir",
+    "world": "APOTIKS",
+    "action": "BUY",
+    "item_name": "Surgical Splint",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-23T07:46:28.007Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nepir",
+    "world": "APOTIKS",
+    "action": "BUY",
+    "item_name": "Surgical Sponge",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-23T07:46:36.203Z"
   }
 ]
