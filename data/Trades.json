@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NuggetBucket",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:19:55.221Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kaysa",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:25:03.624Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kaysa",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-23T22:29:20.036Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NNBA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:29:35.239Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "x22x",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 207,
+    "p_name": "World Locks",
+    "p_count": 2070,
+    "price_wl": 2070,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:29:58.873Z"
   }
 ]
