@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDDN",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-23T11:16:33.142Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pernandez",
     "world": "N46",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 680,
     "traded_with": null,
     "timestamp": "2026-08-23T11:18:00.019Z"
+  },
+  {
+    "player1": "RayLightt",
+    "player2": "Renting Station",
+    "world": "KANTIN",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-08-23T11:18:25.066Z"
   }
 ]
