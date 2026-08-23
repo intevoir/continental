@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "OneHP",
-    "world": "BUYNEON",
-    "action": "BUY",
-    "item_name": "Neon Lights",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-23T17:54:41.839Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OneHP",
     "world": "BUYLIGHT",
     "action": "BUY",
     "item_name": "Light Box - Pink",
@@ -128,5 +115,18 @@
     "price_wl": 6600,
     "traded_with": null,
     "timestamp": "2026-08-23T17:58:59.918Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "melvino",
+    "world": "DIGIVEND",
+    "action": "BUY",
+    "item_name": "Iron Bars",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-23T17:59:33.556Z"
   }
 ]
