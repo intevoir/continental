@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrMythicalFist [ELITE]",
-    "player2": "Buying Machine",
-    "world": "8X8",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-23T03:37:00.960Z"
-  },
-  {
-    "player1": "Vidar",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 1833,
-    "price_wl": 1833,
-    "traded_with": null,
-    "timestamp": "2026-08-23T03:37:08.201Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZetsuNii",
     "world": "YUBC",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrKmetsch",
     "timestamp": "2026-08-23T03:40:37.343Z"
+  },
+  {
+    "player1": "Ilegals",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-23T03:42:04.105Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBukuRusak",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Zombie Jammer",
+    "item_count": 127,
+    "p_name": "World Locks",
+    "p_count": 1270,
+    "price_wl": 1270,
+    "traded_with": null,
+    "timestamp": "2026-08-23T03:42:07.472Z"
   }
 ]
