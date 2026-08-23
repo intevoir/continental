@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CDEF",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-08-23T21:53:09.863Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NuggetBucket",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-08-23T22:05:10.366Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZetsuNii",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 490,
+    "price_wl": 490,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:07:27.308Z"
   }
 ]
