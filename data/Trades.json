@@ -1,18 +1,5 @@
 [
   {
-    "player1": "dropdead",
-    "player2": "Renting Station",
-    "world": "MEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:29:58.696Z"
-  },
-  {
     "player1": "TrioGT",
     "player2": "KAU",
     "world": "03",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "KAU",
     "timestamp": "2026-08-23T15:33:16.023Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOIN",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:34:20.673Z"
   }
 ]
