@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "XCMS",
-    "world": "VEND1B",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-08-23T08:32:09.624Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VinnPY",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3720,
     "traded_with": null,
     "timestamp": "2026-08-23T08:37:51.724Z"
+  },
+  {
+    "player1": "DuckLuck_304",
+    "player2": "Renting Station",
+    "world": "BFGTAS",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-08-23T08:39:01.373Z"
   }
 ]
