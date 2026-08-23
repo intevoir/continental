@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrTet",
-    "world": "EHE",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T01:16:03.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "xxMANZxx",
-    "world": "EHE",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 5460,
-    "price_wl": 5460,
-    "traded_with": null,
-    "timestamp": "2026-08-23T01:17:06.584Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Chexie",
     "world": "BESTSSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4800,
     "traded_with": null,
     "timestamp": "2026-08-23T01:28:06.082Z"
+  },
+  {
+    "player1": "DrTet",
+    "player2": "Buying Machine",
+    "world": "OIS",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T01:32:11.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrTet",
+    "world": "NOW",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-23T01:32:25.155Z"
   }
 ]
