@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ARREL2",
-    "world": "WLCA",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:39:03.132Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KaiSmitch",
     "world": "VENDS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-23T15:40:14.283Z"
+  },
+  {
+    "player1": "@Tenkai",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:40:31.552Z"
   }
 ]
