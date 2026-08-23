@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OneHP",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 6600,
-    "price_wl": 6600,
-    "traded_with": null,
-    "timestamp": "2026-08-23T17:58:59.918Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "DIGIVEND",
-    "action": "BUY",
-    "item_name": "Iron Bars",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-23T17:59:33.556Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VitaminD",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-23T18:04:44.475Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "melvino",
+    "world": "DIGIVEND",
+    "action": "BUY",
+    "item_name": "Iron Bars",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-23T18:05:12.302Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tiobjirr",
+    "world": "VENDW",
+    "action": "BUY",
+    "item_name": "Chicken Plow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-23T18:05:37.185Z"
   }
 ]
