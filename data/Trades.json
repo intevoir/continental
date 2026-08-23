@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NotAbusive",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-08-23T07:46:12.587Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nepir",
     "world": "APOTIKS",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "DrPesiar [ELITE]",
     "timestamp": "2026-08-23T07:48:14.259Z"
+  },
+  {
+    "player1": "KembarStore of Legend",
+    "player2": "Buying Machine",
+    "world": "BUYMRAY",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3700000,
+    "price_wl": 3700000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T07:49:47.386Z"
   }
 ]
