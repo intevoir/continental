@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GOIN",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 68400,
-    "price_wl": 68400,
-    "traded_with": null,
-    "timestamp": "2026-08-23T09:10:08.555Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "M1K0",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-23T09:12:08.430Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "M1K0",
     "world": "BFGTAS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-23T09:14:13.247Z"
+  },
+  {
+    "player1": "TABONI1",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T09:14:48.459Z"
+  },
+  {
+    "player1": "DrRVA",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-23T09:15:10.743Z"
   }
 ]
