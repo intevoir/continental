@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Tenkai",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20230,
-    "price_wl": 20230,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:40:31.552Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GOIN",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-23T15:44:44.496Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QuenShop",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Phoenix Armor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:46:24.840Z"
   }
 ]
