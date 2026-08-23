@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSino",
-    "world": "AGE",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 210000,
-    "price_wl": 210000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T23:31:21.999Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VinnPY",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7650,
     "traded_with": null,
     "timestamp": "2026-08-23T23:46:49.009Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4700,
+    "price_wl": 4700,
+    "traded_with": null,
+    "timestamp": "2026-08-23T23:50:28.856Z"
   }
 ]
