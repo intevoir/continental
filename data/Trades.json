@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nulls",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:24:56.938Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "QIZAN",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:25:16.531Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nulls",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-08-23T14:25:44.652Z"
-  },
-  {
     "player1": "SkyDeath",
     "player2": "Renting Station",
     "world": "BENZYL",
@@ -128,5 +89,44 @@
     "price_wl": 460,
     "traded_with": null,
     "timestamp": "2026-08-23T14:29:04.884Z"
+  },
+  {
+    "player1": "Darrick",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 470,
+    "price_wl": 470,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:29:18.742Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "adosnl",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:29:46.842Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Darrick",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 2300,
+    "price_wl": 2300,
+    "traded_with": null,
+    "timestamp": "2026-08-23T14:29:46.889Z"
   }
 ]
