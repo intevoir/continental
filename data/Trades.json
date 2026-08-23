@@ -4,19 +4,6 @@
     "player2": "KaiSmitch",
     "world": "VENDS",
     "action": "BUY",
-    "item_name": "Surgical Anesthetic",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:40:03.919Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "VENDS",
-    "action": "BUY",
     "item_name": "Surgical Antibiotics",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-08-23T15:41:35.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-23T15:42:22.428Z"
   }
 ]
