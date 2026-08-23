@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NuggetBucket",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-23T21:54:57.787Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Syascroft",
-    "world": "BFGXOM",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:02:04.496Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mystrix",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-08-23T22:02:14.539Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Illuminati: Saber of Legend",
     "world": "BUYROD",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 490,
     "traded_with": null,
     "timestamp": "2026-08-23T22:07:27.308Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BakriiZy [] [ELITE] [BLOCKMO]",
+    "world": "RFGT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:08:51.484Z"
+  },
+  {
+    "player1": "BakriiZy [] [ELITE] [BLOCKMO]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:09:05.456Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BakriiZy [] [ELITE] [BLOCKMO]",
+    "world": "RFGT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-23T22:09:19.670Z"
   }
 ]
