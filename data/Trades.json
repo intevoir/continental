@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrBStarz",
-    "player2": "Renting Station",
-    "world": "MEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:28:58.522Z"
-  },
-  {
-    "player1": "DrMbox",
-    "player2": "Buying Machine",
-    "world": "RIO",
-    "action": "SELL",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 260000,
-    "price_wl": 260000,
-    "traded_with": null,
-    "timestamp": "2026-08-23T15:29:09.659Z"
-  },
-  {
     "player1": "dropdead",
     "player2": "Renting Station",
     "world": "MEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-23T15:33:00.112Z"
+  },
+  {
+    "player1": "KAU",
+    "player2": "TrioGT",
+    "world": "TOKOGTPS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "TrioGT",
+    "timestamp": "2026-08-23T15:33:16.023Z"
+  },
+  {
+    "player1": "TrioGT",
+    "player2": "KAU",
+    "world": "TOKOGTPS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KAU",
+    "timestamp": "2026-08-23T15:33:16.023Z"
   }
 ]
