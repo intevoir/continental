@@ -4,32 +4,6 @@
     "player2": "redvy",
     "world": "LOTUS",
     "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-23T05:31:30.604Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "redvy",
-    "world": "LOTUS",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-23T05:31:34.033Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "redvy",
-    "world": "LOTUS",
-    "action": "BUY",
     "item_name": "Ghost Charm",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-23T05:35:23.448Z"
+  },
+  {
+    "player1": "Rev []",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-23T05:35:35.858Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "redvy",
+    "world": "FACE",
+    "action": "BUY",
+    "item_name": "Purple Wallpaper",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-23T05:35:35.865Z"
   }
 ]
