@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sophii",
-    "world": "SUNPLAZA",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-24T13:44:15.791Z"
-  },
-  {
-    "player1": "11l11lll",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-08-24T13:44:45.708Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "swagman",
     "world": "MARTZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-08-24T13:47:46.356Z"
+  },
+  {
+    "player1": "KFK of Legend [PRO ]",
+    "player2": "JustVins of Legend",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 4,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JustVins of Legend",
+    "timestamp": "2026-08-24T13:49:48.502Z"
+  },
+  {
+    "player1": "JustVins of Legend",
+    "player2": "KFK of Legend [PRO ]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KFK of Legend [PRO ]",
+    "timestamp": "2026-08-24T13:49:48.503Z"
   }
 ]
