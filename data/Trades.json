@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RelzGanteng",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-24T20:54:28.225Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Givench",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-24T21:00:22.516Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Givench",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Rift Cape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T21:01:43.834Z"
   }
 ]
