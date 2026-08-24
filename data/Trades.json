@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mandut",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-24T00:55:08.166Z"
-  },
-  {
     "player1": "LucyDemon",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-24T00:58:31.307Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Bang",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3400,
+    "price_wl": 3400,
+    "traded_with": null,
+    "timestamp": "2026-08-24T00:58:39.434Z"
   }
 ]
