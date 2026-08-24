@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Barats31",
-    "player2": "Buying Machine",
-    "world": "SGEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-24T19:41:45.199Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrDUPPING",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-24T19:52:01.041Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kazupyon",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Will of the Wild",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-24T19:52:39.183Z"
   }
 ]
