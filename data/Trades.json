@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xzelko",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-24T03:19:40.753Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xzelko",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-24T03:19:47.826Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mentes",
     "world": "SBY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-24T03:25:48.901Z"
+  },
+  {
+    "player1": "Zleyz",
+    "player2": "Renting Station",
+    "world": "SABTU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-24T03:26:41.358Z"
+  },
+  {
+    "player1": "HyBre",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-24T03:26:41.375Z"
   }
 ]
