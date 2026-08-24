@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BakriiZy [] [ELITE]",
-    "player2": "Buying Machine",
-    "world": "MARKET",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-24T09:48:28.779Z"
-  },
-  {
-    "player1": "GLHYX",
-    "player2": "Renting Station",
-    "world": "SHOPL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-24T09:48:28.783Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BakriiZy [] [ELITE]",
     "world": "MYGEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-08-24T09:49:30.883Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BakriiZy [] [ELITE]",
+    "world": "MYGEIGER",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-24T09:50:06.264Z"
+  },
+  {
+    "player1": "BakriiZy [] [ELITE]",
+    "player2": "Buying Machine",
+    "world": "MARKET",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-24T09:50:24.731Z"
   }
 ]
