@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Skylunox",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T07:01:59.980Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RappWasHere",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 23200,
     "traded_with": null,
     "timestamp": "2026-08-24T07:06:08.283Z"
+  },
+  {
+    "player1": "RappWasHere",
+    "player2": "Renting Station",
+    "world": "AZOID",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-24T07:06:49.418Z"
   }
 ]
