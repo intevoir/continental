@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VinnPY",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:58:29.331Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NewHan",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-24T11:01:57.663Z"
+  },
+  {
+    "player1": "RODOKS",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-24T11:02:31.560Z"
   }
 ]
