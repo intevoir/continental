@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mentes",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-24T02:58:43.257Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZaiPs",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Shadow Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-24T03:00:08.118Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZaiPs",
     "world": "SHOPS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-08-24T03:08:33.851Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkyDeath",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Hellfire Horns - Ruby",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 120000,
+    "price_wl": 120000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T03:09:07.054Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mentes",
+    "world": "BFGHANZ",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-24T03:09:10.855Z"
   }
 ]
