@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ilegals",
-    "world": "K1EL",
-    "action": "BUY",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:46:54.994Z"
-  },
-  {
-    "player1": "Ilegals",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:46:55.125Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BayUbi",
     "world": "WLCA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1081,
     "traded_with": null,
     "timestamp": "2026-08-24T01:53:17.686Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:53:57.885Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:53:57.902Z"
   }
 ]
