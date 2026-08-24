@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-24T06:28:32.601Z"
-  },
-  {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-24T06:28:32.614Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrDausTtb",
     "world": "THPO",
@@ -128,5 +102,31 @@
     "price_wl": 19000,
     "traded_with": null,
     "timestamp": "2026-08-24T06:32:02.428Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Darrick",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 4554,
+    "price_wl": 4554,
+    "traded_with": null,
+    "timestamp": "2026-08-24T06:33:51.188Z"
+  },
+  {
+    "player1": "memeck",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-24T06:33:57.833Z"
   }
 ]
