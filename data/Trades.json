@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "BDHS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2220,
-    "price_wl": 2220,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:33:14.275Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 28000,
-    "price_wl": 28000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:35:41.272Z"
-  },
-  {
-    "player1": "DrGillter",
-    "player2": "Renting Station",
-    "world": "NMART",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:36:21.722Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rextboy",
-    "world": "1",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:38:16.019Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rextboy",
     "world": "1",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-08-24T08:39:20.820Z"
+  },
+  {
+    "player1": "Tozla []",
+    "player2": "DrRegans",
+    "world": "OUTFIT",
+    "action": "TRADE",
+    "item_name": "Hovernator Drone - White",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRegans",
+    "timestamp": "2026-08-24T08:40:17.463Z"
+  },
+  {
+    "player1": "Tozla []",
+    "player2": "DrRegans",
+    "world": "OUTFIT",
+    "action": "TRADE",
+    "item_name": "Grow Air Balloon",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRegans",
+    "timestamp": "2026-08-24T08:40:17.467Z"
+  },
+  {
+    "player1": "DrRegans",
+    "player2": "Tozla []",
+    "world": "OUTFIT",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Tozla []",
+    "timestamp": "2026-08-24T08:40:17.468Z"
+  },
+  {
+    "player1": "PICT1",
+    "player2": "Renting Station",
+    "world": "BLOCKMO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-24T08:40:17.468Z"
   }
 ]
