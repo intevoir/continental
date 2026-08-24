@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SkyDeath",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:40:52.503Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BayUbi",
     "world": "GROWMART",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-24T01:45:53.970Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BayUbi",
+    "world": "WLCA",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:46:05.602Z"
   }
 ]
