@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "goim",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-08-24T22:13:51.919Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FLAIRx",
-    "world": "KULINER",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-24T22:17:24.013Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArrangGT",
     "world": "BFGADVAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-24T22:31:19.854Z"
+  },
+  {
+    "player1": "Ecek",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 139,
+    "p_name": "World Locks",
+    "p_count": 100080,
+    "price_wl": 100080,
+    "traded_with": null,
+    "timestamp": "2026-08-24T22:43:20.930Z"
+  },
+  {
+    "player1": "Ecek",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 207,
+    "p_name": "World Locks",
+    "p_count": 149040,
+    "price_wl": 149040,
+    "traded_with": null,
+    "timestamp": "2026-08-24T22:43:48.809Z"
   }
 ]
