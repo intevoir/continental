@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "parance",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-24T05:19:42.154Z"
-  },
-  {
     "player1": "JUMBO",
     "player2": "Buying Machine",
     "world": "OIS",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-24T05:23:05.231Z"
+  },
+  {
+    "player1": "fhiraxSTOREKILAT",
+    "player2": "Buying Machine",
+    "world": "1",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T05:25:27.396Z"
   }
 ]
