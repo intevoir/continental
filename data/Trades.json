@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LOVEKLEE",
-    "world": "1",
-    "action": "BUY",
-    "item_name": "ATM Machine",
-    "item_count": 82,
-    "p_name": "World Locks",
-    "p_count": 82,
-    "price_wl": 82,
-    "traded_with": null,
-    "timestamp": "2026-08-24T14:19:35.286Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "rusz",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-08-24T14:19:38.517Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rusz",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrVeIyn of Legend []",
     "timestamp": "2026-08-24T14:24:30.108Z"
+  },
+  {
+    "player1": "DrEBU",
+    "player2": "Renting Station",
+    "world": "C9Q",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-24T14:25:12.261Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "koncet",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Decorative Paper Wall",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-24T14:25:35.716Z"
   }
 ]
