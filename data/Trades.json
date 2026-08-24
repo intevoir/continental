@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LiamLiamLiam",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-24T02:22:24.516Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "FOOD",
-    "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-24T02:22:26.647Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KUNBA",
     "world": "VENDBAL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-08-24T02:26:31.459Z"
+  },
+  {
+    "player1": "powerpoint",
+    "player2": "Buying Machine",
+    "world": "SUNPLAZA",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 1833,
+    "price_wl": 1833,
+    "traded_with": null,
+    "timestamp": "2026-08-24T02:27:17.582Z"
+  },
+  {
+    "player1": "GuThai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 5760,
+    "price_wl": 5760,
+    "traded_with": null,
+    "timestamp": "2026-08-24T02:27:41.866Z"
   }
 ]
