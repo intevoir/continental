@@ -4,32 +4,6 @@
     "player2": "Rextboy",
     "world": "BLOCK",
     "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:33:18.967Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rextboy",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:33:31.121Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rextboy",
-    "world": "BLOCK",
-    "action": "BUY",
     "item_name": "Display Block",
     "item_count": 37,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-24T17:34:18.678Z"
+  },
+  {
+    "player1": "RIANBOB",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:35:07.733Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Artheja",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Basic Blue Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:35:07.751Z"
   }
 ]
