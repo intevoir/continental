@@ -4,19 +4,6 @@
     "player2": "radana",
     "world": "VENDIES",
     "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:13:59.998Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "VENDIES",
-    "action": "BUY",
     "item_name": "Paint Bucket - Charcoal",
     "item_count": 150,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 4200,
     "traded_with": null,
     "timestamp": "2026-08-24T17:16:08.711Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DEPOSITT",
+    "world": "JUAL",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:16:31.554Z"
   }
 ]
