@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingLort",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:45:04.246Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BayUbi",
     "world": "WLCA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11400,
     "traded_with": null,
     "timestamp": "2026-08-24T01:48:23.477Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkyDeath",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:49:55.428Z"
   }
 ]
