@@ -1,18 +1,5 @@
 [
   {
-    "player1": "xyv",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23205,
-    "price_wl": 23205,
-    "traded_with": null,
-    "timestamp": "2026-08-24T04:19:39.628Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Mentes",
     "world": "DINZVEND",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-24T04:21:47.474Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMESA",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Haunted Jack O' Lantern",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T04:26:16.488Z"
   }
 ]
