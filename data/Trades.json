@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NewHan",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Diamond Rocket Shoes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:57:29.323Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NewHan",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:58:00.227Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VinnPY",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-08-24T11:01:31.621Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NewHan",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-24T11:01:35.979Z"
+  },
+  {
+    "player1": "JejeFirst",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-24T11:01:57.663Z"
   }
 ]
