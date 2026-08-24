@@ -4,19 +4,6 @@
     "player2": "KingLort",
     "world": "JSHOP",
     "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-23T23:58:49.802Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KingLort",
-    "world": "JSHOP",
-    "action": "BUY",
     "item_name": "Food Grinder",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 490,
     "traded_with": null,
     "timestamp": "2026-08-24T00:18:44.127Z"
+  },
+  {
+    "player1": "Comedian",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3850,
+    "price_wl": 3850,
+    "traded_with": null,
+    "timestamp": "2026-08-24T00:19:13.530Z"
   }
 ]
