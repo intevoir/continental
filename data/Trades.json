@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-24T20:05:05.572Z"
-  },
-  {
-    "player1": "DrRoico",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 205,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-24T20:17:37.866Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Givench",
+    "world": "BUYITEM",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-24T20:19:21.827Z"
   }
 ]
