@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Freaa",
-    "world": "BFGAERO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 51,
-    "p_name": "World Locks",
-    "p_count": 4080,
-    "price_wl": 4080,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:15:24.144Z"
-  },
-  {
-    "player1": "KWGT",
-    "player2": "DrVenyuw",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 28,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrVenyuw",
-    "timestamp": "2026-08-24T17:16:00.518Z"
-  },
-  {
     "player1": "DrVenyuw",
     "player2": "KWGT",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-24T17:18:44.347Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "p4L",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:20:06.997Z"
+  },
+  {
+    "player1": "p4L",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5300,
+    "price_wl": 5300,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:20:20.591Z"
   }
 ]
