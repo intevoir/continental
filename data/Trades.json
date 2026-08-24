@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mozartz",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 94,
-    "price_wl": 94,
-    "traded_with": null,
-    "timestamp": "2026-08-24T06:45:35.929Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MeWantBathe",
     "world": "MARTS",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-24T06:51:03.469Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MeWantBathe",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-24T06:52:22.375Z"
   }
 ]
