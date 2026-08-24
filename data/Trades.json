@@ -4,32 +4,6 @@
     "player2": "Rextboy",
     "world": "BLOCK",
     "action": "BUY",
-    "item_name": "Dimension Block",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:30:07.371Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Artheja",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Dimension Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:30:14.817Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rextboy",
-    "world": "BLOCK",
-    "action": "BUY",
     "item_name": "Lock Mover",
     "item_count": 50,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-24T17:32:42.100Z"
+  },
+  {
+    "player1": "purnomo1",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:33:06.950Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rextboy",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:33:18.967Z"
   }
 ]
