@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:19:14.850Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OldSpices",
     "world": "BDHS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-24T10:20:15.676Z"
+  },
+  {
+    "player1": "Ilegals",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-24T10:20:19.242Z"
   }
 ]
