@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Indonesia",
-    "world": "TDF",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-24T07:51:10.762Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "TDF",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 132,
-    "price_wl": 132,
-    "traded_with": null,
-    "timestamp": "2026-08-24T07:52:20.420Z"
-  },
-  {
     "player1": "Module",
     "player2": "Buying Machine",
     "world": "AULA",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-24T07:58:07.331Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-24T07:59:04.586Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-24T07:59:19.731Z"
   }
 ]
