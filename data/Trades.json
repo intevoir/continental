@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@waku",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:55:58.579Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BayUbi",
     "world": "WLCA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 780,
     "traded_with": null,
     "timestamp": "2026-08-24T02:05:03.016Z"
+  },
+  {
+    "player1": "DrDudaMuda []",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 175,
+    "p_name": "World Locks",
+    "p_count": 8225,
+    "price_wl": 8225,
+    "traded_with": null,
+    "timestamp": "2026-08-24T02:06:11.327Z"
   }
 ]
