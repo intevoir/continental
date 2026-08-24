@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mentes",
-    "world": "DINZVEND",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-24T04:20:39.869Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mentes",
-    "world": "DINZVEND",
-    "action": "BUY",
-    "item_name": "Golden Garuda Chest",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-24T04:20:57.507Z"
-  },
-  {
     "player1": "MayoGT",
     "player2": "Buying Machine",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-24T04:31:00.757Z"
+  },
+  {
+    "player1": "PatrickJane",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T04:31:44.866Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingXury",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T04:32:13.126Z"
   }
 ]
