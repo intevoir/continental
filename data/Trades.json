@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ecek",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 109500,
-    "price_wl": 109500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T22:52:24.738Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CPSxSICE",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-24T23:21:38.519Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kmetsch",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-24T23:26:39.870Z"
   }
 ]
