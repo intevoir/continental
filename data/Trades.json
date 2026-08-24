@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BraveHammer_232",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-24T04:05:07.486Z"
-  },
-  {
     "player1": "NouzenGT",
     "player2": "Buying Machine",
     "world": "DSHS",
@@ -128,5 +115,18 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-08-24T04:15:02.656Z"
+  },
+  {
+    "player1": "TINJU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-24T04:17:03.214Z"
   }
 ]
