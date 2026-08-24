@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-24T16:06:58.242Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-24T16:07:31.854Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "p0okie",
     "world": "BFGBTY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1800,
     "traded_with": null,
     "timestamp": "2026-08-24T16:08:32.519Z"
+  },
+  {
+    "player1": "sihilisko",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 14400,
+    "price_wl": 14400,
+    "traded_with": null,
+    "timestamp": "2026-08-24T16:08:55.163Z"
+  },
+  {
+    "player1": "Lippiew",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-24T16:09:17.075Z"
   }
 ]
