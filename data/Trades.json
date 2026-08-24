@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drzeelol",
-    "world": "XML",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-08-24T05:57:47.549Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Yoiss",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T05:59:22.470Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yoiss",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-08-24T06:01:52.477Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GoBUYER",
+    "world": "BYPAC",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-24T06:02:24.534Z"
+  },
+  {
+    "player1": "PeanutsBoy",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-24T06:02:24.560Z"
   }
 ]
