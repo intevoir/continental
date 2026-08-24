@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "razzorv2",
-    "world": "SHOP1",
-    "action": "BUY",
-    "item_name": "Dear John Tractor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-24T17:09:26.987Z"
-  },
-  {
     "player1": "lis",
     "player2": "DrYokk",
     "world": "VENDIES",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-08-24T17:11:09.907Z"
+  },
+  {
+    "player1": "YogCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:11:59.041Z"
   }
 ]
