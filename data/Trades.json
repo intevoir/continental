@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "jackawhycps",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "BlueMan's Crystal Katana",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-24T05:14:34.177Z"
-  },
-  {
     "player1": "JUMBO",
     "player2": "Buying Machine",
     "world": "MOST",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-24T05:19:42.154Z"
+  },
+  {
+    "player1": "JUMBO",
+    "player2": "Buying Machine",
+    "world": "OIS",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T05:20:22.720Z"
   }
 ]
