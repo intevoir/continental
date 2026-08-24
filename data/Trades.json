@@ -1,31 +1,5 @@
 [
   {
-    "player1": "VewekJT",
-    "player2": "Renting Station",
-    "world": "BFGNG",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-08-24T19:55:12.289Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xzelko",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-24T19:55:15.717Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MazdaN",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-24T20:03:10.020Z"
+  },
+  {
+    "player1": "DrRoico",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-08-24T20:05:05.572Z"
+  },
+  {
+    "player1": "DrRoico",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 205,
+    "p_name": "World Locks",
+    "p_count": 4100,
+    "price_wl": 4100,
+    "traded_with": null,
+    "timestamp": "2026-08-24T20:05:05.577Z"
   }
 ]
