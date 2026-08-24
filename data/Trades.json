@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBukuRusak",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 11400,
-    "price_wl": 11400,
-    "traded_with": null,
-    "timestamp": "2026-08-24T23:46:50.232Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dr939",
-    "world": "BUYT",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 73,
-    "p_name": "World Locks",
-    "p_count": 146,
-    "price_wl": 146,
-    "traded_with": null,
-    "timestamp": "2026-08-24T23:46:54.455Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBukuRusak",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2280,
-    "price_wl": 2280,
-    "traded_with": null,
-    "timestamp": "2026-08-24T23:47:01.560Z"
-  },
-  {
-    "player1": "NouzenGT",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5300,
-    "price_wl": 5300,
-    "traded_with": null,
-    "timestamp": "2026-08-24T23:48:50.079Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Dr939",
     "world": "BUYT",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-08-24T23:55:57.080Z"
+  },
+  {
+    "player1": "KWGT [ELITE]",
+    "player2": "Kachung",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kachung",
+    "timestamp": "2026-08-24T23:57:53.578Z"
+  },
+  {
+    "player1": "KWGT [ELITE]",
+    "player2": "Kachung",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kachung",
+    "timestamp": "2026-08-24T23:57:53.585Z"
+  },
+  {
+    "player1": "Kachung",
+    "player2": "KWGT [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Golden Silk Scarf",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KWGT [ELITE]",
+    "timestamp": "2026-08-24T23:57:53.585Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr939",
+    "world": "BUYT",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-24T23:58:04.812Z"
   }
 ]
