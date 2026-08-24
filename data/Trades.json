@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "BDHS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:19:14.868Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "BDHS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 1040,
-    "price_wl": 1040,
-    "traded_with": null,
-    "timestamp": "2026-08-24T10:19:33.207Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Anonimousss",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-24T10:20:19.242Z"
+  },
+  {
+    "player1": "OldSpices",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 116,
+    "p_name": "World Locks",
+    "p_count": 9280,
+    "price_wl": 9280,
+    "traded_with": null,
+    "timestamp": "2026-08-24T10:20:50.309Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OldSpices",
+    "world": "BDHS",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 77,
+    "p_name": "World Locks",
+    "p_count": 6160,
+    "price_wl": 6160,
+    "traded_with": null,
+    "timestamp": "2026-08-24T10:21:16.463Z"
   }
 ]
