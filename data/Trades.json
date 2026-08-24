@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BayUbi",
-    "world": "WLCA",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:46:54.854Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ilegals",
     "world": "K1EL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9500,
     "traded_with": null,
     "timestamp": "2026-08-24T01:52:57.223Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 1081,
+    "price_wl": 1081,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:53:17.686Z"
   }
 ]
