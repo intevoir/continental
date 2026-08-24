@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LhT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:13:20.381Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gunungkidul",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-24T08:14:06.265Z"
-  },
-  {
     "player1": "Lelouch",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +102,31 @@
     "price_wl": 14000,
     "traded_with": null,
     "timestamp": "2026-08-24T08:18:18.341Z"
+  },
+  {
+    "player1": "wintered",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-24T08:19:07.397Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "melvino",
+    "world": "DIGIVEND",
+    "action": "BUY",
+    "item_name": "Checkpoint",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-24T08:19:14.232Z"
   }
 ]
