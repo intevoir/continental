@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrGvez",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-24T14:09:12.004Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSFC",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 18000,
     "traded_with": null,
     "timestamp": "2026-08-24T14:16:00.753Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMAGINGSINOKAMAN",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-24T14:17:25.518Z"
   }
 ]
