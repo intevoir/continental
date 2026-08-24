@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Artheja",
-    "world": "DAP",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 7200,
-    "price_wl": 7200,
-    "traded_with": null,
-    "timestamp": "2026-08-24T15:57:29.487Z"
-  },
-  {
     "player1": "Ihza",
     "player2": "Buying Machine",
     "world": "BELANJA",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-24T15:59:33.477Z"
+  },
+  {
+    "player1": "Drswy",
+    "player2": "Renting Station",
+    "world": "BFGZANE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-08-24T15:59:50.649Z"
   }
 ]
