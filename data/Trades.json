@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Artheja",
-    "world": "WMART",
-    "action": "BUY",
-    "item_name": "Diamond Rocket Shoes",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:17:26.622Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Artheja",
-    "world": "WMART",
-    "action": "BUY",
-    "item_name": "Lightning Boots",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:17:26.642Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCans",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 78,
-    "p_name": "World Locks",
-    "p_count": 39,
-    "price_wl": 39,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:18:50.674Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JustVins of Legend",
     "world": "ML",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-24T18:25:36.693Z"
+  },
+  {
+    "player1": "bergituk",
+    "player2": "Buying Machine",
+    "world": "SUNPLAZA",
+    "action": "SELL",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 220000,
+    "price_wl": 220000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:27:29.741Z"
+  },
+  {
+    "player1": "BreachSwap",
+    "player2": "JustVins of Legend",
+    "world": "PLAZA",
+    "action": "TRADE",
+    "item_name": "Wolfy Tank Top",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JustVins of Legend",
+    "timestamp": "2026-08-24T18:27:37.452Z"
+  },
+  {
+    "player1": "JustVins of Legend",
+    "player2": "BreachSwap",
+    "world": "PLAZA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BreachSwap",
+    "timestamp": "2026-08-24T18:27:37.460Z"
   }
 ]
