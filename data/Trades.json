@@ -4,19 +4,6 @@
     "player2": "Artheja",
     "world": "WMART",
     "action": "BUY",
-    "item_name": "Phoenix Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:03:20.408Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Artheja",
-    "world": "WMART",
-    "action": "BUY",
     "item_name": "Death's Scarf",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-24T18:07:23.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Exinst",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:08:21.339Z"
   }
 ]
