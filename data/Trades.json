@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PREAPSOVATH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1540,
-    "price_wl": 1540,
-    "traded_with": null,
-    "timestamp": "2026-08-24T03:39:48.303Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GoBUYER",
     "world": "DIMARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-08-24T03:45:00.268Z"
+  },
+  {
+    "player1": "DrHanura",
+    "player2": "Buying Machine",
+    "world": "STOREKILAT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 6250,
+    "price_wl": 6250,
+    "traded_with": null,
+    "timestamp": "2026-08-24T03:48:00.375Z"
   }
 ]
