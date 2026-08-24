@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BakriiZy [] [ELITE]",
-    "world": "MYGEIGER",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T09:49:06.221Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kayloo",
-    "world": "BFGTAS",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-24T09:49:06.230Z"
-  },
-  {
-    "player1": "BOCHIL",
-    "player2": "Renting Station",
-    "world": "WW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20230,
-    "price_wl": 20230,
-    "traded_with": null,
-    "timestamp": "2026-08-24T09:49:20.149Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "2ROCKx",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-24T09:51:36.983Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BakriiZy [] [ELITE]",
+    "world": "MYGEIGER",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 194,
+    "p_name": "World Locks",
+    "p_count": 388,
+    "price_wl": 388,
+    "traded_with": null,
+    "timestamp": "2026-08-24T09:52:04.413Z"
+  },
+  {
+    "player1": "BakriiZy [] [ELITE]",
+    "player2": "Buying Machine",
+    "world": "MARKET",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 194,
+    "p_name": "World Locks",
+    "p_count": 582,
+    "price_wl": 582,
+    "traded_with": null,
+    "timestamp": "2026-08-24T09:52:11.604Z"
+  },
+  {
+    "player1": "OldSpices",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-08-24T09:52:22.102Z"
   }
 ]
