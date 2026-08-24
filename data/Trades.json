@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lis",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-24T16:34:48.244Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Freaa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-24T16:34:48.261Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JustVins of Legend",
     "world": "WHITE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "JustVins of Legend",
     "timestamp": "2026-08-24T16:36:55.260Z"
+  },
+  {
+    "player1": "zGolfs",
+    "player2": "Renting Station",
+    "world": "55",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-24T16:37:46.429Z"
+  },
+  {
+    "player1": "Roxo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T16:37:46.450Z"
   }
 ]
