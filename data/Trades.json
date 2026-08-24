@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LenvySky",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-24T21:34:43.806Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kazupyon",
     "world": "OWO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-08-24T21:51:08.937Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kazupyon",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Tombstone",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-24T21:51:50.737Z"
   }
 ]
