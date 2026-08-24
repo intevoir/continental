@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "VENS",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-24T16:13:17.823Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "lis",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-08-24T16:19:37.859Z"
+  },
+  {
+    "player1": "SickleCream_167",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-24T16:20:12.358Z"
   }
 ]
