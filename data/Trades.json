@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCans",
-    "world": "GEVU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 940,
-    "price_wl": 940,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:28:45.912Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "shanum",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:29:31.318Z"
-  },
-  {
     "player1": "OldSpices",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-08-24T18:39:34.232Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "Buying Machine",
+    "world": "DAP",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 217,
+    "p_name": "World Locks",
+    "p_count": 1302,
+    "price_wl": 1302,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:41:34.944Z"
+  },
+  {
+    "player1": "HammerCream_187",
+    "player2": "Renting Station",
+    "world": "BEDROCK",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:41:39.340Z"
   }
 ]
