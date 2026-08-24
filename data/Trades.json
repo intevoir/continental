@@ -1,44 +1,5 @@
 [
   {
-    "player1": "ArthurBaik",
-    "player2": "Femboyslover",
-    "world": "HPR1",
-    "action": "TRADE",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Femboyslover",
-    "timestamp": "2026-08-24T17:35:28.815Z"
-  },
-  {
-    "player1": "ArthurBaik",
-    "player2": "Femboyslover",
-    "world": "HPR1",
-    "action": "TRADE",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Femboyslover",
-    "timestamp": "2026-08-24T17:35:28.815Z"
-  },
-  {
-    "player1": "ArthurBaik",
-    "player2": "Femboyslover",
-    "world": "HPR1",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 6,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Femboyslover",
-    "timestamp": "2026-08-24T17:35:28.815Z"
-  },
-  {
     "player1": "Femboyslover",
     "player2": "ArthurBaik",
     "world": "HPR1",
@@ -128,5 +89,44 @@
     "price_wl": 2700,
     "traded_with": null,
     "timestamp": "2026-08-24T17:38:08.133Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MattyzePS",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:38:20.341Z"
+  },
+  {
+    "player1": "MattyzePS",
+    "player2": "Buying Machine",
+    "world": "PENN",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:38:28.508Z"
+  },
+  {
+    "player1": "ArthurBaik",
+    "player2": "Renting Station",
+    "world": "RAGRENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-24T17:38:42.669Z"
   }
 ]
