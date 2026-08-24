@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AFK",
-    "world": "BYPAC",
-    "action": "BUY",
-    "item_name": "Cyclopean Visor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:09:53.817Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@kytoreto []",
-    "world": "BFGZA",
-    "action": "BUY",
-    "item_name": "ATM Machine",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 34000,
-    "price_wl": 34000,
-    "traded_with": null,
-    "timestamp": "2026-08-24T18:11:22.477Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "BYPAC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 72,
     "traded_with": null,
     "timestamp": "2026-08-24T18:21:52.459Z"
+  },
+  {
+    "player1": "bergituk",
+    "player2": "Buying Machine",
+    "world": "SUNPLAZA",
+    "action": "SELL",
+    "item_name": "Golden Heartthrob Helm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 55000,
+    "price_wl": 55000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:22:28.177Z"
+  },
+  {
+    "player1": "PekerjaSenzu",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-24T18:22:28.194Z"
   }
 ]
