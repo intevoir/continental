@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 343,
-    "price_wl": 343,
-    "traded_with": null,
-    "timestamp": "2026-08-24T14:29:11.869Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BreachSwap",
     "world": "BUYPAINTBRUSH",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-24T14:35:10.163Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrGvez",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 24000,
+    "price_wl": 24000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T14:35:14.584Z"
   }
 ]
