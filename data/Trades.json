@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RyzLonely",
-    "world": "YIFI",
-    "action": "BUY",
-    "item_name": "Phoenix Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-24T15:18:25.646Z"
-  },
-  {
     "player1": "Dzikajalah",
     "player2": "Buying Machine",
     "world": "BFGDRA",
@@ -128,5 +115,18 @@
     "price_wl": 177000,
     "traded_with": null,
     "timestamp": "2026-08-24T15:21:15.147Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NuggetBucket",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-24T15:21:30.930Z"
   }
 ]
