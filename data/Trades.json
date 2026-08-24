@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Anonimousss",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6600,
-    "price_wl": 6600,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:40:24.377Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkyDeath",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:40:52.447Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SkyDeath",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-24T01:45:04.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BayUbi",
+    "world": "WLCA",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:45:53.952Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:45:53.970Z"
   }
 ]
