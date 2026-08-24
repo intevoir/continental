@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "KaiSmitch",
-    "world": "CVEND",
-    "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-24T19:30:30.644Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KaiSmitch",
     "world": "VENS",
     "action": "BUY",
     "item_name": "Surgical Stitches",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-24T19:48:39.459Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kazupyon",
+    "world": "CORE",
+    "action": "BUY",
+    "item_name": "Speed Medallion",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-24T19:50:05.433Z"
   }
 ]
