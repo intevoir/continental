@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dr939",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-24T23:45:09.531Z"
-  },
-  {
     "player1": "Bardut",
     "player2": "Renting Station",
     "world": "RENTMOZ",
@@ -128,5 +115,18 @@
     "price_wl": 5300,
     "traded_with": null,
     "timestamp": "2026-08-24T23:48:50.079Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr939",
+    "world": "BUYT",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-08-24T23:50:06.735Z"
   }
 ]
