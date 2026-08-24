@@ -1,18 +1,5 @@
 [
   {
-    "player1": "AGARTOMRAY",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 115,
-    "p_name": "World Locks",
-    "p_count": 345,
-    "price_wl": 345,
-    "traded_with": null,
-    "timestamp": "2026-08-24T01:16:38.853Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SkyDeath",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-08-24T01:23:43.529Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@waku",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-24T01:29:08.452Z"
   }
 ]
