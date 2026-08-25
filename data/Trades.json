@@ -4,32 +4,6 @@
     "player2": "IPEEENGGG",
     "world": "HSHOP",
     "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-25T00:42:11.148Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Soul Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T00:42:11.177Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IPEEENGGG",
-    "world": "HSHOP",
-    "action": "BUY",
     "item_name": "Door Mover",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Analex19",
     "timestamp": "2026-08-25T00:44:39.577Z"
+  },
+  {
+    "player1": "Rextboy",
+    "player2": "Benihime",
+    "world": "VENDORD",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 8,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benihime",
+    "timestamp": "2026-08-25T00:45:11.673Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Rextboy",
+    "world": "VENDORD",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Rextboy",
+    "timestamp": "2026-08-25T00:45:11.673Z"
   }
 ]
