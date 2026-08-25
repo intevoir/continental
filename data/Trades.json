@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNexxuss",
-    "player2": "Buying Machine",
-    "world": "1",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T16:05:47.863Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "bimahaz",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-25T16:07:16.763Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Siotan",
+    "world": "TII",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-25T16:08:16.121Z"
   }
 ]
