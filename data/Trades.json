@@ -1,31 +1,5 @@
 [
   {
-    "player1": "kaydenquins",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5300,
-    "price_wl": 5300,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:05:46.635Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Recovering",
-    "world": "WHITE",
-    "action": "BUY",
-    "item_name": "Phoenix Sickles",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:05:50.064Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ATM of Legend [] [RICH]",
     "world": "BUYBERRYCREPES",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrIYeso",
     "timestamp": "2026-08-25T04:06:49.589Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ATM of Legend [] [RICH]",
+    "world": "BUYBERRYCREPES",
+    "action": "BUY",
+    "item_name": "Berry Crepes",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-25T04:07:18.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HECO",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-08-25T04:07:18.134Z"
   }
 ]
