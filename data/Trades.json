@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NewPerson",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Diamond Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-08-25T22:03:34.639Z"
-  },
-  {
     "player1": "Ikiinibos",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-25T22:30:40.156Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DragonFury [EXCLUSIVE]",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Starfire Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T22:31:40.200Z"
   }
 ]
