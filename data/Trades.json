@@ -1,18 +1,5 @@
 [
   {
-    "player1": "X0X0",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-25T10:47:03.245Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ItsDva",
     "world": "KANTIN",
@@ -128,5 +115,18 @@
     "price_wl": 81000,
     "traded_with": null,
     "timestamp": "2026-08-25T10:49:29.038Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMythicalFist [ELITE]",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-25T10:50:01.084Z"
   }
 ]
