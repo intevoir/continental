@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anjaay",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:00:51.525Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Bathroom Mirror",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:00:59.471Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Bathtub",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:01:32.473Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "radana",
     "world": "TOKOZ",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 3948,
     "traded_with": null,
     "timestamp": "2026-08-25T12:02:46.880Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anjaay",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:03:32.403Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CloverBean",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:03:32.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CloverBean",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:03:56.102Z"
   }
 ]
