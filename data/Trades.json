@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "brotodd",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-25T07:15:21.350Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mozartz",
     "world": "VENDRT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 90,
     "traded_with": null,
     "timestamp": "2026-08-25T07:17:47.651Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakadus",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-25T07:18:25.693Z"
   }
 ]
