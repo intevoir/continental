@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fadlu",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 151,
-    "p_name": "World Locks",
-    "p_count": 7097,
-    "price_wl": 7097,
-    "traded_with": null,
-    "timestamp": "2026-08-25T01:27:26.835Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "bartengisback",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-25T01:29:26.818Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VinnPY",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-08-25T01:42:00.399Z"
+  },
+  {
+    "player1": "GoldGar_408",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-25T01:42:45.643Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-08-25T01:42:49.703Z"
   }
 ]
