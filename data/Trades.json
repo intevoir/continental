@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BangKatzo",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 63,
-    "p_name": "World Locks",
-    "p_count": 315,
-    "price_wl": 315,
-    "traded_with": null,
-    "timestamp": "2026-08-25T14:16:51.826Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrAbenAja",
-    "world": "ADA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 384,
-    "price_wl": 384,
-    "traded_with": null,
-    "timestamp": "2026-08-25T14:18:20.057Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mystrix",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Drswy",
     "timestamp": "2026-08-25T14:20:33.293Z"
+  },
+  {
+    "player1": "DrLOOOOOOOOOOOOKA",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-25T14:21:21.755Z"
+  },
+  {
+    "player1": "Venox",
+    "player2": "Buying Machine",
+    "world": "SAW",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-25T14:21:21.764Z"
   }
 ]
