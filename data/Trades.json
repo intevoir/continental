@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "yorend",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Cybernetic Eye",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-25T07:56:43.080Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gunungkidul",
-    "world": "LIBUR",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 775,
-    "price_wl": 775,
-    "traded_with": null,
-    "timestamp": "2026-08-25T07:56:51.417Z"
-  },
-  {
     "player1": "DrOsmora",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-25T07:59:07.872Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-25T07:59:49.414Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-25T08:00:01.879Z"
   }
 ]
