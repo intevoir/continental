@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RyutaaNEW",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Battery",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-25T07:27:00.476Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Clohtes",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-25T07:28:12.375Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "UNPA",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T07:33:02.822Z"
   }
 ]
