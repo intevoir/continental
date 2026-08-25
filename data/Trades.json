@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lupeJJ",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 23850,
-    "price_wl": 23850,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:50:58.256Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Beginning []",
-    "world": "BUYPAINTBRUSH",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:51:55.211Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Beginning []",
     "world": "BUYPAINTBRUSH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-25T05:58:48.350Z"
+  },
+  {
+    "player1": "Gungnir",
+    "player2": "Renting Station",
+    "world": "NC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:59:48.491Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "afk",
+    "world": "VENDIES",
+    "action": "BUY",
+    "item_name": "E-Z Cook Oven",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-25T06:00:14.681Z"
   }
 ]
