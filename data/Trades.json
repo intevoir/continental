@@ -4,32 +4,6 @@
     "player2": "x11x",
     "world": "PLAZA",
     "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:50:33.033Z"
-  },
-  {
-    "player1": "parance",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:50:33.043Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "x11x",
-    "world": "PLAZA",
-    "action": "BUY",
     "item_name": "Paintbrush",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 408,
     "traded_with": null,
     "timestamp": "2026-08-25T03:54:26.390Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Open Sign",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:55:34.435Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUNBA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:55:37.667Z"
   }
 ]
