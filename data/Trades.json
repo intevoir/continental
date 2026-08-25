@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dvinnnn",
-    "world": "BUYPYEON",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-25T20:23:01.801Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "akasu",
     "world": "SPOTS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-08-25T20:28:55.503Z"
+  },
+  {
+    "player1": "ZuStore",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 8100,
+    "price_wl": 8100,
+    "traded_with": null,
+    "timestamp": "2026-08-25T20:29:55.552Z"
   }
 ]
