@@ -5,19 +5,6 @@
     "world": "DAP",
     "action": "BUY",
     "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 960,
-    "price_wl": 960,
-    "traded_with": null,
-    "timestamp": "2026-08-25T20:39:20.442Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "freezes",
-    "world": "DAP",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
     "item_count": 3,
     "p_name": "World Locks",
     "p_count": 144,
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-08-25T20:50:03.352Z"
+  },
+  {
+    "player1": "NewPerson",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-25T20:57:09.493Z"
   }
 ]
