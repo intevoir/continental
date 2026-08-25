@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "x11x",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:50:25.099Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "x11x",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:50:28.438Z"
-  },
-  {
     "player1": "parance",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-08-25T03:53:10.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AkoSiNishikata",
+    "world": "NOW",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:53:42.111Z"
+  },
+  {
+    "player1": "IFuunyV2",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 8400,
+    "price_wl": 8400,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:54:10.870Z"
   }
 ]
