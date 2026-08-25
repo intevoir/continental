@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Yia",
-    "world": "BTKBTK",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:01:45.503Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Yia",
-    "world": "BTKBTK",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:01:50.939Z"
-  },
-  {
     "player1": "DrOsmora",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +102,31 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-08-25T08:05:47.718Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMythicalFist [ELITE]",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T08:06:47.675Z"
+  },
+  {
+    "player1": "Udilll",
+    "player2": "Buying Machine",
+    "world": "DAP",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 72,
+    "price_wl": 72,
+    "traded_with": null,
+    "timestamp": "2026-08-25T08:06:47.689Z"
   }
 ]
