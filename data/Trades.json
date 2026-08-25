@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Qoisky",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-25T11:11:33.022Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PICT1",
-    "world": "SPEEDS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-08-25T11:12:30.726Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zarn",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-25T11:14:32.595Z"
+  },
+  {
+    "player1": "MidnightBoy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T11:15:04.891Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3750,
+    "price_wl": 3750,
+    "traded_with": null,
+    "timestamp": "2026-08-25T11:15:12.366Z"
   }
 ]
