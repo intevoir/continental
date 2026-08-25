@@ -1,31 +1,5 @@
 [
   {
-    "player1": "brotodd",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 840,
-    "price_wl": 840,
-    "traded_with": null,
-    "timestamp": "2026-08-25T16:42:03.463Z"
-  },
-  {
-    "player1": "ArthaSTOREv2",
-    "player2": "Renting Station",
-    "world": "XC",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-25T16:42:03.468Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ALPACA",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-08-25T16:43:21.612Z"
+  },
+  {
+    "player1": "ArthaSTORE",
+    "player2": "Renting Station",
+    "world": "XC",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 130900,
+    "price_wl": 130900,
+    "traded_with": null,
+    "timestamp": "2026-08-25T16:43:26.975Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Moyy of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T16:43:26.986Z"
   }
 ]
