@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "X0X0",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T10:45:59.063Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PlyBiter",
-    "world": "CERAH",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 9600,
-    "price_wl": 9600,
-    "traded_with": null,
-    "timestamp": "2026-08-25T10:46:14.711Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PlyBiter",
-    "world": "CERAH",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 384,
-    "price_wl": 384,
-    "traded_with": null,
-    "timestamp": "2026-08-25T10:46:25.528Z"
-  },
-  {
     "player1": "X0X0",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 7830,
     "traded_with": null,
     "timestamp": "2026-08-25T10:48:24.240Z"
+  },
+  {
+    "player1": "X0X0",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T10:49:00.350Z"
+  },
+  {
+    "player1": "Gooaa",
+    "player2": "Renting Station",
+    "world": "222",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-08-25T10:49:28.259Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKorcupine",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 108,
+    "p_name": "World Locks",
+    "p_count": 81000,
+    "price_wl": 81000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T10:49:29.038Z"
   }
 ]
