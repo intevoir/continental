@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drpibi",
-    "player2": "Buying Machine",
-    "world": "EHE",
-    "action": "SELL",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 260000,
-    "price_wl": 260000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:05:53.975Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HECO",
     "world": "STORES",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-25T04:08:25.483Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Legendsxyzs",
+    "world": "VENDN",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-25T04:09:18.483Z"
   }
 ]
