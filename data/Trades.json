@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrDudaMuda []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119000,
-    "price_wl": 119000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:23:55.173Z"
-  },
-  {
-    "player1": "ShapakID",
-    "player2": "Renting Station",
-    "world": "RENTONLY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23800,
-    "price_wl": 23800,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:25:55.672Z"
-  },
-  {
     "player1": "HACLONE",
     "player2": "Renting Station",
     "world": "TOKOZ",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
     "timestamp": "2026-08-25T08:28:57.612Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "HYBAR",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T08:29:56.644Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mozartz",
+    "world": "VENDRT",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-25T08:30:25.097Z"
   }
 ]
