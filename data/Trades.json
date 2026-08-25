@@ -1,18 +1,5 @@
 [
   {
-    "player1": "bartengisback",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 23760,
-    "price_wl": 23760,
-    "traded_with": null,
-    "timestamp": "2026-08-25T17:47:57.842Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZapsKikir",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-25T17:53:57.573Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZapsKikir",
+    "world": "BUYBATM",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T17:54:49.403Z"
   }
 ]
