@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Orihime",
-    "player2": "Renting Station",
-    "world": "53",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:43:34.271Z"
-  },
-  {
-    "player1": "HyBre",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:46:35.000Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IKKY67",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 37500,
     "traded_with": null,
     "timestamp": "2026-08-25T04:57:43.282Z"
+  },
+  {
+    "player1": "Orihime",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 6160,
+    "price_wl": 6160,
+    "traded_with": null,
+    "timestamp": "2026-08-25T04:58:45.359Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IKKY67",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-25T04:58:45.373Z"
   }
 ]
