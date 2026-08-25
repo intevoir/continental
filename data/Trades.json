@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:04:32.415Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPesiar [ELITE]",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:04:37.336Z"
-  },
-  {
-    "player1": "DrMeiLin",
-    "player2": "Buying Machine",
-    "world": "IYA",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:05:32.524Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "APROUIN",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-08-25T12:08:56.332Z"
+  },
+  {
+    "player1": "Seekyz",
+    "player2": "HECO",
+    "world": "LKJSC",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "HECO",
+    "timestamp": "2026-08-25T12:09:56.750Z"
+  },
+  {
+    "player1": "HECO",
+    "player2": "Seekyz",
+    "world": "LKJSC",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 45,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Seekyz",
+    "timestamp": "2026-08-25T12:09:56.751Z"
+  },
+  {
+    "player1": "Fadlu",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 207,
+    "p_name": "World Locks",
+    "p_count": 9729,
+    "price_wl": 9729,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:09:59.833Z"
   }
 ]
