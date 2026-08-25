@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Exinst",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legal Briefs",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T00:20:20.049Z"
-  },
-  {
-    "player1": "LOVEKLEE",
-    "player2": "Buying Machine",
-    "world": "BFGBTY",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 18480,
-    "price_wl": 18480,
-    "traded_with": null,
-    "timestamp": "2026-08-25T00:21:03.336Z"
-  },
-  {
     "player1": "VOGZ",
     "player2": "Buying Machine",
     "world": "BFGOAK",
@@ -128,5 +102,31 @@
     "price_wl": 760,
     "traded_with": null,
     "timestamp": "2026-08-25T00:24:28.190Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aetrus",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-08-25T00:26:24.284Z"
+  },
+  {
+    "player1": "mxgz",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-25T00:26:31.319Z"
   }
 ]
