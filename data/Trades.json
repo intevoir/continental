@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DexHort",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 1680,
-    "price_wl": 1680,
-    "traded_with": null,
-    "timestamp": "2026-08-25T09:52:38.122Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "BUYMALL",
-    "action": "BUY",
-    "item_name": "Prosperity Mooncake",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-25T09:52:38.141Z"
-  },
-  {
-    "player1": "BabuKaiituru",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-08-25T09:52:41.574Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "melvino",
     "world": "DIGIVEND",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-25T09:55:47.091Z"
+  },
+  {
+    "player1": "@Yia",
+    "player2": "@HighRank [SUPER] [PRO ]",
+    "world": "BTKBTK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@HighRank [SUPER] [PRO ]",
+    "timestamp": "2026-08-25T09:56:49.838Z"
+  },
+  {
+    "player1": "@HighRank [SUPER] [PRO ]",
+    "player2": "@Yia",
+    "world": "BTKBTK",
+    "action": "TRADE",
+    "item_name": "Diamondboy's King Crown",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Yia",
+    "timestamp": "2026-08-25T09:56:49.840Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Siotan",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Birth Certificate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-25T09:56:52.562Z"
   }
 ]
