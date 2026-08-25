@@ -1,44 +1,5 @@
 [
   {
-    "player1": "OldSpices",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 6750,
-    "price_wl": 6750,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:45:00.876Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 74700,
-    "price_wl": 74700,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:45:22.270Z"
-  },
-  {
-    "player1": "Jowbie",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:45:48.458Z"
-  },
-  {
     "player1": "ArthurBaik",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +89,44 @@
     "price_wl": 23850,
     "traded_with": null,
     "timestamp": "2026-08-25T05:50:58.256Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Beginning []",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Yellow",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:51:55.211Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Beginning []",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:52:02.816Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Beginning []",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:52:09.871Z"
   }
 ]
