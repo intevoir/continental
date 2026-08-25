@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HECO",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:18:37.569Z"
-  },
-  {
     "player1": "PROKERZ",
     "player2": "Renting Station",
     "world": "53",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-08-25T05:26:02.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zuble",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 150000,
+    "price_wl": 150000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:27:02.435Z"
   }
 ]
