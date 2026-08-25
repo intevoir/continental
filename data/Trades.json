@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ADITTTAJA",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 65,
-    "price_wl": 65,
-    "traded_with": null,
-    "timestamp": "2026-08-25T04:56:38.791Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-25T05:04:21.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkyDeath",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 4980,
+    "price_wl": 4980,
+    "traded_with": null,
+    "timestamp": "2026-08-25T05:04:31.742Z"
   }
 ]
