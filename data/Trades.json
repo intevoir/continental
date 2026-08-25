@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MayauAja",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:32:45.944Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NessFX",
     "world": "BUY47",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 120000,
     "traded_with": null,
     "timestamp": "2026-08-25T12:34:20.389Z"
+  },
+  {
+    "player1": "BAYO",
+    "player2": "Buying Machine",
+    "world": "1",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:36:06.071Z"
   }
 ]
