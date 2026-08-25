@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LIENO",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-25T21:48:22.090Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "akasu",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-25T22:03:03.303Z"
+  },
+  {
+    "player1": "NewPerson",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-25T22:03:34.639Z"
   }
 ]
