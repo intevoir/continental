@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ZeroTooth_190",
-    "player2": "Renting Station",
-    "world": "KANTIN",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-08-25T02:35:36.919Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dystopia",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-25T02:35:36.947Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
     "world": "KKK",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-25T02:36:36.922Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "KKK",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 3760,
+    "price_wl": 3760,
+    "traded_with": null,
+    "timestamp": "2026-08-25T02:36:41.556Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sayydi",
+    "world": "OIS",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-08-25T02:36:48.774Z"
   }
 ]
