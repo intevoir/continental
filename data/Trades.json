@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "akasu",
-    "world": "SPOTS",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 32,
-    "p_name": "World Locks",
-    "p_count": 32,
-    "price_wl": 32,
-    "traded_with": null,
-    "timestamp": "2026-08-25T20:24:54.762Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZuStore",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8100,
     "traded_with": null,
     "timestamp": "2026-08-25T20:29:55.552Z"
+  },
+  {
+    "player1": "ZuStore",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T20:32:23.742Z"
   }
 ]
