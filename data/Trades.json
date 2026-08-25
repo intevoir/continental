@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "serayu",
-    "world": "OFIT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-25T21:08:10.057Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "akasu",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100000,
     "traded_with": null,
     "timestamp": "2026-08-25T21:41:29.219Z"
+  },
+  {
+    "player1": "LIENO",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T21:48:22.090Z"
   }
 ]
