@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:05:54.664Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cept [ELITE]",
     "world": "WLENVY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-25T12:10:54.801Z"
+  },
+  {
+    "player1": "Seekyz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 204,
+    "p_name": "World Locks",
+    "p_count": 20400,
+    "price_wl": 20400,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:11:57.768Z"
   }
 ]
