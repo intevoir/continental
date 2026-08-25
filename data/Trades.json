@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Ciela",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:14:59.745Z"
-  },
-  {
     "player1": "@Cupli",
     "player2": "Renting Station",
     "world": "HV",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-25T12:21:06.167Z"
+  },
+  {
+    "player1": "SirRey",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:21:41.450Z"
   }
 ]
