@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "afk",
-    "world": "EHE",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 4840,
-    "price_wl": 4840,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:57:22.725Z"
-  },
-  {
-    "player1": "RappWasHere",
-    "player2": "Renting Station",
-    "world": "RENTMURAH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19635,
-    "price_wl": 19635,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:58:20.095Z"
-  },
-  {
-    "player1": "LhT",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-25T08:59:12.644Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Orihime",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-25T09:00:37.417Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArrangGT",
+    "world": "BFGADVAN",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-25T09:01:13.306Z"
+  },
+  {
+    "player1": "DrRikoFF123",
+    "player2": "DrxXFailureXx",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrxXFailureXx",
+    "timestamp": "2026-08-25T09:01:13.328Z"
+  },
+  {
+    "player1": "DrxXFailureXx",
+    "player2": "DrRikoFF123",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRikoFF123",
+    "timestamp": "2026-08-25T09:01:13.330Z"
   }
 ]
