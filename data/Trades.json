@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "hamzcit4",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-25T11:47:25.549Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Death Spikes",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-25T11:47:34.177Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Popular",
     "world": "LIBUR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 220,
     "traded_with": null,
     "timestamp": "2026-08-25T11:49:30.972Z"
+  },
+  {
+    "player1": "putroadto",
+    "player2": "Renting Station",
+    "world": "53",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-25T11:49:42.933Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hamzcit4",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-25T11:49:56.893Z"
   }
 ]
