@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "iikan",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Typhoon Gate",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-25T15:14:12.690Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Orihime",
     "world": "VENDSHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-25T15:18:35.643Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "Buying Machine",
+    "world": "KIPLIII",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T15:19:01.987Z"
   }
 ]
