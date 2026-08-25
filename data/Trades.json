@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "APROUIN",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-25T12:05:41.324Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "radana",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9729,
     "traded_with": null,
     "timestamp": "2026-08-25T12:09:59.833Z"
+  },
+  {
+    "player1": "Pernandez",
+    "player2": "Renting Station",
+    "world": "NC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-25T12:10:54.801Z"
   }
 ]
