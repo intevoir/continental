@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dr939",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Renting Station",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 19500,
-    "price_wl": 19500,
-    "traded_with": null,
-    "timestamp": "2026-08-25T01:49:05.551Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "APROUIN",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-25T02:03:07.881Z"
+  },
+  {
+    "player1": "POLISl",
+    "player2": "Renting Station",
+    "world": "NMART",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-25T02:06:51.717Z"
   }
 ]
