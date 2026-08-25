@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zoeroy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-25T20:08:13.011Z"
-  },
-  {
-    "player1": "SEBAGAISTORE",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-25T20:10:50.972Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrPRICES",
     "world": "BFGNG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 33000,
     "traded_with": null,
     "timestamp": "2026-08-25T20:17:52.602Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "xK0ng",
+    "world": "BUYFIREWORK",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T20:19:13.232Z"
+  },
+  {
+    "player1": "LIENO",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-08-25T20:19:16.575Z"
   }
 ]
