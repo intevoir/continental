@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZapsKikir",
-    "world": "BUYBATM",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T06:22:00.686Z"
-  },
-  {
-    "player1": "OldSpices",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-25T06:22:56.759Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "REYYON",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-25T06:26:01.757Z"
+  },
+  {
+    "player1": "Dr939",
+    "player2": "UNPA",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 29,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "UNPA",
+    "timestamp": "2026-08-25T06:28:03.411Z"
+  },
+  {
+    "player1": "UNPA",
+    "player2": "Dr939",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr939",
+    "timestamp": "2026-08-25T06:28:03.425Z"
   }
 ]
