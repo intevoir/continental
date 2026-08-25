@@ -4,32 +4,6 @@
     "player2": "@Beginning []",
     "world": "BUYPAINTBRUSH",
     "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:56:12.778Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Beginning []",
-    "world": "BUYPAINTBRUSH",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-25T03:56:12.792Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Beginning []",
-    "world": "BUYPAINTBRUSH",
-    "action": "BUY",
     "item_name": "Paint Bucket - Varnish",
     "item_count": 20,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 528,
     "traded_with": null,
     "timestamp": "2026-08-25T03:57:14.191Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HECO",
+    "world": "PAPI",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:57:26.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MoorTeiz",
+    "world": "AOV",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-25T03:57:29.637Z"
   }
 ]
