@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Rextboy",
-    "world": "WYD",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Rextboy",
-    "timestamp": "2026-08-25T00:37:36.263Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IPEEENGGG",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-25T00:37:39.366Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IPEEENGGG",
     "world": "HSHOP",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-08-25T00:39:09.964Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IPEEENGGG",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Director's Chair",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-25T00:40:10.252Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IPEEENGGG",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Weather Machine - Background",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-25T00:40:27.897Z"
   }
 ]
