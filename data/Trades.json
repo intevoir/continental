@@ -4,32 +4,6 @@
     "player2": "SkyDeath",
     "world": "PLAZA",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-08-25T13:32:38.477Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkyDeath",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-25T13:33:01.416Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkyDeath",
-    "world": "PLAZA",
-    "action": "BUY",
     "item_name": "Songpyeon",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-25T13:35:26.141Z"
+  },
+  {
+    "player1": "JONHCENA",
+    "player2": "Buying Machine",
+    "world": "8X8",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 1410,
+    "price_wl": 1410,
+    "traded_with": null,
+    "timestamp": "2026-08-25T13:36:05.731Z"
+  },
+  {
+    "player1": "DellaCPS",
+    "player2": "Renting Station",
+    "world": "MAQUIA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-25T13:36:22.094Z"
   }
 ]
