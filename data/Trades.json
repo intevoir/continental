@@ -4,19 +4,6 @@
     "player2": "@Beginning []",
     "world": "BUYPAINTBRUSH",
     "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-08-25T05:52:02.816Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Beginning []",
-    "world": "BUYPAINTBRUSH",
-    "action": "BUY",
     "item_name": "Paint Bucket - Blue",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-25T06:00:14.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RickSecAcc",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-25T06:00:21.728Z"
   }
 ]
