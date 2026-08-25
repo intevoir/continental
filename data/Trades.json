@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Zarn",
-    "player2": "Renting Station",
-    "world": "FIREHAQI",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2737,
-    "price_wl": 2737,
-    "traded_with": null,
-    "timestamp": "2026-08-25T11:07:57.589Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMeiLin",
     "world": "ML",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-25T11:09:58.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zarn",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Legendary Wizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T11:10:59.025Z"
   }
 ]
