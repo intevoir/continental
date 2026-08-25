@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LOVEKLEE",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 680,
-    "price_wl": 680,
-    "traded_with": null,
-    "timestamp": "2026-08-25T06:25:57.462Z"
-  },
-  {
     "player1": "Violation",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 350000,
     "traded_with": null,
     "timestamp": "2026-08-25T06:30:00.813Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pibi",
+    "world": "BUYGALAXYAURA",
+    "action": "BUY",
+    "item_name": "Galaxy Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-25T06:30:20.654Z"
   }
 ]
