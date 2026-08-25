@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KopiABC",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-08-25T13:08:59.310Z"
-  },
-  {
     "player1": "Bertahapp",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-25T13:13:15.832Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-25T13:13:53.689Z"
   }
 ]
