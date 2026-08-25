@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ZapsKikir",
-    "player2": "Buying Machine",
-    "world": "AULA",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-08-25T17:45:37.906Z"
-  },
-  {
-    "player1": "hooks",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-08-25T17:47:30.375Z"
-  },
-  {
     "player1": "FlameHack_272",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 17000,
     "traded_with": null,
     "timestamp": "2026-08-25T17:50:37.014Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZapsKikir",
+    "world": "TRADING",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-25T17:52:33.237Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZapsKikir",
+    "world": "TRADING",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-25T17:52:37.605Z"
   }
 ]
