@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@NEPzy",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Astral Crest",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-25T09:24:56.664Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@NEPzy",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Royal Astral Crest",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-25T09:25:00.706Z"
-  },
-  {
     "player1": "BreachSwap",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-25T09:27:50.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-25T09:28:30.207Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@NEPzy",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Black Ultraviolet Charm",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-08-25T09:28:45.492Z"
   }
 ]
