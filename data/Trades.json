@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HAMZCIT1",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-25T23:46:09.904Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Bertahapp",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-26T00:00:20.825Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "akasu",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Extractor Dynamo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-26T00:02:37.152Z"
   }
 ]
