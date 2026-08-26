@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kizi",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Storage Box Xtreme - Level 3",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-26T05:54:18.150Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kizi",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Safe Vault",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T05:54:29.143Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GOIN",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-26T06:00:35.417Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "blozzz",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:01:19.676Z"
+  },
+  {
+    "player1": "PROKERZ",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:01:31.698Z"
   }
 ]
