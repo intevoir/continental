@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ryyyyyy",
-    "world": "BELANJA",
-    "action": "BUY",
-    "item_name": "Heart Monitor",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T20:33:54.642Z"
-  },
-  {
     "player1": "PRICESold",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-08-26T20:49:03.625Z"
+  },
+  {
+    "player1": "DualKenshi []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-08-26T20:50:03.623Z"
   }
 ]
