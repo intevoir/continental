@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kensyo",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T18:11:33.843Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMESA",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-26T18:11:40.899Z"
-  },
-  {
-    "player1": "DrMESA",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T18:12:01.812Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zuble",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-26T18:13:13.806Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stpenn",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-08-26T18:14:50.013Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stpenn",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-26T18:15:14.422Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stpenn",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-26T18:15:14.452Z"
   }
 ]
