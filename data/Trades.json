@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VewekJT",
-    "world": "VENDING",
-    "action": "BUY",
-    "item_name": "Windup Musical Box",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-26T04:51:27.153Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drspica",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1184,
     "traded_with": null,
     "timestamp": "2026-08-26T04:57:00.508Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Siotan",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-26T04:57:04.118Z"
   }
 ]
