@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "IPEEENGGG",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Darkening Hood",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:38:21.921Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IPEEENGGG",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Intergalactic Warrior Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:38:44.786Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IPEEENGGG",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Crown of Duplication",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:38:52.243Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Gunungkidul",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 195000,
     "traded_with": null,
     "timestamp": "2026-08-26T03:43:13.065Z"
+  },
+  {
+    "player1": "Tyenz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:43:42.087Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IPEEENGGG",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Fuizi's Intergalactic Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:43:42.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Chicken Meat",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:44:04.627Z"
   }
 ]
