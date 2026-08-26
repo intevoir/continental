@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "MINIVENDY",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T06:16:00.755Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Soul of Legend",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Kembar's King Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200000,
-    "price_wl": 200000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T06:16:25.372Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Soul of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-26T06:21:28.037Z"
+  },
+  {
+    "player1": "MazdaN",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:22:27.957Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "umann",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Antigravity Generator",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:22:39.518Z"
   }
 ]
