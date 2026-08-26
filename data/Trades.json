@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bimahaz",
-    "world": "SESS",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T00:32:29.995Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Siotan",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T00:37:17.609Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RtoRiich [CHAD!]",
     "world": "BUYVISOR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-08-26T00:46:54.447Z"
+  },
+  {
+    "player1": "MidnightBoy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-26T00:48:46.696Z"
+  },
+  {
+    "player1": "MidnightBoy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Mover",
+    "item_count": 37,
+    "p_name": "World Locks",
+    "p_count": 1110,
+    "price_wl": 1110,
+    "traded_with": null,
+    "timestamp": "2026-08-26T00:50:42.249Z"
   }
 ]
