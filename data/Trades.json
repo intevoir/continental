@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Genie's Lamp - Green",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T15:03:55.485Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Genie's Lamp - Yellow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T15:03:59.123Z"
-  },
-  {
     "player1": "Thekindman",
     "player2": "Buying Machine",
     "world": "GEVU",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-26T15:04:44.350Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lod21",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Malevolent Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T15:05:44.848Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "PLAZAS",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 230,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-08-26T15:05:56.751Z"
   }
 ]
