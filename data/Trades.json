@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drswy",
-    "player2": "Buying Machine",
-    "world": "PLAZA",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2190,
-    "price_wl": 2190,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:54:02.729Z"
-  },
-  {
     "player1": "DrBaratts",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-26T07:57:05.822Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "mfadila",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Malevolent Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:58:22.607Z"
   }
 ]
