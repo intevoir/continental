@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kizi",
-    "world": "BUY3LETTER",
-    "action": "BUY",
-    "item_name": "Main Door",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:53:54.965Z"
-  },
-  {
     "player1": "Drswy",
     "player2": "Buying Machine",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-26T07:56:31.183Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zelaa",
+    "world": "UCHEAP",
+    "action": "BUY",
+    "item_name": "Bunny Ear Magnifying Glass",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:57:05.822Z"
   }
 ]
