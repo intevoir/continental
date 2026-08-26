@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 12400,
-    "price_wl": 12400,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:23:22.185Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gracexx",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Eldritch Eyes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:24:50.516Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gracexx",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Malevolent Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:25:27.253Z"
-  },
-  {
     "player1": "DrSpyware",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +89,44 @@
     "price_wl": 7200,
     "traded_with": null,
     "timestamp": "2026-08-26T14:29:28.388Z"
+  },
+  {
+    "player1": "Thekindman",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 16200,
+    "price_wl": 16200,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:30:24.023Z"
+  },
+  {
+    "player1": "DrPesiar [ELITE]",
+    "player2": "hoshiV22",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "hoshiV22",
+    "timestamp": "2026-08-26T14:30:27.735Z"
+  },
+  {
+    "player1": "hoshiV22",
+    "player2": "DrPesiar [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrPesiar [ELITE]",
+    "timestamp": "2026-08-26T14:30:27.737Z"
   }
 ]
