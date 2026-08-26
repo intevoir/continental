@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Foont",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 140,
-    "price_wl": 140,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:04:14.529Z"
-  },
-  {
-    "player1": "Mandut",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:04:14.537Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@BLOCK [BLOCKMO] []",
     "world": "CORE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-08-26T14:05:02.831Z"
+  },
+  {
+    "player1": "Mandut",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 209,
+    "p_name": "World Locks",
+    "p_count": 9823,
+    "price_wl": 9823,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:05:17.114Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Persis of Legend",
+    "world": "SESS",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:09:05.789Z"
   }
 ]
