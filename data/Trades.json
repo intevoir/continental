@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "IRM",
-    "action": "BUY",
-    "item_name": "Purple Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-26T08:21:08.038Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "BYPAC",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-26T08:21:08.066Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-26T08:26:12.171Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zerba",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T08:26:20.366Z"
+  },
+  {
+    "player1": "Anjaay",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-26T08:26:40.378Z"
   }
 ]
