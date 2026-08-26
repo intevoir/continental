@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@BLOCK [BLOCKMO] []",
-    "world": "CORE",
-    "action": "BUY",
-    "item_name": "Boastful Brawler Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:11:05.485Z"
-  },
-  {
     "player1": "razi9",
     "player2": "Renting Station",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-26T14:15:34.269Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Pastel Purple Wallpaper",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:16:15.999Z"
   }
 ]
