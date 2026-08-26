@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-26T08:31:32.643Z"
-  },
-  {
     "player1": "jakimao",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-26T08:34:11.444Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZetsuNii",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-26T08:34:43.187Z"
   }
 ]
