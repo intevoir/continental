@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NuggetBucket",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Chicken Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T22:12:07.212Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KingXury",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 39500,
-    "price_wl": 39500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T22:17:04.894Z"
-  },
-  {
-    "player1": "Gunungkidul",
-    "player2": "Benihime",
-    "world": "LNS",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Benihime",
-    "timestamp": "2026-08-26T22:35:25.599Z"
-  },
-  {
     "player1": "Benihime",
     "player2": "Gunungkidul",
     "world": "LNS",
@@ -128,5 +89,44 @@
     "price_wl": 80000,
     "traded_with": null,
     "timestamp": "2026-08-26T22:39:13.218Z"
+  },
+  {
+    "player1": "@SHA [SUPER] [PRO ]",
+    "player2": "Saber of Legend [YOLO!]",
+    "world": "SABERITEM",
+    "action": "TRADE",
+    "item_name": "Ultra Trophy 3000",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Saber of Legend [YOLO!]",
+    "timestamp": "2026-08-26T22:44:13.934Z"
+  },
+  {
+    "player1": "Saber of Legend [YOLO!]",
+    "player2": "@SHA [SUPER] [PRO ]",
+    "world": "SABERITEM",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 8,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@SHA [SUPER] [PRO ]",
+    "timestamp": "2026-08-26T22:44:13.937Z"
+  },
+  {
+    "player1": "Saber of Legend [YOLO!]",
+    "player2": "@SHA [SUPER] [PRO ]",
+    "world": "SABERITEM",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@SHA [SUPER] [PRO ]",
+    "timestamp": "2026-08-26T22:44:13.937Z"
   }
 ]
