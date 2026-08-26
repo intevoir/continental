@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RyzLonely",
-    "world": "NI9",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-08-26T13:02:40.886Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@waku",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-26T13:02:40.984Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@waku",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-26T13:02:45.755Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "WAKO",
-    "world": "SELLMILK",
-    "action": "BUY",
-    "item_name": "Cow",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-26T13:02:45.773Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "barudakindo",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1204,
     "traded_with": null,
     "timestamp": "2026-08-26T13:05:29.796Z"
+  },
+  {
+    "player1": "Attowan",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-26T13:06:36.770Z"
+  },
+  {
+    "player1": "DellaCPS",
+    "player2": "Buying Machine",
+    "world": "BFGHANZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T13:06:36.791Z"
+  },
+  {
+    "player1": "DellaCPS",
+    "player2": "Buying Machine",
+    "world": "BFGHANZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T13:06:44.044Z"
+  },
+  {
+    "player1": "WhyRemoveGBCLOL",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-08-26T13:07:02.855Z"
   }
 ]
