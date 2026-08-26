@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KaGuYaz []",
-    "player2": "Buying Machine",
-    "world": "ASSOY",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T04:25:02.091Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "yorend",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-26T04:28:28.497Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Quali",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-26T04:28:35.241Z"
   }
 ]
