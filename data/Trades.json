@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@BLOCK [BLOCKMO] []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 109,
-    "p_name": "World Locks",
-    "p_count": 88290,
-    "price_wl": 88290,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:19:33.056Z"
-  },
-  {
-    "player1": "KWGT",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Saeed's Nightmare Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:19:33.073Z"
-  },
-  {
     "player1": "Thekindman",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 19635,
     "traded_with": null,
     "timestamp": "2026-08-26T03:30:04.610Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOIN",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:30:50.072Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fauzpos",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:31:07.546Z"
   }
 ]
