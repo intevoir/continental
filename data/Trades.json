@@ -1,18 +1,5 @@
 [
   {
-    "player1": "moewcatt",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 23,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-08-26T22:47:29.538Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Mance",
     "world": "BFGOAK",
@@ -128,5 +115,18 @@
     "price_wl": 22260,
     "traded_with": null,
     "timestamp": "2026-08-26T23:05:15.003Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dystopia",
+    "world": "BFGADVAN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T23:08:01.465Z"
   }
 ]
