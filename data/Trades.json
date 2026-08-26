@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zoeroy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:16:33.798Z"
-  },
-  {
-    "player1": "PlyBiter",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 56,
-    "price_wl": 56,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:16:33.821Z"
-  },
-  {
     "player1": "RoToMray",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-26T03:18:55.191Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@BLOCK [BLOCKMO] []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 109,
+    "p_name": "World Locks",
+    "p_count": 88290,
+    "price_wl": 88290,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:19:33.056Z"
+  },
+  {
+    "player1": "KWGT",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:19:33.073Z"
   }
 ]
