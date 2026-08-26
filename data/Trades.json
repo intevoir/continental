@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrIYeso",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ancestral Totem of Wisdom",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:38:03.119Z"
-  },
-  {
     "player1": "Hmo",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-26T07:42:51.337Z"
+  },
+  {
+    "player1": "DrIYeso",
+    "player2": "Buying Machine",
+    "world": "CORE",
+    "action": "SELL",
+    "item_name": "Ghastly Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:44:51.898Z"
   }
 ]
