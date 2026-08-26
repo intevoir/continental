@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBaratts",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:55:06.890Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zelaa",
     "world": "UCHEAP",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-26T07:58:22.607Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Fish Tank",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:58:56.379Z"
   }
 ]
