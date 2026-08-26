@@ -4,19 +4,6 @@
     "player2": "wintered",
     "world": "COLOR",
     "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:24:53.369Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wintered",
-    "world": "COLOR",
-    "action": "BUY",
     "item_name": "Paint Bucket - Purple",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 705,
     "traded_with": null,
     "timestamp": "2026-08-26T07:26:47.366Z"
+  },
+  {
+    "player1": "VendinD",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:28:09.093Z"
   }
 ]
