@@ -1,44 +1,5 @@
 [
   {
-    "player1": "PRICESold",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-26T20:34:06.716Z"
-  },
-  {
-    "player1": "PRICESold",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 3570,
-    "price_wl": 3570,
-    "traded_with": null,
-    "timestamp": "2026-08-26T20:34:55.727Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nakuro",
-    "world": "HEMAT",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-08-26T20:37:57.756Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nakuro",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 25000,
     "traded_with": null,
     "timestamp": "2026-08-26T20:51:37.141Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "DAP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-08-26T20:54:09.374Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "DAP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-08-26T20:54:13.602Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "DAP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-08-26T20:54:17.704Z"
   }
 ]
