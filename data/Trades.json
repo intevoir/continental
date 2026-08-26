@@ -1,18 +1,5 @@
 [
   {
-    "player1": "bimahaz",
-    "player2": "Buying Machine",
-    "world": "AULA",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T00:24:08.516Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VeldorTem",
     "world": "BFGHANZ",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-08-26T00:43:17.558Z"
+  },
+  {
+    "player1": "RIKUA",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T00:44:18.585Z"
   }
 ]
