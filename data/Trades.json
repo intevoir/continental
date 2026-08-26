@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Apebendela",
-    "world": "BFGADVAN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:13:31.009Z"
-  },
-  {
-    "player1": "PlyBiter",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:13:31.042Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMythicalFist [ELITE]",
     "world": "QBHP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "RoToMray",
     "timestamp": "2026-08-26T03:15:57.643Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zoeroy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:16:33.798Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 56,
+    "price_wl": 56,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:16:33.821Z"
   }
 ]
