@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zuble",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T18:11:29.979Z"
-  },
-  {
-    "player1": "DrMESA",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T18:11:33.835Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kensyo",
     "world": "DISPLAY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-26T18:12:40.949Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zuble",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T18:13:13.776Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zuble",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T18:13:13.806Z"
   }
 ]
