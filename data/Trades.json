@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "[ELITE]",
-    "world": "MUR",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:10:21.531Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@BLOCK [BLOCKMO] []",
-    "world": "CORE",
-    "action": "BUY",
-    "item_name": "Morty the Diamond Elephant",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T14:10:21.555Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jack of Legend []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-26T14:10:36.565Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@BLOCK [BLOCKMO] []",
+    "world": "CORE",
+    "action": "BUY",
+    "item_name": "Boastful Brawler Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:11:05.485Z"
+  },
+  {
+    "player1": "razi9",
+    "player2": "Renting Station",
+    "world": "GEIGER",
+    "action": "RENT",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-26T14:11:05.500Z"
   }
 ]
