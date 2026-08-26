@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "ISPOT",
-    "action": "SELL",
-    "item_name": "Blackrock Wall",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-08-26T17:42:51.488Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@BenalvGT",
     "world": "WHITE",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-26T17:47:44.713Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AWKANG [YOLO!] []",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Neon Nerves",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T17:47:53.290Z"
   }
 ]
