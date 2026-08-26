@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Vanimek",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 113,
-    "p_name": "World Locks",
-    "p_count": 226,
-    "price_wl": 226,
-    "traded_with": null,
-    "timestamp": "2026-08-26T16:00:49.132Z"
-  },
-  {
     "player1": "RENTID",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-26T16:04:04.578Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MilkZhake",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T16:04:17.113Z"
   }
 ]
