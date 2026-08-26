@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drzarealm",
-    "world": "K1EL",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-26T19:42:50.857Z"
-  },
-  {
-    "player1": "parance",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T19:42:50.886Z"
-  },
-  {
     "player1": "Drzarealm",
     "player2": "Buying Machine",
     "world": "MINIMUS",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-26T19:44:20.888Z"
+  },
+  {
+    "player1": "ugj",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-26T19:44:28.208Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T19:44:52.197Z"
   }
 ]
