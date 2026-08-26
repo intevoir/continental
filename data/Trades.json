@@ -4,19 +4,6 @@
     "player2": "radana",
     "world": "PLAZA",
     "action": "BUY",
-    "item_name": "Red Laser Scimitar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T15:04:06.396Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "PLAZA",
-    "action": "BUY",
     "item_name": "Purple Laser Scimitar",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-26T15:07:13.136Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEBAGAISTORE",
+    "world": "SHOPWE",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-26T15:10:50.755Z"
   }
 ]
