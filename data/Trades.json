@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSUD",
-    "world": "OFIT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-26T02:11:02.907Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrDOLAR",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-26T02:11:11.182Z"
-  },
-  {
-    "player1": "RNF12",
-    "player2": "Renting Station",
-    "world": "FIREHAQI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20825,
-    "price_wl": 20825,
-    "traded_with": null,
-    "timestamp": "2026-08-26T02:11:26.557Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RNF12",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 42,
-    "p_name": "World Locks",
-    "p_count": 252,
-    "price_wl": 252,
-    "traded_with": null,
-    "timestamp": "2026-08-26T02:12:03.521Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RNF12",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-26T02:14:04.432Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Dumb Gem",
+    "item_count": 168,
+    "p_name": "World Locks",
+    "p_count": 168,
+    "price_wl": 168,
+    "traded_with": null,
+    "timestamp": "2026-08-26T02:14:16.332Z"
+  },
+  {
+    "player1": "Saktyuss",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 85,
+    "p_name": "World Locks",
+    "p_count": 510,
+    "price_wl": 510,
+    "traded_with": null,
+    "timestamp": "2026-08-26T02:14:19.874Z"
+  },
+  {
+    "player1": "Gezryn",
+    "player2": "parance",
+    "world": "CIY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "parance",
+    "timestamp": "2026-08-26T02:14:24.079Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "Gezryn",
+    "world": "CIY",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Gezryn",
+    "timestamp": "2026-08-26T02:14:24.080Z"
   }
 ]
