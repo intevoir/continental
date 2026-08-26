@@ -5,19 +5,6 @@
     "world": "CANTEEN",
     "action": "SELL",
     "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T20:10:37.017Z"
-  },
-  {
-    "player1": "ahmadgaming",
-    "player2": "Buying Machine",
-    "world": "CANTEEN",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
     "item_count": 53,
     "p_name": "World Locks",
     "p_count": 53,
@@ -128,5 +115,18 @@
     "price_wl": 35000,
     "traded_with": null,
     "timestamp": "2026-08-26T20:14:16.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dvinnnn",
+    "world": "MARTS",
+    "action": "BUY",
+    "item_name": "Boxed Lock",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-26T20:21:08.596Z"
   }
 ]
