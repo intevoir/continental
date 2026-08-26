@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iikan",
-    "world": "GPX",
-    "action": "BUY",
-    "item_name": "Purple Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-26T07:49:23.330Z"
-  },
-  {
     "player1": "PROKERZ1",
     "player2": "Renting Station",
     "world": "8R",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-26T07:55:55.577Z"
+  },
+  {
+    "player1": "Zerba",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10800,
+    "price_wl": 10800,
+    "traded_with": null,
+    "timestamp": "2026-08-26T07:56:23.568Z"
   }
 ]
