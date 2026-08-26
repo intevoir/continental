@@ -5,32 +5,6 @@
     "world": "CORE",
     "action": "SELL",
     "item_name": "Golden Razor Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T06:04:42.998Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "YouOne",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Golden Razor Wings",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T06:05:20.414Z"
-  },
-  {
-    "player1": "YouOne",
-    "player2": "Buying Machine",
-    "world": "CORE",
-    "action": "SELL",
-    "item_name": "Golden Razor Wings",
     "item_count": 8,
     "p_name": "World Locks",
     "p_count": 8000,
@@ -128,5 +102,31 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-08-26T06:13:44.039Z"
+  },
+  {
+    "player1": "Gunungkidul",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:14:24.168Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IyannZy of Legend",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 22500,
+    "price_wl": 22500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:14:24.182Z"
   }
 ]
