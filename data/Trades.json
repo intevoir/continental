@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YouOne",
-    "player2": "Buying Machine",
-    "world": "CORE",
-    "action": "SELL",
-    "item_name": "Golden Razor Wings",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T06:05:30.781Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MattyzePS",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 22500,
     "traded_with": null,
     "timestamp": "2026-08-26T06:14:24.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lali",
+    "world": "MINIVENDY",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T06:16:00.755Z"
   }
 ]
