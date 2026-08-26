@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Rawy",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T12:32:19.298Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lippiew",
     "world": "MANCING",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 105000,
     "traded_with": null,
     "timestamp": "2026-08-26T12:36:21.610Z"
+  },
+  {
+    "player1": "SugabV1",
+    "player2": "Renting Station",
+    "world": "A31",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-08-26T12:36:29.452Z"
   }
 ]
