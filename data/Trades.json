@@ -1,44 +1,5 @@
 [
   {
-    "player1": "misendok",
-    "player2": "Buying Machine",
-    "world": "BFGNG",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T10:07:14.878Z"
-  },
-  {
-    "player1": "LOVEKLEE",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3600,
-    "price_wl": 3600,
-    "traded_with": null,
-    "timestamp": "2026-08-26T10:08:00.138Z"
-  },
-  {
-    "player1": "misendok",
-    "player2": "Buying Machine",
-    "world": "BFGNG",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-26T10:08:24.929Z"
-  },
-  {
     "player1": "KingApet",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-26T10:09:56.958Z"
+  },
+  {
+    "player1": "bimahaz",
+    "player2": "misendok",
+    "world": "DE0",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 12,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "misendok",
+    "timestamp": "2026-08-26T10:10:53.082Z"
+  },
+  {
+    "player1": "misendok",
+    "player2": "bimahaz",
+    "world": "DE0",
+    "action": "TRADE",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "bimahaz",
+    "timestamp": "2026-08-26T10:10:53.088Z"
+  },
+  {
+    "player1": "KembarStore of Legend",
+    "player2": "Buying Machine",
+    "world": "1",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3800000,
+    "price_wl": 3800000,
+    "traded_with": null,
+    "timestamp": "2026-08-26T10:10:53.089Z"
   }
 ]
