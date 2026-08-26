@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "APROUIN",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-26T03:41:40.907Z"
-  },
-  {
     "player1": "Tyenz",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-26T03:44:53.982Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-26T03:46:03.816Z"
   }
 ]
