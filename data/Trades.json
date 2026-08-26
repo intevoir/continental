@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-08-26T12:44:40.659Z"
-  },
-  {
     "player1": "DrThiphoon",
     "player2": "Renting Station",
     "world": "BUYMRAY",
@@ -128,5 +115,18 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-08-26T12:48:34.623Z"
+  },
+  {
+    "player1": "Brokee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8500,
+    "price_wl": 8500,
+    "traded_with": null,
+    "timestamp": "2026-08-26T12:49:38.450Z"
   }
 ]
