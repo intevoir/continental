@@ -10,32 +10,6 @@
     "p_count": 250,
     "price_wl": 250,
     "traded_with": null,
-    "timestamp": "2026-08-27T06:38:38.919Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Deluxe Grow Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:38:42.075Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "SPRAY",
-    "action": "SELL",
-    "item_name": "Deluxe Grow Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
     "timestamp": "2026-08-27T06:38:45.432Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 102,
     "traded_with": null,
     "timestamp": "2026-08-27T06:39:15.462Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SELL",
+    "world": "TOKOV",
+    "action": "BUY",
+    "item_name": "Pitchfork",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 39,
+    "price_wl": 39,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:39:22.891Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Buying Machine",
+    "world": "ISPOT",
+    "action": "SELL",
+    "item_name": "Pitchfork",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 78,
+    "price_wl": 78,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:39:26.512Z"
   }
 ]
