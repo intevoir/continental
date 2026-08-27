@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "GRAYSAIKORO",
-    "world": "WHOLESALESTORE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-27T03:13:37.085Z"
-  },
-  {
     "player1": "GRAYSAIKORO",
     "player2": "Buying Machine",
     "world": "WHOLESALESTORE",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-27T03:16:49.386Z"
+  },
+  {
+    "player1": "ZetsuNii",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-08-27T03:17:57.613Z"
   }
 ]
