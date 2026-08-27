@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Saber of Legend [YOLO!]",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-27T03:04:38.197Z"
-  },
-  {
     "player1": "DrVendinQ [ELITE]",
     "player2": "Buying Machine",
     "world": "PIG",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-27T03:13:57.994Z"
+  },
+  {
+    "player1": "DrVendinQ [ELITE]",
+    "player2": "Buying Machine",
+    "world": "DNH",
+    "action": "SELL",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 270000,
+    "price_wl": 270000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T03:14:50.357Z"
   }
 ]
