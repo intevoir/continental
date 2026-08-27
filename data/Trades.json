@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Valeonzz",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:46:10.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ihza",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:47:37.354Z"
-  },
-  {
     "player1": "LuigiToan",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 890,
     "traded_with": null,
     "timestamp": "2026-08-27T09:50:54.147Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andress",
+    "world": "SHOPE",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:51:39.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andress",
+    "world": "SHOPE",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:51:39.799Z"
   }
 ]
