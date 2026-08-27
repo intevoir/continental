@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anggapuh",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T22:47:04.778Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Siotan",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 238,
     "traded_with": null,
     "timestamp": "2026-08-27T22:58:10.444Z"
+  },
+  {
+    "player1": "OKIAM",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6300,
+    "price_wl": 6300,
+    "traded_with": null,
+    "timestamp": "2026-08-27T22:59:08.503Z"
   }
 ]
