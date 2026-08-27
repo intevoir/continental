@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "HTML",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:12:50.020Z"
-  },
-  {
-    "player1": "@SHIINASOBBER",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:13:16.485Z"
-  },
-  {
-    "player1": "Gungnir",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
     "item_name": "Black Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 850,
     "traded_with": null,
     "timestamp": "2026-08-27T14:16:16.313Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Brokee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:18:17.816Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Brokee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:18:17.831Z"
   }
 ]
