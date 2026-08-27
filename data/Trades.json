@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Whoisal",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Nightking's Cape - Dark Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100000,
-    "price_wl": 100000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T05:23:03.120Z"
-  },
-  {
-    "player1": "matt",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 35750,
-    "price_wl": 35750,
-    "traded_with": null,
-    "timestamp": "2026-08-27T05:23:29.823Z"
-  },
-  {
     "player1": "BlueFur",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +102,31 @@
     "price_wl": 2550,
     "traded_with": null,
     "timestamp": "2026-08-27T05:25:31.392Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Juwew",
+    "world": "TOKOV",
+    "action": "BUY",
+    "item_name": "Lavender",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-27T05:26:09.448Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NoirStride",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T05:26:21.460Z"
   }
 ]
