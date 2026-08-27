@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ihza",
-    "world": "HEMAT",
-    "action": "BUY",
-    "item_name": "Vending Machine",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:19:48.658Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LAOLALO",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-27T09:22:26.076Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 266,
+    "price_wl": 266,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:24:26.825Z"
   }
 ]
