@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Lukis",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Benzyl's Corrupted Inferno Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:07:59.266Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Paelsky",
     "world": "KEDAI",
@@ -128,5 +115,18 @@
     "price_wl": 1785,
     "traded_with": null,
     "timestamp": "2026-08-27T19:11:32.087Z"
+  },
+  {
+    "player1": "@Lukis",
+    "player2": "Renting Station",
+    "world": "CITEM",
+    "action": "RENT",
+    "item_name": "JustWilliam's Batman Axe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:12:01.132Z"
   }
 ]
