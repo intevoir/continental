@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ButZero",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:29:41.739Z"
-  },
-  {
-    "player1": "KroYY",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 5440,
-    "price_wl": 5440,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:29:45.300Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lunas",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "UNPA",
     "timestamp": "2026-08-27T14:31:31.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RZN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:32:23.824Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PisangKonhdam",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:32:23.840Z"
   }
 ]
