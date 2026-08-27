@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Nyatek",
-    "player2": "Renting Station",
-    "world": "NMART",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-27T16:36:54.924Z"
-  },
-  {
-    "player1": "@Mirazaki [ELITE]",
-    "player2": "Renting Station",
-    "world": "BENZYL",
-    "action": "RENT",
-    "item_name": "Legendary Skeletal Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-08-27T16:36:59.411Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@BenAiden",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-27T16:40:55.733Z"
+  },
+  {
+    "player1": "MattyzePS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:41:56.328Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MattyzePS",
+    "world": "BFGTEIN",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 190,
+    "price_wl": 190,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:41:56.348Z"
   }
 ]
