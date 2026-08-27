@@ -10,32 +10,6 @@
     "p_count": 250,
     "price_wl": 250,
     "traded_with": null,
-    "timestamp": "2026-08-27T06:34:13.181Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "BLOCKM",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:34:13.195Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
     "timestamp": "2026-08-27T06:34:13.206Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 1508,
     "traded_with": null,
     "timestamp": "2026-08-27T06:35:13.202Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SELL",
+    "world": "MYGEIGER",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 224,
+    "p_name": "World Locks",
+    "p_count": 1120,
+    "price_wl": 1120,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:35:17.824Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SELL",
+    "world": "KIVO",
+    "action": "BUY",
+    "item_name": "White Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 135,
+    "price_wl": 135,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:35:43.848Z"
   }
 ]
