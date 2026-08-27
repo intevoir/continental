@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:40:16.717Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TINJU",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-08-27T06:44:56.550Z"
+  },
+  {
+    "player1": "RappWasHere",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 137,
+    "p_name": "World Locks",
+    "p_count": 6439,
+    "price_wl": 6439,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:45:38.327Z"
   }
 ]
