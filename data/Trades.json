@@ -1,18 +1,5 @@
 [
   {
-    "player1": "X0X0",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-08-27T23:29:47.035Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Voxel",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-27T23:40:49.470Z"
+  },
+  {
+    "player1": "Siyan",
+    "player2": "Buying Machine",
+    "world": "FAC",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-08-27T23:41:48.835Z"
   }
 ]
