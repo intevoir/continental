@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RAXGenss",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T03:41:58.533Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Whoisal []",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-27T03:46:59.737Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MeWantBathe",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T03:48:09.432Z"
   }
 ]
