@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Alysa",
-    "world": "0RENT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:11:29.023Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RayyLOL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Heartthrob Helm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 68000,
-    "price_wl": 68000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:14:29.058Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RayyLOL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-27T07:20:30.604Z"
+  },
+  {
+    "player1": "TINJU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5800,
+    "price_wl": 5800,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:21:55.886Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Dimension Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:22:00.168Z"
   }
 ]
