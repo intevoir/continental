@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Siotan",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:01:51.804Z"
-  },
-  {
-    "player1": "Psalms",
-    "player2": "Buying Machine",
-    "world": "NC",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:01:55.522Z"
-  },
-  {
-    "player1": "Seime",
-    "player2": "Renting Station",
-    "world": "8R",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:02:26.899Z"
-  },
-  {
-    "player1": "Psalms",
-    "player2": "Buying Machine",
-    "world": "NC",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:02:43.099Z"
-  },
-  {
     "player1": "Psalms",
     "player2": "Buying Machine",
     "world": "NC",
@@ -128,5 +76,57 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-27T07:04:38.173Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Siotan",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:05:26.794Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pibi",
+    "world": "VENDA6",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:05:26.838Z"
+  },
+  {
+    "player1": "Psalms",
+    "player2": "Buying Machine",
+    "world": "NC",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:05:34.577Z"
+  },
+  {
+    "player1": "Psalms",
+    "player2": "Buying Machine",
+    "world": "NC",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:05:53.421Z"
   }
 ]
