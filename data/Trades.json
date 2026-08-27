@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Most Wanted: RealB1 of Legend [HODL!]",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 63000,
-    "price_wl": 63000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T13:22:00.177Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "WEWU",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-27T13:22:11.409Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WEWU",
     "world": "ARROZMARKET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 42000,
     "traded_with": null,
     "timestamp": "2026-08-27T13:23:29.013Z"
+  },
+  {
+    "player1": "heny",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T13:24:16.369Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Most Wanted: RealB1 of Legend [HODL!]",
+    "world": "STOCK",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 67500,
+    "price_wl": 67500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T13:24:24.127Z"
   }
 ]
