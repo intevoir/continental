@@ -4,32 +4,6 @@
     "player2": "radana",
     "world": "VENDSHOP",
     "action": "BUY",
-    "item_name": "Tropical Bar Stool",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:12:33.958Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Basket Chair",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:12:38.751Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "VENDSHOP",
-    "action": "BUY",
     "item_name": "King Cobra Chair",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 170,
     "traded_with": null,
     "timestamp": "2026-08-27T14:14:44.363Z"
+  },
+  {
+    "player1": "ButZero",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:14:51.134Z"
+  },
+  {
+    "player1": "ButZero",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:15:16.315Z"
   }
 ]
