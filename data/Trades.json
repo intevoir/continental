@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDUPPING",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 275,
-    "price_wl": 275,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:08:07.024Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrFrexe",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:09:03.939Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Paelsky",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-27T19:13:08.615Z"
+  },
+  {
+    "player1": "txphone",
+    "player2": "KroYY",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Ghastly Robe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KroYY",
+    "timestamp": "2026-08-27T19:14:24.349Z"
+  },
+  {
+    "player1": "KroYY",
+    "player2": "txphone",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 57,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "txphone",
+    "timestamp": "2026-08-27T19:14:24.354Z"
   }
 ]
