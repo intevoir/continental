@@ -1,18 +1,5 @@
 [
   {
-    "player1": "XXXK",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-08-27T15:56:42.287Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NangAiden",
     "world": "AULA",
@@ -128,5 +115,18 @@
     "price_wl": 1600,
     "traded_with": null,
     "timestamp": "2026-08-27T16:04:10.717Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Beginning [] [] [RICH]",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:05:10.317Z"
   }
 ]
