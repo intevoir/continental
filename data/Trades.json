@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 42,
-    "p_name": "World Locks",
-    "p_count": 294,
-    "price_wl": 294,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:09:02.449Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LAOLALO",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Rainbow Crystal Block",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:09:28.305Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LAOLALO",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-27T07:17:56.765Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Sonic Buster Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:18:29.847Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@DvnZy",
+    "world": "CORE",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 690000,
+    "price_wl": 690000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:18:54.159Z"
   }
 ]
