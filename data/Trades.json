@@ -4,19 +4,6 @@
     "player2": "radana",
     "world": "TOKOZ",
     "action": "BUY",
-    "item_name": "Sheet Music: Blank",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-27T11:00:40.793Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "TOKOZ",
-    "action": "BUY",
     "item_name": "Sheet Music: Drums",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-27T11:04:33.854Z"
+  },
+  {
+    "player1": "Aloena2",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 154700,
+    "price_wl": 154700,
+    "traded_with": null,
+    "timestamp": "2026-08-27T11:05:25.967Z"
   }
 ]
