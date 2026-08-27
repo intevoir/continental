@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:20:30.604Z"
-  },
-  {
-    "player1": "TINJU",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5800,
-    "price_wl": 5800,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:21:55.886Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pernandez",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-27T07:25:33.626Z"
+  },
+  {
+    "player1": "Gacor",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 243,
+    "p_name": "World Locks",
+    "p_count": 10935,
+    "price_wl": 10935,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:27:35.238Z"
+  },
+  {
+    "player1": "Gacor",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:27:56.596Z"
   }
 ]
