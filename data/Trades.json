@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SEBAGAISTORE",
-    "world": "DAP",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 73,
-    "p_name": "World Locks",
-    "p_count": 3504,
-    "price_wl": 3504,
-    "traded_with": null,
-    "timestamp": "2026-08-27T16:45:57.811Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SINGKU",
-    "world": "PILIPINO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 74,
-    "p_name": "World Locks",
-    "p_count": 56240,
-    "price_wl": 56240,
-    "traded_with": null,
-    "timestamp": "2026-08-27T16:49:03.101Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ceceyyi",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-08-27T16:52:08.314Z"
+  },
+  {
+    "player1": "EMOTIONAL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 21750,
+    "price_wl": 21750,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:53:14.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kizi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:53:30.090Z"
   }
 ]
