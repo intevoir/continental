@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Elsora",
-    "world": "ARROZL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T04:36:32.866Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Elsora",
-    "world": "ARROZL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T04:36:41.881Z"
-  },
-  {
     "player1": "matt",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-27T04:39:26.719Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZapsKikir",
+    "world": "BUYBATM",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T04:42:16.258Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZapsKikir",
+    "world": "BUYBATM",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T04:42:16.277Z"
   }
 ]
