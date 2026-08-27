@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LAOLALO",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:20:24.523Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LAOLALO",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 3050,
-    "price_wl": 3050,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:20:24.540Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "parance",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 266,
     "traded_with": null,
     "timestamp": "2026-08-27T09:24:26.825Z"
+  },
+  {
+    "player1": "LAOLALO",
+    "player2": "parance",
+    "world": "PUV",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "parance",
+    "timestamp": "2026-08-27T09:25:31.531Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "LAOLALO",
+    "world": "PUV",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "LAOLALO",
+    "timestamp": "2026-08-27T09:25:31.537Z"
   }
 ]
