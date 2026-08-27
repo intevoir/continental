@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Gunungkidul",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-27T03:03:33.218Z"
-  },
-  {
     "player1": "azuo",
     "player2": "Renting Station",
     "world": "AZOID",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-27T03:08:34.584Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GRAYSAIKORO",
+    "world": "WHOLESALESTORE",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-27T03:13:02.146Z"
   }
 ]
