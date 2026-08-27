@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "IIC",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-27T17:14:16.479Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jinmao",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-08-27T17:20:16.791Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-27T17:20:43.276Z"
   }
 ]
