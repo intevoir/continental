@@ -1,44 +1,5 @@
 [
   {
-    "player1": "@Lukis",
-    "player2": "Renting Station",
-    "world": "CITEM",
-    "action": "RENT",
-    "item_name": "JustWilliam's Batman Axe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:12:01.132Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@BobaSTORE",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:13:08.615Z"
-  },
-  {
-    "player1": "txphone",
-    "player2": "KroYY",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Ghastly Robe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "KroYY",
-    "timestamp": "2026-08-27T19:14:24.349Z"
-  },
-  {
     "player1": "KroYY",
     "player2": "txphone",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-27T19:20:35.294Z"
+  },
+  {
+    "player1": "DrFrexe",
+    "player2": "Renting Station",
+    "world": "CUAN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:21:03.485Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Paelsky",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:21:03.496Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Paelsky",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Rift Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:21:13.876Z"
   }
 ]
