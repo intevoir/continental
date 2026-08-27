@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Paelsky",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Dreamcatcher Staff",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:05:59.661Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Paelsky",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Harvester Of Sorrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T19:05:59.675Z"
-  },
-  {
     "player1": "@Lukis",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100800,
     "traded_with": null,
     "timestamp": "2026-08-27T19:10:36.103Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Paelsky",
+    "world": "KEDAI",
+    "action": "BUY",
+    "item_name": "Fuizi's Intergalactic Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:11:01.431Z"
+  },
+  {
+    "player1": "@Lukis",
+    "player2": "Renting Station",
+    "world": "CITEM",
+    "action": "RENT",
+    "item_name": "JustWilliam's Heavenly Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-27T19:11:32.087Z"
   }
 ]
