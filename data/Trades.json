@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Psalms",
-    "player2": "Buying Machine",
-    "world": "NC",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:07:42.140Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LAOLALO",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "365-Day Premium Subscription Token",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:07:48.996Z"
-  },
-  {
     "player1": "santnas",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-27T07:09:28.305Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LAOLALO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:10:28.477Z"
+  },
+  {
+    "player1": "btmupin",
+    "player2": "Buying Machine",
+    "world": "FAC",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 185,
+    "p_name": "World Locks",
+    "p_count": 925,
+    "price_wl": 925,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:10:28.488Z"
   }
 ]
