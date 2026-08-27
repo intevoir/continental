@@ -4,19 +4,6 @@
     "player2": "Andress",
     "world": "SHOPE",
     "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:51:39.743Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Andress",
-    "world": "SHOPE",
-    "action": "BUY",
     "item_name": "Lock Mover",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-27T09:54:41.593Z"
+  },
+  {
+    "player1": "PROKERZ1",
+    "player2": "Renting Station",
+    "world": "8R",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:54:48.601Z"
   }
 ]
