@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "TOKOV",
-    "action": "BUY",
-    "item_name": "Pitchfork",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 39,
-    "price_wl": 39,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:39:22.891Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "ISPOT",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "OTONGBAIK",
     "timestamp": "2026-08-27T06:43:18.651Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Advance",
+    "world": "BECKER",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 221,
+    "p_name": "World Locks",
+    "p_count": 165750,
+    "price_wl": 165750,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:43:49.881Z"
   }
 ]
