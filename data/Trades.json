@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Filipino",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-27T13:54:33.573Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PisangKonhdam",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-27T13:57:10.251Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ButZero",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-27T13:57:35.419Z"
   }
 ]
