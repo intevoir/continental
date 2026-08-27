@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 192,
-    "price_wl": 192,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:47:37.763Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "KIVO",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-08-27T06:49:54.180Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrOneHP of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 39750,
+    "price_wl": 39750,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:50:46.760Z"
   }
 ]
