@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@ExRAJAPUT",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Elite Item: Lamborghini",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4165,
-    "price_wl": 4165,
-    "traded_with": null,
-    "timestamp": "2026-08-27T05:37:36.905Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nakuro",
     "world": "JVK",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-08-27T05:45:24.637Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KVR",
+    "world": "XCU",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-27T05:49:18.988Z"
   }
 ]
