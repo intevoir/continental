@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Gacor",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:29:35.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SINGKU",
-    "world": "BZR",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:29:35.952Z"
-  },
-  {
     "player1": "Tikud",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-27T07:31:07.299Z"
+  },
+  {
+    "player1": "Gacor",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:31:51.613Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KalzGT",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:32:05.474Z"
   }
 ]
