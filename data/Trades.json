@@ -5,32 +5,6 @@
     "world": "PLAZA",
     "action": "BUY",
     "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T12:26:15.009Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "laamons",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T12:26:57.758Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "laamons",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
     "item_count": 230,
     "p_name": "World Locks",
     "p_count": 46,
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-08-27T12:29:25.877Z"
+  },
+  {
+    "player1": "BingBaengBong",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-27T12:30:13.217Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BingBaengBong",
+    "world": "BFGHV",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-27T12:30:34.488Z"
   }
 ]
