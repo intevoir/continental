@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "INGEMS",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T16:17:46.563Z"
-  },
-  {
     "player1": "DotApk",
     "player2": "Renting Station",
     "world": "RAGRENT",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-27T16:18:47.279Z"
+  },
+  {
+    "player1": "Jieon",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 280,
+    "price_wl": 280,
+    "traded_with": null,
+    "timestamp": "2026-08-27T16:19:10.635Z"
   }
 ]
