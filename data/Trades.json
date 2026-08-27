@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "HTML",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-08-27T01:23:55.573Z"
-  },
-  {
-    "player1": "GROWBIBI",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 7700,
     "traded_with": null,
     "timestamp": "2026-08-27T01:27:45.613Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SecFailure",
+    "world": "SHOPFAIL",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T01:28:53.388Z"
   }
 ]
