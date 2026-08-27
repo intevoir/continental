@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Xzelko",
-    "player2": "Buying Machine",
-    "world": "FREE",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 58,
-    "p_name": "World Locks",
-    "p_count": 406,
-    "price_wl": 406,
-    "traded_with": null,
-    "timestamp": "2026-08-27T22:53:23.784Z"
-  },
-  {
     "player1": "Jieon",
     "player2": "Renting Station",
     "world": "RAGRENT",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-27T23:11:06.704Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanzPemula",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T23:14:07.991Z"
   }
 ]
