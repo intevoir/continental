@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KITMAN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 31,
-    "p_name": "World Locks",
-    "p_count": 2790,
-    "price_wl": 2790,
-    "traded_with": null,
-    "timestamp": "2026-08-27T00:30:22.568Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Meydilin []",
     "world": "STORE",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-27T00:50:36.864Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HijabBugil",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 21,
+    "price_wl": 21,
+    "traded_with": null,
+    "timestamp": "2026-08-27T00:56:53.317Z"
   }
 ]
