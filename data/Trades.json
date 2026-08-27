@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Arcteryx",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-27T00:41:41.850Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bilaaaa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17900,
-    "price_wl": 17900,
-    "traded_with": null,
-    "timestamp": "2026-08-27T00:43:25.196Z"
-  },
-  {
-    "player1": "xkeyyyy",
-    "player2": "Buying Machine",
-    "world": "XP9",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-27T00:44:52.447Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "xkeyyyy",
     "world": "XP9",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 49,
     "traded_with": null,
     "timestamp": "2026-08-27T00:59:32.829Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Badaz",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-08-27T01:01:33.480Z"
+  },
+  {
+    "player1": "Neloy",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-27T01:01:33.511Z"
+  },
+  {
+    "player1": "@Laverty",
+    "player2": "Buying Machine",
+    "world": "SHOPFAIL",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 240000,
+    "price_wl": 240000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T01:02:01.540Z"
   }
 ]
