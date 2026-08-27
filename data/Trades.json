@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Cynos",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-08-27T09:40:02.838Z"
-  },
-  {
     "player1": "@Recovering",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-08-27T09:41:58.677Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andress",
+    "world": "DISKON",
+    "action": "BUY",
+    "item_name": "Egg Champion Cape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:42:35.023Z"
   }
 ]
