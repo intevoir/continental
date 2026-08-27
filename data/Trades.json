@@ -1,18 +1,5 @@
 [
   {
-    "player1": "btmupin",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 185,
-    "p_name": "World Locks",
-    "p_count": 925,
-    "price_wl": 925,
-    "traded_with": null,
-    "timestamp": "2026-08-27T07:10:28.488Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Alysa",
     "world": "0RENT",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-27T07:19:29.883Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Becker",
+    "world": "BFGHANZ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-27T07:20:30.604Z"
   }
 ]
