@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "ISPOT",
-    "action": "SELL",
-    "item_name": "Pitchfork",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 78,
-    "price_wl": 78,
-    "traded_with": null,
-    "timestamp": "2026-08-27T06:39:26.512Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 165750,
     "traded_with": null,
     "timestamp": "2026-08-27T06:43:49.881Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Alysa",
+    "world": "0RENT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 9600,
+    "price_wl": 9600,
+    "traded_with": null,
+    "timestamp": "2026-08-27T06:44:56.550Z"
   }
 ]
