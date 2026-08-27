@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CloverBean",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:31:23.160Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "coituz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 390,
-    "price_wl": 390,
-    "traded_with": null,
-    "timestamp": "2026-08-27T14:31:23.174Z"
-  },
-  {
     "player1": "UNPA",
     "player2": "@AUDIO",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8750,
     "traded_with": null,
     "timestamp": "2026-08-27T14:33:31.499Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Puffeloo",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Mint Julep",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:33:59.282Z"
+  },
+  {
+    "player1": "KroYY",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3250,
+    "price_wl": 3250,
+    "traded_with": null,
+    "timestamp": "2026-08-27T14:34:27.124Z"
   }
 ]
