@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "skybos",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-27T08:59:25.043Z"
-  },
-  {
     "player1": "KentZoid",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-27T09:04:42.648Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cynos",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T09:05:18.496Z"
   }
 ]
