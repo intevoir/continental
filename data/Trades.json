@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PisangKonhdam",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-27T13:55:29.193Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SerDonalTrum",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-27T13:57:35.419Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ButZero",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-27T13:58:11.502Z"
   }
 ]
