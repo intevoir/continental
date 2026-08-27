@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "FAC",
     "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-08-27T23:41:48.835Z"
-  },
-  {
-    "player1": "Siyan",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-08-27T23:42:20.889Z"
-  },
-  {
-    "player1": "Siyan",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
     "item_name": "Arroz Con Pollo",
     "item_count": 192,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-27T23:51:47.463Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T23:51:57.956Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FelBack",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T23:52:25.353Z"
   }
 ]
