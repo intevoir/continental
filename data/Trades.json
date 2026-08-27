@@ -1,44 +1,5 @@
 [
   {
-    "player1": "ARREL1",
-    "player2": "@ARREL [SUPER]",
-    "world": "222",
-    "action": "TRADE",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@ARREL [SUPER]",
-    "timestamp": "2026-08-27T04:18:16.675Z"
-  },
-  {
-    "player1": "SOFTNIDY",
-    "player2": "Renting Station",
-    "world": "RENTMOZ",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-27T04:18:23.929Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-27T04:18:27.263Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SOFTNIDY",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-27T04:20:09.961Z"
+  },
+  {
+    "player1": "Puffeloo",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T04:21:05.655Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BlueFur",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-27T04:21:05.674Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Roxo",
+    "world": "INDOFOOD",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-27T04:21:21.242Z"
   }
 ]
