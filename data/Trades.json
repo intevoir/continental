@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBetmax",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1480,
-    "price_wl": 1480,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:13:55.284Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Gunungkidul",
     "world": "SPOT",
@@ -128,5 +115,18 @@
     "price_wl": 16065,
     "traded_with": null,
     "timestamp": "2026-08-28T16:15:43.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "NMART",
+    "action": "BUY",
+    "item_name": "Gems Seed",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T16:15:55.010Z"
   }
 ]
