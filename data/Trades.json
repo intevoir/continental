@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BTKBTK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T23:19:10.665Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "parance",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-08-28T23:19:15.066Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DeyosKambek",
     "world": "2A9",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-28T23:20:00.202Z"
+  },
+  {
+    "player1": "BTKBTK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T23:20:14.738Z"
+  },
+  {
+    "player1": "BTKBTK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-28T23:20:45.631Z"
   }
 ]
