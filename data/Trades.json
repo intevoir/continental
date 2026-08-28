@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "100",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:52:38.983Z"
-  },
-  {
     "player1": "@Beginning [] [] [WIN-COMMUNITY]",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-08-28T17:59:01.020Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kainyx",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 150000,
+    "price_wl": 150000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T17:59:37.278Z"
   }
 ]
