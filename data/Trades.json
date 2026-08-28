@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NoirCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-28T03:01:34.495Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Paelsky",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-28T03:02:59.294Z"
+  },
+  {
+    "player1": "Vidar",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T03:03:23.771Z"
   }
 ]
