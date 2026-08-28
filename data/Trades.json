@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ExNAGA",
-    "world": "1Q",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-28T20:40:42.462Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JEKKIKEBELETBGL",
-    "world": "JDI",
-    "action": "BUY",
-    "item_name": "Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-28T20:40:50.976Z"
-  },
-  {
     "player1": "ExNAGA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-28T20:44:10.308Z"
+  },
+  {
+    "player1": "@MekanikSopan",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-28T20:45:45.229Z"
+  },
+  {
+    "player1": "@Mirazaki [ELITE]",
+    "player2": "Buying Machine",
+    "world": "TOKO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-28T20:46:00.512Z"
   }
 ]
