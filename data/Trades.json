@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ElexStoco",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:13:10.075Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KELVEDERE",
-    "world": "CHEAPKU",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:13:52.223Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PisangKonhdam",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-28T14:16:23.079Z"
+  },
+  {
+    "player1": "Slovak",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 82,
+    "p_name": "World Locks",
+    "p_count": 492,
+    "price_wl": 492,
+    "traded_with": null,
+    "timestamp": "2026-08-28T14:16:30.091Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Azoid",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 187500,
+    "price_wl": 187500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T14:16:58.105Z"
   }
 ]
