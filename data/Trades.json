@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JEKKIKEBELETBGL",
-    "world": "SHOP16",
-    "action": "BUY",
-    "item_name": "Anubis Mask",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-28T09:53:35.303Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KopiABC",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 996,
-    "price_wl": 996,
-    "traded_with": null,
-    "timestamp": "2026-08-28T09:53:39.769Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KopiABC",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 770,
     "traded_with": null,
     "timestamp": "2026-08-28T09:55:01.621Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JEKKIKEBELETBGL",
+    "world": "SHOP16",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T09:55:37.773Z"
+  },
+  {
+    "player1": "Drruds",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T09:55:56.369Z"
   }
 ]
