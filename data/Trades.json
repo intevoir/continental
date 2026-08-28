@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ifbuymsg",
-    "world": "VENDSG",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:57:16.107Z"
-  },
-  {
-    "player1": "Alkhaseeran",
-    "player2": "Renting Station",
-    "world": "NMART",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:57:34.465Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AhliNopal",
     "world": "BUYCHAND",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-28T14:59:33.299Z"
+  },
+  {
+    "player1": "MdominicXD",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 16500,
+    "price_wl": 16500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:00:09.353Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ifbuymsg",
+    "world": "KESHOP",
+    "action": "BUY",
+    "item_name": "Black Leather Couch",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:00:17.284Z"
   }
 ]
