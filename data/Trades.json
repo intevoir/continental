@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "hasis",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Orange Portal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-28T11:50:26.305Z"
-  },
-  {
     "player1": "ReyNoMode",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 3400,
     "traded_with": null,
     "timestamp": "2026-08-28T11:57:05.259Z"
+  },
+  {
+    "player1": "Venox",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 42,
+    "p_name": "World Locks",
+    "p_count": 1974,
+    "price_wl": 1974,
+    "traded_with": null,
+    "timestamp": "2026-08-28T11:57:28.091Z"
   }
 ]
