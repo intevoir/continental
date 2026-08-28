@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FungCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:01:34.032Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LenvySky",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 126,
     "traded_with": null,
     "timestamp": "2026-08-28T16:05:47.046Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 22,
+    "p_name": "World Locks",
+    "p_count": 1100,
+    "price_wl": 1100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T16:06:00.023Z"
   }
 ]
