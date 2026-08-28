@@ -1,18 +1,5 @@
 [
   {
-    "player1": "GROWBIBI",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:56:07.921Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PannPengenKaya",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-28T12:59:45.305Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SayLor",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 215,
+    "p_name": "World Locks",
+    "p_count": 860,
+    "price_wl": 860,
+    "traded_with": null,
+    "timestamp": "2026-08-28T13:00:09.830Z"
   }
 ]
