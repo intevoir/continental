@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:56:22.884Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 1350,
-    "price_wl": 1350,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:56:34.504Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ifbuymsg",
     "world": "VENDSG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-28T14:58:40.855Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ifbuymsg",
+    "world": "KESHOP",
+    "action": "BUY",
+    "item_name": "One-Way Block",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-08-28T14:59:15.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ifbuymsg",
+    "world": "KESHOP",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-28T14:59:33.299Z"
   }
 ]
