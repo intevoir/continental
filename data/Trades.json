@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "MUTIA",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-08-28T07:57:21.568Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SADXABA",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-08-28T08:03:15.168Z"
+  },
+  {
+    "player1": "KUNBA",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T08:04:15.139Z"
   }
 ]
