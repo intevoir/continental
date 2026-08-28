@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jieon []",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-08-28T10:52:16.002Z"
-  },
-  {
     "player1": "Luneira",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 18,
     "traded_with": null,
     "timestamp": "2026-08-28T10:55:08.620Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lille",
+    "world": "JW",
+    "action": "BUY",
+    "item_name": "Da Vinci Wings",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 220,
+    "price_wl": 220,
+    "traded_with": null,
+    "timestamp": "2026-08-28T10:56:08.161Z"
   }
 ]
