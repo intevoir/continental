@@ -4,32 +4,6 @@
     "player2": "HIKII",
     "world": "BLOCK",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T18:16:17.081Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HIKII",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T18:16:43.492Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HIKII",
-    "world": "BLOCK",
-    "action": "BUY",
     "item_name": "Lucky Clover",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-28T18:20:07.936Z"
+  },
+  {
+    "player1": "LIENO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 33,
+    "p_name": "World Locks",
+    "p_count": 231,
+    "price_wl": 231,
+    "traded_with": null,
+    "timestamp": "2026-08-28T18:20:44.841Z"
+  },
+  {
+    "player1": "LIENO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T18:20:44.855Z"
   }
 ]
