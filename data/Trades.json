@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OST",
-    "world": "RIECHS",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-28T05:13:20.321Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PREAPSOVATH",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-28T05:21:58.075Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "KKK",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T05:23:25.602Z"
   }
 ]
