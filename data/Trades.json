@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ATM of Legend [] [RICH]",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:30:38.432Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Popular",
     "world": "NOW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-08-28T12:34:38.686Z"
+  },
+  {
+    "player1": "ArkaanLy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:35:40.540Z"
   }
 ]
