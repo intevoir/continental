@@ -1,18 +1,5 @@
 [
   {
-    "player1": "100",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-08-28T20:13:35.832Z"
-  },
-  {
     "player1": "DrPesiar [ELITE]",
     "player2": "Buying Machine",
     "world": "AZJS",
@@ -128,5 +115,18 @@
     "price_wl": 2880,
     "traded_with": null,
     "timestamp": "2026-08-28T20:22:01.582Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "DNA Extractor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T20:23:01.767Z"
   }
 ]
