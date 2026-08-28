@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vorax",
-    "player2": "Paelsky",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Paelsky",
-    "timestamp": "2026-08-28T13:29:00.769Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZE3T",
-    "world": "BUYFW",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-28T13:32:32.121Z"
-  },
-  {
     "player1": "DevinaC",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-28T13:34:59.748Z"
+  },
+  {
+    "player1": "CloverBean",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 42,
+    "p_name": "World Locks",
+    "p_count": 1974,
+    "price_wl": 1974,
+    "traded_with": null,
+    "timestamp": "2026-08-28T13:36:00.409Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lali",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T13:36:00.421Z"
   }
 ]
