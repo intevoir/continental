@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Slovak",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10300,
-    "price_wl": 10300,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:01:09.700Z"
-  },
-  {
     "player1": "Aloena2",
     "player2": "Renting Station",
     "world": "RB",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-28T15:05:24.538Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "INDOFOOD",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 22500,
+    "price_wl": 22500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:06:12.408Z"
   }
 ]
