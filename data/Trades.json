@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZE3T",
-    "world": "BUYFW",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-28T13:33:59.007Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 176000,
-    "price_wl": 176000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T13:33:59.115Z"
-  },
-  {
     "player1": "SQUADAMBATRON",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-28T13:37:29.761Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-08-28T13:38:12.993Z"
+  },
+  {
+    "player1": "RayBfg",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-28T13:38:13.006Z"
   }
 ]
