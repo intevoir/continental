@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xseann",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-28T03:15:31.936Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Paelsky",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-28T03:22:35.697Z"
+  },
+  {
+    "player1": "Pretula",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-28T03:23:35.729Z"
   }
 ]
