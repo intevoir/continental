@@ -1,31 +1,5 @@
 [
   {
-    "player1": "UNPA",
-    "player2": "ExMbul []",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ExMbul []",
-    "timestamp": "2026-08-28T05:25:26.417Z"
-  },
-  {
-    "player1": "ExMbul []",
-    "player2": "UNPA",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 50,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "UNPA",
-    "timestamp": "2026-08-28T05:25:26.420Z"
-  },
-  {
     "player1": "ExMbul []",
     "player2": "UNPA",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-28T05:34:00.978Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zalGt",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 80000,
+    "price_wl": 80000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T05:34:30.878Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 1430,
+    "price_wl": 1430,
+    "traded_with": null,
+    "timestamp": "2026-08-28T05:34:30.894Z"
   }
 ]
