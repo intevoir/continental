@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AhliNopal",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-28T19:30:16.049Z"
-  },
-  {
-    "player1": "Gunungkidul",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-28T19:30:16.068Z"
-  },
-  {
     "player1": "Gunungkidul",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-08-28T19:34:38.188Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AhliNopal",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T19:35:19.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "BUYPLAT",
+    "action": "BUY",
+    "item_name": "Hover Platform",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-28T19:35:19.694Z"
   }
 ]
