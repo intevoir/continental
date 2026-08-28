@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MusangHitam",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-08-28T22:39:44.562Z"
-  },
-  {
-    "player1": "MusangHitam",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "GrowScan 9000",
-    "item_count": 177,
-    "p_name": "World Locks",
-    "p_count": 8850,
-    "price_wl": 8850,
-    "traded_with": null,
-    "timestamp": "2026-08-28T22:40:10.776Z"
-  },
-  {
     "player1": "BosPow",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-08-28T22:49:11.478Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAizu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-28T22:50:27.382Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAizu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T22:50:42.696Z"
   }
 ]
