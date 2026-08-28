@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MasFank []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 5530,
-    "price_wl": 5530,
-    "traded_with": null,
-    "timestamp": "2026-08-28T21:24:34.954Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ramasaja",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-08-28T21:44:01.711Z"
+  },
+  {
+    "player1": "kmn",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-28T21:53:18.210Z"
   }
 ]
