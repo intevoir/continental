@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Weather Machine - Comet",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-28T20:07:57.070Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "100",
     "world": "TOPG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-28T20:19:33.448Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-08-28T20:19:57.891Z"
   }
 ]
