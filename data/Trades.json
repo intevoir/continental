@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "ifbuymsg",
-    "world": "SHOPX",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:08:13.171Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ifbuymsg",
-    "world": "SHOPX",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:08:13.176Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ifbuymsg",
     "world": "VENDSG",
     "action": "BUY",
     "item_name": "Telephone",
@@ -128,5 +102,31 @@
     "price_wl": 952,
     "traded_with": null,
     "timestamp": "2026-08-28T15:11:37.924Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "MOST",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:12:37.627Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tekfis",
+    "world": "SABTU",
+    "action": "BUY",
+    "item_name": "Antigravity Generator",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:12:45.462Z"
   }
 ]
