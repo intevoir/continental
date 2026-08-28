@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drspica",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Mannequin",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:29:46.471Z"
-  },
-  {
     "player1": "KWGT",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-28T16:35:17.368Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "D4Pcmd",
+    "world": "PVEND",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-28T16:36:20.234Z"
   }
 ]
