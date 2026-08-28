@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Aoii",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:48:01.333Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TegubSiPetani",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 55,
-    "p_name": "World Locks",
-    "p_count": 7150,
-    "price_wl": 7150,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:48:08.108Z"
-  },
-  {
-    "player1": "GROWBIBI",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:48:15.592Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PannPengenKaya",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:48:42.212Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kentutkece",
     "world": "REME",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-28T12:50:42.195Z"
+  },
+  {
+    "player1": "jameeew7",
+    "player2": "GROWBIBI",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GROWBIBI",
+    "timestamp": "2026-08-28T12:50:53.081Z"
+  },
+  {
+    "player1": "GROWBIBI",
+    "player2": "jameeew7",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "jameeew7",
+    "timestamp": "2026-08-28T12:50:53.086Z"
+  },
+  {
+    "player1": "Drruds",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 101,
+    "p_name": "World Locks",
+    "p_count": 4747,
+    "price_wl": 4747,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:50:53.087Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PannPengenKaya",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Steam Tubes",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:51:04.523Z"
   }
 ]
