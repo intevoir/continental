@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PREAPSOVATH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-28T05:14:21.088Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PREAPSOVATH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-28T05:14:24.929Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@RIP []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-08-28T05:23:25.602Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "KKK",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T05:23:59.686Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "KKK",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 219,
+    "p_name": "World Locks",
+    "p_count": 10293,
+    "price_wl": 10293,
+    "traded_with": null,
+    "timestamp": "2026-08-28T05:24:26.915Z"
   }
 ]
