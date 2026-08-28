@@ -4,19 +4,6 @@
     "player2": "ifbuymsg",
     "world": "KESHOP",
     "action": "BUY",
-    "item_name": "One-Way Block",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-08-28T14:59:15.566Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ifbuymsg",
-    "world": "KESHOP",
-    "action": "BUY",
     "item_name": "Bulletin Board",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-08-28T15:03:43.770Z"
+  },
+  {
+    "player1": "@Recovering",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:04:13.656Z"
   }
 ]
