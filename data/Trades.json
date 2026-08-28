@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Drspica",
-    "world": "BUYNOTHING",
-    "action": "BUY",
-    "item_name": "Weather Machine - Nothingness",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:33:48.550Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Drspica",
     "world": "SHOPEE",
     "action": "BUY",
     "item_name": "Weather Machine - Night",
@@ -128,5 +115,18 @@
     "price_wl": 21000,
     "traded_with": null,
     "timestamp": "2026-08-28T17:37:32.584Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PITIGAGA",
+    "world": "BUYDONATIONBOX",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-28T17:38:26.038Z"
   }
 ]
