@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "HTML",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:23:09.270Z"
-  },
-  {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
     "item_name": "Red Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-28T12:25:58.016Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PisangKonhdam",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 115,
+    "price_wl": 115,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:28:07.291Z"
   }
 ]
