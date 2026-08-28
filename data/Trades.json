@@ -1,31 +1,5 @@
 [
   {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "D Battery",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:05:57.284Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "brotodd",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:05:57.302Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kilnew82",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-08-28T12:08:03.338Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ATM of Legend [] [RICH]",
+    "world": "CHEAPES",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:08:32.908Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kilnew82",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:08:32.929Z"
   }
 ]
