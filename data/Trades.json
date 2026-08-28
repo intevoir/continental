@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ArkaanLy",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:17:35.385Z"
-  },
-  {
-    "player1": "FAQ",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Legal Briefs",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T12:17:35.389Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BabuKaiituru",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-08-28T12:18:57.582Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BabuKaiituru",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:19:36.360Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "KANTIN",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-08-28T12:20:02.983Z"
   }
 ]
