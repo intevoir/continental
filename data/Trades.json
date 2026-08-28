@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "BYPAC",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:05:24.538Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pernandez",
     "world": "INDOFOOD",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-28T15:09:42.584Z"
+  },
+  {
+    "player1": "@ExJunior []",
+    "player2": "Renting Station",
+    "world": "IREME",
+    "action": "RENT",
+    "item_name": "Wandering Gambler",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:10:13.865Z"
   }
 ]
