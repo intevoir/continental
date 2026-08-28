@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "P8A",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-28T01:54:16.197Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "P7P",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "SnakeSolid_833",
     "timestamp": "2026-08-28T02:05:13.883Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "WEEPS",
+    "world": "BUYINNIE",
+    "action": "BUY",
+    "item_name": "Outie Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T02:06:10.444Z"
   }
 ]
