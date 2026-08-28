@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Beginning [] [] [WIN-COMMUNITY]",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Kembar's Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:54:51.813Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "sciunp",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 55000,
     "traded_with": null,
     "timestamp": "2026-08-28T18:01:10.116Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PITO",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Ezio's Trousers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T18:01:52.395Z"
   }
 ]
