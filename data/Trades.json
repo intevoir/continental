@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Vanimek",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Open Sign",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:40:51.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrElrab",
     "world": "BUYPOWER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-28T16:48:20.297Z"
+  },
+  {
+    "player1": "Lvechh",
+    "player2": "Renting Station",
+    "world": "VERIF",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-28T16:51:06.827Z"
   }
 ]
