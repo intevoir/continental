@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "V3xVibe",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T08:26:10.102Z"
-  },
-  {
     "player1": "KUNBA",
     "player2": "Buying Machine",
     "world": "8T",
@@ -128,5 +115,18 @@
     "price_wl": 285,
     "traded_with": null,
     "timestamp": "2026-08-28T08:27:18.861Z"
+  },
+  {
+    "player1": "KUNBA",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T08:27:29.503Z"
   }
 ]
