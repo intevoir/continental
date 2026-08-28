@@ -1,31 +1,5 @@
 [
   {
-    "player1": "KentZoid",
-    "player2": "Buying Machine",
-    "world": "8T",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-28T09:14:41.592Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "V3xVibe",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T09:16:20.716Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "V3xVibe",
     "world": "FREE",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-28T09:20:45.472Z"
+  },
+  {
+    "player1": "ExMbul []",
+    "player2": "Benihime",
+    "world": "IXAR",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Benihime",
+    "timestamp": "2026-08-28T09:21:52.085Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "ExMbul []",
+    "world": "IXAR",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ExMbul []",
+    "timestamp": "2026-08-28T09:21:52.094Z"
   }
 ]
