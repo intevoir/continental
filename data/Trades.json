@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@BenAiden",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:31:23.209Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Raffaiq",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Plasma Heart",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:32:23.803Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tekfis",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6930,
     "traded_with": null,
     "timestamp": "2026-08-28T15:36:42.153Z"
+  },
+  {
+    "player1": "RNF",
+    "player2": "Renting Station",
+    "world": "RB",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:37:33.206Z"
+  },
+  {
+    "player1": "RNF",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:37:48.585Z"
   }
 ]
