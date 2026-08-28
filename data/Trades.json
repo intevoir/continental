@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SADXABA",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-28T03:58:06.310Z"
-  },
-  {
     "player1": "Thekindman",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-28T04:00:56.760Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Thekindman",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T04:02:53.366Z"
   }
 ]
