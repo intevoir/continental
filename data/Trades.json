@@ -4,19 +4,6 @@
     "player2": "D4Pcmd",
     "world": "UVEND",
     "action": "BUY",
-    "item_name": "Guardian Pineapple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:27:20.116Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "D4Pcmd",
-    "world": "UVEND",
-    "action": "BUY",
     "item_name": "Ghost Charm",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-08-28T17:31:38.998Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drspica",
+    "world": "BUYNOTHING",
+    "action": "BUY",
+    "item_name": "Weather Machine - Nothingness",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T17:33:48.550Z"
   }
 ]
