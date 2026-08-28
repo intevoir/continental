@@ -1,44 +1,5 @@
 [
   {
-    "player1": "fauzpos",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-28T19:23:29.653Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "2A9",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 15960,
-    "price_wl": 15960,
-    "traded_with": null,
-    "timestamp": "2026-08-28T19:25:37.152Z"
-  },
-  {
-    "player1": "Gunungkidul",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-28T19:28:15.203Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zavlya",
     "world": "SBY",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "DrGvez",
     "timestamp": "2026-08-28T19:30:43.287Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AhliNopal",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T19:32:17.421Z"
+  },
+  {
+    "player1": "RANTOPIA",
+    "player2": "DrGvez",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrGvez",
+    "timestamp": "2026-08-28T19:32:17.449Z"
+  },
+  {
+    "player1": "DrGvez",
+    "player2": "RANTOPIA",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RANTOPIA",
+    "timestamp": "2026-08-28T19:32:17.449Z"
   }
 ]
