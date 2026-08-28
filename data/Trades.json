@@ -1,31 +1,5 @@
 [
   {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-08-28T11:32:25.442Z"
-  },
-  {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-28T11:32:41.923Z"
-  },
-  {
     "player1": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
     "player2": "Renting Station",
     "world": "IREME",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-08-28T11:35:40.493Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gotofirehaqi [SUPER]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-28T11:36:21.051Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-08-28T11:36:28.631Z"
   }
 ]
