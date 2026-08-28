@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ElexStoco",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T21:15:39.181Z"
-  },
-  {
     "player1": "@Ciela",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5530,
     "traded_with": null,
     "timestamp": "2026-08-28T21:24:34.954Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ramasaja",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ghost Costume",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-28T21:28:45.487Z"
   }
 ]
