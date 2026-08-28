@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "clickv3",
-    "world": "TRD",
-    "action": "BUY",
-    "item_name": "Winter Frost Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-28T00:10:31.390Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ariend",
-    "world": "SASW",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 130000,
-    "price_wl": 130000,
-    "traded_with": null,
-    "timestamp": "2026-08-28T00:11:30.899Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "clickv3",
     "world": "BLOCKMO",
     "action": "BUY",
     "item_name": "Lock Mover",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-08-28T00:44:58.914Z"
+  },
+  {
+    "player1": "SerDonalTrum",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Infinity Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 476,
+    "price_wl": 476,
+    "traded_with": null,
+    "timestamp": "2026-08-28T00:46:37.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vrow",
+    "world": "MARTS",
+    "action": "BUY",
+    "item_name": "Cave Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-28T00:46:41.894Z"
   }
 ]
