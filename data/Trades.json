@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-08-28T22:19:12.312Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "hasis",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-28T22:19:16.028Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "hasis",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-28T22:28:13.117Z"
+  },
+  {
+    "player1": "@hef",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-28T22:29:02.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KySecond",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-28T22:29:17.976Z"
   }
 ]
