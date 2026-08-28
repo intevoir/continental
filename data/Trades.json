@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KELVEDERE",
-    "world": "NNU",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:19:42.940Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KELVEDERE",
-    "world": "NNU",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-08-28T16:19:53.295Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Filipino",
     "world": "NNU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-08-28T16:24:44.882Z"
+  },
+  {
+    "player1": "DrBrianna",
+    "player2": "txphone",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "txphone",
+    "timestamp": "2026-08-28T16:25:15.713Z"
+  },
+  {
+    "player1": "txphone",
+    "player2": "DrBrianna",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrBrianna",
+    "timestamp": "2026-08-28T16:25:15.714Z"
   }
 ]
