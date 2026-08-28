@@ -4,32 +4,6 @@
     "player2": "100",
     "world": "BLOCK",
     "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:52:34.437Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "100",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-28T17:52:34.454Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "100",
-    "world": "BLOCK",
-    "action": "BUY",
     "item_name": "Painting Easel",
     "item_count": 50,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 140000,
     "traded_with": null,
     "timestamp": "2026-08-28T17:57:40.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@QOIL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-08-28T17:58:37.279Z"
+  },
+  {
+    "player1": "Minervarosaline",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T17:59:01.020Z"
   }
 ]
