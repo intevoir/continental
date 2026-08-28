@@ -1,44 +1,5 @@
 [
   {
-    "player1": "java",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:17:21.187Z"
-  },
-  {
-    "player1": "java",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:17:28.223Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrDDN",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 65,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:17:34.848Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ifbuymsg",
     "world": "TOKOZ",
@@ -128,5 +89,44 @@
     "price_wl": 1540,
     "traded_with": null,
     "timestamp": "2026-08-28T15:18:48.643Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KELVEDERE",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Mysterious Detective's Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:19:21.634Z"
+  },
+  {
+    "player1": "DrDuxxy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2920,
+    "price_wl": 2920,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:19:21.646Z"
+  },
+  {
+    "player1": "DrDuxxy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1460,
+    "price_wl": 1460,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:19:33.643Z"
   }
 ]
