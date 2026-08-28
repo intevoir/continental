@@ -5,19 +5,6 @@
     "world": "BLOCKMO",
     "action": "SELL",
     "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-28T23:20:00.202Z"
-  },
-  {
-    "player1": "BTKBTK",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
     "item_count": 20,
     "p_name": "World Locks",
     "p_count": 100,
@@ -128,5 +115,18 @@
     "price_wl": 228,
     "traded_with": null,
     "timestamp": "2026-08-28T23:24:05.617Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BTKBTK",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 232,
+    "price_wl": 232,
+    "traded_with": null,
+    "timestamp": "2026-08-28T23:25:12.689Z"
   }
 ]
