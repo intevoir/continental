@@ -1,44 +1,5 @@
 [
   {
-    "player1": "java",
-    "player2": "Renting Station",
-    "world": "NMART",
-    "action": "RENT",
-    "item_name": "REME Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:20:28.101Z"
-  },
-  {
-    "player1": "java",
-    "player2": "Renting Station",
-    "world": "NMART",
-    "action": "RENT",
-    "item_name": "The One Ring",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:20:35.367Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "brotodd",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Intergalactic Warrior Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-28T15:20:35.379Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrBukuRusak",
     "world": "YVN",
@@ -128,5 +89,44 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-28T15:21:49.399Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KELVEDERE",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Ghastly Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:22:19.922Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBukuRusak",
+    "world": "YVN",
+    "action": "BUY",
+    "item_name": "Dragon Gate",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:22:19.927Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBukuRusak",
+    "world": "YVN",
+    "action": "BUY",
+    "item_name": "Dragon Gate",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-28T15:22:31.020Z"
   }
 ]
