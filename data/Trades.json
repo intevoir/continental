@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YouOne",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-28T22:20:59.165Z"
-  },
-  {
     "player1": "DrYunShan",
     "player2": "Buying Machine",
     "world": "KKK",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-28T22:34:12.275Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hhas",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-28T22:35:18.938Z"
   }
 ]
