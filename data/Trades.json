@@ -4,19 +4,6 @@
     "player2": "SIDR4P",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T14:15:36.413Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SIDR4P",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Ultra World Spray",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-29T14:17:36.177Z"
+  },
+  {
+    "player1": "Lunas",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Mbappe!",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-08-29T14:18:37.272Z"
   }
 ]
