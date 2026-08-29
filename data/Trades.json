@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "KWTU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-08-29T20:46:24.628Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "KWTU",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-29T20:46:34.858Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jieon",
     "world": "BUYBIOHAZARDSIGN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-29T20:55:23.036Z"
+  },
+  {
+    "player1": "Richardszo",
+    "player2": "Renting Station",
+    "world": "HELL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-29T20:58:25.201Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-29T20:58:25.218Z"
   }
 ]
