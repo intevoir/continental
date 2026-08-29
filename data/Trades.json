@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Apebendela",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:19:00.115Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LiteYou_304",
-    "world": "BLOCKM",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:19:50.890Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VinnPY",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:19:50.970Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VinnPY",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:19:50.977Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LiteYou_304",
     "world": "BLOCKM",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-08-29T04:21:16.363Z"
+  },
+  {
+    "player1": "VinnPY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 59,
+    "p_name": "World Locks",
+    "p_count": 413,
+    "price_wl": 413,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:21:23.494Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "KIVO",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:21:27.033Z"
+  },
+  {
+    "player1": "VinnPY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:21:49.362Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BIMOKO",
+    "world": "BFGSV",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:21:49.375Z"
   }
 ]
