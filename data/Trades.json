@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ManyolL",
-    "world": "KIVO",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:21:27.033Z"
-  },
-  {
-    "player1": "VinnPY",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:21:49.362Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BIMOKO",
-    "world": "BFGSV",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:21:49.375Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zziel",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-29T04:26:51.773Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vanimek",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3108,
+    "price_wl": 3108,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:27:52.398Z"
+  },
+  {
+    "player1": "Banjar",
+    "player2": "ManyolL",
+    "world": "DTOA1",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 27,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ManyolL",
+    "timestamp": "2026-08-29T04:27:52.423Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Banjar",
+    "world": "DTOA1",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Banjar",
+    "timestamp": "2026-08-29T04:27:52.426Z"
   }
 ]
