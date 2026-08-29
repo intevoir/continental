@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vidar",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Mover",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:56:26.059Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RajaRemeKu",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-29T02:00:56.327Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JEKKIKEBELETBGL",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Change of Address",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:02:16.364Z"
   }
 ]
