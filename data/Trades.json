@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zziel",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-08-29T23:31:35.708Z"
-  },
-  {
     "player1": "lod21",
     "player2": "Renting Station",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-29T23:35:45.241Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ifbuymsg",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Dark Magic Barrier",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-08-29T23:38:41.136Z"
   }
 ]
