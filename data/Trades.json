@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SirZenith",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:02:51.764Z"
-  },
-  {
-    "player1": "Exx []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4600,
-    "price_wl": 4600,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:04:22.387Z"
-  },
-  {
     "player1": "Exx []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-08-29T01:13:00.723Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cezya",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:13:13.777Z"
+  },
+  {
+    "player1": "x3naa",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:13:15.300Z"
   }
 ]
