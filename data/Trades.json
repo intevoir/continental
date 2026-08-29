@@ -5,19 +5,6 @@
     "world": "BLOCKMO",
     "action": "SELL",
     "item_name": "Lock Mover",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-08-29T10:41:26.103Z"
-  },
-  {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Mover",
     "item_count": 10,
     "p_name": "World Locks",
     "p_count": 200,
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-29T10:42:26.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLolly",
+    "world": "BMQ",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T10:42:34.182Z"
   }
 ]
