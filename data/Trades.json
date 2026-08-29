@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-29T11:12:27.589Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-29T11:12:27.608Z"
-  },
-  {
     "player1": "RAWYS",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-08-29T11:14:27.782Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lamumu",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Fireplace",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:14:42.183Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Pot O' Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:14:53.635Z"
   }
 ]
