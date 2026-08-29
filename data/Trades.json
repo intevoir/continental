@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Puffeloo",
-    "world": "QRUM",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:35:09.197Z"
-  },
-  {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:36:24.091Z"
-  },
-  {
     "player1": "spd",
     "player2": "Buying Machine",
     "world": "HTML",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-08-29T02:38:10.004Z"
+  },
+  {
+    "player1": "MidnightBoy",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:39:10.426Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vidar",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:39:10.437Z"
   }
 ]
