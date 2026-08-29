@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrUnipin",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-29T12:31:34.228Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vediete",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T12:34:18.905Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vediete",
     "world": "BFGNG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-08-29T12:36:01.771Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Azurkuy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T12:36:22.683Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-29T12:36:33.127Z"
   }
 ]
