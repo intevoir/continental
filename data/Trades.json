@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RV178",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:14:46.684Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrSeverine",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:14:56.935Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrSeverine",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:15:00.746Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSeverine",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 500000,
     "traded_with": null,
     "timestamp": "2026-08-29T01:22:12.410Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "spd",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:23:45.644Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "CUAN",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6600,
+    "price_wl": 6600,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:24:09.172Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "heny",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Super Fireworks",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:24:09.181Z"
   }
 ]
