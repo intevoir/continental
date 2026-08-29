@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SADXABA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T18:23:47.194Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Drpdqu",
-    "world": "BUYIGNEOUS",
-    "action": "BUY",
-    "item_name": "Igneous Rock",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-08-29T18:23:47.199Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "KWTU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-29T18:29:09.215Z"
+  },
+  {
+    "player1": "maxxGALAGHER",
+    "player2": "SINGKU",
+    "world": "PWTD",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 18,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SINGKU",
+    "timestamp": "2026-08-29T18:31:13.871Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "maxxGALAGHER",
+    "world": "PWTD",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "maxxGALAGHER",
+    "timestamp": "2026-08-29T18:31:13.873Z"
   }
 ]
