@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BOMOKO",
-    "world": "BFGSV",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:01:40.913Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BOMOKO",
-    "world": "BFGSV",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:01:47.606Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SirZenith",
     "world": "NOW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 760,
     "traded_with": null,
     "timestamp": "2026-08-29T01:11:37.861Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cezya",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:12:54.698Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cezya",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:13:00.723Z"
   }
 ]
