@@ -1,57 +1,5 @@
 [
   {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:37:09.438Z"
-  },
-  {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:37:27.248Z"
-  },
-  {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:37:41.249Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Puffeloo",
-    "world": "QRUM",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:38:09.963Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JEKKIKEBELETBGL",
     "world": "SHOP2",
@@ -128,5 +76,57 @@
     "price_wl": 72,
     "traded_with": null,
     "timestamp": "2026-08-29T02:40:11.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Puffeloo",
+    "world": "GBC25",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:40:21.826Z"
+  },
+  {
+    "player1": "DotApk",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:40:39.524Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Puffeloo",
+    "world": "GBC25",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:40:39.534Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Syascroft",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:40:46.896Z"
   }
 ]
