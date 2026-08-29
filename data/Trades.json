@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SADXABA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T17:47:39.680Z"
-  },
-  {
-    "player1": "DrAxylot",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-29T17:47:43.875Z"
-  },
-  {
-    "player1": "DrAxylot",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-29T17:48:31.415Z"
-  },
-  {
     "player1": "DrAxylot",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-29T17:51:54.307Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrELEK",
+    "world": "PRIME",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 75000,
+    "price_wl": 75000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T17:52:36.407Z"
+  },
+  {
+    "player1": "DrAxylot",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T17:52:43.782Z"
+  },
+  {
+    "player1": "DrELEK",
+    "player2": "Buying Machine",
+    "world": "GEVU",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 11475,
+    "price_wl": 11475,
+    "traded_with": null,
+    "timestamp": "2026-08-29T17:53:02.924Z"
   }
 ]
