@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ExMbul []",
-    "player2": "DrPesiar [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrPesiar [ELITE]",
-    "timestamp": "2026-08-29T02:25:15.216Z"
-  },
-  {
-    "player1": "ExMbul []",
-    "player2": "DrPesiar [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrPesiar [ELITE]",
-    "timestamp": "2026-08-29T02:25:15.220Z"
-  },
-  {
     "player1": "DrPesiar [ELITE]",
     "player2": "ExMbul []",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-29T02:30:27.096Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JEKKIKEBELETBGL",
+    "world": "SHOP11",
+    "action": "BUY",
+    "item_name": "VIP Entrance",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:31:07.657Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JEKKIKEBELETBGL",
+    "world": "SHOP11",
+    "action": "BUY",
+    "item_name": "Objective Marker",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:31:12.269Z"
   }
 ]
