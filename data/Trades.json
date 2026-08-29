@@ -1,31 +1,5 @@
 [
   {
-    "player1": "spd",
-    "player2": "Buying Machine",
-    "world": "NMART",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:45:01.258Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SADXABA",
-    "world": "WDO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 235,
-    "price_wl": 235,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:46:04.267Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SADXABA",
     "world": "WDO",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-29T04:50:02.984Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Dear John Tractor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:50:06.493Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SIDR4P",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:50:33.700Z"
   }
 ]
