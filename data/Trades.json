@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrGvez",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T18:54:30.065Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "ANIX",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 960,
-    "price_wl": 960,
-    "traded_with": null,
-    "timestamp": "2026-08-29T18:54:30.072Z"
-  },
-  {
     "player1": "@Verstapenn",
     "player2": "Buying Machine",
     "world": "FAC",
@@ -128,5 +102,31 @@
     "price_wl": 21250,
     "traded_with": null,
     "timestamp": "2026-08-29T18:55:30.788Z"
+  },
+  {
+    "player1": "@Verstapenn",
+    "player2": "Buying Machine",
+    "world": "FAC",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T18:55:38.630Z"
+  },
+  {
+    "player1": "OKIAM",
+    "player2": "Renting Station",
+    "world": "0PY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47,
+    "price_wl": 47,
+    "traded_with": null,
+    "timestamp": "2026-08-29T18:55:50.053Z"
   }
 ]
