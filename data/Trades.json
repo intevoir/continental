@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "D4Pcmd",
-    "world": "ASHOP",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-08-29T03:48:31.239Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "RIECHS",
-    "action": "BUY",
-    "item_name": "Ancestral Seed of Life",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 5600,
-    "price_wl": 5600,
-    "traded_with": null,
-    "timestamp": "2026-08-29T03:49:32.031Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SirZenith",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-08-29T03:53:04.414Z"
+  },
+  {
+    "player1": "IKKY67",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-29T03:54:33.576Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnPY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-08-29T03:54:33.597Z"
   }
 ]
