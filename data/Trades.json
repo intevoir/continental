@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "GUBAH",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 244,
-    "p_name": "World Locks",
-    "p_count": 183000,
-    "price_wl": 183000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:45:28.342Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Motobe",
-    "world": "GUBAH",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 156,
-    "p_name": "World Locks",
-    "p_count": 117000,
-    "price_wl": 117000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:46:04.490Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@MrFunk []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-29T00:49:59.979Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 22,
+    "p_name": "World Locks",
+    "p_count": 110,
+    "price_wl": 110,
+    "traded_with": null,
+    "timestamp": "2026-08-29T00:50:30.631Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 39,
+    "price_wl": 39,
+    "traded_with": null,
+    "timestamp": "2026-08-29T00:50:30.651Z"
   }
 ]
