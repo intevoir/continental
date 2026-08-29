@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-29T06:07:07.035Z"
-  },
-  {
-    "player1": "Violation",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Haunted Chemical",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-08-29T06:11:10.914Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOJEK1",
+    "world": "PLAZAX",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-08-29T06:11:39.554Z"
   }
 ]
