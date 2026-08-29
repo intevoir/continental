@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ExMbul []",
-    "world": "VEND8",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 244,
-    "p_name": "World Locks",
-    "p_count": 122,
-    "price_wl": 122,
-    "traded_with": null,
-    "timestamp": "2026-08-29T08:24:31.603Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Eggshi",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T08:24:31.695Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VirgiL of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-08-29T08:26:57.198Z"
+  },
+  {
+    "player1": "KingDON",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T08:27:32.235Z"
+  },
+  {
+    "player1": "BucksGrip_205",
+    "player2": "Renting Station",
+    "world": "HELL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-29T08:27:53.524Z"
   }
 ]
