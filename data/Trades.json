@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "2A9",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 187500,
-    "price_wl": 187500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:39:25.431Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Femboyslover",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:39:28.876Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Femboyslover",
     "world": "GROWMART",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-08-29T00:41:26.009Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OldSpices",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 187500,
+    "price_wl": 187500,
+    "traded_with": null,
+    "timestamp": "2026-08-29T00:42:27.478Z"
+  },
+  {
+    "player1": "gcrwd",
+    "player2": "Buying Machine",
+    "world": "BFGNG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-08-29T00:42:27.500Z"
   }
 ]
