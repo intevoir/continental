@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Motobe",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-29T10:23:46.734Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RAFABW",
     "world": "QRUM",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-29T10:25:23.104Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RAFABW",
+    "world": "QRUM",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-29T10:25:54.801Z"
   }
 ]
