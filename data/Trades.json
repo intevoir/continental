@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Anjaay",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-29T11:15:35.365Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BOMOKO",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 3570,
     "traded_with": null,
     "timestamp": "2026-08-29T11:18:01.834Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Pot O' Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:18:29.051Z"
   }
 ]
