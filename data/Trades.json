@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Emey",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T16:07:35.070Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Guwon",
-    "world": "ZETSMAIN",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-29T16:08:09.843Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Gokslol",
     "world": "ZETSMAIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-29T16:08:28.632Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Guwon",
+    "world": "ZETSMAIN",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-08-29T16:09:30.296Z"
+  },
+  {
+    "player1": "@Verstapenn",
+    "player2": "Buying Machine",
+    "world": "FAC",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-29T16:09:59.871Z"
   }
 ]
