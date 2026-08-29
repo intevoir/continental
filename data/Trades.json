@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "hasis",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Dwarven Wall",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-29T10:09:25.217Z"
-  },
-  {
-    "player1": "DrFEARON",
-    "player2": "Renting Station",
-    "world": "HELL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-29T10:10:31.988Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kizi",
     "world": "CHEAPES",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7144,
     "traded_with": null,
     "timestamp": "2026-08-29T10:15:49.954Z"
+  },
+  {
+    "player1": "DrCans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T10:16:25.047Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XIEWORKS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-08-29T10:16:25.195Z"
   }
 ]
