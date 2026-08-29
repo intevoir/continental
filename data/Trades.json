@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SkibidiToilet",
-    "world": "SELLBIRTH",
-    "action": "BUY",
-    "item_name": "Birth Certificate",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-29T22:19:00.056Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkibidiToilet",
-    "world": "ANYTIME",
-    "action": "BUY",
-    "item_name": "Birth Certificate",
-    "item_count": 56,
-    "p_name": "World Locks",
-    "p_count": 840,
-    "price_wl": 840,
-    "traded_with": null,
-    "timestamp": "2026-08-29T22:19:08.300Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fzal",
     "world": "TOKOZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-08-29T22:27:18.746Z"
+  },
+  {
+    "player1": "XcLeCps",
+    "player2": "OTONGBAIK",
+    "world": "IFJ",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OTONGBAIK",
+    "timestamp": "2026-08-29T22:28:14.793Z"
+  },
+  {
+    "player1": "OTONGBAIK",
+    "player2": "XcLeCps",
+    "world": "IFJ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "XcLeCps",
+    "timestamp": "2026-08-29T22:28:14.793Z"
   }
 ]
