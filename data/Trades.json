@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Kaleidoscopic Wallpaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-29T19:47:14.878Z"
-  },
-  {
     "player1": "Full",
     "player2": "Renting Station",
     "world": "RENTIYU",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-29T19:53:07.124Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Weather Machine - Realm of Spirits",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-29T19:55:05.393Z"
   }
 ]
