@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ifbuymsg",
-    "world": "FAC",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:56:10.944Z"
-  },
-  {
-    "player1": "BOMOKO",
-    "player2": "Renting Station",
-    "world": "SBY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:56:31.289Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MasBre",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4600,
     "traded_with": null,
     "timestamp": "2026-08-29T01:04:22.387Z"
+  },
+  {
+    "player1": "Exx []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 44,
+    "p_name": "World Locks",
+    "p_count": 31768,
+    "price_wl": 31768,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:06:35.347Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:06:35.356Z"
   }
 ]
