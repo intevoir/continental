@@ -5,19 +5,6 @@
     "world": "PLAZA",
     "action": "BUY",
     "item_name": "Songpyeon",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-29T13:18:28.514Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Sakadus",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
     "item_count": 25,
     "p_name": "World Locks",
     "p_count": 5,
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-08-29T13:19:45.444Z"
+  },
+  {
+    "player1": "BurJiro",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-29T13:20:37.586Z"
   }
 ]
