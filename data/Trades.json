@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "fhira2",
-    "world": "STOREKILAT",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:56:12.477Z"
-  },
-  {
     "player1": "gasukajudi",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-08-29T02:59:25.736Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JEKKIKEBELETBGL",
+    "world": "SHOP11",
+    "action": "BUY",
+    "item_name": "Path Marker",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-29T03:01:47.599Z"
   }
 ]
