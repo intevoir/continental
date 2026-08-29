@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SkyDeath",
-    "world": "DJ",
-    "action": "BUY",
-    "item_name": "D Battery",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:04:44.390Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAFABW",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 336,
     "traded_with": null,
     "timestamp": "2026-08-29T04:07:11.698Z"
+  },
+  {
+    "player1": "Atre",
+    "player2": "Buying Machine",
+    "world": "BFGFLAW",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:07:45.602Z"
   }
 ]
