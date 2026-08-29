@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Julibe",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Brainflower",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-29T10:58:35.043Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kizi",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-29T10:59:24.802Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Air Robinsons",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:00:25.005Z"
   }
 ]
