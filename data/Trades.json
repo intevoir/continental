@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Selaluu",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-29T06:47:54.459Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kipasputer",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-08-29T06:51:22.567Z"
+  },
+  {
+    "player1": "Selaluu",
+    "player2": "Buying Machine",
+    "world": "GEIGERO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-29T06:52:28.637Z"
   }
 ]
