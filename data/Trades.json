@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTX5090",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-08-29T05:06:10.633Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wamzz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7770,
-    "price_wl": 7770,
-    "traded_with": null,
-    "timestamp": "2026-08-29T05:07:11.570Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "D4Pcmd",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-29T05:09:31.713Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 27,
+    "price_wl": 27,
+    "traded_with": null,
+    "timestamp": "2026-08-29T05:11:13.538Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-29T05:11:13.551Z"
   }
 ]
