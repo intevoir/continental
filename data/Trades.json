@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-08-29T01:40:16.022Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrThyID",
     "world": "NNU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-08-29T01:48:14.612Z"
+  },
+  {
+    "player1": "Vidar",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 95,
+    "p_name": "World Locks",
+    "p_count": 2850,
+    "price_wl": 2850,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:50:15.244Z"
   }
 ]
