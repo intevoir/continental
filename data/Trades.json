@@ -4,19 +4,6 @@
     "player2": "Cavets",
     "world": "BFGBTY",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:12:44.957Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cavets",
-    "world": "BFGBTY",
-    "action": "BUY",
     "item_name": "Lucky Clover",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-29T04:15:46.512Z"
+  },
+  {
+    "player1": "Zziel",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:16:47.359Z"
   }
 ]
