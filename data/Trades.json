@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Eggshi",
-    "player2": "Buying Machine",
-    "world": "BFGDRA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 59,
-    "p_name": "World Locks",
-    "p_count": 413,
-    "price_wl": 413,
-    "traded_with": null,
-    "timestamp": "2026-08-29T07:00:02.036Z"
-  },
-  {
-    "player1": "Gunungkidul",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 7050,
-    "price_wl": 7050,
-    "traded_with": null,
-    "timestamp": "2026-08-29T07:01:13.727Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lali",
     "world": "BUYCURTAIN",
@@ -128,5 +102,31 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-08-29T07:06:26.643Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SIDR4P",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-08-29T07:07:14.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SIDR4P",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-29T07:07:17.605Z"
   }
 ]
