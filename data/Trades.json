@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SirZenith",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Giant Flag",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T00:57:17.769Z"
-  },
-  {
     "player1": "Exx",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 16065,
     "traded_with": null,
     "timestamp": "2026-08-29T01:07:53.846Z"
+  },
+  {
+    "player1": "DrSeverine",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 28800,
+    "price_wl": 28800,
+    "traded_with": null,
+    "timestamp": "2026-08-29T01:08:44.568Z"
   }
 ]
