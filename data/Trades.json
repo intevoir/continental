@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Renting Station",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T06:57:29.770Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iyemin",
     "world": "BFGPB",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-29T06:59:21.998Z"
+  },
+  {
+    "player1": "Eggshi",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 59,
+    "p_name": "World Locks",
+    "p_count": 413,
+    "price_wl": 413,
+    "traded_with": null,
+    "timestamp": "2026-08-29T07:00:02.036Z"
   }
 ]
