@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Dear John Tractor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:50:06.493Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SIDR4P",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 728,
     "traded_with": null,
     "timestamp": "2026-08-29T04:54:04.500Z"
+  },
+  {
+    "player1": "BlueFur []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 84,
+    "p_name": "World Locks",
+    "p_count": 588,
+    "price_wl": 588,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:54:19.903Z"
   }
 ]
