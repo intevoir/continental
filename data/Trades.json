@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Popular",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-29T13:04:23.716Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wilyon",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-08-29T13:04:23.744Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@LegendQ",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T13:04:23.750Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nulls",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 3800000,
     "traded_with": null,
     "timestamp": "2026-08-29T13:08:36.320Z"
+  },
+  {
+    "player1": "@Verstapenn",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-08-29T13:09:09.845Z"
+  },
+  {
+    "player1": "Eldiany",
+    "player2": "Buying Machine",
+    "world": "VENDY",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3800000,
+    "price_wl": 3800000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T13:09:25.958Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRZGOW",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-29T13:09:46.929Z"
   }
 ]
