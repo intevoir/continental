@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BlackMannn",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:42:23.790Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CreiFx",
-    "world": "SHOPGX",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T04:42:30.340Z"
-  },
-  {
     "player1": "Eggshi",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-08-29T04:44:19.212Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:45:01.240Z"
+  },
+  {
+    "player1": "spd",
+    "player2": "Buying Machine",
+    "world": "NMART",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-29T04:45:01.258Z"
   }
 ]
