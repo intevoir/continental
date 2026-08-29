@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Verstapenn",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-29T19:14:10.308Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SecretAdmirer",
     "world": "MURAH",
@@ -128,5 +115,18 @@
     "price_wl": 594,
     "traded_with": null,
     "timestamp": "2026-08-29T19:18:39.845Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ShinKazama",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T19:19:04.276Z"
   }
 ]
