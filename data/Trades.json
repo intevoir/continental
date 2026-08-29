@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JEKKIKEBELETBGL",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:00:04.873Z"
-  },
-  {
-    "player1": "VinnPY",
-    "player2": "Buying Machine",
-    "world": "PLAZA",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:00:56.327Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JEKKIKEBELETBGL",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Change of Address",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:02:16.364Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BOMOKO",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-29T02:07:20.875Z"
+  },
+  {
+    "player1": "DRViN",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:08:59.315Z"
+  },
+  {
+    "player1": "SerDonalTrum",
+    "player2": "jaegerw",
+    "world": "REMEFFA",
+    "action": "TRADE",
+    "item_name": "Duct Tape",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "jaegerw",
+    "timestamp": "2026-08-29T02:09:23.359Z"
+  },
+  {
+    "player1": "jaegerw",
+    "player2": "SerDonalTrum",
+    "world": "REMEFFA",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SerDonalTrum",
+    "timestamp": "2026-08-29T02:09:23.363Z"
   }
 ]
