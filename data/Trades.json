@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PisangKonhdam",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Ultraviolet Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-29T11:51:17.101Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkibidiToilet",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-08-29T11:51:17.140Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SkibidiToilet",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-29T11:53:12.806Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@QOIL",
+    "world": "CBS",
+    "action": "BUY",
+    "item_name": "Iron Bars",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:53:42.805Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkibidiToilet",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-29T11:53:42.832Z"
   }
 ]
