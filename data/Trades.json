@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "minkeblue",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:55:19.383Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Guwon",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-08-29T02:55:41.685Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "gasukajudi",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-29T02:57:12.514Z"
+  },
+  {
+    "player1": "DotExe",
+    "player2": "Renting Station",
+    "world": "TAWP",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:58:13.060Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "minkeblue",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-29T02:58:25.899Z"
   }
 ]
