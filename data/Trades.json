@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Violation",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-08-29T06:07:38.479Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IshioNeedNoLove",
     "world": "SEEDS",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-08-29T06:11:39.554Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "wortelll",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Zamgrowni",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-29T06:11:55.195Z"
   }
 ]
