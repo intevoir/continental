@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FLAIRx",
-    "world": "KULINER",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 180,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-08-29T18:24:47.547Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMbox",
     "world": "APOTIKS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-08-29T18:34:06.965Z"
+  },
+  {
+    "player1": "@Verstapenn",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-29T18:35:11.779Z"
   }
 ]
