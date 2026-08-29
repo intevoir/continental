@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "D4Pcmd",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 31,
-    "price_wl": 31,
-    "traded_with": null,
-    "timestamp": "2026-08-29T05:08:11.338Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AinStoreCPS",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-29T05:13:13.573Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingXury",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-29T05:14:14.335Z"
   }
 ]
