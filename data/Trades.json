@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "MARKETSHOP",
-    "action": "BUY",
-    "item_name": "Tenement Building",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:38:29.650Z"
-  },
-  {
     "player1": "DamaW",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-30T17:41:56.187Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Mirazaki [ELITE]",
+    "world": "ML",
+    "action": "BUY",
+    "item_name": "Cornucopia Cannon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T17:44:10.028Z"
   }
 ]
