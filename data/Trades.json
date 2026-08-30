@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "umann",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Brainflower",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-08-30T12:57:34.907Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKESH",
     "world": "LEMEKULA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 173740,
     "traded_with": null,
     "timestamp": "2026-08-30T13:00:33.663Z"
+  },
+  {
+    "player1": "DrBlueberyy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Infinity Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:02:26.598Z"
   }
 ]
