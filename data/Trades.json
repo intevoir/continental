@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "akasu",
-    "world": "RBDGL",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 1668,
-    "price_wl": 1668,
-    "traded_with": null,
-    "timestamp": "2026-08-30T21:45:27.368Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "akasu",
-    "world": "RBDGL",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 165,
-    "price_wl": 165,
-    "traded_with": null,
-    "timestamp": "2026-08-30T21:45:57.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "akasu",
     "world": "BIRU",
     "action": "BUY",
     "item_name": "White Crystal",
@@ -128,5 +102,31 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-08-30T21:57:11.213Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-08-30T21:58:02.627Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gungnir",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 75000,
+    "price_wl": 75000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T21:58:11.057Z"
   }
 ]
