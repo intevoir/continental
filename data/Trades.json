@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrElrab",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Zraei's Dragoscarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:12:24.270Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HIKII",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Super-Dragon Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:13:01.418Z"
-  },
-  {
-    "player1": "DrFuugu",
-    "player2": "Renting Station",
-    "world": "SONG1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:13:01.424Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HIKII",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-30T17:15:06.599Z"
+  },
+  {
+    "player1": "Gembil",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-08-30T17:15:15.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrElrab",
+    "world": "BAPAK",
+    "action": "BUY",
+    "item_name": "Pinata Whistle",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-30T17:15:27.075Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T17:15:31.376Z"
   }
 ]
