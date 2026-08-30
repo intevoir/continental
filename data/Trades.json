@@ -4,32 +4,6 @@
     "player2": "Renting Station",
     "world": "MAPEL",
     "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:25:09.077Z"
-  },
-  {
-    "player1": "jaegerw",
-    "player2": "Renting Station",
-    "world": "MAPEL",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:25:13.182Z"
-  },
-  {
-    "player1": "jaegerw",
-    "player2": "Renting Station",
-    "world": "MAPEL",
-    "action": "RENT",
     "item_name": "Legendary Infinity Rayman's Fist",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Murr",
     "timestamp": "2026-08-30T13:26:41.599Z"
+  },
+  {
+    "player1": "Drstuudys",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 440000,
+    "price_wl": 440000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:26:50.429Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fhira",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 135,
+    "price_wl": 135,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:27:13.076Z"
   }
 ]
