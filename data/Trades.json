@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Muchinrae",
-    "world": "D6",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 150000,
-    "price_wl": 150000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T05:14:34.680Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SayLor",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-08-30T05:19:03.106Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Security []",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T05:19:22.189Z"
   }
 ]
