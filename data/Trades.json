@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Pencil",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:25:18.733Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iyemin",
     "world": "LN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4125,
     "traded_with": null,
     "timestamp": "2026-08-30T20:29:36.018Z"
+  },
+  {
+    "player1": "ValorGt",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-30T20:31:21.055Z"
   }
 ]
