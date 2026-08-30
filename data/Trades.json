@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "GOJEK1",
-    "world": "PLAZAX",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:54:05.078Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GOJEK1",
-    "world": "PLAZAX",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:54:08.004Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BabyBoma",
-    "world": "SBY",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:55:06.490Z"
-  },
-  {
     "player1": "akasu",
     "player2": "Renting Station",
     "world": "WHOLESALESTORE",
@@ -128,5 +89,44 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-08-30T13:55:47.836Z"
+  },
+  {
+    "player1": "IyannZy of Legend",
+    "player2": "Blezzx",
+    "world": "BLEZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Blezzx",
+    "timestamp": "2026-08-30T13:56:23.805Z"
+  },
+  {
+    "player1": "Blezzx",
+    "player2": "IyannZy of Legend",
+    "world": "BLEZ",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "IyannZy of Legend",
+    "timestamp": "2026-08-30T13:56:23.805Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:56:49.371Z"
   }
 ]
