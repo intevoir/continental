@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wonodadi",
-    "world": "FAC",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:31:23.244Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "BIOVENDS",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:31:23.253Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrZanpro",
     "world": "BIOVENDS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-08-30T15:32:52.368Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZanpro",
+    "world": "BIOVENDS",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:33:24.071Z"
+  },
+  {
+    "player1": "MandorBFG",
+    "player2": "Buying Machine",
+    "world": "AKL3",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:33:24.097Z"
   }
 ]
