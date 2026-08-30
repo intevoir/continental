@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@RKMzz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 37500,
-    "price_wl": 37500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:39:33.293Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Becker",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-08-30T15:43:01.273Z"
+  },
+  {
+    "player1": "Zoeroy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:44:27.208Z"
   }
 ]
