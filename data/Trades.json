@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "wews",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T09:11:47.649Z"
-  },
-  {
     "player1": "HAQIYORI",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-08-30T09:13:41.498Z"
+  },
+  {
+    "player1": "Jieon",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-30T09:13:48.718Z"
   }
 ]
