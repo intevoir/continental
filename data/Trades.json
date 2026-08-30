@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 1690,
-    "price_wl": 1690,
-    "traded_with": null,
-    "timestamp": "2026-08-30T14:10:54.441Z"
-  },
-  {
-    "player1": "Bocil24",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-30T14:10:54.457Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GerrSukaBFG",
     "world": "BFGQOH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-30T14:16:30.846Z"
+  },
+  {
+    "player1": "Bocil24",
+    "player2": "Buying Machine",
+    "world": "BFGPOYO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7400,
+    "price_wl": 7400,
+    "traded_with": null,
+    "timestamp": "2026-08-30T14:21:01.960Z"
+  },
+  {
+    "player1": "BOMOKO",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-08-30T14:21:01.971Z"
   }
 ]
