@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DarkGregor",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-30T07:05:43.497Z"
-  },
-  {
     "player1": "Cazuki",
     "player2": "Renting Station",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 740,
     "traded_with": null,
     "timestamp": "2026-08-30T07:08:16.743Z"
+  },
+  {
+    "player1": "DarkGregor",
+    "player2": "Renting Station",
+    "world": "BFGNG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-30T07:09:10.367Z"
   }
 ]
