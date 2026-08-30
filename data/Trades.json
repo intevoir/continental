@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VENZSHOP",
-    "world": "EGG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-30T06:16:53.859Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MannSky",
     "world": "QRUM",
     "action": "BUY",
@@ -23,7 +10,20 @@
     "p_count": 1250,
     "price_wl": 1250,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:16:53.869Z"
+    "timestamp": "2026-08-30T06:17:56.350Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OwnREMESART",
+    "world": "BFGADVAN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-30T06:18:23.497Z"
   },
   {
     "player1": "Vending Machine",
@@ -36,7 +36,7 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:23.435Z"
+    "timestamp": "2026-08-30T06:18:23.528Z"
   },
   {
     "player1": "Vending Machine",
@@ -49,20 +49,20 @@
     "p_count": 1250,
     "price_wl": 1250,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:23.455Z"
+    "timestamp": "2026-08-30T06:18:23.550Z"
   },
   {
-    "player1": "OldSpices",
+    "player1": "DrOsmora",
     "player2": "Buying Machine",
-    "world": "REZAMART",
+    "world": "BFGFLAW",
     "action": "SELL",
     "item_name": "Ultra World Spray",
-    "item_count": 59,
+    "item_count": 250,
     "p_name": "World Locks",
-    "p_count": 44545,
-    "price_wl": 44545,
+    "p_count": 187500,
+    "price_wl": 187500,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:23.468Z"
+    "timestamp": "2026-08-30T06:18:23.560Z"
   },
   {
     "player1": "Vending Machine",
@@ -75,7 +75,7 @@
     "p_count": 1250,
     "price_wl": 1250,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:23.473Z"
+    "timestamp": "2026-08-30T06:18:23.565Z"
   },
   {
     "player1": "Vending Machine",
@@ -83,12 +83,38 @@
     "world": "QRUM",
     "action": "BUY",
     "item_name": "Golden Booty Chest",
+    "item_count": 139,
+    "p_name": "World Locks",
+    "p_count": 695,
+    "price_wl": 695,
+    "traded_with": null,
+    "timestamp": "2026-08-30T06:18:35.249Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "VENDN",
+    "action": "BUY",
+    "item_name": "Waterslide Strut",
     "item_count": 250,
     "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
+    "p_count": 50,
+    "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:27.438Z"
+    "timestamp": "2026-08-30T06:18:35.276Z"
+  },
+  {
+    "player1": "DrOsmora",
+    "player2": "Buying Machine",
+    "world": "BFGFLAW",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 55,
+    "p_name": "World Locks",
+    "p_count": 41250,
+    "price_wl": 41250,
+    "traded_with": null,
+    "timestamp": "2026-08-30T06:18:42.236Z"
   },
   {
     "player1": "Vending Machine",
@@ -96,37 +122,11 @@
     "world": "QRUM",
     "action": "BUY",
     "item_name": "Golden Booty Chest",
-    "item_count": 250,
+    "item_count": 91,
     "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
+    "p_count": 455,
+    "price_wl": 455,
     "traded_with": null,
-    "timestamp": "2026-08-30T06:17:34.695Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MannSky",
-    "world": "QRUM",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-30T06:17:46.181Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MannSky",
-    "world": "QRUM",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-30T06:17:56.350Z"
+    "timestamp": "2026-08-30T06:18:42.254Z"
   }
 ]
