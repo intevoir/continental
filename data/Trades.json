@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ryyyyyy",
-    "world": "WLCA",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-30T07:21:10.891Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "cniw",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-08-30T07:21:10.963Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ELPABS",
     "world": "WLCA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-30T07:21:51.192Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 105,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-08-30T07:22:23.697Z"
+  },
+  {
+    "player1": "Wembanyama",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 7810,
+    "price_wl": 7810,
+    "traded_with": null,
+    "timestamp": "2026-08-30T07:22:24.370Z"
   }
 ]
