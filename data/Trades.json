@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BOMOKO",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Diamond Shamrock Checkpoint",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-08-30T01:20:16.888Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fzal []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T01:20:44.965Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fzal []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-30T01:23:48.261Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "DPR",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-30T01:24:18.703Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "DPR",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-30T01:24:18.743Z"
   }
 ]
