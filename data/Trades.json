@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Pencil",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:22:17.290Z"
-  },
-  {
-    "player1": "eunhax",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:22:33.428Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Pencil",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:22:47.273Z"
-  },
-  {
     "player1": "Kainyx",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +89,44 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-08-30T20:27:44.292Z"
+  },
+  {
+    "player1": "adosnl",
+    "player2": "alshaalupi",
+    "world": "CYNOBFG",
+    "action": "TRADE",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "alshaalupi",
+    "timestamp": "2026-08-30T20:28:34.435Z"
+  },
+  {
+    "player1": "alshaalupi",
+    "player2": "adosnl",
+    "world": "CYNOBFG",
+    "action": "TRADE",
+    "item_name": "Summer Surprise",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "adosnl",
+    "timestamp": "2026-08-30T20:28:34.435Z"
+  },
+  {
+    "player1": "alshaalupi",
+    "player2": "adosnl",
+    "world": "CYNOBFG",
+    "action": "TRADE",
+    "item_name": "Rift Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "adosnl",
+    "timestamp": "2026-08-30T20:28:34.435Z"
   }
 ]
