@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PICT1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T10:17:36.783Z"
-  },
-  {
     "player1": "umann",
     "player2": "Renting Station",
     "world": "CORE",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-08-30T10:19:53.309Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOJEK1",
+    "world": "PLAZAX",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-30T10:20:59.938Z"
   }
 ]
