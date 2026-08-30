@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "rusz",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-08-30T02:51:56.737Z"
-  },
-  {
-    "player1": "Drswy",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3650,
-    "price_wl": 3650,
-    "traded_with": null,
-    "timestamp": "2026-08-30T02:51:56.755Z"
-  },
-  {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6050,
-    "price_wl": 6050,
-    "traded_with": null,
-    "timestamp": "2026-08-30T02:52:26.987Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ibnuxhk",
-    "world": "ANIX",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T02:52:56.685Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMythicalFist [ELITE]",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-08-30T02:55:58.360Z"
+  },
+  {
+    "player1": "zhakyBACK",
+    "player2": "SkyDeath",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SkyDeath",
+    "timestamp": "2026-08-30T02:56:09.062Z"
+  },
+  {
+    "player1": "SkyDeath",
+    "player2": "zhakyBACK",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "zhakyBACK",
+    "timestamp": "2026-08-30T02:56:09.064Z"
+  },
+  {
+    "player1": "SkyDeath",
+    "player2": "zhakyBACK",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "zhakyBACK",
+    "timestamp": "2026-08-30T02:56:09.064Z"
+  },
+  {
+    "player1": "SkyDeath",
+    "player2": "zhakyBACK",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "zhakyBACK",
+    "timestamp": "2026-08-30T02:56:09.064Z"
   }
 ]
