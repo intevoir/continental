@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NoirStride",
-    "world": "HEMAT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-08-30T14:32:04.281Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mirazaki [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-30T14:32:08.771Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PUBLIK [ELITE]",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T14:32:17.518Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PUBLIK [ELITE]",
     "world": "TAXBLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-08-30T14:34:41.203Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "Bocil23",
+    "world": "PWOR",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Bocil23",
+    "timestamp": "2026-08-30T14:35:10.363Z"
+  },
+  {
+    "player1": "Bocil23",
+    "player2": "DrMbox",
+    "world": "PWOR",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 15,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMbox",
+    "timestamp": "2026-08-30T14:35:10.364Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Giritz2",
+    "world": "JUDI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-08-30T14:35:36.407Z"
   }
 ]
