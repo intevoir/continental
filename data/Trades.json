@@ -1,42 +1,16 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drzarealm",
-    "world": "DIENASTY",
+    "player2": "OldSpices",
+    "world": "SPOT",
     "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 250,
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
     "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
+    "p_count": 22500,
+    "price_wl": 22500,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:39:23.795Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kepinthans",
-    "world": "YEN",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-30T08:39:27.591Z"
-  },
-  {
-    "player1": "SOMEE",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-08-30T08:39:31.953Z"
+    "timestamp": "2026-08-30T08:41:29.052Z"
   },
   {
     "player1": "Vending Machine",
@@ -49,7 +23,7 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:39:31.963Z"
+    "timestamp": "2026-08-30T08:41:39.799Z"
   },
   {
     "player1": "Vending Machine",
@@ -62,7 +36,20 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:39:51.359Z"
+    "timestamp": "2026-08-30T08:41:56.132Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drzarealm",
+    "world": "DIENASTY",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 110,
+    "p_name": "World Locks",
+    "p_count": 22,
+    "price_wl": 22,
+    "traded_with": null,
+    "timestamp": "2026-08-30T08:42:25.322Z"
   },
   {
     "player1": "Vending Machine",
@@ -75,7 +62,33 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:40:30.637Z"
+    "timestamp": "2026-08-30T08:42:25.335Z"
+  },
+  {
+    "player1": "Jieon",
+    "player2": "Banjar",
+    "world": "FGEIGER",
+    "action": "TRADE",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 158,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Banjar",
+    "timestamp": "2026-08-30T08:42:25.342Z"
+  },
+  {
+    "player1": "Banjar",
+    "player2": "Jieon",
+    "world": "FGEIGER",
+    "action": "TRADE",
+    "item_name": "Geiger Counter",
+    "item_count": 158,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Jieon",
+    "timestamp": "2026-08-30T08:42:25.343Z"
   },
   {
     "player1": "Vending Machine",
@@ -88,7 +101,7 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:40:30.644Z"
+    "timestamp": "2026-08-30T08:42:34.833Z"
   },
   {
     "player1": "Vending Machine",
@@ -101,20 +114,7 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:40:32.024Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "hasis",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 325,
-    "price_wl": 325,
-    "traded_with": null,
-    "timestamp": "2026-08-30T08:40:50.523Z"
+    "timestamp": "2026-08-30T08:42:42.847Z"
   },
   {
     "player1": "Vending Machine",
@@ -127,6 +127,6 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-08-30T08:40:51.183Z"
+    "timestamp": "2026-08-30T08:42:50.291Z"
   }
 ]
