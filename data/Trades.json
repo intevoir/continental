@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kajoor",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Dakjal's Hammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-08-30T08:46:59.506Z"
-  },
-  {
     "player1": "Jieon",
     "player2": "Buying Machine",
     "world": "BLOCKOMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-30T08:48:46.819Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drzarealm",
+    "world": "TOMATQU",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-30T08:49:36.563Z"
   }
 ]
