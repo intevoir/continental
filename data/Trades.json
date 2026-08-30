@@ -1,31 +1,5 @@
 [
   {
-    "player1": "akasu",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:49:51.618Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Golden Heart Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:52:43.461Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "pojikuy",
     "world": "YAVA",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-30T20:56:37.339Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ATM of Legend [] [RICH]",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 17000,
+    "price_wl": 17000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T21:01:35.429Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devil",
+    "world": "BUYCC",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 240000,
+    "price_wl": 240000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T21:01:39.441Z"
   }
 ]
