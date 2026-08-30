@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@RKMzz",
-    "world": "BUYITEM",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-30T07:28:57.030Z"
-  },
-  {
     "player1": "@ExRyn []",
     "player2": "Buying Machine",
     "world": "FAC",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "NFT",
     "timestamp": "2026-08-30T07:37:29.115Z"
+  },
+  {
+    "player1": "Becker",
+    "player2": "Renting Station",
+    "world": "RENTMOZ",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-30T07:38:56.033Z"
   }
 ]
