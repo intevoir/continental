@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "justfun",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-30T05:37:10.647Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ItsDva",
-    "world": "BUYPOTION",
-    "action": "BUY",
-    "item_name": "Antidote",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-30T05:37:10.665Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "justfun",
     "world": "BLOCKMO",
     "action": "BUY",
     "item_name": "Legendary Infinity Rayman's Fist",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-30T05:40:10.715Z"
+  },
+  {
+    "player1": "Atre",
+    "player2": "Buying Machine",
+    "world": "BFGFLAW",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 12750,
+    "price_wl": 12750,
+    "traded_with": null,
+    "timestamp": "2026-08-30T05:40:22.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LippNeedBGL",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Janeway's Pants",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-30T05:40:37.001Z"
   }
 ]
