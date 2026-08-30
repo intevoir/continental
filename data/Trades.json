@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NewZuaa",
-    "world": "WDIZ",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:21:51.524Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NewZuaa",
-    "world": "WDIZ",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:21:51.538Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NewZuaa",
-    "world": "WDIZ",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:21:51.552Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NewZuaa",
-    "world": "WDIZ",
-    "action": "BUY",
-    "item_name": "Neptune's Trident",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:21:57.231Z"
-  },
-  {
     "player1": "YPV",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-08-30T11:23:04.437Z"
+  },
+  {
+    "player1": "Commander of Legend",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T11:23:51.550Z"
+  },
+  {
+    "player1": "DrMbox",
+    "player2": "BTKBTK",
+    "world": "BUYL",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 95,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BTKBTK",
+    "timestamp": "2026-08-30T11:23:51.564Z"
+  },
+  {
+    "player1": "BTKBTK",
+    "player2": "DrMbox",
+    "world": "BUYL",
+    "action": "TRADE",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMbox",
+    "timestamp": "2026-08-30T11:23:51.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kaiituru1",
+    "world": "DOR1",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-30T11:23:51.566Z"
   }
 ]
