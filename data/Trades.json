@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mejakursi []",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-08-30T08:22:15.439Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ggh",
     "world": "DIGIVEND",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 144750,
     "traded_with": null,
     "timestamp": "2026-08-30T08:24:44.776Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 128,
+    "price_wl": 128,
+    "traded_with": null,
+    "timestamp": "2026-08-30T08:25:21.734Z"
   }
 ]
