@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "UJJ",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T16:03:06.016Z"
-  },
-  {
     "player1": "BudakBJ1",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 18445,
     "traded_with": null,
     "timestamp": "2026-08-30T16:05:54.639Z"
+  },
+  {
+    "player1": "X0X0",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 68,
+    "p_name": "World Locks",
+    "p_count": 408,
+    "price_wl": 408,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:06:07.181Z"
   }
 ]
