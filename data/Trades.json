@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "powerpoint",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-08-30T22:36:24.778Z"
-  },
-  {
     "player1": "Xvput",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-30T22:44:18.709Z"
+  },
+  {
+    "player1": "SendyRTR",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Naruto Uzumaki",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8330,
+    "price_wl": 8330,
+    "traded_with": null,
+    "timestamp": "2026-08-30T22:45:44.596Z"
   }
 ]
