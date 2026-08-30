@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "iyemin",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-30T02:49:34.279Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rusz",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-08-30T02:53:33.341Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-08-30T02:54:15.127Z"
   }
 ]
