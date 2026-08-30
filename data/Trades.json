@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@RIP []",
-    "player2": "Buying Machine",
-    "world": "KKK",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-08-30T12:22:12.376Z"
-  },
-  {
-    "player1": "KKE",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 4320,
-    "price_wl": 4320,
-    "traded_with": null,
-    "timestamp": "2026-08-30T12:22:12.383Z"
-  },
-  {
     "player1": "SQUADAMBATRON",
     "player2": "Buying Machine",
     "world": "BLOCKOMO",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Dvinnnn",
     "timestamp": "2026-08-30T12:22:38.668Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QIZAN",
+    "world": "QISTORE",
+    "action": "BUY",
+    "item_name": "Wolf Spirit",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-08-30T12:22:45.792Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T12:22:49.499Z"
   }
 ]
