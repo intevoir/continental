@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Rp35",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T05:09:18.193Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrLolly",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-08-30T05:13:00.498Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendbot-009",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-08-30T05:14:00.760Z"
   }
 ]
