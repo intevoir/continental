@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "mfadila",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:48:45.412Z"
-  },
-  {
     "player1": "OldSpices",
     "player2": "Renting Station",
     "world": "SONG1",
@@ -128,5 +115,18 @@
     "price_wl": 21,
     "traded_with": null,
     "timestamp": "2026-08-30T15:51:50.472Z"
+  },
+  {
+    "player1": "MandorBFG",
+    "player2": "Buying Machine",
+    "world": "AKL3",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 170,
+    "p_name": "World Locks",
+    "p_count": 170,
+    "price_wl": 170,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:52:28.517Z"
   }
 ]
