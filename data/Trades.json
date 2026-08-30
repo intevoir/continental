@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Gembil",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:53:59.680Z"
-  },
-  {
-    "player1": "Gembil",
-    "player2": "Buying Machine",
-    "world": "TOKOZ2",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:54:30.994Z"
-  },
-  {
-    "player1": "razzorv2",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1350,
-    "price_wl": 1350,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:54:55.622Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Roxo",
     "world": "SABER",
@@ -128,5 +89,44 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-08-30T15:57:01.761Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Takk",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:57:30.867Z"
+  },
+  {
+    "player1": "Gembil",
+    "player2": "Buying Machine",
+    "world": "VKZ",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:57:30.885Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 105,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:57:30.895Z"
   }
 ]
