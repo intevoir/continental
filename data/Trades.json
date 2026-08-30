@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrFrexe",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 93,
-    "p_name": "World Locks",
-    "p_count": 465,
-    "price_wl": 465,
-    "traded_with": null,
-    "timestamp": "2026-08-30T10:47:50.022Z"
-  },
-  {
-    "player1": "OldSpices",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-08-30T10:47:57.010Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ggh",
     "world": "DIGIVEND",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-30T10:50:13.334Z"
+  },
+  {
+    "player1": "Retriever []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T10:50:48.191Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ggh",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Yellow Block",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-30T10:50:48.204Z"
   }
 ]
