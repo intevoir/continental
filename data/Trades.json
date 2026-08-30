@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Wellplayer",
-    "player2": "Buying Machine",
-    "world": "TRADING",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-08-30T22:16:19.392Z"
-  },
-  {
     "player1": "Milez",
     "player2": "Buying Machine",
     "world": "8T",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-30T22:31:16.903Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Motobe",
+    "world": "8R",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-08-30T22:32:25.358Z"
   }
 ]
