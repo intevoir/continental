@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Kaishee",
-    "world": "VENDT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 920,
-    "price_wl": 920,
-    "traded_with": null,
-    "timestamp": "2026-08-30T12:46:35.916Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GuyTanapat",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 852,
     "traded_with": null,
     "timestamp": "2026-08-30T12:48:41.503Z"
+  },
+  {
+    "player1": "izul9",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-08-30T12:49:25.587Z"
   }
 ]
