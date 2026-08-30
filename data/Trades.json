@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "melvino",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Pencil",
-    "item_count": 220,
-    "p_name": "World Locks",
-    "p_count": 22,
-    "price_wl": 22,
-    "traded_with": null,
-    "timestamp": "2026-08-30T20:20:16.578Z"
-  },
-  {
     "player1": "q1jj",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-08-30T20:24:49.771Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "melvino",
+    "world": "MARTS",
+    "action": "BUY",
+    "item_name": "Pencil",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-30T20:25:18.733Z"
   }
 ]
