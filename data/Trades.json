@@ -4,19 +4,6 @@
     "player2": "GOJEK1",
     "world": "PLAZAX",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:53:55.472Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GOJEK1",
-    "world": "PLAZAX",
-    "action": "BUY",
     "item_name": "Lucky Clover",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "BosPlenger",
     "timestamp": "2026-08-30T13:55:32.781Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:55:47.836Z"
   }
 ]
