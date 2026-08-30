@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Violation",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:04:45.544Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrZanpro",
     "world": "DOTN",
@@ -128,5 +115,18 @@
     "price_wl": 399,
     "traded_with": null,
     "timestamp": "2026-08-30T11:06:46.216Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NewZuaa",
+    "world": "DOR1",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 95,
+    "price_wl": 95,
+    "traded_with": null,
+    "timestamp": "2026-08-30T11:07:12.015Z"
   }
 ]
