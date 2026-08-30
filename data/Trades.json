@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MannSky",
-    "world": "BGRR",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-08-30T05:28:10.520Z"
-  },
-  {
     "player1": "PinStecu",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@NOTZI",
     "timestamp": "2026-08-30T05:29:30.047Z"
+  },
+  {
+    "player1": "Banjar",
+    "player2": "Renting Station",
+    "world": "CORE",
+    "action": "RENT",
+    "item_name": "Osas's Azure Blade",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-08-30T05:30:07.649Z"
   }
 ]
