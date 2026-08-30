@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KopiABC",
-    "world": "MAHAL",
-    "action": "BUY",
-    "item_name": "Danger Sign",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:53:08.294Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rp35",
-    "world": "BFGADVAN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:53:33.701Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rp35",
     "world": "BFGADVAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-08-30T18:00:16.515Z"
+  },
+  {
+    "player1": "KB_San [] []",
+    "player2": "Renting Station",
+    "world": "BENZYL",
+    "action": "RENT",
+    "item_name": "Legendary Skeletal Blade",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-08-30T18:01:20.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Benzyl of Legend [$$$LUXURY$$$] [RAWR]",
+    "world": "BUYLANTERN",
+    "action": "BUY",
+    "item_name": "Chinese Lantern",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-30T18:01:43.740Z"
   }
 ]
