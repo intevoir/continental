@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "parance",
-    "world": "BUYSUPERLOGOS",
-    "action": "BUY",
-    "item_name": "Super Logo - ?",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:19:06.283Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fhira",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 202,
-    "p_name": "World Locks",
-    "p_count": 1010,
-    "price_wl": 1010,
-    "traded_with": null,
-    "timestamp": "2026-08-30T13:19:42.609Z"
-  },
-  {
     "player1": "DRViN",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-08-30T13:20:09.749Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "parance",
+    "world": "BUYSUPERLOGOS",
+    "action": "BUY",
+    "item_name": "Super Logo - Shamrock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:20:39.203Z"
+  },
+  {
+    "player1": "MannSky",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-30T13:20:39.214Z"
   }
 ]
