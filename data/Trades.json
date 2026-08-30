@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrGeliga",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pot O' Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-30T19:13:17.827Z"
-  },
-  {
     "player1": "DrGeliga",
     "player2": "Renting Station",
     "world": "BFGID",
@@ -128,5 +115,18 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-08-30T19:22:22.074Z"
+  },
+  {
+    "player1": "VIRLYXS",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-08-30T19:23:29.489Z"
   }
 ]
