@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BIRU",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:51:39.163Z"
-  },
-  {
-    "player1": "AbenAja",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 7,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-30T15:55:35.592Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 34,
+    "p_name": "World Locks",
+    "p_count": 136,
+    "price_wl": 136,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:55:46.508Z"
   }
 ]
