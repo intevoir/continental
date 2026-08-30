@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Roxo",
-    "world": "SABER",
-    "action": "BUY",
-    "item_name": "Giantify",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150000,
-    "price_wl": 150000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:55:30.761Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "UJJ",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 420,
     "traded_with": null,
     "timestamp": "2026-08-30T15:57:30.895Z"
+  },
+  {
+    "player1": "Gembil",
+    "player2": "Buying Machine",
+    "world": "VKZ",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 105,
+    "p_name": "World Locks",
+    "p_count": 735,
+    "price_wl": 735,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:57:38.837Z"
   }
 ]
