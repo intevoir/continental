@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Bloodmoon Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T00:55:04.084Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sylviee",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@SHA [SUPER] [PRO ]",
     "timestamp": "2026-08-30T01:00:06.941Z"
+  },
+  {
+    "player1": "GOJEK1",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-30T01:00:22.347Z"
   }
 ]
