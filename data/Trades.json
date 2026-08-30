@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@AFK [ELITE] [] []",
-    "world": "BUYPAINTBRUSH",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 62,
-    "price_wl": 62,
-    "traded_with": null,
-    "timestamp": "2026-08-30T16:11:50.787Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrFlatscreen []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2600,
-    "price_wl": 2600,
-    "traded_with": null,
-    "timestamp": "2026-08-30T16:11:54.300Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AsepWanyz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "BlueMan's Crystal Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-08-30T16:12:11.759Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AsepWanyz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-08-30T16:16:55.301Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:17:40.062Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:17:51.318Z"
+  },
+  {
+    "player1": "Gembil",
+    "player2": "Buying Machine",
+    "world": "VKZ",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:18:09.377Z"
   }
 ]
