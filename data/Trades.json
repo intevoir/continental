@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OldSpices",
-    "player2": "Renting Station",
-    "world": "SONG1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:50:27.814Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CapMorgann",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 170,
     "traded_with": null,
     "timestamp": "2026-08-30T15:52:28.517Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CapMorgann",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:52:56.489Z"
   }
 ]
