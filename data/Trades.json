@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "SDXD",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:05:39.472Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "SDXD",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:06:17.428Z"
-  },
-  {
     "player1": "xcu",
     "player2": "Buying Machine",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 187500,
     "traded_with": null,
     "timestamp": "2026-08-30T15:08:39.432Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OWNFFA",
+    "world": "STOREIQ",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Aqua",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:09:14.896Z"
+  },
+  {
+    "player1": "Gembil",
+    "player2": "Buying Machine",
+    "world": "TOKOZ2",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-08-30T15:09:14.916Z"
   }
 ]
