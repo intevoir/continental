@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "belvaganteng",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-30T17:04:12.831Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GDC",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-30T17:07:16.173Z"
+  },
+  {
+    "player1": "LhTCPS",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-08-30T17:07:30.023Z"
   }
 ]
