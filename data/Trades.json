@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zhakyCB",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:59:31.908Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gembil",
-    "world": "GEIGERO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-08-30T15:59:31.929Z"
-  },
-  {
     "player1": "Gembil",
     "player2": "Buying Machine",
     "world": "VKZ",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-30T16:03:06.016Z"
+  },
+  {
+    "player1": "BudakBJ1",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:03:50.529Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-08-30T16:03:51.567Z"
   }
 ]
