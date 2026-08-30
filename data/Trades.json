@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KenzoP []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Unicorn Jumper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-30T11:25:56.200Z"
-  },
-  {
     "player1": "OwnREMESART",
     "player2": "Buying Machine",
     "world": "0RENT",
@@ -128,5 +115,18 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-08-30T11:26:52.312Z"
+  },
+  {
+    "player1": "OwnREMESART",
+    "player2": "Buying Machine",
+    "world": "0RENT",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6600,
+    "price_wl": 6600,
+    "traded_with": null,
+    "timestamp": "2026-08-30T11:26:56.059Z"
   }
 ]
