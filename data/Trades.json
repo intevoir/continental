@@ -4,19 +4,6 @@
     "player2": "wintered",
     "world": "BUYHAIRDYES",
     "action": "BUY",
-    "item_name": "Red Hair Dye",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-30T01:02:08.650Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wintered",
-    "world": "BUYHAIRDYES",
-    "action": "BUY",
     "item_name": "Blue Hair Dye",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-08-30T01:03:07.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOJEK1",
+    "world": "PLAZAX",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-08-30T01:04:19.766Z"
   }
 ]
