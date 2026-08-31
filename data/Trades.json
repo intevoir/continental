@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSeverine",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3500,
-    "price_wl": 3500,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:35:37.575Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrLolly",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 22000,
-    "price_wl": 22000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:36:34.964Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrLolly",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 360,
     "traded_with": null,
     "timestamp": "2026-08-31T15:37:56.641Z"
+  },
+  {
+    "player1": "DrDnng",
+    "player2": "Renting Station",
+    "world": "A31",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-08-31T15:38:14.394Z"
+  },
+  {
+    "player1": "Aloena",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 154700,
+    "price_wl": 154700,
+    "traded_with": null,
+    "timestamp": "2026-08-31T15:38:36.283Z"
   }
 ]
