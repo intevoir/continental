@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Gembil",
-    "world": "BUYEXTRACTOR",
-    "action": "BUY",
-    "item_name": "Extract-O-Snap",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-08-31T10:01:41.367Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PinStecu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-31T10:02:42.221Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CapMorgann []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-31T10:08:10.012Z"
+  },
+  {
+    "player1": "KingzRgt",
+    "player2": "Donpaxue",
+    "world": "BFGRODE",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Donpaxue",
+    "timestamp": "2026-08-31T10:08:43.690Z"
+  },
+  {
+    "player1": "Donpaxue",
+    "player2": "KingzRgt",
+    "world": "BFGRODE",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 13,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KingzRgt",
+    "timestamp": "2026-08-31T10:08:43.691Z"
   }
 ]
