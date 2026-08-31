@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Liteice",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T13:29:36.227Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "radana",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5750,
     "traded_with": null,
     "timestamp": "2026-08-31T13:32:03.997Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Venox",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-31T13:33:04.846Z"
   }
 ]
