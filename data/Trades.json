@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-31T09:35:57.663Z"
-  },
-  {
     "player1": "Gravatar",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 4760,
     "traded_with": null,
     "timestamp": "2026-08-31T09:41:00.753Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-08-31T09:41:04.004Z"
   }
 ]
