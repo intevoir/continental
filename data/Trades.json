@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NomCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-08-31T19:06:51.265Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NomCPS",
-    "world": "PUK",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 93,
-    "p_name": "World Locks",
-    "p_count": 279,
-    "price_wl": 279,
-    "traded_with": null,
-    "timestamp": "2026-08-31T19:07:50.519Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LalaRtoIreng",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-08-31T19:14:40.219Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NomCPS",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 156,
+    "p_name": "World Locks",
+    "p_count": 780,
+    "price_wl": 780,
+    "traded_with": null,
+    "timestamp": "2026-08-31T19:15:21.073Z"
+  },
+  {
+    "player1": "NomCPS",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-08-31T19:15:25.583Z"
   }
 ]
