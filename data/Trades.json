@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T09:50:08.717Z"
-  },
-  {
     "player1": "BGROS",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-08-31T09:59:39.888Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gembil",
+    "world": "BUYEXTRACTOR",
+    "action": "BUY",
+    "item_name": "Extractor Dynamo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-08-31T10:00:50.034Z"
   }
 ]
