@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DUHASUKACPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-08-31T03:49:44.363Z"
-  },
-  {
     "player1": "Caterine",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 76,
     "traded_with": null,
     "timestamp": "2026-08-31T03:54:41.890Z"
+  },
+  {
+    "player1": "DrGeliga",
+    "player2": "Buying Machine",
+    "world": "RENTMURAH",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 190,
+    "price_wl": 190,
+    "traded_with": null,
+    "timestamp": "2026-08-31T03:55:33.491Z"
   }
 ]
