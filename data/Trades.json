@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HULL",
-    "player2": "Buying Machine",
-    "world": "FAC",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 106,
-    "p_name": "World Locks",
-    "p_count": 636,
-    "price_wl": 636,
-    "traded_with": null,
-    "timestamp": "2026-08-31T10:45:28.359Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BTKBTK",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-08-31T10:48:09.384Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FallBoys",
+    "world": "CHA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T10:48:58.125Z"
   }
 ]
