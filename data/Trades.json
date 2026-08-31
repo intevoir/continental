@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-31T08:55:10.813Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "cniw",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 192,
-    "price_wl": 192,
-    "traded_with": null,
-    "timestamp": "2026-08-31T08:55:10.829Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "cniw",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-08-31T08:58:12.634Z"
+  },
+  {
+    "player1": "@BLOCK [BLOCKMO] []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 36000,
+    "price_wl": 36000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T09:00:47.789Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SADXABA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-31T09:00:47.800Z"
   }
 ]
