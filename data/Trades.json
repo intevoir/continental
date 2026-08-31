@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDausTtb",
-    "world": "HYBAR",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 9600,
-    "price_wl": 9600,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:47:39.310Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrGodnes of Legend [] []",
-    "world": "AGE",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 600000,
-    "price_wl": 600000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:47:43.917Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mystrix",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-08-31T15:48:57.148Z"
+  },
+  {
+    "player1": "masfadd",
+    "player2": "Vorax",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vorax",
+    "timestamp": "2026-08-31T15:49:52.366Z"
+  },
+  {
+    "player1": "Vorax",
+    "player2": "masfadd",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "masfadd",
+    "timestamp": "2026-08-31T15:49:52.367Z"
   }
 ]
