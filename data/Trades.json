@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BabyBoma",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-08-31T11:45:19.288Z"
-  },
-  {
-    "player1": "VENZSHOP",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-08-31T11:45:31.172Z"
-  },
-  {
     "player1": "CloverBean",
     "player2": "Buying Machine",
     "world": "CYNOBFG",
@@ -128,5 +102,31 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-08-31T11:48:51.618Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vanimek",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 45000,
+    "price_wl": 45000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T11:51:56.602Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gasukareme",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 130,
+    "p_name": "World Locks",
+    "p_count": 650,
+    "price_wl": 650,
+    "traded_with": null,
+    "timestamp": "2026-08-31T11:52:18.843Z"
   }
 ]
