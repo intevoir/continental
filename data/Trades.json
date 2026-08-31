@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Agusmakankecap",
-    "world": "BFGW",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-08-31T09:15:43.122Z"
-  },
-  {
-    "player1": "Fearonn",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-08-31T09:16:52.343Z"
-  },
-  {
     "player1": "Fearonn",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-08-31T09:19:21.780Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T09:20:22.538Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nvzhura",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-08-31T09:20:30.280Z"
   }
 ]
