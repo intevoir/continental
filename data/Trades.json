@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "justfun",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Purple Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:50:24.710Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "justfun",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Purple Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:50:27.941Z"
-  },
-  {
     "player1": "Kainyx",
     "player2": "Renting Station",
     "world": "TOKO",
@@ -128,5 +102,31 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-08-31T16:54:10.152Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sapigang",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Ghastly Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T16:55:14.700Z"
+  },
+  {
+    "player1": "@vow",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Minecraft Villager Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-08-31T16:55:38.961Z"
   }
 ]
