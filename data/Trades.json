@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ryyyyyy",
-    "world": "BTKIOM",
-    "action": "BUY",
-    "item_name": "Mint Julep",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-31T17:49:29.094Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrFlatscreen",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-08-31T17:52:54.100Z"
+  },
+  {
+    "player1": "DrKingDON",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 260,
+    "price_wl": 260,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:53:57.097Z"
   }
 ]
