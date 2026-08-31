@@ -1,19 +1,6 @@
 [
   {
     "player1": "Kepinthans",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-08-31T04:50:54.027Z"
-  },
-  {
-    "player1": "Kepinthans",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-08-31T05:03:59.250Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingDON",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Open Sign",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-31T05:08:58.546Z"
   }
 ]
