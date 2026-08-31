@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Dungeon Door",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-31T11:20:20.260Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RKAO",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-08-31T11:21:33.185Z"
+  },
+  {
+    "player1": "SweetieFox",
+    "player2": "Renting Station",
+    "world": "CUAN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-31T11:23:25.262Z"
   }
 ]
