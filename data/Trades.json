@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "HTML",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-08-31T03:40:59.356Z"
-  },
-  {
-    "player1": "DUHASUKACPS",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 6,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-08-31T03:44:57.037Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lamumu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Charger",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8500,
+    "price_wl": 8500,
+    "traded_with": null,
+    "timestamp": "2026-08-31T03:46:35.027Z"
   }
 ]
