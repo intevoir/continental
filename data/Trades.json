@@ -1,18 +1,5 @@
 [
   {
-    "player1": "FallBoys",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 21,
-    "price_wl": 21,
-    "traded_with": null,
-    "timestamp": "2026-08-31T14:49:49.439Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Bacang",
     "world": "BFGNG",
@@ -128,5 +115,18 @@
     "price_wl": 18,
     "traded_with": null,
     "timestamp": "2026-08-31T14:51:04.982Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Acustic of Legend [PRO ]",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Ghastly Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T14:51:38.702Z"
   }
 ]
