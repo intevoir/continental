@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrFrexe",
-    "world": "VENDMAUL",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-08-31T14:58:08.177Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPeterWayne",
-    "world": "P3T",
-    "action": "BUY",
-    "item_name": "Cursed Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-31T14:58:45.912Z"
-  },
-  {
-    "player1": "SQUADAMBATRON",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6600,
-    "price_wl": 6600,
-    "traded_with": null,
-    "timestamp": "2026-08-31T14:58:48.835Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@ZhenXCollector",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-08-31T15:03:24.771Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Galonn",
+    "world": "BFGAZUU",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Galonn",
+    "timestamp": "2026-08-31T15:03:59.704Z"
+  },
+  {
+    "player1": "Galonn",
+    "player2": "Kepinthans",
+    "world": "BFGAZUU",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kepinthans",
+    "timestamp": "2026-08-31T15:03:59.705Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-08-31T15:04:25.629Z"
   }
 ]
