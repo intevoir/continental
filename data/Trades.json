@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VENZSHOP",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-31T11:45:15.516Z"
-  },
-  {
     "player1": "BabyBoma",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-31T11:48:44.662Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ashmapi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-08-31T11:48:51.618Z"
   }
 ]
