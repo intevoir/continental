@@ -10,45 +10,6 @@
     "p_count": 25,
     "price_wl": 25,
     "traded_with": null,
-    "timestamp": "2026-08-31T04:10:12.857Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DariNol",
-    "world": "STOREGT",
-    "action": "BUY",
-    "item_name": "Death Spikes",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-08-31T04:10:41.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "umann",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ezio's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-08-31T04:10:41.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DariNol",
-    "world": "STOREGT",
-    "action": "BUY",
-    "item_name": "Death Spikes",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
     "timestamp": "2026-08-31T04:10:41.416Z"
   },
   {
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-31T04:11:07.962Z"
+  },
+  {
+    "player1": "ifbuymsg",
+    "player2": "@Lukis",
+    "world": "ARTHURTESTISLAND3",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Lukis",
+    "timestamp": "2026-08-31T04:11:41.170Z"
+  },
+  {
+    "player1": "@Lukis",
+    "player2": "ifbuymsg",
+    "world": "ARTHURTESTISLAND3",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ifbuymsg",
+    "timestamp": "2026-08-31T04:11:41.170Z"
+  },
+  {
+    "player1": "Anymousee",
+    "player2": "Renting Station",
+    "world": "SONG1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-08-31T04:11:41.171Z"
   }
 ]
