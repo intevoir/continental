@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "masfadd",
-    "world": "HEMAT",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:51:09.825Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fertys",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-08-31T16:56:10.893Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "masfadd",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-08-31T16:57:31.362Z"
   }
 ]
