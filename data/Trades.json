@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kensyo",
-    "world": "HS",
-    "action": "BUY",
-    "item_name": "Shades",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-08-31T13:43:26.148Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BOMOKO",
     "world": "SHOPS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-08-31T13:46:38.951Z"
+  },
+  {
+    "player1": "TorKiller_126",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-08-31T13:49:47.929Z"
   }
 ]
