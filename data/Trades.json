@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTX5090",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:59:12.668Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "txphone",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 187500,
-    "price_wl": 187500,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:59:24.067Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "txphone",
     "world": "SPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-08-31T17:04:38.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTX5090",
+    "world": "VENDB",
+    "action": "BUY",
+    "item_name": "Rock Chisel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:05:15.385Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "ZZFL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:05:15.405Z"
   }
 ]
