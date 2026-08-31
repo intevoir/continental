@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PastiGacorSanz",
-    "player2": "Buying Machine",
-    "world": "KUYTOKO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 74,
-    "p_name": "World Locks",
-    "p_count": 74,
-    "price_wl": 74,
-    "traded_with": null,
-    "timestamp": "2026-08-31T12:50:50.681Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BurJiro",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-08-31T12:53:48.015Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PEMF",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Neptune's Pendant",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-31T12:54:43.035Z"
   }
 ]
