@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sapigang",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ghastly Robe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:55:14.700Z"
-  },
-  {
-    "player1": "@vow",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Minecraft Villager Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-08-31T16:55:38.961Z"
-  },
-  {
     "player1": "@vow",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 187500,
     "traded_with": null,
     "timestamp": "2026-08-31T17:00:11.738Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "masfadd",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 1320,
+    "price_wl": 1320,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:00:39.335Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "txphone",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:00:43.656Z"
   }
 ]
