@@ -1,31 +1,5 @@
 [
   {
-    "player1": "koro20",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:37:56.641Z"
-  },
-  {
-    "player1": "DrDnng",
-    "player2": "Renting Station",
-    "world": "A31",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-08-31T15:38:14.394Z"
-  },
-  {
     "player1": "Aloena",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrRZGOW",
     "timestamp": "2026-08-31T15:41:44.631Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOJEK1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-08-31T15:42:52.586Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jieon",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Surgical Anesthetic",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-08-31T15:42:52.602Z"
   }
 ]
