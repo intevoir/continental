@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Module",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-08-31T19:02:46.105Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kepinthans",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10340,
     "traded_with": null,
     "timestamp": "2026-08-31T19:04:24.339Z"
+  },
+  {
+    "player1": "LalaRtoIreng",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-08-31T19:06:17.505Z"
   }
 ]
