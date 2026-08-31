@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MayoGT",
-    "world": "SHOPFAIL",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 6400,
-    "price_wl": 6400,
-    "traded_with": null,
-    "timestamp": "2026-08-30T23:46:44.025Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MayoGT",
-    "world": "SHOPFAIL",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-08-30T23:46:44.033Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MrMehmet",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 84,
     "traded_with": null,
     "timestamp": "2026-08-31T00:09:01.482Z"
+  },
+  {
+    "player1": "Azurkuy",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 112,
+    "p_name": "World Locks",
+    "p_count": 784,
+    "price_wl": 784,
+    "traded_with": null,
+    "timestamp": "2026-08-31T00:09:57.803Z"
+  },
+  {
+    "player1": "zhakyCB",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Bloodveil Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-08-31T00:10:23.611Z"
   }
 ]
