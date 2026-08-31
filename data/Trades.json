@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Prisbae",
-    "player2": "Camazotz",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Camazotz",
-    "timestamp": "2026-08-31T11:01:19.109Z"
-  },
-  {
     "player1": "Camazotz",
     "player2": "Prisbae",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-08-31T11:05:25.541Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KertaNegara",
+    "world": "CHEAPES",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-08-31T11:05:37.152Z"
   }
 ]
