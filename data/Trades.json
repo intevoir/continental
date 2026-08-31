@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RTX5090",
-    "world": "VENDB",
-    "action": "BUY",
-    "item_name": "Rock Chisel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-08-31T17:05:41.768Z"
-  },
-  {
-    "player1": "Retriever",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-08-31T17:05:46.470Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "ZZFL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-08-31T17:06:16.182Z"
-  },
-  {
     "player1": "LucyDemon",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-08-31T17:07:50.595Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "masfadd",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:08:18.603Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "masfadd",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:08:18.619Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "masfadd",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:08:18.631Z"
   }
 ]
