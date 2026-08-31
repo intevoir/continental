@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BIMOKO []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-08-31T06:54:55.009Z"
-  },
-  {
-    "player1": "GadaCB",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-08-31T06:55:55.004Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RayyLOL []",
     "world": "VENDM",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-08-31T07:01:15.436Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-08-31T07:01:57.470Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOMOKO",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Air Vent",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-08-31T07:02:18.609Z"
   }
 ]
