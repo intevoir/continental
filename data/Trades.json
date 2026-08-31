@@ -4,19 +4,6 @@
     "player2": "masfadd",
     "world": "HEMAT",
     "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-08-31T17:08:18.619Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "masfadd",
-    "world": "HEMAT",
-    "action": "BUY",
     "item_name": "Painting Easel",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-08-31T17:11:38.061Z"
+  },
+  {
+    "player1": "Katsuu",
+    "player2": "Renting Station",
+    "world": "BFGBTY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-08-31T17:12:42.774Z"
   }
 ]
