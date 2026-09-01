@@ -4,19 +4,6 @@
     "player2": "Zavlya",
     "world": "SHOP6",
     "action": "BUY",
-    "item_name": "Black Block",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-01T13:00:18.108Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zavlya",
-    "world": "SHOP6",
-    "action": "BUY",
     "item_name": "Dark Brown Block",
     "item_count": 240,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "KWGT",
     "timestamp": "2026-09-01T13:02:23.134Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NEPstore",
+    "world": "STOCK",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-01T13:03:19.237Z"
   }
 ]
