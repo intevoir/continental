@@ -4,32 +4,6 @@
     "player2": "Siotan",
     "world": "SHOPK",
     "action": "BUY",
-    "item_name": "Death's Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-01T16:09:08.225Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mangaa",
-    "world": "BFGQS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 28,
-    "price_wl": 28,
-    "traded_with": null,
-    "timestamp": "2026-09-01T16:09:38.080Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Siotan",
-    "world": "SHOPK",
-    "action": "BUY",
     "item_name": "Phoenix Scarf",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-01T16:11:37.585Z"
+  },
+  {
+    "player1": "BaliPeople",
+    "player2": "Buying Machine",
+    "world": "0RENT",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-01T16:11:53.524Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REVIOS",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-01T16:11:53.541Z"
   }
 ]
