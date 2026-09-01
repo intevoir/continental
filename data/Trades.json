@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrKingDON",
-    "player2": "Buying Machine",
-    "world": "HTML",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-09-01T10:17:10.870Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "lostname",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 6080,
     "traded_with": null,
     "timestamp": "2026-09-01T10:20:11.794Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MissAdit",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-01T10:21:08.644Z"
   }
 ]
