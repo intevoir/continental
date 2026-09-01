@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mikamina",
-    "player2": "Buying Machine",
-    "world": "KKK",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-01T16:08:56.310Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Siotan",
     "world": "SHOPK",
@@ -128,5 +115,18 @@
     "price_wl": 3196,
     "traded_with": null,
     "timestamp": "2026-09-01T16:10:48.123Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Siotan",
+    "world": "SHOPD",
+    "action": "BUY",
+    "item_name": "Diamond Rocket Shoes",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-01T16:11:37.585Z"
   }
 ]
