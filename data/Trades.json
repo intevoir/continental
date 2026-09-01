@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BramBir",
-    "world": "BFGPB",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-01T14:42:12.795Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GetRemote",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-09-01T14:43:31.180Z"
+  },
+  {
+    "player1": "BFGSIZE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-01T14:44:05.160Z"
   }
 ]
