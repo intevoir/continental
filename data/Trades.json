@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RAFABW",
-    "world": "QDD",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-01T11:06:18.706Z"
-  },
-  {
     "player1": "BIMOKO",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-01T11:09:21.151Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "Buying Machine",
+    "world": "KKK",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 192,
+    "p_name": "World Locks",
+    "p_count": 9024,
+    "price_wl": 9024,
+    "traded_with": null,
+    "timestamp": "2026-09-01T11:09:25.360Z"
   }
 ]
