@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZYBO",
-    "world": "BFGUA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:20:20.069Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AbenAja []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:20:45.089Z"
-  },
-  {
-    "player1": "DotApk []",
-    "player2": "Buying Machine",
-    "world": "RIO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:21:20.203Z"
-  },
-  {
     "player1": "BobWave",
     "player2": "Buying Machine",
     "world": "0RENT",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "MrMehmet",
     "timestamp": "2026-09-01T15:22:49.174Z"
+  },
+  {
+    "player1": "DrWhitersQ",
+    "player2": "kazura",
+    "world": "UY6",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "kazura",
+    "timestamp": "2026-09-01T15:23:48.031Z"
+  },
+  {
+    "player1": "kazura",
+    "player2": "DrWhitersQ",
+    "world": "UY6",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrWhitersQ",
+    "timestamp": "2026-09-01T15:23:48.031Z"
+  },
+  {
+    "player1": "kazura",
+    "player2": "DrWhitersQ",
+    "world": "UY6",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrWhitersQ",
+    "timestamp": "2026-09-01T15:23:48.032Z"
   }
 ]
