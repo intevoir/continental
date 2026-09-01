@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Hika",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:14:40.613Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Camazotz",
     "world": "PRIME",
@@ -128,5 +115,18 @@
     "price_wl": 50000,
     "traded_with": null,
     "timestamp": "2026-09-01T15:15:50.656Z"
+  },
+  {
+    "player1": "AreaLocked",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-01T15:17:45.785Z"
   }
 ]
