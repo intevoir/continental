@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fendyyyy",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-09-01T11:49:38.572Z"
-  },
-  {
     "player1": "Tikud",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "wilyon",
     "timestamp": "2026-09-01T11:52:12.519Z"
+  },
+  {
+    "player1": "Bocil24",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 56,
+    "price_wl": 56,
+    "traded_with": null,
+    "timestamp": "2026-09-01T11:52:45.046Z"
   }
 ]
