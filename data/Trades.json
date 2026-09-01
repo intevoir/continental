@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vidar",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 170,
-    "price_wl": 170,
-    "traded_with": null,
-    "timestamp": "2026-09-01T12:45:11.612Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SQUADAMBATRON",
     "world": "BUYRIFLE",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-01T12:46:11.649Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SQUADAMBATRON",
+    "world": "BUYRIFLE",
+    "action": "BUY",
+    "item_name": "Purple Laser Scimitar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-01T12:46:20.750Z"
   }
 ]
