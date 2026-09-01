@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrPesiar",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-01T10:27:10.293Z"
-  },
-  {
-    "player1": "Banjar",
-    "player2": "hasis",
-    "world": "STORE8",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "hasis",
-    "timestamp": "2026-09-01T10:27:10.302Z"
-  },
-  {
     "player1": "hasis",
     "player2": "Banjar",
     "world": "STORE8",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-01T10:28:38.852Z"
+  },
+  {
+    "player1": "kaydenquins",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-01T10:29:10.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MekanikSopan",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 187500,
+    "price_wl": 187500,
+    "traded_with": null,
+    "timestamp": "2026-09-01T10:29:35.093Z"
   }
 ]
