@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zyline",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Jankom Pog's Multi-Mitt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:43:43.719Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrIYeso",
-    "world": "APOTIKS",
-    "action": "BUY",
-    "item_name": "Surgical Antiseptic",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:43:55.087Z"
-  },
-  {
-    "player1": "DrGeliga",
-    "player2": "Renting Station",
-    "world": "SHOPGG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-01T15:44:30.597Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrIYeso",
     "world": "APOTIKS",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-01T15:46:00.300Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrIYeso",
+    "world": "APOTIKS",
+    "action": "BUY",
+    "item_name": "Surgical Scalpel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-01T15:46:30.634Z"
+  },
+  {
+    "player1": "DrGeliga",
+    "player2": "Buying Machine",
+    "world": "BFGQOH",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2800,
+    "price_wl": 2800,
+    "traded_with": null,
+    "timestamp": "2026-09-01T15:46:30.664Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrIYeso",
+    "world": "APOTIKS",
+    "action": "BUY",
+    "item_name": "Surgical Scalpel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-01T15:46:30.670Z"
   }
 ]
