@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KertaNegara",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-01T12:49:24.979Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GOJEK1",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-01T12:51:41.670Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Galonn",
+    "world": "STOCK",
+    "action": "BUY",
+    "item_name": "Glove of the Giants",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-01T12:52:14.629Z"
   }
 ]
