@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@ZhenXCollector",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T21:05:14.184Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rescene",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-02T21:26:07.249Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrEnalStore",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-09-02T21:26:54.973Z"
   }
 ]
