@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Siege",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:37:48.942Z"
-  },
-  {
-    "player1": "Cloviz",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 154,
-    "price_wl": 154,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:38:14.085Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Vorax",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-02T18:43:03.517Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:43:51.987Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:43:52.009Z"
   }
 ]
