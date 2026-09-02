@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Retriever",
-    "player2": "Renting Station",
-    "world": "GEIGER",
-    "action": "RENT",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:55:04.544Z"
-  },
-  {
     "player1": "@Thick [PRO ] []",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-09-02T19:02:00.422Z"
+  },
+  {
+    "player1": "Zuppeli",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 66,
+    "p_name": "World Locks",
+    "p_count": 396,
+    "price_wl": 396,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:02:29.023Z"
   }
 ]
