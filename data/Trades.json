@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OTONGBAIK",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:24:51.128Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "0RENT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 192,
-    "price_wl": 192,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:25:06.312Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OTONGBAIK",
     "world": "FULLADA",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-02T06:27:06.487Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HIKII",
+    "world": "CORE",
+    "action": "BUY",
+    "item_name": "Galactic Destructor - Red",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:27:53.064Z"
+  },
+  {
+    "player1": "Priodics",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:28:08.143Z"
   }
 ]
