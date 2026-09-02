@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "WHY",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:16:40.021Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "RIECHS",
-    "action": "SELL",
-    "item_name": "GrowScan 9000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 140,
-    "price_wl": 140,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:16:42.932Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "RBDGL",
-    "action": "BUY",
-    "item_name": "Black Crystal",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:16:53.326Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "HTML",
@@ -128,5 +89,44 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-02T18:18:10.238Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Buying Machine",
+    "world": "GEVU",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:18:13.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:18:40.019Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:18:40.054Z"
   }
 ]
