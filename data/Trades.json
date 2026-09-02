@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrKERYY",
-    "world": "DPS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:39:57.959Z"
-  },
-  {
     "player1": "@Peal",
     "player2": "Buying Machine",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-02T06:43:58.659Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Peal",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:44:10.528Z"
   }
 ]
