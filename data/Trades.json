@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Maulprofitdong",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:33:12.859Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kensyo",
     "world": "GIJ",
@@ -128,5 +115,18 @@
     "price_wl": 154,
     "traded_with": null,
     "timestamp": "2026-09-02T18:38:14.085Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vorax",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:39:49.935Z"
   }
 ]
