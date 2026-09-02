@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OTONGBAIK",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-02T14:57:56.381Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Guwon",
     "world": "KEDAI",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-02T15:10:58.796Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKorcupine",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-02T15:11:24.016Z"
   }
 ]
