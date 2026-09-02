@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Charloat",
-    "world": "KOX",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:17:49.099Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PITO",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 720,
     "traded_with": null,
     "timestamp": "2026-09-02T09:19:49.922Z"
+  },
+  {
+    "player1": "RolexsCPS",
+    "player2": "Buying Machine",
+    "world": "BFGADVAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 21600,
+    "price_wl": 21600,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:20:02.048Z"
   }
 ]
