@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "zhakyCB",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 55,
-    "p_name": "World Locks",
-    "p_count": 2585,
-    "price_wl": 2585,
-    "traded_with": null,
-    "timestamp": "2026-09-02T05:43:06.888Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MannSky",
     "world": "QRUM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-09-02T05:44:14.740Z"
+  },
+  {
+    "player1": "Lyno",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T05:45:05.689Z"
   }
 ]
