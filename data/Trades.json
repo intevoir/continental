@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OnlyRiz",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Grip Tape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:55:07.531Z"
-  },
-  {
-    "player1": "yorend",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:55:19.116Z"
-  },
-  {
     "player1": "yorend",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 560,
     "traded_with": null,
     "timestamp": "2026-09-02T01:56:19.289Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrIitch",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 18750,
+    "price_wl": 18750,
+    "traded_with": null,
+    "timestamp": "2026-09-02T01:57:57.258Z"
+  },
+  {
+    "player1": "OnlyRiz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-09-02T01:58:14.600Z"
   }
 ]
