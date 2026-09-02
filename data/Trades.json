@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Rp35",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:04:55.281Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrAxylot",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:05:02.992Z"
-  },
-  {
     "player1": "@Veewil",
     "player2": "Buying Machine",
     "world": "DPS",
@@ -128,5 +102,31 @@
     "price_wl": 270000,
     "traded_with": null,
     "timestamp": "2026-09-02T09:08:45.402Z"
+  },
+  {
+    "player1": "OWNFFA",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:09:46.143Z"
+  },
+  {
+    "player1": "DrVTCassano",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "GrowScan 9000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:09:46.160Z"
   }
 ]
