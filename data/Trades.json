@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Jcgt",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 212,
-    "p_name": "World Locks",
-    "p_count": 1484,
-    "price_wl": 1484,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:42:05.186Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DanDjarin",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-02T18:46:52.646Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NicoPLG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:47:52.684Z"
   }
 ]
