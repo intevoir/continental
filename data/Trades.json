@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lyno",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-09-02T05:44:03.924Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MannSky",
     "world": "QRUM",
@@ -128,5 +115,18 @@
     "price_wl": 650,
     "traded_with": null,
     "timestamp": "2026-09-02T05:48:24.913Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOJEK1",
+    "world": "CREAM",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T05:50:10.423Z"
   }
 ]
