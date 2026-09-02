@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tegur",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-02T13:35:26.064Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CsannX125",
     "world": "TAWP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 235,
     "traded_with": null,
     "timestamp": "2026-09-02T13:39:31.199Z"
+  },
+  {
+    "player1": "RAGV3N",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300000,
+    "price_wl": 300000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T13:40:34.672Z"
   }
 ]
