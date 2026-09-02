@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrEnalStore",
-    "player2": "RappWasHere",
-    "world": "BFGKELA",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 6,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "RappWasHere",
-    "timestamp": "2026-09-02T19:15:29.612Z"
-  },
-  {
-    "player1": "RappWasHere",
-    "player2": "DrEnalStore",
-    "world": "BFGKELA",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrEnalStore",
-    "timestamp": "2026-09-02T19:15:29.612Z"
-  },
-  {
     "player1": "DrCans",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-02T19:18:07.068Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hldjr",
+    "world": "GEIGERU",
+    "action": "BUY",
+    "item_name": "Hot Chocolate",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:19:07.958Z"
+  },
+  {
+    "player1": "QzRryan",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 72,
+    "p_name": "World Locks",
+    "p_count": 504,
+    "price_wl": 504,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:19:07.975Z"
   }
 ]
