@@ -1,18 +1,5 @@
 [
   {
-    "player1": "XiaoYan123",
-    "player2": "Buying Machine",
-    "world": "WHOLESALESTORE",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-02T04:21:34.496Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XiaoYan123",
     "world": "XIFW",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-09-02T04:31:00.648Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devil of Legend",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T04:32:38.956Z"
   }
 ]
