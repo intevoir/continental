@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Devil of Legend",
-    "world": "BUYWIZARD",
-    "action": "BUY",
-    "item_name": "The Legendary Wizard's Robe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-02T03:47:31.900Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Devil of Legend",
-    "world": "BUYWIZARD",
-    "action": "BUY",
-    "item_name": "The Legendary Wizard's Beard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-02T03:47:36.467Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BabuXarvier",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-02T03:53:46.558Z"
+  },
+  {
+    "player1": "Qoni",
+    "player2": "Renting Station",
+    "world": "LAMUMU",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-02T03:54:40.174Z"
+  },
+  {
+    "player1": "MrStrepcularbi",
+    "player2": "Renting Station",
+    "world": "BFGPRIA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-09-02T03:54:50.930Z"
   }
 ]
