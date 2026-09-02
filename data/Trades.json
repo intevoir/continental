@@ -2,32 +2,6 @@
   {
     "player1": "Bellemere",
     "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 27,
-    "price_wl": 27,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:40:39.186Z"
-  },
-  {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:42:20.518Z"
-  },
-  {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
     "world": "BIRU",
     "action": "SELL",
     "item_name": "White Crystal",
@@ -128,5 +102,31 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-09-02T07:47:36.666Z"
+  },
+  {
+    "player1": "DrKEPLEH",
+    "player2": "Vorax",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vorax",
+    "timestamp": "2026-09-02T07:48:20.978Z"
+  },
+  {
+    "player1": "Vorax",
+    "player2": "DrKEPLEH",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 60,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrKEPLEH",
+    "timestamp": "2026-09-02T07:48:20.979Z"
   }
 ]
