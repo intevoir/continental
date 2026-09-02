@@ -10,19 +10,6 @@
     "p_count": 40,
     "price_wl": 40,
     "traded_with": null,
-    "timestamp": "2026-09-02T18:44:20.087Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Chemical G",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
     "timestamp": "2026-09-02T18:44:56.920Z"
   },
   {
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@ZhenXCollector",
     "timestamp": "2026-09-02T18:52:56.446Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Renting Station",
+    "world": "GEIGER",
+    "action": "RENT",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:55:04.544Z"
   }
 ]
