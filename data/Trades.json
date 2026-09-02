@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Versatille",
-    "world": "LUCK",
-    "action": "BUY",
-    "item_name": "Winter Frost Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:10:14.544Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "STOCK",
-    "action": "BUY",
-    "item_name": "Inviso-Block",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:11:14.814Z"
-  },
-  {
     "player1": "PlyBiter",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-02T06:15:24.129Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:16:16.108Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:16:31.631Z"
   }
 ]
