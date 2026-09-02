@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fhira",
-    "world": "STOCK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T08:46:45.883Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMeius []",
-    "world": "ARROZMANIAC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-02T08:46:45.921Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrDDN",
     "world": "GROWMART",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-09-02T08:47:13.502Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMESA",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T08:47:20.679Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tuw",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-02T08:47:49.842Z"
   }
 ]
