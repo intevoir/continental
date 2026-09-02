@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fzal",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-02T19:27:11.041Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jcgt",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-02T19:35:13.790Z"
+  },
+  {
+    "player1": "Retriever []",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:35:28.030Z"
   }
 ]
