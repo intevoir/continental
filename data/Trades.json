@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ql1Cps",
-    "world": "GEIGERZ",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:59:29.312Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tyenz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-02T02:04:59.566Z"
+  },
+  {
+    "player1": "Ql1Cps",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:05:25.577Z"
   }
 ]
