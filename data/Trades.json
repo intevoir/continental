@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "UcokMatic",
-    "world": "MARTZ",
-    "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-02T08:36:05.214Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZAMBIII",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-02T08:38:13.526Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2800,
+    "price_wl": 2800,
+    "traded_with": null,
+    "timestamp": "2026-09-02T08:38:41.781Z"
   }
 ]
