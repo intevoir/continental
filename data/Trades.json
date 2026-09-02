@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Vorax",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:39:49.935Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DanDjarin",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-02T18:43:52.009Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:44:20.087Z"
   }
 ]
