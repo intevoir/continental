@@ -1,18 +1,5 @@
 [
   {
-    "player1": "yorend",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Angel Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:56:03.567Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lylie",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-02T02:02:14.924Z"
+  },
+  {
+    "player1": "Prisbae",
+    "player2": "Buying Machine",
+    "world": "SBY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1460,
+    "price_wl": 1460,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:03:10.786Z"
   }
 ]
