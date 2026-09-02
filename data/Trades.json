@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "MOE",
-    "action": "BUY",
-    "item_name": "Speed Medallion",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:26:52.056Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "BELI",
-    "action": "SELL",
-    "item_name": "Speed Medallion",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 32000,
-    "price_wl": 32000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:26:52.067Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Peal",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-02T06:29:26.010Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "CREAM",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2250,
+    "price_wl": 2250,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:30:53.612Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyRiz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:30:53.625Z"
   }
 ]
