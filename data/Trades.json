@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ShinyPants_155",
-    "world": "MYOPO",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:37:14.791Z"
-  },
-  {
-    "player1": "Siege",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:37:18.733Z"
-  },
-  {
     "player1": "Siege",
     "player2": "Buying Machine",
     "world": "TXPHONE",
@@ -128,5 +102,31 @@
     "price_wl": 1484,
     "traded_with": null,
     "timestamp": "2026-09-02T18:42:05.186Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:42:51.244Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:43:03.517Z"
   }
 ]
