@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CSPER",
-    "world": "BUYCOSMICS",
-    "action": "BUY",
-    "item_name": "Cosmic Cape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T02:02:14.924Z"
-  },
-  {
     "player1": "Prisbae",
     "player2": "Buying Machine",
     "world": "SBY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-02T02:11:01.997Z"
+  },
+  {
+    "player1": "Caterine",
+    "player2": "Buying Machine",
+    "world": "8T",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 247,
+    "p_name": "World Locks",
+    "p_count": 11609,
+    "price_wl": 11609,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:11:24.648Z"
   }
 ]
