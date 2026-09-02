@@ -1,44 +1,5 @@
 [
   {
-    "player1": "@Peal",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Nightking's Cape - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:40:13.933Z"
-  },
-  {
-    "player1": "PlyBiter []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:41:13.570Z"
-  },
-  {
-    "player1": "PlyBiter []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:41:26.373Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "UVEND",
@@ -128,5 +89,44 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-09-02T06:44:10.528Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Peal",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 1920,
+    "price_wl": 1920,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:44:58.740Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Peal",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:44:58.751Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZAMBIII",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Harvester Of Sorrows",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:44:58.760Z"
   }
 ]
