@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZAMBIII",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Diamond Rocket Shoes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:48:00.228Z"
-  },
-  {
     "player1": "Farraahh",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +115,18 @@
     "price_wl": 26270,
     "traded_with": null,
     "timestamp": "2026-09-02T06:56:04.112Z"
+  },
+  {
+    "player1": "parance",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legal Briefs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:56:08.040Z"
   }
 ]
