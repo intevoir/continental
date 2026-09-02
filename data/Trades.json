@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "minkeblue",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:32:42.689Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "jaegerw",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:33:16.163Z"
-  },
-  {
     "player1": "Limitedszz",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-09-02T07:38:22.691Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 1530,
+    "price_wl": 1530,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:39:18.452Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "HTML",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:39:18.464Z"
   }
 ]
