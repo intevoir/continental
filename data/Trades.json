@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Retriever []",
-    "world": "BFGSICE",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T19:35:13.790Z"
-  },
-  {
-    "player1": "Retriever []",
-    "player2": "Buying Machine",
-    "world": "DPS",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T19:35:28.030Z"
-  },
-  {
     "player1": "DrAbusive [ELITE]",
     "player2": "Buying Machine",
     "world": "TRADING",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-02T19:40:28.079Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUNBA",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:41:16.100Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUNBA",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:41:16.125Z"
   }
 ]
