@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Gooaa",
-    "world": "GEIGERNEO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 984,
-    "price_wl": 984,
-    "traded_with": null,
-    "timestamp": "2026-09-02T05:12:58.456Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Benihime",
     "world": "QRUM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-09-02T05:15:18.725Z"
+  },
+  {
+    "player1": "Lamumu",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-09-02T05:16:05.471Z"
   }
 ]
