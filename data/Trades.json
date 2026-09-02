@@ -10,45 +10,6 @@
     "p_count": 40,
     "price_wl": 40,
     "traded_with": null,
-    "timestamp": "2026-09-02T18:43:03.517Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Chemical G",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:43:51.987Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Chemical G",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:43:52.009Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Chemical G",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
     "timestamp": "2026-09-02T18:44:20.087Z"
   },
   {
@@ -128,5 +89,44 @@
     "price_wl": 3850,
     "traded_with": null,
     "timestamp": "2026-09-02T18:51:11.148Z"
+  },
+  {
+    "player1": "@ZhenXCollector",
+    "player2": "Rescene",
+    "world": "PRIME",
+    "action": "TRADE",
+    "item_name": "Creative Coin",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Rescene",
+    "timestamp": "2026-09-02T18:52:56.446Z"
+  },
+  {
+    "player1": "Rescene",
+    "player2": "@ZhenXCollector",
+    "world": "PRIME",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 95,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@ZhenXCollector",
+    "timestamp": "2026-09-02T18:52:56.446Z"
+  },
+  {
+    "player1": "Rescene",
+    "player2": "@ZhenXCollector",
+    "world": "PRIME",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@ZhenXCollector",
+    "timestamp": "2026-09-02T18:52:56.446Z"
   }
 ]
