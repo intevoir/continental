@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lippiew",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T16:09:24.121Z"
-  },
-  {
     "player1": "BertFL",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-02T16:17:25.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBukuRusak",
+    "world": "CREAM",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-02T16:18:05.617Z"
   }
 ]
