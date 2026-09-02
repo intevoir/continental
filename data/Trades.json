@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-02T15:55:13.589Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Elbareq",
-    "world": "PWTJ",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-02T15:55:49.103Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrPerciaDaBest",
     "world": "PWTJ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-02T15:56:59.646Z"
+  },
+  {
+    "player1": "KanjutPanjang",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 175000,
+    "price_wl": 175000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T15:57:48.721Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RevKen",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T15:58:11.846Z"
   }
 ]
