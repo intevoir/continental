@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "UVEND",
-    "action": "BUY",
-    "item_name": "D Battery",
-    "item_count": 94,
-    "p_name": "World Locks",
-    "p_count": 940,
-    "price_wl": 940,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:42:58.707Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-02T06:44:58.760Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "76Ap3l",
+    "world": "BUMP",
+    "action": "BUY",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3300000,
+    "price_wl": 3300000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:45:58.729Z"
   }
 ]
