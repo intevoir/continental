@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Elbareq",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:00:05.872Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZAMBIII",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Screen Door",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:00:05.884Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZAMBIII",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2450,
     "traded_with": null,
     "timestamp": "2026-09-02T07:02:27.543Z"
+  },
+  {
+    "player1": "@ZhenXCollector",
+    "player2": "Buying Machine",
+    "world": "WHOLESALESTORE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 34,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:02:39.550Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZAMBIII",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Glowy Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:03:06.269Z"
   }
 ]
