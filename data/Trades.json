@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrGeliga",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 126,
-    "p_name": "World Locks",
-    "p_count": 126,
-    "price_wl": 126,
-    "traded_with": null,
-    "timestamp": "2026-09-02T22:29:36.320Z"
-  },
-  {
     "player1": "@Veewil",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 1337,
     "traded_with": null,
     "timestamp": "2026-09-02T22:47:04.148Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 133,
+    "p_name": "World Locks",
+    "p_count": 931,
+    "price_wl": 931,
+    "traded_with": null,
+    "timestamp": "2026-09-02T22:48:32.967Z"
   }
 ]
