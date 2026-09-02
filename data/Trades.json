@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Devil of Legend",
-    "world": "LILIE",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-02T04:13:51.882Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XiaoYan123",
     "world": "XIFW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2250,
     "traded_with": null,
     "timestamp": "2026-09-02T04:19:34.098Z"
+  },
+  {
+    "player1": "XiaoYan123",
+    "player2": "Buying Machine",
+    "world": "WHOLESALESTORE",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-02T04:21:34.496Z"
   }
 ]
