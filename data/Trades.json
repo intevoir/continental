@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jcgt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 375,
-    "price_wl": 375,
-    "traded_with": null,
-    "timestamp": "2026-09-02T19:27:32.073Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jcgt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-02T19:27:39.239Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "hldjr",
     "world": "QD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-09-02T19:35:28.030Z"
+  },
+  {
+    "player1": "DrAbusive [ELITE]",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 288,
+    "price_wl": 288,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:36:34.597Z"
+  },
+  {
+    "player1": "Vins of Legend",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Frost Dragon of Legend - 104",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-02T19:36:41.613Z"
   }
 ]
