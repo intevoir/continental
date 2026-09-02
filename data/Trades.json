@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vorax",
-    "player2": "starmoon",
-    "world": "IYAN",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 40,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "starmoon",
-    "timestamp": "2026-09-02T17:09:43.441Z"
-  },
-  {
-    "player1": "starmoon",
-    "player2": "Vorax",
-    "world": "IYAN",
-    "action": "TRADE",
-    "item_name": "Kembar's Legendary Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Vorax",
-    "timestamp": "2026-09-02T17:09:43.442Z"
-  },
-  {
     "player1": "Bapakee",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 325,
     "traded_with": null,
     "timestamp": "2026-09-02T17:12:18.632Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Reiisss",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Horn Headband",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-02T17:12:52.686Z"
+  },
+  {
+    "player1": "Bapakee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Farmer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-02T17:13:18.587Z"
   }
 ]
