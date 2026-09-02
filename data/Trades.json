@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SHIINASOBBER []",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:36:49.055Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Vins of Legend",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-02T18:40:02.967Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:41:12.840Z"
   }
 ]
