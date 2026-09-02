@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "pojikuy",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T02:36:13.631Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SecretAdmirer",
     "world": "SABTU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-09-02T02:38:13.150Z"
+  },
+  {
+    "player1": "Lunatric",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:40:13.211Z"
   }
 ]
