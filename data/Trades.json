@@ -1,31 +1,5 @@
 [
   {
-    "player1": "XiaoYan123",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:08:22.527Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Clohtes",
-    "world": "QRUM",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T06:08:26.603Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GOJEK1",
     "world": "POTONGS",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-02T06:13:14.591Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PapaDesa",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:14:19.255Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-02T06:14:42.239Z"
   }
 ]
