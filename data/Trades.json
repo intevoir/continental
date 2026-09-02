@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Donpaxue",
-    "world": "LWIZ",
-    "action": "BUY",
-    "item_name": "Legendary Wizard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:07:08.816Z"
-  },
-  {
     "player1": "yorend",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200000,
     "traded_with": null,
     "timestamp": "2026-09-02T07:09:24.189Z"
+  },
+  {
+    "player1": "BaliPeople",
+    "player2": "Renting Station",
+    "world": "RB",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:10:44.440Z"
   }
 ]
