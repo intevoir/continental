@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KaiZeL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-02T13:21:55.856Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SQUADAMBATRON",
     "world": "VENDDV",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-02T13:23:12.697Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RevKen",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T13:23:49.225Z"
   }
 ]
