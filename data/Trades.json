@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrGeliga",
-    "player2": "Buying Machine",
-    "world": "BFGSYNO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 63,
-    "price_wl": 63,
-    "traded_with": null,
-    "timestamp": "2026-09-02T11:33:42.815Z"
-  },
-  {
-    "player1": "RizsZy",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T11:34:05.823Z"
-  },
-  {
     "player1": "adosnl",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-02T11:38:56.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ghostclown",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-09-02T11:39:14.397Z"
+  },
+  {
+    "player1": "alibakar",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-02T11:39:39.990Z"
   }
 ]
