@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kensyo",
-    "world": "GIJ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:34:02.233Z"
-  },
-  {
-    "player1": "Jcgt",
-    "player2": "Buying Machine",
-    "world": "ASSOY",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:34:47.528Z"
-  },
-  {
     "player1": "@SHIINASOBBER []",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-02T18:39:49.935Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:39:59.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:40:02.967Z"
   }
 ]
