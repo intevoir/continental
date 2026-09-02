@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "rivl",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Bow of the Rainbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T22:19:30.290Z"
-  },
-  {
-    "player1": "DrGeliga",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T22:25:27.560Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mandut",
     "world": "VIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-02T22:28:26.368Z"
+  },
+  {
+    "player1": "napake",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-02T22:29:32.508Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrGeliga",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 126,
+    "p_name": "World Locks",
+    "p_count": 126,
+    "price_wl": 126,
+    "traded_with": null,
+    "timestamp": "2026-09-02T22:29:36.320Z"
   }
 ]
