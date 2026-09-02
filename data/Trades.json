@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "noozws",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-02T18:19:55.193Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKingDON",
     "world": "MANSHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-09-02T18:23:41.363Z"
+  },
+  {
+    "player1": "Katsuu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:24:42.563Z"
   }
 ]
