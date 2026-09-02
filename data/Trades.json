@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Becker []",
-    "player2": "Renting Station",
-    "world": "OCI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-09-02T07:43:21.212Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ArthaSTORE",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-02T07:50:31.595Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZAMBIII",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-02T07:51:49.905Z"
   }
 ]
