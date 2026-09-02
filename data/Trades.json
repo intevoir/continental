@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@ZhenXCollector",
-    "world": "BFGSWEAT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-02T08:06:29.842Z"
-  },
-  {
     "player1": "Gooaa",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +115,18 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-09-02T08:07:30.615Z"
+  },
+  {
+    "player1": "Gooaa",
+    "player2": "Buying Machine",
+    "world": "MOST",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-02T08:07:57.922Z"
   }
 ]
