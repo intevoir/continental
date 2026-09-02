@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Refimasienak",
-    "world": "BFGTENA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 79000,
-    "price_wl": 79000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T17:59:33.027Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-02T18:00:41.550Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kainyx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:01:34.959Z"
   }
 ]
