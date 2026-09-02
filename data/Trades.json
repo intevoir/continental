@@ -2,32 +2,6 @@
   {
     "player1": "@SELL",
     "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Challenge Crown",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T17:59:33.045Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Refimasienak",
-    "world": "BFGTENA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 79000,
-    "price_wl": 79000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T17:59:33.053Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
     "item_name": "Lock Sucker",
@@ -128,5 +102,31 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-09-02T18:01:34.959Z"
+  },
+  {
+    "player1": "ShinyPants_155",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:02:39.028Z"
+  },
+  {
+    "player1": "PrinceKyzen",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-02T18:02:53.029Z"
   }
 ]
