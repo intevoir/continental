@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PlyBiter",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:40:24.056Z"
-  },
-  {
     "player1": "fzal",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2925,
     "traded_with": null,
     "timestamp": "2026-09-02T09:45:06.656Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 53,
+    "p_name": "World Locks",
+    "p_count": 212,
+    "price_wl": 212,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:46:03.202Z"
   }
 ]
