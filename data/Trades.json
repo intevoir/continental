@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "MARKET",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:34:24.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Saktyuss []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:35:29.942Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Katsuu",
     "world": "BFGPB",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-02T09:39:59.952Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@WinterXGod",
+    "world": "FIREHAQI",
+    "action": "BUY",
+    "item_name": "Golden Diaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 61000,
+    "price_wl": 61000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:40:11.056Z"
+  },
+  {
+    "player1": "PlyBiter",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:40:24.056Z"
   }
 ]
