@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lylie",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 560,
-    "price_wl": 560,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:56:19.289Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrIitch",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 18750,
-    "price_wl": 18750,
-    "traded_with": null,
-    "timestamp": "2026-09-02T01:57:57.258Z"
-  },
-  {
     "player1": "OnlyRiz",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1460,
     "traded_with": null,
     "timestamp": "2026-09-02T02:03:10.786Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lylie",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:03:58.964Z"
+  },
+  {
+    "player1": "Ql1Cps",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:04:25.760Z"
   }
 ]
