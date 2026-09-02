@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Prisbae",
-    "player2": "Buying Machine",
-    "world": "SBY",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1460,
-    "price_wl": 1460,
-    "traded_with": null,
-    "timestamp": "2026-09-02T02:03:10.786Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lylie",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 11609,
     "traded_with": null,
     "timestamp": "2026-09-02T02:11:24.648Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "SHOPX",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-02T02:12:06.120Z"
   }
 ]
