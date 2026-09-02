@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "hasis",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 1230,
-    "price_wl": 1230,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:19:49.917Z"
-  },
-  {
-    "player1": "RolexsCPS",
-    "player2": "Buying Machine",
-    "world": "BFGADVAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 720,
-    "price_wl": 720,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:19:49.922Z"
-  },
-  {
-    "player1": "RolexsCPS",
-    "player2": "Buying Machine",
-    "world": "BFGADVAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 21600,
-    "price_wl": 21600,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:20:02.048Z"
-  },
-  {
-    "player1": "PlyBiter []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 93,
-    "p_name": "World Locks",
-    "p_count": 651,
-    "price_wl": 651,
-    "traded_with": null,
-    "timestamp": "2026-09-02T09:21:15.625Z"
-  },
-  {
     "player1": "DrFrezzy",
     "player2": "DrVTCassano",
     "world": "HGN",
@@ -128,5 +76,57 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-02T09:23:09.809Z"
+  },
+  {
+    "player1": "Vins of Legend",
+    "player2": "KWGT",
+    "world": "CORE",
+    "action": "TRADE",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KWGT",
+    "timestamp": "2026-09-02T09:23:53.064Z"
+  },
+  {
+    "player1": "KWGT",
+    "player2": "Vins of Legend",
+    "world": "CORE",
+    "action": "TRADE",
+    "item_name": "Kembar's Legendary Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vins of Legend",
+    "timestamp": "2026-09-02T09:23:53.065Z"
+  },
+  {
+    "player1": "LIENO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:23:53.065Z"
+  },
+  {
+    "player1": "DrVTCassano",
+    "player2": "Buying Machine",
+    "world": "MOST",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-09-02T09:23:53.075Z"
   }
 ]
