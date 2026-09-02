@@ -1,18 +1,5 @@
 [
   {
-    "player1": "XiaoYan123",
-    "player2": "Buying Machine",
-    "world": "XIFW",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 46,
-    "p_name": "World Locks",
-    "p_count": 322,
-    "price_wl": 322,
-    "traded_with": null,
-    "timestamp": "2026-09-02T04:18:41.388Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMESA",
     "world": "CORE",
@@ -128,5 +115,18 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-09-02T04:28:45.663Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devil of Legend",
+    "world": "AGE",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T04:30:08.025Z"
   }
 ]
