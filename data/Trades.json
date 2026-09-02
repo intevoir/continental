@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBULA",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-09-02T03:08:13.995Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GilzzKunnn",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-02T03:15:21.185Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NEPstore",
+    "world": "STOCK",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-02T03:16:41.501Z"
   }
 ]
