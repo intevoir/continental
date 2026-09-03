@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "One Winged Angel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:52:36.520Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Other Winged Angel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:52:36.531Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTML",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:52:43.803Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrTML",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-03T10:54:48.724Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HanzIchirou",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:55:38.341Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:55:50.672Z"
+  },
+  {
+    "player1": "Tr1stan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1430,
+    "price_wl": 1430,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:56:02.074Z"
   }
 ]
