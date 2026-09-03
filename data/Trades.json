@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BilTheFav",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T22:17:16.030Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BilTheFav",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-03T22:17:30.249Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vile of Legend",
     "world": "VENDM",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-09-03T22:26:40.133Z"
+  },
+  {
+    "player1": "@Veewil",
+    "player2": "Buying Machine",
+    "world": "RIAMLAODE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-03T22:27:22.379Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyRiz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 1240,
+    "price_wl": 1240,
+    "traded_with": null,
+    "timestamp": "2026-09-03T22:27:43.143Z"
   }
 ]
