@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Rax4U",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:29:32.930Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rax4U",
-    "world": "RSS",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:29:53.642Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Rax4U",
     "world": "RSS",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-03T03:38:26.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MengChuan",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 740,
+    "price_wl": 740,
+    "traded_with": null,
+    "timestamp": "2026-09-03T03:39:22.244Z"
+  },
+  {
+    "player1": "Saktyuss",
+    "player2": "Buying Machine",
+    "world": "SET",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-09-03T03:39:22.262Z"
   }
 ]
