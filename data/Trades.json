@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrYunShan",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T05:16:59.342Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lylie",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Teeny Golden Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59000,
-    "price_wl": 59000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T05:18:20.113Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XnaeL",
     "world": "MAHAL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-09-03T05:23:00.550Z"
+  },
+  {
+    "player1": "ponkannnn",
+    "player2": "Buying Machine",
+    "world": "BFGJOHN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 730,
+    "price_wl": 730,
+    "traded_with": null,
+    "timestamp": "2026-09-03T05:25:00.686Z"
+  },
+  {
+    "player1": "DrYunShan",
+    "player2": "Renting Station",
+    "world": "PENN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-03T05:25:00.703Z"
   }
 ]
