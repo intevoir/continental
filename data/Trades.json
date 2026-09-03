@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ChanZunZhe",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20825,
-    "price_wl": 20825,
-    "traded_with": null,
-    "timestamp": "2026-09-03T05:26:01.309Z"
-  },
-  {
     "player1": "DrXleng",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-03T05:30:07.536Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DualKenshi",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T05:30:13.817Z"
   }
 ]
