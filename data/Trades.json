@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@ElCapung",
-    "world": "GIJ",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:08:49.644Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "TOMATQU",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:08:49.650Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@ElCapung",
-    "world": "GIJ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:08:52.963Z"
-  },
-  {
     "player1": "DikaTURU",
     "player2": "Vorax",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1850,
     "traded_with": null,
     "timestamp": "2026-09-03T07:12:58.189Z"
+  },
+  {
+    "player1": "iyan of Legend",
+    "player2": "JustNoid",
+    "world": "IYAN",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "JustNoid",
+    "timestamp": "2026-09-03T07:13:44.606Z"
+  },
+  {
+    "player1": "JustNoid",
+    "player2": "iyan of Legend",
+    "world": "IYAN",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 33,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "iyan of Legend",
+    "timestamp": "2026-09-03T07:13:44.607Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Donpaxue",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1520,
+    "price_wl": 1520,
+    "traded_with": null,
+    "timestamp": "2026-09-03T07:13:51.681Z"
   }
 ]
