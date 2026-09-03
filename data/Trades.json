@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MOJUNG",
-    "player2": "Renting Station",
-    "world": "CROW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:39:54.574Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 132,
-    "price_wl": 132,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:40:04.199Z"
-  },
-  {
     "player1": "Rawy",
     "player2": "Renting Station",
     "world": "CROW",
@@ -128,5 +102,31 @@
     "price_wl": 98,
     "traded_with": null,
     "timestamp": "2026-09-03T09:41:03.596Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Charcoal",
+    "item_count": 92,
+    "p_name": "World Locks",
+    "p_count": 460,
+    "price_wl": 460,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:41:42.859Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:41:50.379Z"
   }
 ]
