@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Pats",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-03T22:03:11.407Z"
-  },
-  {
     "player1": "Aweis",
     "player2": "Buying Machine",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-09-03T22:17:30.249Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vile of Legend",
+    "world": "VENDM",
+    "action": "BUY",
+    "item_name": "Ze Goggles",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-03T22:18:20.890Z"
   }
 ]
