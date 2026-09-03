@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LippNeedBGL",
-    "world": "STOREKILAT",
-    "action": "BUY",
-    "item_name": "Battery",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-03T08:28:55.826Z"
-  },
-  {
     "player1": "LTUP",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-03T08:33:57.324Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BertFL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Haunted Chemical",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T08:34:21.299Z"
   }
 ]
