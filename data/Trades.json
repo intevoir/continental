@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "joyrobert",
-    "world": "PAKAIAN",
-    "action": "BUY",
-    "item_name": "Fuizi's Intergalactic Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:24:37.081Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "joyrobert",
-    "world": "PAKAIAN",
-    "action": "BUY",
-    "item_name": "Yokai Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:25:30.766Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "joyrobert",
-    "world": "PAKAIAN",
-    "action": "BUY",
-    "item_name": "Mountain Dire Wolf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:26:30.937Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BoxHoldings",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:26:35.374Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BagusV1",
     "world": "SPOT",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-09-03T07:30:32.392Z"
+  },
+  {
+    "player1": "CupliStore",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-03T07:33:34.774Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "@Jejean",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Jejean",
+    "timestamp": "2026-09-03T07:33:58.181Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "@Jejean",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Jejean",
+    "timestamp": "2026-09-03T07:33:58.182Z"
+  },
+  {
+    "player1": "@Jejean",
+    "player2": "DrXrc",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrXrc",
+    "timestamp": "2026-09-03T07:33:58.182Z"
   }
 ]
