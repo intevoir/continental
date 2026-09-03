@@ -1,18 +1,5 @@
 [
   {
-    "player1": "X0X0",
-    "player2": "Buying Machine",
-    "world": "PLAZA",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 105,
-    "price_wl": 105,
-    "traded_with": null,
-    "timestamp": "2026-09-03T15:05:31.293Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Priodics",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-03T15:06:30.886Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Priodics",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "VIP Entrance",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-03T15:07:22.363Z"
   }
 ]
