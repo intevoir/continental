@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SecretAdmirer",
-    "player2": "Renting Station",
-    "world": "BFGSYNO",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:51:39.176Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NATA4",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 24000,
     "traded_with": null,
     "timestamp": "2026-09-03T03:58:35.199Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "BGL MasterCard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T04:00:30.513Z"
   }
 ]
