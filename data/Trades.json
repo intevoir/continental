@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LTUP",
-    "player2": "Buying Machine",
-    "world": "PLAZA",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 1080,
-    "price_wl": 1080,
-    "traded_with": null,
-    "timestamp": "2026-09-03T15:43:49.530Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "powerpoint [SUPER]",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T15:49:01.366Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZanpro",
+    "world": "TOMATQU",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T15:49:11.801Z"
   }
 ]
