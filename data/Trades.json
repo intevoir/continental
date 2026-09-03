@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kudamas",
-    "player2": "Buying Machine",
-    "world": "BFGNANO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2160,
-    "price_wl": 2160,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:57:18.438Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LOSTXD",
     "world": "BFGTENA",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-03T21:08:26.845Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kudamas",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T21:11:00.709Z"
   }
 ]
