@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SQUADAMBATRON",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:48:03.575Z"
-  },
-  {
     "player1": "Bellemere",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 23,
     "traded_with": null,
     "timestamp": "2026-09-03T07:52:59.318Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NabilaCantiks",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T07:54:09.222Z"
   }
 ]
