@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Darrick",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:59:58.621Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NATA4",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-03T10:02:39.749Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lippiew",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:03:03.636Z"
   }
 ]
