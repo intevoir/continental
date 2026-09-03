@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Retriever",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T02:52:11.531Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RAPDOK1",
     "world": "VERBFG",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T02:57:27.576Z"
+  },
+  {
+    "player1": "OMSU",
+    "player2": "Renting Station",
+    "world": "SET",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-03T02:58:34.098Z"
   }
 ]
