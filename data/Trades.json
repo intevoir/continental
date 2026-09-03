@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lippiew",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:02:39.749Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lippiew",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:03:03.636Z"
-  },
-  {
     "player1": "DrMESA",
     "player2": "MengChuan",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-03T10:08:48.803Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "DPR",
+    "action": "BUY",
+    "item_name": "Royal Scarf of Chains",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:09:42.715Z"
+  },
+  {
+    "player1": "JustNoid",
+    "player2": "Buying Machine",
+    "world": "VIT",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:09:45.853Z"
   }
 ]
