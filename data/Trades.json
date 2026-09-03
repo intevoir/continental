@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RobbV1",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-02T23:57:57.450Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Myth",
     "world": "FREERENT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-03T00:12:35.698Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "umann",
+    "world": "BUYGREY",
+    "action": "BUY",
+    "item_name": "Grey Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T00:14:02.538Z"
   }
 ]
