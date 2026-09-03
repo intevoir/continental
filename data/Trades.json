@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Milees",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ice Cube",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-03T23:25:14.547Z"
-  },
-  {
-    "player1": "brotodd",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-03T23:25:59.359Z"
-  },
-  {
     "player1": "slebewaja",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +102,31 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-09-03T23:29:08.753Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Milees",
+    "world": "BUILD",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T23:30:45.579Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LainnPiw",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Grow4Good Special Gift Hamper",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-03T23:31:14.932Z"
   }
 ]
