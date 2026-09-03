@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ManusiaTeladan",
-    "world": "IM3",
-    "action": "BUY",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 70000,
-    "price_wl": 70000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:00:53.368Z"
-  },
-  {
     "player1": "ManusiaTeladan",
     "player2": "DrAbusive [ELITE]",
     "world": "IM3",
@@ -128,5 +115,18 @@
     "price_wl": 2600,
     "traded_with": null,
     "timestamp": "2026-09-03T20:07:56.938Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@sane [] []",
+    "world": "BUYSHEEP",
+    "action": "BUY",
+    "item_name": "Wool Bolt",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-03T20:10:46.514Z"
   }
 ]
