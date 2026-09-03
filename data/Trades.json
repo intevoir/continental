@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Mcd",
-    "world": "BUYPINATA",
-    "action": "BUY",
-    "item_name": "Desperado Mustache",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-03T18:36:28.301Z"
-  },
-  {
     "player1": "Kepinthans",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1900,
     "traded_with": null,
     "timestamp": "2026-09-03T18:44:22.867Z"
+  },
+  {
+    "player1": "NuggetBucket",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-03T18:45:12.240Z"
   }
 ]
