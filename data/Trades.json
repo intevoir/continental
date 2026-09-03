@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dihianati",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Space Badger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:44:10.244Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FREERENT [PRO ]",
     "world": "CMD",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-09-03T20:53:26.934Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@sane [] []",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Crystal Gate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T20:54:08.972Z"
   }
 ]
