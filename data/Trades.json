@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Siotan",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "Messy Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T15:16:21.665Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Priodics",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Extractor Dynamo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T15:16:21.673Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RECIPESS",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T15:16:45.516Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Priodics",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Balloon Jammer",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T15:16:54.043Z"
+  },
+  {
+    "player1": "Violation",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 139,
+    "p_name": "World Locks",
+    "p_count": 973,
+    "price_wl": 973,
+    "traded_with": null,
+    "timestamp": "2026-09-03T15:16:54.052Z"
   }
 ]
