@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Vile of Legend",
-    "world": "VENDM",
-    "action": "BUY",
-    "item_name": "Ze Goggles",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-03T22:18:20.890Z"
-  },
-  {
     "player1": "OzanKotak",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 1240,
     "traded_with": null,
     "timestamp": "2026-09-03T22:27:43.143Z"
+  },
+  {
+    "player1": "KittyJenner",
+    "player2": "Buying Machine",
+    "world": "RIAMLAODE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-03T22:28:53.196Z"
   }
 ]
