@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMbox [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:10:28.281Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:12:11.008Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lylie",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@WinterXGod",
     "timestamp": "2026-09-03T03:22:46.767Z"
+  },
+  {
+    "player1": "Donpaxue",
+    "player2": "Buying Machine",
+    "world": "MOST",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T03:24:52.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CLINE",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T03:25:17.619Z"
   }
 ]
