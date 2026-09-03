@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ShaaYu",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-03T08:45:09.247Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XnaeL",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-03T08:48:02.576Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SOKADO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T08:49:35.051Z"
   }
 ]
