@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Katsuu",
-    "world": "BFGPB",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:34:32.166Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Katsuu",
-    "world": "BFGPB",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:34:39.735Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BertFL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrCyzuuGT",
     "timestamp": "2026-09-03T09:38:33.643Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Buying Machine",
+    "world": "BFGJOHN",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 964,
+    "price_wl": 964,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:39:30.822Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:39:33.515Z"
   }
 ]
