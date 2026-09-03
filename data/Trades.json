@@ -4,19 +4,6 @@
     "player2": "XnaeL",
     "world": "HAI",
     "action": "BUY",
-    "item_name": "Change of Address",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-03T07:46:02.995Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XnaeL",
-    "world": "HAI",
-    "action": "BUY",
     "item_name": "Door Mover",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-03T07:51:40.862Z"
+  },
+  {
+    "player1": "Bons",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Bloodveil Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-03T07:52:40.620Z"
   }
 ]
