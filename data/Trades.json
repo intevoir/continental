@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Maulprofitdong",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T16:45:16.588Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "justfun",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-03T16:48:25.458Z"
+  },
+  {
+    "player1": "Zeta",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Granite",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-03T16:48:59.446Z"
   }
 ]
