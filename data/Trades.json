@@ -1,18 +1,5 @@
 [
   {
-    "player1": "nanadzi",
-    "player2": "Buying Machine",
-    "world": "BFGNANO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:51:35.868Z"
-  },
-  {
     "player1": "Zelaa",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-03T10:52:43.803Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrTML",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:54:09.706Z"
   }
 ]
