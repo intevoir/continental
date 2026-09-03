@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrGvez",
-    "world": "SUPPLYRETRI",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-03T21:38:20.538Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-03T21:51:18.774Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TBagwell",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-03T21:53:38.003Z"
   }
 ]
