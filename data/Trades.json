@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "brotodd",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-03T17:40:24.518Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "noozws",
-    "world": "SUCI",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-09-03T17:40:24.537Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "noozws",
     "world": "SUCI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-09-03T17:43:48.721Z"
+  },
+  {
+    "player1": "BilTheFav",
+    "player2": "Buying Machine",
+    "world": "MOST",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T17:44:44.552Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Hellfire Horns - Black",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100000,
+    "price_wl": 100000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T17:44:44.563Z"
   }
 ]
