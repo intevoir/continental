@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 37500,
-    "price_wl": 37500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:40:35.345Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "TOKO9",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 17,
-    "p_name": "World Locks",
-    "p_count": 34,
-    "price_wl": 34,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:40:39.344Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +102,31 @@
     "price_wl": 2788,
     "traded_with": null,
     "timestamp": "2026-09-03T09:42:33.881Z"
+  },
+  {
+    "player1": "RuLd",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:43:31.527Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hydrexy",
+    "world": "MUR",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:43:34.290Z"
   }
 ]
