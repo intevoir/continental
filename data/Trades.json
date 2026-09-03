@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FLAIRx",
-    "world": "KULINER",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T13:13:05.799Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Geewon",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T13:13:05.820Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "azuo",
     "world": "PLAZAS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Wapo",
     "timestamp": "2026-09-03T13:17:07.416Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arsad",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legal Briefs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T13:17:15.656Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "BFGADVAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-09-03T13:17:30.991Z"
   }
 ]
