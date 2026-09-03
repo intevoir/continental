@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "TBagwell",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T21:54:35.029Z"
-  },
-  {
-    "player1": "Aweis",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-03T21:59:09.120Z"
-  },
-  {
     "player1": "Aweis",
     "player2": "Buying Machine",
     "world": "CUAN",
@@ -128,5 +102,31 @@
     "price_wl": 1260,
     "traded_with": null,
     "timestamp": "2026-09-03T22:06:39.227Z"
+  },
+  {
+    "player1": "NaspadPadang",
+    "player2": "OnlyRiz",
+    "world": "SHOPRIZZ",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OnlyRiz",
+    "timestamp": "2026-09-03T22:12:13.646Z"
+  },
+  {
+    "player1": "OnlyRiz",
+    "player2": "NaspadPadang",
+    "world": "SHOPRIZZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "NaspadPadang",
+    "timestamp": "2026-09-03T22:12:13.647Z"
   }
 ]
