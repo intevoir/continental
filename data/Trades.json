@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Milees",
-    "world": "BUILD",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T23:30:45.579Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LainnPiw",
     "world": "HSHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14,
     "traded_with": null,
     "timestamp": "2026-09-03T23:43:50.828Z"
+  },
+  {
+    "player1": "@OmKuatCPS",
+    "player2": "Buying Machine",
+    "world": "FATBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-09-03T23:46:10.824Z"
   }
 ]
