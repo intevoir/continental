@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBadaz",
-    "world": "BUYDUNGEON",
-    "action": "BUY",
-    "item_name": "Dungeon Door",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-03T02:36:55.002Z"
-  },
-  {
-    "player1": "Fahrimanu",
-    "player2": "Renting Station",
-    "world": "RB",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-03T02:36:55.019Z"
-  },
-  {
     "player1": "Lyona []",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-03T02:43:59.842Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TBagwell",
+    "world": "GIJ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-03T02:46:00.843Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TBagwell",
+    "world": "GIJ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 192,
+    "price_wl": 192,
+    "traded_with": null,
+    "timestamp": "2026-09-03T02:46:03.801Z"
   }
 ]
