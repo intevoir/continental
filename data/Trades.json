@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Pats",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-03T21:51:18.765Z"
-  },
-  {
     "player1": "BakriiZy [ELITE]",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 3600000,
     "traded_with": null,
     "timestamp": "2026-09-03T22:02:29.498Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pats",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-03T22:03:11.407Z"
   }
 ]
