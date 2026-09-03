@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "coze",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:56:57.586Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "coze",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:57:04.449Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LOSTXD",
     "world": "BFGTENA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 211,
     "traded_with": null,
     "timestamp": "2026-09-03T21:04:25.366Z"
+  },
+  {
+    "player1": "coze",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 123,
+    "price_wl": 123,
+    "traded_with": null,
+    "timestamp": "2026-09-03T21:06:59.643Z"
+  },
+  {
+    "player1": "coze",
+    "player2": "Buying Machine",
+    "world": "SET",
+    "action": "SELL",
+    "item_name": "Rayman's Fist",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-03T21:07:13.308Z"
   }
 ]
