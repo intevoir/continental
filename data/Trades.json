@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "AOII",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 84,
-    "price_wl": 84,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:41:00.247Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "GEVU",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 98,
-    "price_wl": 98,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:41:03.596Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "hasis",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T09:44:31.489Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:44:39.286Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:44:43.259Z"
   }
 ]
