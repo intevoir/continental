@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PREAPSOVATH",
-    "player2": "Renting Station",
-    "world": "RICH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-03T13:23:37.480Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZYBO",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-03T13:29:39.823Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrElrab",
+    "world": "USP",
+    "action": "BUY",
+    "item_name": "Mining Mech",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T13:29:43.758Z"
   }
 ]
