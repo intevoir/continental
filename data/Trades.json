@@ -4,19 +4,6 @@
     "player2": "eldiraa",
     "world": "SET",
     "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-03T03:56:44.443Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "eldiraa",
-    "world": "SET",
-    "action": "BUY",
     "item_name": "Signal Jammer",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-03T04:01:45.294Z"
+  },
+  {
+    "player1": "senatun",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-09-03T04:03:37.646Z"
   }
 ]
