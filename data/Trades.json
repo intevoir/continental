@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "MAAP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-03T14:14:43.102Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "MAAP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-03T14:14:46.327Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAPDOK",
     "world": "STOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T14:15:47.123Z"
+  },
+  {
+    "player1": "XiaoMeyin",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-03T14:16:32.562Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "najibtwinDrake",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-03T14:16:36.380Z"
   }
 ]
