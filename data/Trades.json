@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Bellemere",
-    "world": "CARA",
-    "action": "BUY",
-    "item_name": "Ultra Blue Neptune Fragment",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-03T06:00:49.728Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "imIchaaayaw",
     "world": "BNSI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-03T06:02:31.647Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "STOCK",
+    "action": "SELL",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 2490,
+    "price_wl": 2490,
+    "traded_with": null,
+    "timestamp": "2026-09-03T06:03:30.876Z"
   }
 ]
