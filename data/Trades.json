@@ -1,18 +1,5 @@
 [
   {
-    "player1": "0nEsHot",
-    "player2": "Renting Station",
-    "world": "FREE",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-03T04:46:51.528Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lylie",
     "world": "KEDAI",
@@ -128,5 +115,18 @@
     "price_wl": 8500,
     "traded_with": null,
     "timestamp": "2026-09-03T04:58:48.248Z"
+  },
+  {
+    "player1": "Kamumtaz",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T04:59:48.450Z"
   }
 ]
