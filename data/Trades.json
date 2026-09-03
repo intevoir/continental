@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "TOMATQU",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T15:33:29.286Z"
-  },
-  {
     "player1": "SamIsHere",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-03T15:35:01.464Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@QOIL",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T15:35:30.844Z"
   }
 ]
