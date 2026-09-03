@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 17,
-    "p_name": "World Locks",
-    "p_count": 51,
-    "price_wl": 51,
-    "traded_with": null,
-    "timestamp": "2026-09-03T09:40:42.793Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "AOII",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-09-03T09:43:34.290Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T09:44:31.489Z"
   }
 ]
