@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kensyo",
-    "world": "AGE",
-    "action": "BUY",
-    "item_name": "ATM Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T00:08:34.247Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BertFL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T00:11:39.567Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fzal",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-03T00:17:50.613Z"
+  },
+  {
+    "player1": "TINJU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-03T00:18:37.741Z"
+  },
+  {
+    "player1": "TINJU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-03T00:18:56.557Z"
   }
 ]
