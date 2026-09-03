@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrBaratts",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T11:38:01.332Z"
-  },
-  {
-    "player1": "DrBaratts",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "D Battery",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-03T11:38:53.798Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OppanAja",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-09-03T11:41:08.640Z"
+  },
+  {
+    "player1": "radana",
+    "player2": "MayoGT",
+    "world": "WGK",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MayoGT",
+    "timestamp": "2026-09-03T11:42:55.797Z"
+  },
+  {
+    "player1": "MayoGT",
+    "player2": "radana",
+    "world": "WGK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 8,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "radana",
+    "timestamp": "2026-09-03T11:42:55.798Z"
   }
 ]
