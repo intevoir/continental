@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Jcgt",
-    "player2": "Buying Machine",
-    "world": "BFGQOH",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 720,
-    "price_wl": 720,
-    "traded_with": null,
-    "timestamp": "2026-09-03T14:06:32.967Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ElpStore []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T14:06:36.310Z"
-  },
-  {
     "player1": "spookyfakeh",
     "player2": "amurereon",
     "world": "FIOBFG",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-03T14:10:40.568Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T14:11:45.322Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NATA4",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-03T14:11:59.413Z"
   }
 ]
