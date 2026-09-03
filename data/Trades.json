@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NATA4",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Royal Scarf of Chains",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:09:42.715Z"
-  },
-  {
-    "player1": "JustNoid",
-    "player2": "Buying Machine",
-    "world": "VIT",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-09-03T10:09:45.853Z"
-  },
-  {
     "player1": "DrPesiar",
     "player2": "kasma",
     "world": "RIO",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-03T10:11:08.032Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrVeIyn of Legend []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:12:42.774Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-03T10:12:58.392Z"
   }
 ]
