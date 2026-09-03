@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NuggetBucket",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-03T18:45:12.240Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Puffeloo []",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 350,
     "traded_with": null,
     "timestamp": "2026-09-03T19:00:18.730Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NomCPS",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17000,
+    "price_wl": 17000,
+    "traded_with": null,
+    "timestamp": "2026-09-03T19:03:19.720Z"
   }
 ]
