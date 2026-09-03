@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "coze",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:18:00.991Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "coze",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:18:04.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "coze",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-03T20:18:08.532Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "spookyfakeh",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-03T20:19:45.218Z"
+  },
+  {
+    "player1": "FaddGT",
+    "player2": "SINGKU",
+    "world": "GANTIBFG",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SINGKU",
+    "timestamp": "2026-09-03T20:20:07.339Z"
+  },
+  {
+    "player1": "SINGKU",
+    "player2": "FaddGT",
+    "world": "GANTIBFG",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "FaddGT",
+    "timestamp": "2026-09-03T20:20:07.339Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yayoking",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-03T20:20:14.566Z"
   }
 ]
