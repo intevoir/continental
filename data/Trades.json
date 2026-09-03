@@ -1,18 +1,5 @@
 [
   {
-    "player1": "umann",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Kembar's Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-03T13:09:20.106Z"
-  },
-  {
     "player1": "deleon197",
     "player2": "Renting Station",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 10080,
     "traded_with": null,
     "timestamp": "2026-09-03T13:11:05.660Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "umann",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Non La",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-03T13:11:22.740Z"
   }
 ]
