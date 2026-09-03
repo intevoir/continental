@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ruzhar",
-    "world": "BFGPB",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-03T17:34:24.700Z"
-  },
-  {
-    "player1": "imIchaaayaw",
-    "player2": "Renting Station",
-    "world": "AGE",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-03T17:35:21.407Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kensyo",
     "world": "MBBV",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1498,
     "traded_with": null,
     "timestamp": "2026-09-03T17:40:53.060Z"
+  },
+  {
+    "player1": "Kingael",
+    "player2": "Buying Machine",
+    "world": "AWAL",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 37,
+    "p_name": "World Locks",
+    "p_count": 148,
+    "price_wl": 148,
+    "traded_with": null,
+    "timestamp": "2026-09-03T17:41:55.485Z"
+  },
+  {
+    "player1": "Kingael",
+    "player2": "Buying Machine",
+    "world": "AWAL",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 192,
+    "price_wl": 192,
+    "traded_with": null,
+    "timestamp": "2026-09-03T17:42:07.207Z"
   }
 ]
