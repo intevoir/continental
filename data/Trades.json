@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Violation",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 1900,
-    "price_wl": 1900,
-    "traded_with": null,
-    "timestamp": "2026-09-03T18:44:22.867Z"
-  },
-  {
     "player1": "NuggetBucket",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 830,
     "traded_with": null,
     "timestamp": "2026-09-03T18:56:33.699Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NomCPS",
+    "world": "NNU",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-03T19:00:18.730Z"
   }
 ]
