@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Jcgt []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-03T01:34:28.370Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Versatille",
     "world": "AULA",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-03T01:44:55.448Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TINJU",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-09-03T01:46:10.310Z"
   }
 ]
