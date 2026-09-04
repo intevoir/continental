@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "BFGHANZ",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 920,
-    "price_wl": 920,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:34:59.151Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tuando",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:35:07.758Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "IriWara",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-04T18:40:02.154Z"
+  },
+  {
+    "player1": "xK0ng",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-04T18:41:02.180Z"
+  },
+  {
+    "player1": "xK0ng",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2130,
+    "price_wl": 2130,
+    "traded_with": null,
+    "timestamp": "2026-09-04T18:41:02.187Z"
   }
 ]
