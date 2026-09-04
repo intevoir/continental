@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "umann []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Silk Tie - Grey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-03T23:58:21.281Z"
-  },
-  {
     "player1": "Suuchan",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-04T00:08:12.377Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAgamemnon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 18000,
+    "price_wl": 18000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T00:08:16.738Z"
   }
 ]
