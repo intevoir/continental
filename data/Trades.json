@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrPROFESI",
-    "player2": "DrMESA",
-    "world": "BFGDO",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 50,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrMESA",
-    "timestamp": "2026-09-04T14:00:09.568Z"
-  },
-  {
-    "player1": "DrPROFESI",
-    "player2": "DrMESA",
-    "world": "BFGDO",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 3,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrMESA",
-    "timestamp": "2026-09-04T14:00:09.570Z"
-  },
-  {
     "player1": "DrMESA",
     "player2": "DrPROFESI",
     "world": "BFGDO",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-04T14:01:30.975Z"
+  },
+  {
+    "player1": "SQUADAMBATRON",
+    "player2": "Buying Machine",
+    "world": "GNF",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-09-04T14:02:10.253Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CLINE",
+    "world": "SUMMERS",
+    "action": "BUY",
+    "item_name": "Beach Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-04T14:02:30.157Z"
   }
 ]
