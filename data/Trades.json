@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Symcc",
-    "world": "FACE",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:53:32.761Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZYBO",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-04T01:08:00.984Z"
+  },
+  {
+    "player1": "@AFK [ELITE] [] []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:08:11.299Z"
   }
 ]
