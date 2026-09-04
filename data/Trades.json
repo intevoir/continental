@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrSdach of Legend",
-    "player2": "Renting Station",
-    "world": "SDACHMAIN",
-    "action": "RENT",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:58:37.540Z"
-  },
-  {
     "player1": "Kinn21",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-04T01:11:05.854Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lylie",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 15400,
+    "price_wl": 15400,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:11:38.540Z"
   }
 ]
