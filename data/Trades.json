@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@thelasthuman [PRO ]",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-04T15:04:27.332Z"
-  },
-  {
     "player1": "Anjaay",
     "player2": "Buying Machine",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-04T15:06:58.111Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "razi9",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T15:07:04.354Z"
   }
 ]
