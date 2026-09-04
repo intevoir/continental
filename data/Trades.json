@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DrBvre",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T15:27:37.069Z"
-  },
-  {
-    "player1": "OtongBaik",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-04T15:27:37.085Z"
-  },
-  {
-    "player1": "DanDjarin",
-    "player2": "DanzzJR",
-    "world": "EKDN",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 28,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DanzzJR",
-    "timestamp": "2026-09-04T15:27:41.232Z"
-  },
-  {
-    "player1": "DanzzJR",
-    "player2": "DanDjarin",
-    "world": "EKDN",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DanDjarin",
-    "timestamp": "2026-09-04T15:27:41.236Z"
-  },
-  {
     "player1": "X0X0",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-04T15:30:41.814Z"
+  },
+  {
+    "player1": "X0X0",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-04T15:30:56.688Z"
+  },
+  {
+    "player1": "@Kolleng",
+    "player2": "RappWasHere",
+    "world": "4C",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RappWasHere",
+    "timestamp": "2026-09-04T15:31:03.978Z"
+  },
+  {
+    "player1": "@Kolleng",
+    "player2": "RappWasHere",
+    "world": "4C",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RappWasHere",
+    "timestamp": "2026-09-04T15:31:03.978Z"
+  },
+  {
+    "player1": "RappWasHere",
+    "player2": "@Kolleng",
+    "world": "4C",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Kolleng",
+    "timestamp": "2026-09-04T15:31:03.979Z"
   }
 ]
