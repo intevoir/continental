@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "WeWok",
-    "world": "LVLVEND",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:30:06.183Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xenita",
-    "world": "BFGJWL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 224,
-    "p_name": "World Locks",
-    "p_count": 672,
-    "price_wl": 672,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:30:17.550Z"
-  },
-  {
-    "player1": "Hilgi",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:31:06.787Z"
-  },
-  {
-    "player1": "RappWasHere",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 13500,
-    "price_wl": 13500,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:32:11.147Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@SSSARAH",
     "world": "BFGZAI",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-04T16:34:08.335Z"
+  },
+  {
+    "player1": "@BrianTm",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-04T16:34:17.120Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "roadtorichmann",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 75,
+    "p_name": "World Locks",
+    "p_count": 525,
+    "price_wl": 525,
+    "traded_with": null,
+    "timestamp": "2026-09-04T16:34:23.843Z"
+  },
+  {
+    "player1": "DrIitch",
+    "player2": "DrMargilano",
+    "world": "BFGKURAS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMargilano",
+    "timestamp": "2026-09-04T16:34:26.947Z"
+  },
+  {
+    "player1": "DrMargilano",
+    "player2": "DrIitch",
+    "world": "BFGKURAS",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrIitch",
+    "timestamp": "2026-09-04T16:34:26.948Z"
   }
 ]
