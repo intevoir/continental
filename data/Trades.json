@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hmo",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 85,
-    "p_name": "World Locks",
-    "p_count": 63750,
-    "price_wl": 63750,
-    "traded_with": null,
-    "timestamp": "2026-09-04T20:34:28.149Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RZN",
-    "world": "ULS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3650,
-    "price_wl": 3650,
-    "traded_with": null,
-    "timestamp": "2026-09-04T20:37:09.268Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RZN",
     "world": "ULS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-04T20:39:29.240Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "MARKET",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 12750,
+    "price_wl": 12750,
+    "traded_with": null,
+    "timestamp": "2026-09-04T20:39:42.959Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RZN",
+    "world": "ULS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3650,
+    "price_wl": 3650,
+    "traded_with": null,
+    "timestamp": "2026-09-04T20:40:12.674Z"
   }
 ]
