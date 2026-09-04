@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "justfun",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 198,
-    "price_wl": 198,
-    "traded_with": null,
-    "timestamp": "2026-09-04T21:00:38.165Z"
-  },
-  {
     "player1": "Tr1stan",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 3800000,
     "traded_with": null,
     "timestamp": "2026-09-04T21:03:56.655Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "VENDQ",
+    "action": "BUY",
+    "item_name": "Posh Portrait",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-04T21:04:41.865Z"
   }
 ]
