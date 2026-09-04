@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "manmon",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Floatie Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-04T01:39:55.530Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Badaz",
     "world": "INDOMART",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-04T01:46:56.386Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tegur",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:48:11.436Z"
   }
 ]
