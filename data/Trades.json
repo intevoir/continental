@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SlayerHunt",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-04T21:04:41.865Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tr1stan",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-04T21:17:45.918Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Bless Wand",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T21:20:46.428Z"
   }
 ]
