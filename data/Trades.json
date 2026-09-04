@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZYBO",
-    "world": "ARROZMANIAC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:50:31.021Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Symcc",
     "world": "FACE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40000,
     "traded_with": null,
     "timestamp": "2026-09-04T01:04:34.386Z"
+  },
+  {
+    "player1": "@AFK [ELITE] [] []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:08:00.984Z"
   }
 ]
