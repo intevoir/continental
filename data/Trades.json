@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "eyZaaa",
-    "world": "LEWYY",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T21:25:33.726Z"
-  },
-  {
     "player1": "eyZaaa",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-04T21:27:34.397Z"
+  },
+  {
+    "player1": "eyZaaa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 144,
+    "p_name": "World Locks",
+    "p_count": 1008,
+    "price_wl": 1008,
+    "traded_with": null,
+    "timestamp": "2026-09-04T21:27:56.986Z"
   }
 ]
