@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:48:26.186Z"
-  },
-  {
     "player1": "kabx",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-04T16:52:30.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Acustic of Legend [PRO ]",
+    "world": "ELBIN",
+    "action": "BUY",
+    "item_name": "Ban Wand",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100000,
+    "price_wl": 100000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T16:53:25.020Z"
   }
 ]
