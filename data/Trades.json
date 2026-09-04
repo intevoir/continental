@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL",
-    "player2": "Buying Machine",
-    "world": "SET",
-    "action": "SELL",
-    "item_name": "Holographic Sign",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T13:44:31.090Z"
-  },
-  {
     "player1": "NEZZY",
     "player2": "Buying Machine",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 450,
     "traded_with": null,
     "timestamp": "2026-09-04T13:49:11.097Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KertaNegara",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-04T13:50:11.600Z"
   }
 ]
