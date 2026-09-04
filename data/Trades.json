@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZEMAH",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T16:44:12.835Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Elbareq",
     "world": "DIDAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-04T16:46:16.805Z"
+  },
+  {
+    "player1": "MINDO",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 96,
+    "price_wl": 96,
+    "traded_with": null,
+    "timestamp": "2026-09-04T16:47:13.910Z"
   }
 ]
