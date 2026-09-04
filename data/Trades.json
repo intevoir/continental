@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LegendaryQueen",
-    "world": "NGOPI",
-    "action": "BUY",
-    "item_name": "Pastel Pink Wallpaper",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:11:43.647Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CREATIVESELLER",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-04T17:15:24.075Z"
+  },
+  {
+    "player1": "Katsuu",
+    "player2": "Renting Station",
+    "world": "BFGBTY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:15:50.493Z"
   }
 ]
