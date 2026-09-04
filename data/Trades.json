@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBukuRusak",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Chicken Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T01:39:20.045Z"
-  },
-  {
     "player1": "DrBukuRusak",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-04T01:45:14.215Z"
+  },
+  {
+    "player1": "Edgy []",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:46:22.089Z"
   }
 ]
