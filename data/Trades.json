@@ -1,31 +1,5 @@
 [
   {
-    "player1": "jmbt48",
-    "player2": "Buying Machine",
-    "world": "PEPEK",
-    "action": "SELL",
-    "item_name": "Pepper",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-04T13:17:34.026Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "CIO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 27,
-    "p_name": "World Locks",
-    "p_count": 162,
-    "price_wl": 162,
-    "traded_with": null,
-    "timestamp": "2026-09-04T13:17:37.407Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-04T13:18:42.037Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "M3rcy",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "VIP Entrance",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-04T13:19:09.944Z"
+  },
+  {
+    "player1": "jmbt48",
+    "player2": "Buying Machine",
+    "world": "PEPEK",
+    "action": "SELL",
+    "item_name": "Pepper",
+    "item_count": 187,
+    "p_name": "World Locks",
+    "p_count": 187,
+    "price_wl": 187,
+    "traded_with": null,
+    "timestamp": "2026-09-04T13:19:14.593Z"
   }
 ]
