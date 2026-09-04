@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Cynos",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-04T19:56:17.566Z"
-  },
-  {
-    "player1": "NgeriAmat",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-04T19:56:50.570Z"
-  },
-  {
     "player1": "NgeriAmat",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-04T20:02:53.556Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DxRoadToBlack",
+    "world": "EACH",
+    "action": "BUY",
+    "item_name": "Black Gems MasterCard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-04T20:03:57.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DxRoadToBlack",
+    "world": "EACH",
+    "action": "BUY",
+    "item_name": "BGL MasterCard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-09-04T20:04:11.089Z"
   }
 ]
