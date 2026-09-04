@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Tuan2",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 21,
-    "price_wl": 21,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:06:19.670Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tuan2",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:06:29.449Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tuan2",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:06:29.468Z"
-  },
-  {
     "player1": "Listens",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +89,44 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-04T17:09:32.731Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12100,
+    "price_wl": 12100,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:10:20.284Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Anonimousss",
+    "world": "JACKCHAMP",
+    "action": "BUY",
+    "item_name": "Black Block",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 80000,
+    "price_wl": 80000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:10:20.301Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 132,
+    "p_name": "World Locks",
+    "p_count": 924,
+    "price_wl": 924,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:10:39.900Z"
   }
 ]
