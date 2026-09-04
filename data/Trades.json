@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Katsuu",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:17:36.863Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Katsuu",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:17:40.478Z"
-  },
-  {
     "player1": "Xenita",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-04T17:18:59.550Z"
+  },
+  {
+    "player1": "GOKU67",
+    "player2": "GoMicro [ELITE]",
+    "world": "GOKU67",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GoMicro [ELITE]",
+    "timestamp": "2026-09-04T17:19:51.140Z"
+  },
+  {
+    "player1": "GoMicro [ELITE]",
+    "player2": "GOKU67",
+    "world": "GOKU67",
+    "action": "TRADE",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GOKU67",
+    "timestamp": "2026-09-04T17:19:51.141Z"
   }
 ]
