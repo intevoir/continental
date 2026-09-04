@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-04T13:43:32.488Z"
-  },
-  {
     "player1": "@SELL",
     "player2": "Buying Machine",
     "world": "TXPHONE",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-04T13:47:05.749Z"
+  },
+  {
+    "player1": "LTUP []",
+    "player2": "Buying Machine",
+    "world": "PLAZA",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 29,
+    "p_name": "World Locks",
+    "p_count": 870,
+    "price_wl": 870,
+    "traded_with": null,
+    "timestamp": "2026-09-04T13:47:37.161Z"
   }
 ]
