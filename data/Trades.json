@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CLINE",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:24:56.820Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Xenita",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-04T18:28:13.592Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NomCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-04T18:28:58.367Z"
   }
 ]
