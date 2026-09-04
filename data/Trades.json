@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Jettcute",
-    "player2": "Buying Machine",
-    "world": "MOST",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:41:25.868Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "spookyfakeh",
-    "world": "BUYCHECKPOINT",
-    "action": "BUY",
-    "item_name": "Easter Checkpoint",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:42:10.220Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wsj",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-04T18:43:02.413Z"
-  },
-  {
     "player1": "Kainyx",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +89,44 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-09-04T18:46:08.139Z"
+  },
+  {
+    "player1": "Drruds",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 116,
+    "p_name": "World Locks",
+    "p_count": 5220,
+    "price_wl": 5220,
+    "traded_with": null,
+    "timestamp": "2026-09-04T18:47:04.424Z"
+  },
+  {
+    "player1": "Hornes",
+    "player2": "RAYUAN",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RAYUAN",
+    "timestamp": "2026-09-04T18:47:04.436Z"
+  },
+  {
+    "player1": "RAYUAN",
+    "player2": "Hornes",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Hornes",
+    "timestamp": "2026-09-04T18:47:04.436Z"
   }
 ]
