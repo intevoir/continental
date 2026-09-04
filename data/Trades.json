@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DUHASUKACPS",
-    "player2": "Renting Station",
-    "world": "FAC",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-04T15:24:07.782Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanDjarin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-04T15:24:35.724Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "izul9",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-04T15:27:37.085Z"
+  },
+  {
+    "player1": "DanDjarin",
+    "player2": "DanzzJR",
+    "world": "EKDN",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DanzzJR",
+    "timestamp": "2026-09-04T15:27:41.232Z"
+  },
+  {
+    "player1": "DanzzJR",
+    "player2": "DanDjarin",
+    "world": "EKDN",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DanDjarin",
+    "timestamp": "2026-09-04T15:27:41.236Z"
   }
 ]
