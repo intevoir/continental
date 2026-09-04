@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DausPTHT",
-    "player2": "Renting Station",
-    "world": "7U",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16065,
-    "price_wl": 16065,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:31:57.472Z"
-  },
-  {
-    "player1": "BranP",
-    "player2": "Renting Station",
-    "world": "MAUU",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:33:22.938Z"
-  },
-  {
     "player1": "JustNoid",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-04T00:48:29.839Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZYBO",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-04T00:50:30.997Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZYBO",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-04T00:50:31.021Z"
   }
 ]
