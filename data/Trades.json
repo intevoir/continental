@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrBukuRusak",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-04T01:39:52.183Z"
-  },
-  {
-    "player1": "tegur",
-    "player2": "Renting Station",
-    "world": "NJUN",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-09-04T01:39:52.198Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "manmon",
     "world": "SET",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-09-04T01:46:22.089Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Edgy []",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 75000,
+    "price_wl": 75000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:46:56.372Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tegur",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:46:56.386Z"
   }
 ]
