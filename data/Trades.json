@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Prisbae",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 105,
-    "price_wl": 105,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:29:27.948Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZYBO",
     "world": "STOCK",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-04T00:44:35.332Z"
+  },
+  {
+    "player1": "Symcc",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Devil Phantom Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-04T00:46:49.947Z"
   }
 ]
