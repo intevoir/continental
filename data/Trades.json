@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-04T02:25:11.931Z"
-  },
-  {
-    "player1": "Prisbae",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-09-04T02:29:20.307Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kepinthans",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 576,
+    "price_wl": 576,
+    "traded_with": null,
+    "timestamp": "2026-09-04T02:30:09.320Z"
   }
 ]
