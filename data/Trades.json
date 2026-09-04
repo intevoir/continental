@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LIENO",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 315,
-    "price_wl": 315,
-    "traded_with": null,
-    "timestamp": "2026-09-04T19:37:12.433Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "UNACC",
     "world": "MICRO",
@@ -128,5 +115,18 @@
     "price_wl": 154,
     "traded_with": null,
     "timestamp": "2026-09-04T19:48:13.420Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LegendaryQueen",
+    "world": "SEEDS",
+    "action": "BUY",
+    "item_name": "Sombrero Assault",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T19:53:49.156Z"
   }
 ]
