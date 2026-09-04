@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Kepinthans",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 132,
-    "p_name": "World Locks",
-    "p_count": 924,
-    "price_wl": 924,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:10:39.900Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LegendaryQueen",
     "world": "NGOPI",
@@ -128,5 +115,18 @@
     "price_wl": 350,
     "traded_with": null,
     "timestamp": "2026-09-04T17:14:58.000Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUNBA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:15:24.075Z"
   }
 ]
