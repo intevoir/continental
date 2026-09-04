@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NewPerson",
-    "world": "VENDY",
-    "action": "BUY",
-    "item_name": "Candy Heart",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:44:56.607Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "ARROZMANIAC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T17:45:41.965Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Retriever",
     "world": "ARROZMANIAC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Xenita",
     "timestamp": "2026-09-04T17:48:14.079Z"
+  },
+  {
+    "player1": "BeramBir",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:48:25.006Z"
+  },
+  {
+    "player1": "@Jejean",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-04T17:48:38.709Z"
   }
 ]
