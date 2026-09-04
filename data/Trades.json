@@ -4,19 +4,6 @@
     "player2": "DxRoadToBlack",
     "world": "EACH",
     "action": "BUY",
-    "item_name": "Black Gems MasterCard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-04T20:03:57.401Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DxRoadToBlack",
-    "world": "EACH",
-    "action": "BUY",
     "item_name": "BGL MasterCard",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-09-04T20:10:55.084Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 154,
+    "p_name": "World Locks",
+    "p_count": 6930,
+    "price_wl": 6930,
+    "traded_with": null,
+    "timestamp": "2026-09-04T20:11:02.777Z"
   }
 ]
