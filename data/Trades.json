@@ -1,18 +1,5 @@
 [
   {
-    "player1": "nembakbisa",
-    "player2": "ZYBO",
-    "world": "EUG",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ZYBO",
-    "timestamp": "2026-09-04T14:18:18.758Z"
-  },
-  {
     "player1": "ZYBO",
     "player2": "nembakbisa",
     "world": "EUG",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-04T14:24:19.503Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LegendaryQueen",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "White Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-04T14:24:49.698Z"
   }
 ]
