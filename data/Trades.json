@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZYBO",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:53:32.788Z"
-  },
-  {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 91,
-    "p_name": "World Locks",
-    "p_count": 4095,
-    "price_wl": 4095,
-    "traded_with": null,
-    "timestamp": "2026-09-04T00:53:36.873Z"
-  },
-  {
     "player1": "DrSdach of Legend",
     "player2": "Renting Station",
     "world": "SDACHMAIN",
@@ -128,5 +102,31 @@
     "price_wl": 210,
     "traded_with": null,
     "timestamp": "2026-09-04T01:08:11.299Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ShapakID",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:10:59.304Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ShapakID",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "VIP Entrance",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-04T01:11:05.854Z"
   }
 ]
