@@ -4,32 +4,6 @@
     "player2": "binbun",
     "world": "SHOPQ",
     "action": "BUY",
-    "item_name": "Grey Wallpaper",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-05T07:51:48.436Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "binbun",
-    "world": "SHOPQ",
-    "action": "BUY",
-    "item_name": "U.S.S. Protostar Platform",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-05T07:52:34.012Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "binbun",
-    "world": "SHOPQ",
-    "action": "BUY",
     "item_name": "WOTD Trophy 2018",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1520,
     "traded_with": null,
     "timestamp": "2026-09-05T07:55:33.193Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SSSARAH",
+    "world": "BUYRENTINGSTATION",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T07:58:35.420Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-05T07:58:55.143Z"
   }
 ]
