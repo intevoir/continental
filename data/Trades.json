@@ -1,31 +1,5 @@
 [
   {
-    "player1": "FaddGT",
-    "player2": "Buying Machine",
-    "world": "CERAH",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 228,
-    "p_name": "World Locks",
-    "p_count": 1140,
-    "price_wl": 1140,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:45:33.259Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrEla of Legend",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:45:48.712Z"
-  },
-  {
     "player1": "Doyoks",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-05T18:53:31.698Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:54:21.175Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyskuuy",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 181,
+    "p_name": "World Locks",
+    "p_count": 1448,
+    "price_wl": 1448,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:54:21.188Z"
   }
 ]
