@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "yorend",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T05:18:43.293Z"
-  },
-  {
     "player1": "kudaprut",
     "player2": "Renting Station",
     "world": "OCI",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-05T05:23:31.245Z"
+  },
+  {
+    "player1": "RAPDOK",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendbot-009",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 660,
+    "price_wl": 660,
+    "traded_with": null,
+    "timestamp": "2026-09-05T05:23:51.412Z"
   }
 ]
