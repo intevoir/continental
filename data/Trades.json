@@ -5,32 +5,6 @@
     "world": "BLOCKMO",
     "action": "BUY",
     "item_name": "Black Gems",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-05T02:25:29.317Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RELZCUY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-05T02:25:29.328Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OWNFFA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
     "item_count": 250,
     "p_name": "World Locks",
     "p_count": 125,
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-05T02:27:30.191Z"
+  },
+  {
+    "player1": "Liteice",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-05T02:28:41.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RELZCUY",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17000,
+    "price_wl": 17000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T02:28:45.512Z"
   }
 ]
