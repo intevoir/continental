@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Filipino",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 67,
-    "price_wl": 67,
-    "traded_with": null,
-    "timestamp": "2026-09-05T09:37:52.830Z"
-  },
-  {
-    "player1": "Rei104",
-    "player2": "Buying Machine",
-    "world": "BFGADVAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 92,
-    "p_name": "World Locks",
-    "p_count": 66240,
-    "price_wl": 66240,
-    "traded_with": null,
-    "timestamp": "2026-09-05T09:38:53.628Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OldSpices",
     "world": "LEMEKULA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-05T09:42:18.184Z"
+  },
+  {
+    "player1": "Kzek",
+    "player2": "Buying Machine",
+    "world": "BFGDRA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 92,
+    "p_name": "World Locks",
+    "p_count": 65320,
+    "price_wl": 65320,
+    "traded_with": null,
+    "timestamp": "2026-09-05T09:42:56.734Z"
+  },
+  {
+    "player1": "OnlyRiz",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-05T09:43:13.190Z"
   }
 ]
