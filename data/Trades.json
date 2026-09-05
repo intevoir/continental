@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Anjaay",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:06:27.105Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Loneliest",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Vending Machine",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:06:59.281Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LTUP",
     "world": "ZAH",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-05T18:09:31.579Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EntodGpt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:10:08.134Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MINOSUKEY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Giant Eye Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:10:28.212Z"
   }
 ]
