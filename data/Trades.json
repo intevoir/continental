@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-05T15:54:10.895Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Camazotz",
-    "world": "SHOPWL",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-05T15:54:18.707Z"
-  },
-  {
     "player1": "TorShiny_178",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-05T15:56:46.151Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 1620,
+    "price_wl": 1620,
+    "traded_with": null,
+    "timestamp": "2026-09-05T15:57:00.716Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Motobe",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T15:57:18.190Z"
   }
 ]
