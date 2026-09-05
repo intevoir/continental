@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PlyBiter",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:50:15.134Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rmadhn",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3600000,
     "traded_with": null,
     "timestamp": "2026-09-05T01:54:16.671Z"
+  },
+  {
+    "player1": "radana",
+    "player2": "Buying Machine",
+    "world": "CMD",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3600000,
+    "price_wl": 3600000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:54:41.286Z"
   }
 ]
