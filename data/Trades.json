@@ -2,19 +2,6 @@
   {
     "player1": "BoxHoldings",
     "player2": "Buying Machine",
-    "world": "BFGFIX",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 23,
-    "p_name": "World Locks",
-    "p_count": 16560,
-    "price_wl": 16560,
-    "traded_with": null,
-    "timestamp": "2026-09-05T08:03:39.143Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
     "world": "BFGNANO",
     "action": "SELL",
     "item_name": "Ultra World Spray",
@@ -128,5 +115,18 @@
     "price_wl": 7191,
     "traded_with": null,
     "timestamp": "2026-09-05T08:08:47.161Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tuan2",
+    "world": "LPASAR",
+    "action": "BUY",
+    "item_name": "Lightning Boots",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-05T08:09:18.840Z"
   }
 ]
