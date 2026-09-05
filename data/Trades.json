@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Happy []",
-    "player2": "@Achieve [] [] []",
-    "world": "HELL",
-    "action": "TRADE",
-    "item_name": "Blue Portal",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Achieve [] [] []",
-    "timestamp": "2026-09-05T21:13:21.715Z"
-  },
-  {
     "player1": "@Achieve [] [] []",
     "player2": "@Happy []",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-05T21:19:21.300Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFlatscreen",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-05T21:21:41.074Z"
   }
 ]
