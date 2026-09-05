@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LIENO",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-05T14:19:12.917Z"
-  },
-  {
     "player1": "Kepinthans",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "ARVIPRS [BLOCKMO]",
     "timestamp": "2026-09-05T14:21:06.850Z"
+  },
+  {
+    "player1": "DionBJ",
+    "player2": "Buying Machine",
+    "world": "55",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 14700,
+    "price_wl": 14700,
+    "traded_with": null,
+    "timestamp": "2026-09-05T14:25:24.932Z"
   }
 ]
