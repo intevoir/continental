@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PlyBiter",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:14:59.221Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZEWOXNUB",
-    "world": "RIO",
-    "action": "BUY",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:14:59.235Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rmadhn",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 27,
     "traded_with": null,
     "timestamp": "2026-09-05T01:20:03.788Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:20:59.973Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:21:22.723Z"
   }
 ]
