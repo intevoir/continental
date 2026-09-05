@@ -4,32 +4,6 @@
     "player2": "DrMobios",
     "world": "SET",
     "action": "BUY",
-    "item_name": "Comet Beanie",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T11:59:38.508Z"
-  },
-  {
-    "player1": "ArkaanLy",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-05T11:59:59.359Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMobios",
-    "world": "SET",
-    "action": "BUY",
     "item_name": "Malevolent Hair",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-05T12:01:15.628Z"
+  },
+  {
+    "player1": "DrMobios",
+    "player2": "Renting Station",
+    "world": "SET",
+    "action": "RENT",
+    "item_name": "Mizutsuki's Bloody Hell Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-09-05T12:01:55.238Z"
+  },
+  {
+    "player1": "DrXleng",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T12:02:12.343Z"
   }
 ]
