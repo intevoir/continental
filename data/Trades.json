@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Elsora",
-    "player2": "Buying Machine",
-    "world": "AIZUGT",
-    "action": "SELL",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3700000,
-    "price_wl": 3700000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T15:18:42.163Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "WeWok",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-05T15:18:45.865Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kaiszen",
     "world": "SHOP",
@@ -128,5 +102,31 @@
     "price_wl": 25000,
     "traded_with": null,
     "timestamp": "2026-09-05T15:19:41.442Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kaiszen",
+    "world": "SPOTS",
+    "action": "BUY",
+    "item_name": "Thermonuclear Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-05T15:20:01.577Z"
+  },
+  {
+    "player1": "@SHIINASOBBER",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-05T15:20:31.762Z"
   }
 ]
