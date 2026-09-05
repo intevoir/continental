@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DualKenshi",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 118,
-    "p_name": "World Locks",
-    "p_count": 5310,
-    "price_wl": 5310,
-    "traded_with": null,
-    "timestamp": "2026-09-05T21:09:16.836Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NomCPS",
     "world": "PWTU",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-05T21:13:42.700Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FungCPS",
+    "world": "BFGUX",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T21:15:18.278Z"
   }
 ]
