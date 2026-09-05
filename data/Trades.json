@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EntodGpt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-05T07:06:26.410Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "R4PSKY",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-05T07:08:45.231Z"
+  },
+  {
+    "player1": "DrUdays",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14200,
+    "price_wl": 14200,
+    "traded_with": null,
+    "timestamp": "2026-09-05T07:09:19.622Z"
   }
 ]
