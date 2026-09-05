@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KenzoP",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:30:36.962Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KenzoP",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 940,
     "traded_with": null,
     "timestamp": "2026-09-05T01:34:15.091Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REBOT",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Sonic Buster Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:35:06.278Z"
   }
 ]
