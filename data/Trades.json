@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrXrc",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-05T02:45:54.015Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "senatun",
     "world": "MYRA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-05T02:47:41.500Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "Buying Machine",
+    "world": "BFGNANO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-09-05T02:48:45.823Z"
   }
 ]
