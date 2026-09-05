@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMobios",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Seed of Life",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T12:47:17.466Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KULILAUT",
     "world": "JUAL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-09-05T12:57:36.935Z"
+  },
+  {
+    "player1": "AbenAja",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-09-05T12:58:37.473Z"
   }
 ]
