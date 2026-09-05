@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "exordist",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:24:21.667Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "seanfy",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bow of the Rainbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:24:21.688Z"
-  },
-  {
-    "player1": "PlyBiter",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:24:21.713Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "exordist",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:24:34.013Z"
-  },
-  {
     "player1": "PlyBiter",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-09-05T00:27:27.392Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnBFG",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:27:32.082Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VinnBFG",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:27:35.276Z"
+  },
+  {
+    "player1": "@SEANSHOP [] []",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 225,
+    "p_name": "World Locks",
+    "p_count": 675,
+    "price_wl": 675,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:28:01.436Z"
+  },
+  {
+    "player1": "@SEANSHOP [] []",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:28:01.448Z"
   }
 ]
