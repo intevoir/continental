@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mance1",
-    "player2": "Renting Station",
-    "world": "HELL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:43:05.772Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RealHubby",
     "world": "ARROZMANIAC",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-05T00:45:07.052Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealHubby",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:45:20.891Z"
   }
 ]
