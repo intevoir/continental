@@ -1,44 +1,5 @@
 [
   {
-    "player1": "tegur",
-    "player2": "Renting Station",
-    "world": "NJUN",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:40:08.335Z"
-  },
-  {
-    "player1": "REBOT",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:40:42.456Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OnlyRiz",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:42:10.314Z"
-  },
-  {
     "player1": "ENTJ",
     "player2": "Renting Station",
     "world": "8R",
@@ -128,5 +89,44 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-05T01:45:20.374Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REBOT",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Cloudy Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:46:14.179Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REBOT",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Boy's School Uniform Shirt",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:46:14.201Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REBOT",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Pastel Pants",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:46:36.573Z"
   }
 ]
