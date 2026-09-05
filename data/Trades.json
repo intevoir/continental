@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "idcaboutyou",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:04:44.948Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Prismatix",
-    "world": "BUYLQ",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 172,
-    "p_name": "World Locks",
-    "p_count": 1376,
-    "price_wl": 1376,
-    "traded_with": null,
-    "timestamp": "2026-09-05T00:04:44.979Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MayoGT",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-09-05T00:06:08.673Z"
+  },
+  {
+    "player1": "BilTheFav",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:08:46.168Z"
+  },
+  {
+    "player1": "Azoid",
+    "player2": "Buying Machine",
+    "world": "KFK",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3800000,
+    "price_wl": 3800000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T00:08:46.179Z"
   }
 ]
