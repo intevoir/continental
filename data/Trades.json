@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LIENO",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-05T06:35:05.352Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SayLor",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-09-05T06:37:21.342Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Clouds",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-05T06:38:05.884Z"
   }
 ]
