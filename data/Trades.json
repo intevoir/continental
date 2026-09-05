@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KenzoP",
-    "world": "BIRU",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:31:05.119Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "razi9",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 73,
-    "p_name": "World Locks",
-    "p_count": 54750,
-    "price_wl": 54750,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:31:08.666Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "REBOT",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:32:05.332Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "REBOT",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Horn Headband",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:32:43.062Z"
-  },
-  {
     "player1": "RNF",
     "player2": "Renting Station",
     "world": "JNTE",
@@ -128,5 +76,57 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-05T01:35:06.278Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 130,
+    "price_wl": 130,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:35:27.984Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KenzoP",
+    "world": "BIRU",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:35:31.327Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:35:34.673Z"
+  },
+  {
+    "player1": "DrXrc",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:35:42.444Z"
   }
 ]
