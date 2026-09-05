@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "A6AIN",
-    "world": "OCBC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-05T03:56:01.015Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RELZCUY",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-05T03:56:56.494Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTet",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T03:57:00.265Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KNOW",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-05T03:58:12.389Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrRJF",
     "world": "BFGW",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-05T04:00:24.196Z"
+  },
+  {
+    "player1": "KenzoP",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-05T04:00:57.991Z"
+  },
+  {
+    "player1": "KenzoP",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-05T04:00:58.007Z"
+  },
+  {
+    "player1": "KenzoP",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-05T04:00:58.015Z"
+  },
+  {
+    "player1": "amurereon",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-05T04:01:10.199Z"
   }
 ]
