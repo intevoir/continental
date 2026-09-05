@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Kilicdaroglu",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-09-05T13:23:27.533Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealHubby",
-    "world": "SMART",
-    "action": "BUY",
-    "item_name": "Huge Lock",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-05T13:24:16.194Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Chances",
-    "world": "SELLHOLOS",
-    "action": "BUY",
-    "item_name": "Holographic Sign",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-05T13:24:31.784Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrJustWilliam [PRO ]",
     "world": "VENDBO",
@@ -128,5 +89,44 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-05T13:32:17.803Z"
+  },
+  {
+    "player1": "BirBintang [] [] [RICH] [] []",
+    "player2": "@KSEEH",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@KSEEH",
+    "timestamp": "2026-09-05T13:34:45.772Z"
+  },
+  {
+    "player1": "BirBintang [] [] [RICH] [] []",
+    "player2": "@KSEEH",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@KSEEH",
+    "timestamp": "2026-09-05T13:34:45.774Z"
+  },
+  {
+    "player1": "@KSEEH",
+    "player2": "BirBintang [] [] [RICH] [] []",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BirBintang [] [] [RICH] [] []",
+    "timestamp": "2026-09-05T13:34:45.774Z"
   }
 ]
