@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "OXXO",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-05T14:37:13.605Z"
-  },
-  {
     "player1": "SamIsHere",
     "player2": "Renting Station",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-05T14:39:46.567Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zevan",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T14:40:15.317Z"
   }
 ]
