@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Tuan2",
-    "world": "BFGRT",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:02:25.988Z"
-  },
-  {
     "player1": "Caterine",
     "player2": "Buying Machine",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-05T01:07:56.586Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LOVEKLEE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:08:30.752Z"
   }
 ]
