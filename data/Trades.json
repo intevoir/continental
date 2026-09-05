@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "cniw",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-05T13:07:09.459Z"
-  },
-  {
-    "player1": "Puril",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-09-05T13:07:09.465Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HACLONE",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-05T13:10:39.022Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-05T13:10:42.680Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-05T13:11:10.778Z"
   }
 ]
