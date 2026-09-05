@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SEANSHOP []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-09-05T06:50:13.704Z"
-  },
-  {
     "player1": "hoshiV22",
     "player2": "Renting Station",
     "world": "AULA",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Vorax",
     "timestamp": "2026-09-05T06:52:32.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HAIMIYAA",
+    "world": "SUCI",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-05T06:53:41.660Z"
   }
 ]
