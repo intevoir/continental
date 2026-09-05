@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EntodGpt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:07:59.355Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MURRY",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-05T18:13:02.392Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakadus",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:14:26.289Z"
   }
 ]
