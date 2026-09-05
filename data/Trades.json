@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nandolove",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-05T01:13:23.975Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PlyBiter",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-09-05T01:19:02.704Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 27,
+    "price_wl": 27,
+    "traded_with": null,
+    "timestamp": "2026-09-05T01:20:03.788Z"
   }
 ]
