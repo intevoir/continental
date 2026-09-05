@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Elbareq",
-    "world": "DIDAN",
-    "action": "BUY",
-    "item_name": "Mint Julep",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-05T06:35:05.339Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LIENO",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-05T06:36:40.090Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Lovewillow",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-05T06:36:46.498Z"
   }
 ]
