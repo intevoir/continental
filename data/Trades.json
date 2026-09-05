@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Achieve [] [] []",
-    "player2": "@Happy []",
-    "world": "HELL",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 5,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Happy []",
-    "timestamp": "2026-09-05T21:13:21.720Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FungCPS",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-05T21:21:41.074Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rasanya",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Weather Machine - Background",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-05T21:24:09.887Z"
   }
 ]
