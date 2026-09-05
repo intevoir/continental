@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CupliStore",
-    "world": "SBY",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-05T20:07:19.956Z"
-  },
-  {
     "player1": "Bellemere",
     "player2": "Buying Machine",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-05T20:21:01.261Z"
+  },
+  {
+    "player1": "SADXABA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T20:22:01.278Z"
   }
 ]
