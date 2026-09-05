@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Retriever",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 1245,
-    "price_wl": 1245,
-    "traded_with": null,
-    "timestamp": "2026-09-05T05:15:34.169Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "HSHOP",
@@ -128,5 +115,18 @@
     "price_wl": 893,
     "traded_with": null,
     "timestamp": "2026-09-05T05:18:28.165Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "yorend",
+    "world": "CROT",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T05:18:43.293Z"
   }
 ]
