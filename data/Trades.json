@@ -1,31 +1,5 @@
 [
   {
-    "player1": "EntodGpt",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 89,
-    "p_name": "World Locks",
-    "p_count": 623,
-    "price_wl": 623,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:05:31.204Z"
-  },
-  {
-    "player1": "Anjaay",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-09-05T18:05:59.129Z"
-  },
-  {
     "player1": "Anjaay",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-05T18:08:29.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OtongBaik",
+    "world": "ZAH",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:09:04.608Z"
+  },
+  {
+    "player1": "EntodGpt",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-05T18:09:31.579Z"
   }
 ]
