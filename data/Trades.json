@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NomCPS",
-    "world": "BUYPURELOVE",
-    "action": "BUY",
-    "item_name": "Pure Love Essence",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-06T19:10:18.376Z"
-  },
-  {
     "player1": "Srio",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-09-06T19:22:54.713Z"
+  },
+  {
+    "player1": "NEXTREME",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-06T19:24:56.928Z"
   }
 ]
