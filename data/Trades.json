@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Xavoo",
-    "world": "VENDING",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:00:10.114Z"
-  },
-  {
     "player1": "DualKenshi",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-06T20:15:38.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Weather Machine - Stuff",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:16:22.955Z"
   }
 ]
