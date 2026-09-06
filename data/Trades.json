@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RAIIZZZ",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Change of Address",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-06T19:59:35.073Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAIIZZZ",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Thermonuclear Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:00:10.089Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Xavoo",
     "world": "VENDING",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-06T20:11:20.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RAIIZZZ",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:15:26.469Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:15:38.340Z"
   }
 ]
