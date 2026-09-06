@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Weather Machine - Stuff",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:43:39.413Z"
-  },
-  {
     "player1": "MIRAAS",
     "player2": "Renting Station",
     "world": "FIOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-06T21:45:07.185Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lyans",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Clam Cruiser",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-06T21:45:47.333Z"
   }
 ]
