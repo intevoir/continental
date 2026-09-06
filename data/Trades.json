@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Obskura",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Red Bricks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-06T17:52:28.606Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrFlatscreen",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-06T17:53:27.305Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hmo",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T17:54:00.822Z"
   }
 ]
