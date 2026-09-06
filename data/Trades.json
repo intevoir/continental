@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kudaprut",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 10500,
-    "price_wl": 10500,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:51:03.032Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Hanura",
     "world": "YAAZA",
@@ -128,5 +115,18 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-09-06T06:52:21.389Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Hanura",
+    "world": "YAAZA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-06T06:52:35.368Z"
   }
 ]
