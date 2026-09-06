@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ManTmbuk",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-09-06T23:10:26.305Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "deleon197",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Red Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-06T23:10:40.429Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCerita",
-    "world": "VERBFG",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-06T23:10:40.450Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "deleon197",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Red Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-06T23:11:39.799Z"
-  },
-  {
     "player1": "Mandut",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-09-06T23:20:24.704Z"
+  },
+  {
+    "player1": "Mandut",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-06T23:21:18.047Z"
+  },
+  {
+    "player1": "BGROS",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-09-06T23:21:18.061Z"
+  },
+  {
+    "player1": "Mandut",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 6900,
+    "price_wl": 6900,
+    "traded_with": null,
+    "timestamp": "2026-09-06T23:21:28.937Z"
+  },
+  {
+    "player1": "Mandut",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 920,
+    "price_wl": 920,
+    "traded_with": null,
+    "timestamp": "2026-09-06T23:21:32.841Z"
   }
 ]
