@@ -1,57 +1,5 @@
 [
   {
-    "player1": "@alen",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 10500,
-    "price_wl": 10500,
-    "traded_with": null,
-    "timestamp": "2026-09-06T13:57:30.241Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Violation",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T13:57:41.692Z"
-  },
-  {
-    "player1": "Tuando",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 64,
-    "p_name": "World Locks",
-    "p_count": 5760,
-    "price_wl": 5760,
-    "traded_with": null,
-    "timestamp": "2026-09-06T13:58:20.421Z"
-  },
-  {
-    "player1": "gazanxD",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-06T13:58:31.317Z"
-  },
-  {
     "player1": "gazanxD",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +76,57 @@
     "price_wl": 98,
     "traded_with": null,
     "timestamp": "2026-09-06T14:00:48.157Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "ARROZMANIAC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:01:20.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "umann",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Creepstone Platform",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:01:20.832Z"
+  },
+  {
+    "player1": "Violation",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 2070,
+    "price_wl": 2070,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:01:20.837Z"
+  },
+  {
+    "player1": "Cynos",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:01:20.841Z"
   }
 ]
