@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingMIN5DLS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T10:27:04.306Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "parance",
-    "world": "BLOCKW",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-06T10:27:04.311Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "satros",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrMbox [ELITE]",
     "timestamp": "2026-09-06T10:28:52.648Z"
+  },
+  {
+    "player1": "DrKuyutGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T10:31:51.107Z"
+  },
+  {
+    "player1": "powerpoint [SUPER]",
+    "player2": "Renting Station",
+    "world": "SDACHMAIN",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-06T10:31:51.986Z"
   }
 ]
