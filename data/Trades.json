@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HanSukaChristy",
-    "world": "BUYS",
-    "action": "BUY",
-    "item_name": "Flower Pinwheel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-06T09:34:32.159Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FlashDuck",
     "world": "SHOPEE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-06T09:42:03.537Z"
+  },
+  {
+    "player1": "@CurseGT []",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-06T09:42:52.229Z"
   }
 ]
