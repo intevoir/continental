@@ -4,19 +4,6 @@
     "player2": "maxxGALAGHER",
     "world": "LPASAR",
     "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-06T16:46:52.658Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "maxxGALAGHER",
-    "world": "LPASAR",
-    "action": "BUY",
     "item_name": "Display Block",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-06T16:49:05.195Z"
+  },
+  {
+    "player1": "OldSpices",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1440,
+    "price_wl": 1440,
+    "traded_with": null,
+    "timestamp": "2026-09-06T16:50:56.963Z"
   }
 ]
