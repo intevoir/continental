@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PinVsEveryBody",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-06T14:40:32.207Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PinVsEveryBody",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-06T14:40:32.217Z"
-  },
-  {
     "player1": "PinVsEveryBody",
     "player2": "Renting Station",
     "world": "NUMB",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-06T14:41:38.603Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VERBFG",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:42:46.187Z"
+  },
+  {
+    "player1": "Kaizeya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:43:09.855Z"
   }
 ]
