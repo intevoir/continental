@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vorax",
-    "player2": "@SlayerHunt",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@SlayerHunt",
-    "timestamp": "2026-09-06T00:54:16.852Z"
-  },
-  {
     "player1": "@SlayerHunt",
     "player2": "Vorax",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-06T00:59:13.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LucyAltPs",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-06T00:59:46.455Z"
   }
 ]
