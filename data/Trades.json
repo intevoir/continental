@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DArrK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:56:49.065Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cavets",
-    "world": "BFGSYNO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:57:10.313Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cavets",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5170,
     "traded_with": null,
     "timestamp": "2026-09-06T22:04:49.026Z"
+  },
+  {
+    "player1": "Brokee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-09-06T22:05:47.048Z"
+  },
+  {
+    "player1": "Tr1stan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-09-06T22:05:47.063Z"
   }
 ]
