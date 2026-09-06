@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CallMeExa",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:40:57.790Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ibnuxhk",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:41:01.782Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ibnuxhk",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 75600,
     "traded_with": null,
     "timestamp": "2026-09-06T06:42:26.036Z"
+  },
+  {
+    "player1": "Lygo",
+    "player2": "Renting Station",
+    "world": "FIREHAQI",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20230,
+    "price_wl": 20230,
+    "traded_with": null,
+    "timestamp": "2026-09-06T06:44:02.925Z"
+  },
+  {
+    "player1": "Drstuudys",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 175000,
+    "price_wl": 175000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T06:44:11.495Z"
   }
 ]
