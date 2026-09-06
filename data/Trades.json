@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Rei104",
-    "player2": "Buying Machine",
-    "world": "BFGSICE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:01:17.249Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xavoo",
     "world": "VENDING",
@@ -128,5 +115,18 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-06T20:17:44.785Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FungCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 675,
+    "price_wl": 675,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:19:26.253Z"
   }
 ]
