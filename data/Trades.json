@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrSFC",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:00:47.706Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Astambul",
-    "world": "RUA",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 203,
-    "price_wl": 203,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:00:54.336Z"
-  },
-  {
     "player1": "Qoni",
     "player2": "Renting Station",
     "world": "JNTE",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-06T06:02:42.947Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSFC",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-06T06:02:50.130Z"
+  },
+  {
+    "player1": "DrCCTPI",
+    "player2": "Buying Machine",
+    "world": "BFGADVAN",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-06T06:03:04.110Z"
   }
 ]
