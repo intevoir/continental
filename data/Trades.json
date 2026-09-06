@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrSFC",
-    "player2": "DrMargilano",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Aura",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrMargilano",
-    "timestamp": "2026-09-06T09:10:47.495Z"
-  },
-  {
-    "player1": "DrMargilano",
-    "player2": "DrSFC",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 6,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrSFC",
-    "timestamp": "2026-09-06T09:10:47.496Z"
-  },
-  {
     "player1": "RAYUAN",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-06T09:12:30.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drcdj",
+    "world": "BFGCYN",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-06T09:13:41.061Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OWNFFA",
+    "world": "VENDN",
+    "action": "BUY",
+    "item_name": "Chandelier",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-06T09:14:08.197Z"
   }
 ]
