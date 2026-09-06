@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMbox [ELITE]",
-    "world": "BFGCYN",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 82,
-    "price_wl": 82,
-    "traded_with": null,
-    "timestamp": "2026-09-06T10:04:03.614Z"
-  },
-  {
     "player1": "Pats",
     "player2": "Renting Station",
     "world": "FIOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 82,
     "traded_with": null,
     "timestamp": "2026-09-06T10:04:45.364Z"
+  },
+  {
+    "player1": "Achiless",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-06T10:09:10.900Z"
   }
 ]
