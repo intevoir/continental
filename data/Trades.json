@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xavoo",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Furious Eye",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:11:12.890Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "cengir",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-06T20:22:17.409Z"
+  },
+  {
+    "player1": "Gre",
+    "player2": "Buying Machine",
+    "world": "FAC",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 220000,
+    "price_wl": 220000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:30:49.255Z"
   }
 ]
