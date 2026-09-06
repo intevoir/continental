@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Alfachrii",
-    "player2": "LTUP",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Golden Angel Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "LTUP",
-    "timestamp": "2026-09-06T10:04:25.601Z"
-  },
-  {
-    "player1": "@Alfachrii",
-    "player2": "LTUP",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "LTUP",
-    "timestamp": "2026-09-06T10:04:25.602Z"
-  },
-  {
     "player1": "LTUP",
     "player2": "@Alfachrii",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-06T10:10:45.770Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "VENDM",
+    "action": "BUY",
+    "item_name": "Street Sign",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-06T10:11:10.107Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "VENDM",
+    "action": "BUY",
+    "item_name": "Streetlamp",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-06T10:11:17.388Z"
   }
 ]
