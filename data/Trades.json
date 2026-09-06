@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Lukis",
-    "world": "FAVREHAT",
-    "action": "BUY",
-    "item_name": "TXMom's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T19:57:32.233Z"
-  },
-  {
     "player1": "DualKenshi",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-06T20:01:17.275Z"
+  },
+  {
+    "player1": "DualKenshi",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 3150,
+    "price_wl": 3150,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:03:13.087Z"
   }
 ]
