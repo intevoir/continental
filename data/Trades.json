@@ -2,45 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Xavoo",
-    "world": "VENDING",
-    "action": "BUY",
-    "item_name": "Yin Yang Pendant",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:01:17.275Z"
-  },
-  {
-    "player1": "DualKenshi",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 3150,
-    "price_wl": 3150,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:03:13.087Z"
-  },
-  {
-    "player1": "DualKenshi",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2025,
-    "price_wl": 2025,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:10:13.062Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xavoo",
     "world": "SET",
     "action": "BUY",
     "item_name": "Furious Eye",
@@ -128,5 +89,44 @@
     "price_wl": 675,
     "traded_with": null,
     "timestamp": "2026-09-06T20:19:26.253Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Pillar",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:21:48.325Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Fallen Pillar",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:22:17.398Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Baroque Iron Gate",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:22:17.409Z"
   }
 ]
