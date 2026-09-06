@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Sxoozy",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-06T14:29:51.792Z"
-  },
-  {
-    "player1": "@AppleJuice",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1420,
-    "price_wl": 1420,
-    "traded_with": null,
-    "timestamp": "2026-09-06T14:31:05.123Z"
-  },
-  {
     "player1": "FungCPS",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-06T14:34:32.119Z"
+  },
+  {
+    "player1": "@AppleJuice",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 630,
+    "price_wl": 630,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:35:32.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Qux",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-06T14:35:48.805Z"
   }
 ]
