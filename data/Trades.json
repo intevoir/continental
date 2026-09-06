@@ -4,19 +4,6 @@
     "player2": "ZurePenjudi",
     "world": "FREE",
     "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-06T18:26:34.284Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZurePenjudi",
-    "world": "FREE",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 480000,
     "traded_with": null,
     "timestamp": "2026-09-06T18:34:07.754Z"
+  },
+  {
+    "player1": "PawRich",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-06T18:36:01.112Z"
   }
 ]
