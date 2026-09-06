@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fourthwall",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-06T03:54:47.340Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fzal",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1950,
-    "price_wl": 1950,
-    "traded_with": null,
-    "timestamp": "2026-09-06T03:55:01.764Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DayLights",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-09-06T04:42:32.184Z"
+  },
+  {
+    "player1": "KzYUU7",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Khabib!",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-09-06T04:43:29.647Z"
+  },
+  {
+    "player1": "Vorax",
+    "player2": "Buying Machine",
+    "world": "RELANE",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300000,
+    "price_wl": 300000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T04:43:36.517Z"
   }
 ]
