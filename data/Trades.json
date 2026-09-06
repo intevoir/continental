@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DengkulAyam",
-    "player2": "Buying Machine",
-    "world": "CERAH",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:18:36.275Z"
-  },
-  {
-    "player1": "DengkulAyam",
-    "player2": "Buying Machine",
-    "world": "CERAH",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 233,
-    "p_name": "World Locks",
-    "p_count": 932,
-    "price_wl": 932,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:19:28.870Z"
-  },
-  {
     "player1": "Lyans",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-06T21:27:32.852Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lyans",
+    "world": "DXD",
+    "action": "BUY",
+    "item_name": "Royal Mask of The Dragon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-06T21:30:58.044Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lyans",
+    "world": "DXD",
+    "action": "BUY",
+    "item_name": "Mask of The Dragon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-06T21:31:01.270Z"
   }
 ]
