@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ibnuxhk",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3750,
-    "price_wl": 3750,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:41:13.272Z"
-  },
-  {
-    "player1": "Zakelee",
-    "player2": "Renting Station",
-    "world": "FIOBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-06T06:41:29.779Z"
-  },
-  {
     "player1": "Hafari",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-06T06:45:20.584Z"
+  },
+  {
+    "player1": "Drstuudys",
+    "player2": "OldSpices",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OldSpices",
+    "timestamp": "2026-09-06T06:46:11.595Z"
+  },
+  {
+    "player1": "OldSpices",
+    "player2": "Drstuudys",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Drstuudys",
+    "timestamp": "2026-09-06T06:46:11.605Z"
   }
 ]
