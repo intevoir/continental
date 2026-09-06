@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Xvput",
-    "player2": "Renting Station",
-    "world": "CUAN",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-06T02:51:10.076Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "4Devil",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 47,
-    "p_name": "World Locks",
-    "p_count": 35720,
-    "price_wl": 35720,
-    "traded_with": null,
-    "timestamp": "2026-09-06T02:51:26.070Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrAziok",
     "world": "CTOKO",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-06T02:56:14.698Z"
+  },
+  {
+    "player1": "ANTINEMBAK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1430,
+    "price_wl": 1430,
+    "traded_with": null,
+    "timestamp": "2026-09-06T02:58:15.782Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ANTINEMBAK",
+    "world": "SHOPFAIL",
+    "action": "BUY",
+    "item_name": "Geiger Charger",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-06T02:58:31.203Z"
   }
 ]
