@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Winter Robe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:53:08.471Z"
-  },
-  {
-    "player1": "Tamid",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-06T21:53:43.527Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MIRAAS",
     "world": "XZU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-06T22:00:50.460Z"
+  },
+  {
+    "player1": "Tr1stan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-06T22:03:06.236Z"
+  },
+  {
+    "player1": "Tr1stan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 483,
+    "price_wl": 483,
+    "traded_with": null,
+    "timestamp": "2026-09-06T22:03:13.426Z"
   }
 ]
