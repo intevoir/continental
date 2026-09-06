@@ -4,19 +4,6 @@
     "player2": "Xavoo",
     "world": "BELI",
     "action": "BUY",
-    "item_name": "Pillar",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-06T20:21:48.325Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xavoo",
-    "world": "BELI",
-    "action": "BUY",
     "item_name": "Fallen Pillar",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-06T20:45:33.966Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xavoo",
+    "world": "VEN",
+    "action": "BUY",
+    "item_name": "Bone Platform",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-06T20:46:12.311Z"
   }
 ]
