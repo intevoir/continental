@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:40:58.690Z"
-  },
-  {
-    "player1": "Cloviz",
-    "player2": "Renting Station",
-    "world": "FIOBFG",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:43:26.149Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fmmz",
     "world": "SABTU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-07T17:46:38.455Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 385,
+    "price_wl": 385,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:46:45.249Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:47:07.648Z"
   }
 ]
