@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZanButuhOntel",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 214,
-    "p_name": "World Locks",
-    "p_count": 4280,
-    "price_wl": 4280,
-    "traded_with": null,
-    "timestamp": "2026-09-07T05:27:43.423Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Clarishaa",
     "world": "KOPT",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-07T05:29:34.797Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Clarishaa",
+    "world": "KOPT",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-07T05:30:22.998Z"
   }
 ]
