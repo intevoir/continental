@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PrinceKyzen",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 26,
-    "price_wl": 26,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:56:55.689Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PrinceKyzen",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:56:59.681Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:58:33.705Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FlashDuck",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-07T17:59:39.163Z"
+  },
+  {
+    "player1": "fhhf",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 34,
+    "p_name": "World Locks",
+    "p_count": 34,
+    "price_wl": 34,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:01:35.962Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "CHEAPA",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:01:58.581Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "CHEAPA",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:02:02.118Z"
   }
 ]
