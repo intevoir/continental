@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kerie",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-09-07T11:26:46.929Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "NGOBROL",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 540,
-    "price_wl": 540,
-    "traded_with": null,
-    "timestamp": "2026-09-07T11:26:46.947Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "e0s",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Crystal Gate",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-07T11:27:17.513Z"
-  },
-  {
     "player1": "Lali",
     "player2": "Renting Station",
     "world": "GOKU67",
@@ -128,5 +89,44 @@
     "price_wl": 14,
     "traded_with": null,
     "timestamp": "2026-09-07T11:29:12.318Z"
+  },
+  {
+    "player1": "MURRY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-09-07T11:30:57.090Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Toybits",
+    "world": "TOPBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-07T11:31:00.878Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MURRY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-09-07T11:31:12.989Z"
   }
 ]
