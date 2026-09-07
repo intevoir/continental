@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "littlestars",
-    "world": "BUYHARVEST",
-    "action": "BUY",
-    "item_name": "Weather Machine - Autumn",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-07T11:33:59.770Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IRMS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-07T11:35:08.738Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NotReforce",
     "world": "BFGPOYO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 38000,
     "traded_with": null,
     "timestamp": "2026-09-07T11:40:24.325Z"
+  },
+  {
+    "player1": "TazzComeback",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-09-07T11:40:51.467Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hanzbot",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 9120,
+    "price_wl": 9120,
+    "traded_with": null,
+    "timestamp": "2026-09-07T11:40:56.477Z"
   }
 ]
