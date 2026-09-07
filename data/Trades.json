@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZannBoys",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-07T03:24:10.935Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Thick []",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-07T03:35:42.266Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNusa",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-07T03:36:56.176Z"
   }
 ]
