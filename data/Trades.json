@@ -5,19 +5,6 @@
     "world": "BLOCKMO",
     "action": "SELL",
     "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3550,
-    "price_wl": 3550,
-    "traded_with": null,
-    "timestamp": "2026-09-07T18:03:08.721Z"
-  },
-  {
-    "player1": "Xenita",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
     "item_count": 1,
     "p_name": "World Locks",
     "p_count": 710,
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-07T18:04:38.312Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xenita",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:04:45.518Z"
   }
 ]
