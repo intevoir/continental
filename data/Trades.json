@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SlayerHunt",
-    "player2": "Buying Machine",
-    "world": "RIO",
-    "action": "SELL",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250000,
-    "price_wl": 250000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T09:01:16.734Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "hasis",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-09-07T09:07:09.171Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HENDIGTPS",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Non La",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-07T09:07:46.454Z"
   }
 ]
