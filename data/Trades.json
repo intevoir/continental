@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BELLLA",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Crystal Gate",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-07T09:43:58.437Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMeius",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-07T09:48:13.647Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PawKing",
+    "world": "BUYROD",
+    "action": "BUY",
+    "item_name": "E-Z Rod",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-07T09:48:26.026Z"
   }
 ]
