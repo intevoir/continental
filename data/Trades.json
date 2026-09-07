@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Hanzbot",
-    "player2": "Renting Station",
-    "world": "CIY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:09:14.747Z"
-  },
-  {
     "player1": "KimmoPerkele",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Vorax",
     "timestamp": "2026-09-07T17:10:52.427Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "eyZaaa",
+    "world": "ESHOP",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:11:28.010Z"
   }
 ]
