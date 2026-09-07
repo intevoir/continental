@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Bellemere",
-    "world": "20MN",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 190,
-    "p_name": "World Locks",
-    "p_count": 19,
-    "price_wl": 19,
-    "traded_with": null,
-    "timestamp": "2026-09-07T19:27:54.155Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SADXABA",
     "world": "PLAZADES",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-07T19:36:07.793Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "BFGRIZA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-07T19:37:31.692Z"
   }
 ]
