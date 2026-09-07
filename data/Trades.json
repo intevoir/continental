@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ezohr",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-07T08:56:40.538Z"
-  },
-  {
     "player1": "Saktyuss",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2920,
     "traded_with": null,
     "timestamp": "2026-09-07T09:00:38.013Z"
+  },
+  {
+    "player1": "@SlayerHunt",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250000,
+    "price_wl": 250000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T09:01:16.734Z"
   }
 ]
