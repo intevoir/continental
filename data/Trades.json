@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@NovaKing",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 740,
-    "price_wl": 740,
-    "traded_with": null,
-    "timestamp": "2026-09-07T14:58:46.484Z"
-  },
-  {
-    "player1": "SADXABA",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-07T14:58:46.497Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sabtugtcool",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-07T15:02:23.051Z"
+  },
+  {
+    "player1": "@OliviaGrowtopia",
+    "player2": "Cynthea",
+    "world": "SAGITN",
+    "action": "TRADE",
+    "item_name": "Builder's Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Cynthea",
+    "timestamp": "2026-09-07T15:02:48.091Z"
+  },
+  {
+    "player1": "Cynthea",
+    "player2": "@OliviaGrowtopia",
+    "world": "SAGITN",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@OliviaGrowtopia",
+    "timestamp": "2026-09-07T15:02:48.092Z"
   }
 ]
