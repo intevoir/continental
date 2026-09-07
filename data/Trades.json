@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kizi",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25000,
-    "price_wl": 25000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T07:56:10.972Z"
-  },
-  {
     "player1": "BeramBir",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 260,
     "traded_with": null,
     "timestamp": "2026-09-07T08:00:13.270Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kizi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T08:00:33.194Z"
   }
 ]
