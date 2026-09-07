@@ -1,31 +1,5 @@
 [
   {
-    "player1": "VitaminD",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T12:10:13.998Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VitaminD",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 1245,
-    "price_wl": 1245,
-    "traded_with": null,
-    "timestamp": "2026-09-07T12:10:32.757Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BAYMAX",
     "world": "SHOP3",
@@ -128,5 +102,31 @@
     "price_wl": 46,
     "traded_with": null,
     "timestamp": "2026-09-07T12:14:30.093Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAziok",
+    "world": "HA",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-07T12:15:11.979Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NoirStride",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T12:15:33.094Z"
   }
 ]
