@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JejeSecond",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-07T05:35:42.436Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Clarishaa",
     "world": "PAPI",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-07T05:38:16.677Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Clarishaa",
+    "world": "PAPI",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-07T05:38:48.168Z"
   }
 ]
