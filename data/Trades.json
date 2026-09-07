@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Kepinthans",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-07T10:04:58.547Z"
-  },
-  {
-    "player1": "Mod []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T10:04:58.563Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vladera [ELITE]",
-    "world": "BFGHTE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-07T10:05:01.858Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Vladera [ELITE]",
     "world": "BFGHTE",
@@ -128,5 +89,44 @@
     "price_wl": 160,
     "traded_with": null,
     "timestamp": "2026-09-07T10:06:03.541Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kepinthans",
+    "world": "FGEIGER",
+    "action": "BUY",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-07T10:07:06.490Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-09-07T10:07:14.091Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-07T10:07:18.710Z"
   }
 ]
