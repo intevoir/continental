@@ -4,19 +4,6 @@
     "player2": "yayakk",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-07T20:45:44.705Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yayakk",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Onion",
     "item_count": 200,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-07T20:57:48.458Z"
+  },
+  {
+    "player1": "yayakk",
+    "player2": "Buying Machine",
+    "world": "BA",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 86,
+    "p_name": "World Locks",
+    "p_count": 344,
+    "price_wl": 344,
+    "traded_with": null,
+    "timestamp": "2026-09-07T21:02:50.311Z"
   }
 ]
