@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDarkSysTems",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T01:49:17.986Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrDarkSysTems",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T01:49:58.777Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZEWOXNUB",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-07T02:03:23.980Z"
+  },
+  {
+    "player1": "Tamid",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 940,
+    "price_wl": 940,
+    "traded_with": null,
+    "timestamp": "2026-09-07T02:04:24.646Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leonecry",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T02:04:24.658Z"
   }
 ]
