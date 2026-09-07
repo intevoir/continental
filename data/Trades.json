@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NATA4",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-07T01:06:37.420Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "blankspace",
     "world": "RIO",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-07T01:16:10.228Z"
+  },
+  {
+    "player1": "BranP",
+    "player2": "Renting Station",
+    "world": "MAUU",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-07T01:16:55.275Z"
   }
 ]
