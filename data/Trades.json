@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Mupnup []",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:56:33.123Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "duma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:56:43.663Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PrinceKyzen",
     "world": "STORES",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-07T17:59:07.057Z"
+  },
+  {
+    "player1": "OKSEN",
+    "player2": "Renting Station",
+    "world": "FIOBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:59:34.503Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NUMBBBSS",
+    "world": "SHOPEM",
+    "action": "BUY",
+    "item_name": "No-Face",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:59:39.163Z"
   }
 ]
