@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BUIJIK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-07T19:32:54.270Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BUIJIK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "No-Face",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T19:32:58.658Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArrangGT",
     "world": "GVEZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-07T19:38:11.452Z"
+  },
+  {
+    "player1": "@Anonimousss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T19:40:57.988Z"
+  },
+  {
+    "player1": "NEXTREME",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-09-07T19:41:01.831Z"
   }
 ]
