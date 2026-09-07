@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Saktyuss",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-07T08:57:05.152Z"
-  },
-  {
-    "player1": "@vow",
-    "player2": "@Yia",
-    "world": "JDDJJD",
-    "action": "TRADE",
-    "item_name": "Legendary Abyssal Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Yia",
-    "timestamp": "2026-09-07T08:57:45.062Z"
-  },
-  {
     "player1": "@Yia",
     "player2": "@vow",
     "world": "JDDJJD",
@@ -128,5 +102,31 @@
     "price_wl": 250000,
     "traded_with": null,
     "timestamp": "2026-09-07T09:01:16.734Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hasis",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T09:02:56.455Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MOOZ",
+    "world": "FIOBFG",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-09-07T09:03:14.254Z"
   }
 ]
