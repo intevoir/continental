@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KimmoPerkele",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 990,
-    "price_wl": 990,
-    "traded_with": null,
-    "timestamp": "2026-09-07T17:03:31.644Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OldSpices",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 1665,
     "traded_with": null,
     "timestamp": "2026-09-07T17:05:13.234Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lunas [ELITE]",
+    "world": "MANDI",
+    "action": "BUY",
+    "item_name": "Black Eye Drops",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-07T17:05:33.671Z"
   }
 ]
