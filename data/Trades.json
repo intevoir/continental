@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SHYSS",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 10080,
-    "price_wl": 10080,
-    "traded_with": null,
-    "timestamp": "2026-09-07T12:30:35.924Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CallMeExa",
     "world": "AWAL",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-07T12:33:27.348Z"
+  },
+  {
+    "player1": "FlashDuck",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 924,
+    "price_wl": 924,
+    "traded_with": null,
+    "timestamp": "2026-09-07T12:34:13.265Z"
   }
 ]
