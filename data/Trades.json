@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Isayaak",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-07T07:15:58.189Z"
-  },
-  {
     "player1": "RickGemoy",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 38000,
     "traded_with": null,
     "timestamp": "2026-09-07T07:24:00.344Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Daapoy",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Plague Doctor Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-07T07:25:27.435Z"
   }
 ]
