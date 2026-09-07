@@ -1,18 +1,5 @@
 [
   {
-    "player1": "fhhf",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 213,
-    "p_name": "World Locks",
-    "p_count": 213,
-    "price_wl": 213,
-    "traded_with": null,
-    "timestamp": "2026-09-07T18:29:20.601Z"
-  },
-  {
     "player1": "Hmo",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-07T18:30:53.799Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SlayerHunt",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:31:51.013Z"
   }
 ]
