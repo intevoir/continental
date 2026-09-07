@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Tamid",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-09-07T02:05:04.918Z"
-  },
-  {
     "player1": "RTX5090",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 1290,
     "traded_with": null,
     "timestamp": "2026-09-07T02:10:05.498Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMythicalFist [ELITE]",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Food Grinder",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-07T02:11:05.412Z"
   }
 ]
