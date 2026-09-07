@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Ancient Plant Seed",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-07T04:51:57.265Z"
-  },
-  {
     "player1": "yorend",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Meanclo",
     "timestamp": "2026-09-07T05:02:13.251Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManTmbuk",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 15200,
+    "price_wl": 15200,
+    "traded_with": null,
+    "timestamp": "2026-09-07T05:03:02.294Z"
   }
 ]
