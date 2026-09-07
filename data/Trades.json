@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HanzIchirou",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Plague Doctor Hat",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T16:49:27.614Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RickGemoy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 370,
-    "price_wl": 370,
-    "traded_with": null,
-    "timestamp": "2026-09-07T16:49:31.068Z"
-  },
-  {
     "player1": "Benihime",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-07T16:51:20.155Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZFIRE",
+    "world": "MARTZ",
+    "action": "BUY",
+    "item_name": "Blueberry Jelly Block",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-07T16:53:12.791Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-07T16:53:32.083Z"
   }
 ]
