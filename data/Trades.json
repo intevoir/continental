@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-07T18:01:58.581Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-07T18:02:02.118Z"
-  },
-  {
     "player1": "Xenita",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-07T18:04:07.988Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NUMBBBSS",
+    "world": "SHOPEM",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:04:38.307Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:04:38.312Z"
   }
 ]
