@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fahrimanu",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
-    "item_name": "Farmer Slave",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 1020,
-    "price_wl": 1020,
-    "traded_with": null,
-    "timestamp": "2026-09-07T15:50:51.531Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "AshenNoir",
     "world": "FREE",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-07T15:54:43.814Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAlezz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-07T15:55:20.174Z"
   }
 ]
