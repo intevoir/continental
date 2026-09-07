@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "akiraz",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Rave Safe Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T08:52:00.137Z"
-  },
-  {
-    "player1": "DANISTA",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-07T08:52:11.165Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BANGYOOOO",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 55000,
     "traded_with": null,
     "timestamp": "2026-09-07T08:54:39.036Z"
+  },
+  {
+    "player1": "DrAlezz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-07T08:54:51.349Z"
+  },
+  {
+    "player1": "Saktyuss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-07T08:55:15.113Z"
   }
 ]
