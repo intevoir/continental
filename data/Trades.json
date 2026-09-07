@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Guwon",
-    "world": "222",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 33600,
-    "price_wl": 33600,
-    "traded_with": null,
-    "timestamp": "2026-09-07T13:01:11.991Z"
-  },
-  {
     "player1": "WAR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-09-07T13:03:27.768Z"
+  },
+  {
+    "player1": "Lanqt",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-07T13:03:47.295Z"
   }
 ]
