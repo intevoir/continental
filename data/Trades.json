@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "huus",
-    "world": "AFJS",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-07T02:27:30.999Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "huus",
-    "world": "AFJS",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-09-07T02:27:37.946Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AltMurrCps",
     "world": "DISPLAY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 130,
     "traded_with": null,
     "timestamp": "2026-09-07T02:34:40.990Z"
+  },
+  {
+    "player1": "Yayoking",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T02:35:16.767Z"
+  },
+  {
+    "player1": "Yayoking",
+    "player2": "Renting Station",
+    "world": "BFGTOWERS",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19040,
+    "price_wl": 19040,
+    "traded_with": null,
+    "timestamp": "2026-09-07T02:35:26.807Z"
   }
 ]
