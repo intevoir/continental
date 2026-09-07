@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Plague Doctor Hat",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-07T07:25:27.435Z"
-  },
-  {
     "player1": "kinnrear",
     "player2": "Renting Station",
     "world": "JNTE",
@@ -128,5 +115,18 @@
     "price_wl": 740,
     "traded_with": null,
     "timestamp": "2026-09-07T07:30:05.250Z"
+  },
+  {
+    "player1": "Hellena",
+    "player2": "Renting Station",
+    "world": "HELL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-07T07:32:11.375Z"
   }
 ]
