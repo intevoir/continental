@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@AppleJuice",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-07T03:45:44.846Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AppleJuice",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 41,
-    "p_name": "World Locks",
-    "p_count": 41,
-    "price_wl": 41,
-    "traded_with": null,
-    "timestamp": "2026-09-07T03:45:53.256Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "hiis",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-07T03:52:03.912Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Barakzz",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T03:52:55.639Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Barakzz",
+    "world": "GIJ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 232,
+    "p_name": "World Locks",
+    "p_count": 1392,
+    "price_wl": 1392,
+    "traded_with": null,
+    "timestamp": "2026-09-07T03:52:55.662Z"
   }
 ]
