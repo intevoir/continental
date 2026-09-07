@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SADXABA",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T19:28:51.334Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "justfun",
-    "world": "GEIGERR",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-07T19:30:52.904Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BUIJIK",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-07T19:37:31.692Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-09-07T19:38:03.273Z"
+  },
+  {
+    "player1": "@Anonimousss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T19:38:11.452Z"
   }
 ]
