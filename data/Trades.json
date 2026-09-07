@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kinnrear",
-    "world": "STOREKILAT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 755,
-    "price_wl": 755,
-    "traded_with": null,
-    "timestamp": "2026-09-07T07:23:20.426Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "TOBRUT",
-    "action": "BUY",
-    "item_name": "Galaxy Aura",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 38000,
-    "price_wl": 38000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T07:24:00.344Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Daapoy",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-07T07:29:30.808Z"
+  },
+  {
+    "player1": "FungCPS",
+    "player2": "Buying Machine",
+    "world": "BFGSICE",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-07T07:29:37.929Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FungCPS",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 740,
+    "price_wl": 740,
+    "traded_with": null,
+    "timestamp": "2026-09-07T07:30:05.250Z"
   }
 ]
