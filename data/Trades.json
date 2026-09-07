@@ -1,31 +1,5 @@
 [
   {
-    "player1": "NATA4 []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 130,
-    "price_wl": 130,
-    "traded_with": null,
-    "timestamp": "2026-09-07T01:06:08.386Z"
-  },
-  {
-    "player1": "blankspace",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6100,
-    "price_wl": 6100,
-    "traded_with": null,
-    "timestamp": "2026-09-07T01:06:37.410Z"
-  },
-  {
     "player1": "NATA4",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 6100,
     "traded_with": null,
     "timestamp": "2026-09-07T01:15:06.945Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JustYourFriend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-09-07T01:16:06.430Z"
+  },
+  {
+    "player1": "AZCUK",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-09-07T01:16:10.228Z"
   }
 ]
