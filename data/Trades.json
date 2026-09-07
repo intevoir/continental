@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DapaGrowtopia",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-07T18:23:02.030Z"
-  },
-  {
     "player1": "MayoCPS2",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-07T18:25:13.481Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Duma",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-09-07T18:25:47.443Z"
   }
 ]
