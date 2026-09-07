@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-07T06:21:39.117Z"
-  },
-  {
     "player1": "Hmo",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-07T06:26:02.525Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ruike",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-07T06:28:38.395Z"
   }
 ]
