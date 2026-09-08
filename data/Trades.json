@@ -4,19 +4,6 @@
     "player2": "StailO",
     "world": "HAI",
     "action": "BUY",
-    "item_name": "Table Lamp",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T19:06:40.383Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "StailO",
-    "world": "HAI",
-    "action": "BUY",
     "item_name": "Space Dirt Background",
     "item_count": 149,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-09-08T19:12:31.741Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DEPOSITT",
+    "world": "JUAL",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T19:15:01.113Z"
   }
 ]
