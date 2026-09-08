@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 38,
-    "p_name": "World Locks",
-    "p_count": 3800,
-    "price_wl": 3800,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:56:43.743Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PENGHANTU",
     "world": "JAEHA",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-08T10:57:44.887Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrPesiar",
+    "world": "JAEHA",
+    "action": "BUY",
+    "item_name": "Purple Laser Scimitar",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 460,
+    "price_wl": 460,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:57:56.237Z"
   }
 ]
