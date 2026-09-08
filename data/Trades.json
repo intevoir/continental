@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "pebstor4",
-    "world": "BFGRALL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-07T22:50:33.101Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kudaprut",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-07T23:04:24.264Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kudaprut",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-08T00:04:57.862Z"
+  },
+  {
+    "player1": "SirRey",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:06:13.014Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fahrimanu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7700,
+    "price_wl": 7700,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:06:13.026Z"
   }
 ]
