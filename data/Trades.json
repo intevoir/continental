@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JokowiDodo",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:40:46.958Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@kexe",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:41:09.875Z"
-  },
-  {
-    "player1": "rafaelsianturi",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:41:09.887Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ArthaSTORE",
-    "world": "PLAZAB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:41:43.838Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@kexe",
     "world": "RENTMURAH",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 0,
     "traded_with": "yayakk",
     "timestamp": "2026-09-08T17:42:13.180Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArthaSTORE",
+    "world": "PLAZAB",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 47,
+    "p_name": "World Locks",
+    "p_count": 282,
+    "price_wl": 282,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:42:44.273Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JokowiDodo",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:42:44.297Z"
+  },
+  {
+    "player1": "Marxz",
+    "player2": "Buying Machine",
+    "world": "BFGIFUN",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 92,
+    "p_name": "World Locks",
+    "p_count": 552,
+    "price_wl": 552,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:43:09.869Z"
+  },
+  {
+    "player1": "Kepinthans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 273,
+    "price_wl": 273,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:43:09.883Z"
   }
 ]
