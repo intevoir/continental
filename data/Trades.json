@@ -1,31 +1,5 @@
 [
   {
-    "player1": "CatBot",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-08T15:09:36.726Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RexxxT",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-08T15:10:12.701Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RexxxT",
     "world": "TOKOC",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-08T15:11:44.265Z"
+  },
+  {
+    "player1": "DrSdach of Legend",
+    "player2": "nembakbisa",
+    "world": "TOO",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 23,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "nembakbisa",
+    "timestamp": "2026-09-08T15:11:48.809Z"
+  },
+  {
+    "player1": "nembakbisa",
+    "player2": "DrSdach of Legend",
+    "world": "TOO",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrSdach of Legend",
+    "timestamp": "2026-09-08T15:11:48.809Z"
   }
 ]
