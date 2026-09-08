@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bugg",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:52:27.273Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dskernas",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:54:16.521Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dskernas",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:54:27.694Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dskernas",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:54:40.015Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Dskernas",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-08T09:57:18.776Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "randzz",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "randzz",
+    "timestamp": "2026-09-08T09:57:52.421Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "randzz",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 70,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "randzz",
+    "timestamp": "2026-09-08T09:57:52.421Z"
+  },
+  {
+    "player1": "randzz",
+    "player2": "spookyfakeh",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "spookyfakeh",
+    "timestamp": "2026-09-08T09:57:52.421Z"
+  },
+  {
+    "player1": "Galonn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:02:35.434Z"
   }
 ]
