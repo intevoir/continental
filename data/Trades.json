@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "StailO",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Superstar Background",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-08T19:07:25.431Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "yayakk",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-09-08T19:18:35.354Z"
+  },
+  {
+    "player1": "Makr",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-09-08T19:19:08.158Z"
   }
 ]
