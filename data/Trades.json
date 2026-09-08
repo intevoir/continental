@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Brokee",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:36:12.346Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17000,
     "traded_with": null,
     "timestamp": "2026-09-08T09:39:29.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GADUNGKU",
+    "world": "TOKO9",
+    "action": "BUY",
+    "item_name": "Cape of Dunes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-08T09:40:08.924Z"
   }
 ]
