@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OnlyDaniel",
-    "player2": "DrDDN",
-    "world": "SPEZ",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 10,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrDDN",
-    "timestamp": "2026-09-08T13:07:16.208Z"
-  },
-  {
-    "player1": "DrDDN",
-    "player2": "OnlyDaniel",
-    "world": "SPEZ",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "OnlyDaniel",
-    "timestamp": "2026-09-08T13:07:16.209Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "X0X0",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 18,
     "traded_with": null,
     "timestamp": "2026-09-08T13:09:53.228Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "X0X0",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T13:10:03.952Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-08T13:10:31.761Z"
   }
 ]
