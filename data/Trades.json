@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "BFGRIZA",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:11:41.081Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 65,
-    "p_name": "World Locks",
-    "p_count": 260,
-    "price_wl": 260,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:12:35.929Z"
-  },
-  {
-    "player1": "spookyfakeh",
-    "player2": "Loord",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 11,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Loord",
-    "timestamp": "2026-09-08T10:12:49.676Z"
-  },
-  {
-    "player1": "Loord",
-    "player2": "spookyfakeh",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "spookyfakeh",
-    "timestamp": "2026-09-08T10:12:49.677Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-08T10:13:47.897Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:14:24.873Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dskernas",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 22000,
+    "price_wl": 22000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:14:24.900Z"
+  },
+  {
+    "player1": "BagasGT",
+    "player2": "Renting Station",
+    "world": "AGE",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:14:24.909Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:14:37.487Z"
   }
 ]
