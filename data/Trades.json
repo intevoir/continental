@@ -1,31 +1,5 @@
 [
   {
-    "player1": "APROUIN",
-    "player2": "Buying Machine",
-    "world": "SRBS",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-09-08T02:22:55.404Z"
-  },
-  {
-    "player1": "sousei",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-08T02:23:22.089Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HanzIchirou",
     "world": "VENDING",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-08T02:36:19.325Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PrinceKyzen",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 145,
+    "p_name": "World Locks",
+    "p_count": 29,
+    "price_wl": 29,
+    "traded_with": null,
+    "timestamp": "2026-09-08T02:36:33.306Z"
+  },
+  {
+    "player1": "DrAntiMahjong",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-09-08T02:36:59.237Z"
   }
 ]
