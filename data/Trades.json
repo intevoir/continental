@@ -10,32 +10,6 @@
     "p_count": 5,
     "price_wl": 5,
     "traded_with": null,
-    "timestamp": "2026-09-08T18:16:57.907Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SenzuParker",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-08T18:16:57.916Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jettcute",
-    "world": "YOKKF25",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
     "timestamp": "2026-09-08T18:16:57.935Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-08T18:19:12.642Z"
+  },
+  {
+    "player1": "Makr",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500000,
+    "price_wl": 3500000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T18:20:00.196Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrStationery",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T18:20:15.821Z"
   }
 ]
