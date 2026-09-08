@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Duma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2350,
-    "price_wl": 2350,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:04:25.738Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "txphone",
-    "world": "GAMBA",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 26250,
-    "price_wl": 26250,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:04:25.747Z"
-  },
-  {
     "player1": "DanDjarin",
     "player2": "Renting Station",
     "world": "HV",
@@ -128,5 +102,31 @@
     "price_wl": 26250,
     "traded_with": null,
     "timestamp": "2026-09-08T17:05:24.787Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "txphone",
+    "world": "GAMBA",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 193,
+    "p_name": "World Locks",
+    "p_count": 20265,
+    "price_wl": 20265,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:05:36.855Z"
+  },
+  {
+    "player1": "@LOCK [ELITE]",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:05:36.859Z"
   }
 ]
