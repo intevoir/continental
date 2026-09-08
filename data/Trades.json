@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:44:17.084Z"
-  },
-  {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "D Battery",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:44:17.093Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cocopie",
-    "world": "GAMBA",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:44:18.930Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Cocopie",
     "world": "GAMBA",
@@ -128,5 +89,44 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-08T16:45:45.705Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bellemere",
+    "world": "BFGRAL",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 735,
+    "price_wl": 735,
+    "traded_with": null,
+    "timestamp": "2026-09-08T16:46:14.818Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Alliance",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-08T16:46:14.829Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "BFGRIZA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-08T16:46:14.844Z"
   }
 ]
