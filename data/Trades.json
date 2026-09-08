@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Cieloo",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-08T04:27:10.719Z"
-  },
-  {
-    "player1": "longkzrsx",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-08T04:28:15.295Z"
-  },
-  {
     "player1": "longkzrsx",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-08T04:33:42.851Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Osas",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150000,
+    "price_wl": 150000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T04:34:44.349Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Osas",
+    "world": "GAMBA",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150000,
+    "price_wl": 150000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T04:34:44.361Z"
   }
 ]
