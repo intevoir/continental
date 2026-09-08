@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KaiSmitch",
-    "world": "AOV",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T18:33:34.772Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jettcute",
-    "world": "VENDBO",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T18:33:39.190Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "day1cariduit",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-08T18:40:09.183Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 27,
+    "price_wl": 27,
+    "traded_with": null,
+    "timestamp": "2026-09-08T18:41:41.962Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-08T18:42:10.198Z"
   }
 ]
