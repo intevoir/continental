@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-08T05:20:48.088Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Arsad",
     "world": "GAMBA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-08T05:23:20.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LTUP",
+    "world": "NRV",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T05:23:49.490Z"
   }
 ]
