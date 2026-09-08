@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DEPOSITT",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-08T19:15:01.113Z"
-  },
-  {
     "player1": "Makr",
     "player2": "Buying Machine",
     "world": "TXPHONE",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-09-08T19:23:05.621Z"
+  },
+  {
+    "player1": "Rei104 [ELITE]",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 26000,
+    "price_wl": 26000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T19:24:38.266Z"
   }
 ]
