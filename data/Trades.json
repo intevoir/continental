@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MsQe",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T12:26:48.529Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Szczakowa",
     "world": "BFGADVAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4200,
     "traded_with": null,
     "timestamp": "2026-09-08T12:31:41.193Z"
+  },
+  {
+    "player1": "GinzPlayerLegal",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-09-08T12:32:03.810Z"
   }
 ]
