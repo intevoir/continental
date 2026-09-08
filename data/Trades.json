@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hellena",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 91,
-    "p_name": "World Locks",
-    "p_count": 69160,
-    "price_wl": 69160,
-    "traded_with": null,
-    "timestamp": "2026-09-08T09:29:03.437Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Becker",
     "world": "OCBC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30030,
     "traded_with": null,
     "timestamp": "2026-09-08T09:32:05.589Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BAYMAX",
+    "world": "SHOP3",
+    "action": "BUY",
+    "item_name": "Gateway To Adventure",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T09:32:19.457Z"
   }
 ]
