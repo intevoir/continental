@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Chrost",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-08T11:10:49.013Z"
-  },
-  {
-    "player1": "LTUP",
-    "player2": "Renting Station",
-    "world": "GOKU67",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-09-08T11:10:49.036Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ler",
     "world": "BFGYE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-08T11:12:56.650Z"
+  },
+  {
+    "player1": "ler",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-08T11:13:56.906Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "justfun",
+    "world": "TOKOT",
+    "action": "BUY",
+    "item_name": "Waterslide Strut",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-08T11:14:20.496Z"
   }
 ]
