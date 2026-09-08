@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Z4RU",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-08T12:53:27.771Z"
-  },
-  {
-    "player1": "@ELCYAN []",
-    "player2": "Buying Machine",
-    "world": "BFGADVAN",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 560,
-    "price_wl": 560,
-    "traded_with": null,
-    "timestamp": "2026-09-08T12:53:50.255Z"
-  },
-  {
     "player1": "DoniCihuy",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +102,31 @@
     "price_wl": 235,
     "traded_with": null,
     "timestamp": "2026-09-08T12:54:53.824Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PENGHANTU",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-09-08T12:55:02.295Z"
+  },
+  {
+    "player1": "DoniCihuy",
+    "player2": "Buying Machine",
+    "world": "BENZYL",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 55,
+    "p_name": "World Locks",
+    "p_count": 2475,
+    "price_wl": 2475,
+    "traded_with": null,
+    "timestamp": "2026-09-08T12:55:16.117Z"
   }
 ]
