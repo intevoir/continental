@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AkuRioo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T00:13:30.518Z"
-  },
-  {
-    "player1": "SirRey",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-08T00:13:34.343Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SLOWMOTIONS",
     "world": "SHOP2",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-08T00:17:21.233Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:19:03.865Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:19:03.875Z"
   }
 ]
