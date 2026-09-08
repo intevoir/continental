@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Einststak",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:44:32.263Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cocopie",
     "world": "GAMBA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8820,
     "traded_with": null,
     "timestamp": "2026-09-08T16:46:55.055Z"
+  },
+  {
+    "player1": "EyesNightMare",
+    "player2": "Renting Station",
+    "world": "TXPHONE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-08T16:47:15.262Z"
   }
 ]
