@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KINGZUEE",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 74,
-    "p_name": "World Locks",
-    "p_count": 74,
-    "price_wl": 74,
-    "traded_with": null,
-    "timestamp": "2026-09-08T04:00:27.631Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KINGZUEE",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-08T04:02:28.287Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Choii",
+    "world": "BUTIK",
+    "action": "BUY",
+    "item_name": "Ezio's Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-08T04:03:56.488Z"
   }
 ]
