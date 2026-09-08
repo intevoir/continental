@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@AnggaStore",
-    "world": "BFGS5",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:21:36.360Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OldSpices",
-    "world": "FGEIGER",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:21:51.134Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OldSpices",
     "world": "FGEIGER",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 46,
     "traded_with": null,
     "timestamp": "2026-09-08T10:23:59.054Z"
+  },
+  {
+    "player1": "lazaras",
+    "player2": "Buying Machine",
+    "world": "ABCX",
+    "action": "SELL",
+    "item_name": "ATM Machine",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:24:40.923Z"
+  },
+  {
+    "player1": "VLAPA",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:24:52.169Z"
   }
 ]
