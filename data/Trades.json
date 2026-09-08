@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@AnggaStore",
-    "world": "BUYSONGPEON",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 163,
-    "p_name": "World Locks",
-    "p_count": 326,
-    "price_wl": 326,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:25:45.541Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AnggaStore",
-    "world": "BUYSONGPEON",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-08T10:25:49.948Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrDetac",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-08T10:28:38.166Z"
+  },
+  {
+    "player1": "Pasang",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:29:00.765Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JANAHUY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47,
+    "price_wl": 47,
+    "traded_with": null,
+    "timestamp": "2026-09-08T10:29:00.775Z"
   }
 ]
