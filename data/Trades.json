@@ -1,18 +1,5 @@
 [
   {
-    "player1": "GinzPlayerLegal",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-08T12:26:13.183Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GinzPlayerLegal",
     "world": "RSS",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-08T12:30:40.318Z"
+  },
+  {
+    "player1": "BELLLA",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-08T12:31:00.691Z"
   }
 ]
