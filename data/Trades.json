@@ -1,44 +1,5 @@
 [
   {
-    "player1": "MIRAAS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 430,
-    "price_wl": 430,
-    "traded_with": null,
-    "timestamp": "2026-09-07T23:58:09.841Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ItsDva",
-    "world": "PH",
-    "action": "BUY",
-    "item_name": "Ghostking's Glory",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-07T23:59:57.084Z"
-  },
-  {
-    "player1": "SirRey",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-09-08T00:02:57.103Z"
-  },
-  {
     "player1": "najibtwindiddy",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +89,44 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-08T00:13:30.518Z"
+  },
+  {
+    "player1": "SirRey",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:13:34.343Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "SHOP2",
+    "action": "BUY",
+    "item_name": "Blue Star Shoes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:14:02.332Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xentenz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:14:02.347Z"
   }
 ]
