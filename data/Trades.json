@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Orrey",
-    "player2": "Renting Station",
-    "world": "48",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:15:00.708Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "StailO",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-08T17:17:02.170Z"
+  },
+  {
+    "player1": "Lyans",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:17:37.949Z"
   }
 ]
