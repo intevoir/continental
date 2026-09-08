@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrKaiizie",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T22:46:30.213Z"
-  },
-  {
     "player1": "GinzPlayerLegal",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-08T22:52:08.895Z"
+  },
+  {
+    "player1": "Hanzbot",
+    "player2": "Renting Station",
+    "world": "CIY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-08T22:53:10.004Z"
   }
 ]
