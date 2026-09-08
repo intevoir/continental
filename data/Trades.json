@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PrinceKyzen",
-    "player2": "Buying Machine",
-    "world": "BENZYL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-08T05:09:08.728Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrZanpro",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-09-08T05:10:06.906Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZanpro",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-09-08T05:10:43.526Z"
   }
 ]
