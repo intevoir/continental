@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NakPeguyangan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-08T00:13:02.416Z"
-  },
-  {
-    "player1": "SirRey",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-08T00:13:21.858Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AkuRioo",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-08T00:16:03.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "SHOP2",
+    "action": "BUY",
+    "item_name": "House Entrance",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:17:17.974Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNusa",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-09-08T00:17:21.233Z"
   }
 ]
