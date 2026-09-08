@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "GEIGERO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 72,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:24:09.054Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "YapYap12 [SUPER]",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-08T17:25:33.749Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pepeks",
+    "world": "BFGTOWERS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:25:42.244Z"
   }
 ]
