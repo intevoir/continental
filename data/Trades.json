@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "jamalgokil",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-08T03:02:07.251Z"
-  },
-  {
     "player1": "@KAU []",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-08T03:08:04.266Z"
+  },
+  {
+    "player1": "OKSEN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-08T03:09:39.755Z"
   }
 ]
