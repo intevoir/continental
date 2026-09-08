@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-08T19:23:05.621Z"
-  },
-  {
     "player1": "Rei104 [ELITE]",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2750,
     "traded_with": null,
     "timestamp": "2026-09-08T19:34:25.429Z"
+  },
+  {
+    "player1": "Valerian",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-08T19:35:10.756Z"
   }
 ]
