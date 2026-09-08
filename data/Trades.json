@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "StailO",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:39:42.306Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "StailO",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Neon Live Sign",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:39:46.589Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@kexe",
     "world": "RENTMURAH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-08T17:40:46.958Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@kexe",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:41:09.875Z"
+  },
+  {
+    "player1": "rafaelsianturi",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:41:09.887Z"
   }
 ]
