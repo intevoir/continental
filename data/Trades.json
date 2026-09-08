@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fhhf",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 4560,
-    "price_wl": 4560,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:40:46.941Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Venzkyy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:40:46.948Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JokowiDodo",
     "world": "TOKO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-08T17:41:52.392Z"
+  },
+  {
+    "player1": "yayakk",
+    "player2": "Xenita",
+    "world": "BFGBWF",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Xenita",
+    "timestamp": "2026-09-08T17:42:13.179Z"
+  },
+  {
+    "player1": "Xenita",
+    "player2": "yayakk",
+    "world": "BFGBWF",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "yayakk",
+    "timestamp": "2026-09-08T17:42:13.180Z"
   }
 ]
