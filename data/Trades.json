@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Bellemere",
-    "world": "BFGRAL",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 735,
-    "price_wl": 735,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:46:14.818Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Alliance",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-08T16:46:14.829Z"
-  },
-  {
     "player1": "Bellemere",
     "player2": "Buying Machine",
     "world": "BFGRIZA",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-08T16:50:41.589Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Kainyx",
+    "world": "K42",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kainyx",
+    "timestamp": "2026-09-08T16:51:17.789Z"
+  },
+  {
+    "player1": "Kainyx",
+    "player2": "SHYSS",
+    "world": "K42",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SHYSS",
+    "timestamp": "2026-09-08T16:51:17.789Z"
   }
 ]
