@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Kepinthans",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:14:52.066Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kepinthans",
-    "world": "FGEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-08T17:14:57.328Z"
-  },
-  {
     "player1": "Orrey",
     "player2": "Renting Station",
     "world": "48",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-08T17:16:35.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "StailO",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Streetlamp",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:16:49.396Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "StailO",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T17:17:02.170Z"
   }
 ]
