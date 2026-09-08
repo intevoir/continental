@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrxXFailureXx",
-    "player2": "ZFIRE",
-    "world": "PCJP",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ZFIRE",
-    "timestamp": "2026-09-08T15:53:30.893Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "GAMBA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-08T15:54:38.703Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "GAMBA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-08T15:54:40.409Z"
-  },
-  {
     "player1": "DausPTHT",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +89,44 @@
     "price_wl": 44,
     "traded_with": null,
     "timestamp": "2026-09-08T15:56:58.395Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyDaniel",
+    "world": "GAMBA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T15:57:32.443Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyDaniel",
+    "world": "GAMBA",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 105,
+    "price_wl": 105,
+    "traded_with": null,
+    "timestamp": "2026-09-08T15:57:32.524Z"
+  },
+  {
+    "player1": "GinzPlayerLegal",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-08T15:57:32.533Z"
   }
 ]
