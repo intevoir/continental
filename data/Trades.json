@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Pepper",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-08T05:15:01.076Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrZanpro",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-08T05:15:18.145Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RickGemoy",
     "world": "AKA777",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-08T05:17:17.461Z"
+  },
+  {
+    "player1": "JANAHUY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 92,
+    "p_name": "World Locks",
+    "p_count": 644,
+    "price_wl": 644,
+    "traded_with": null,
+    "timestamp": "2026-09-08T05:17:46.591Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZanpro",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-08T05:17:46.605Z"
   }
 ]
