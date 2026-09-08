@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "0BBA",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-08T05:48:05.532Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OldSpices",
     "world": "WIRAFARM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-08T05:51:15.096Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caterine",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Wizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T05:52:28.378Z"
   }
 ]
