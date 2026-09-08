@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrAntiMahjong",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Neptune's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-08T01:55:44.217Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Choii",
-    "world": "TRADE",
-    "action": "BUY",
-    "item_name": "Draconic Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-08T01:58:13.928Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VitaminD",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 84,
     "traded_with": null,
     "timestamp": "2026-09-08T02:04:17.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SHA [SUPER] [PRO ]",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 68,
+    "p_name": "World Locks",
+    "p_count": 510000,
+    "price_wl": 510000,
+    "traded_with": null,
+    "timestamp": "2026-09-08T02:04:47.338Z"
+  },
+  {
+    "player1": "Drwillyam",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-08T02:04:47.348Z"
   }
 ]
