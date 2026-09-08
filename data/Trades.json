@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NEXTREME",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-08T19:21:04.567Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KaiSmitch",
     "world": "BFGNG",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "SHYSS",
     "timestamp": "2026-09-08T19:30:16.015Z"
+  },
+  {
+    "player1": "Makr",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-09-08T19:32:10.372Z"
   }
 ]
