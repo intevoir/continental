@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AwRv",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-09T04:20:41.906Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tiankong",
     "world": "SHOPEM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-09T04:22:36.163Z"
+  },
+  {
+    "player1": "nandi200",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1350,
+    "price_wl": 1350,
+    "traded_with": null,
+    "timestamp": "2026-09-09T04:23:40.454Z"
   }
 ]
