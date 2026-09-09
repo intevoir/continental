@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "StailO",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-09T03:12:48.376Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Snowends",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-09T03:14:20.736Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HanSukaChristy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-09T03:17:12.371Z"
+  },
+  {
+    "player1": "Achiless",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3525,
+    "price_wl": 3525,
+    "traded_with": null,
+    "timestamp": "2026-09-09T03:18:02.428Z"
+  },
+  {
+    "player1": "Snowends",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-09T03:18:21.815Z"
   }
 ]
