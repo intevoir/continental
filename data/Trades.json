@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Pieya",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-09T00:29:44.233Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cavets",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-09T00:30:00.812Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Chances",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-09T00:46:50.696Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Djong",
+    "world": "TOPBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-09-09T00:47:51.441Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Djong",
+    "world": "TOPBFG",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-09T00:47:51.480Z"
   }
 ]
