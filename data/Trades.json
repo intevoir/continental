@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AkuRioo",
-    "world": "BUYBRIEF",
-    "action": "BUY",
-    "item_name": "Legal Briefs",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-09T12:24:45.420Z"
-  },
-  {
     "player1": "Rp25",
     "player2": "Renting Station",
     "world": "AMAZON",
@@ -128,5 +115,18 @@
     "price_wl": 13,
     "traded_with": null,
     "timestamp": "2026-09-09T12:27:17.331Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BAYMAX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-09T12:27:47.101Z"
   }
 ]
