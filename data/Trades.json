@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dragonoid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 126,
-    "p_name": "World Locks",
-    "p_count": 630,
-    "price_wl": 630,
-    "traded_with": null,
-    "timestamp": "2026-09-09T09:13:24.879Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dragonoid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 125,
-    "p_name": "World Locks",
-    "p_count": 1125,
-    "price_wl": 1125,
-    "traded_with": null,
-    "timestamp": "2026-09-09T09:14:19.746Z"
-  },
-  {
     "player1": "LIENO",
     "player2": "Buying Machine",
     "world": "FREE",
@@ -128,5 +102,31 @@
     "price_wl": 1017,
     "traded_with": null,
     "timestamp": "2026-09-09T09:19:13.219Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dragonoid",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 137,
+    "p_name": "World Locks",
+    "p_count": 1370,
+    "price_wl": 1370,
+    "traded_with": null,
+    "timestamp": "2026-09-09T09:19:31.050Z"
+  },
+  {
+    "player1": "GinzzVoldigoad",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 76,
+    "price_wl": 76,
+    "traded_with": null,
+    "timestamp": "2026-09-09T09:19:34.794Z"
   }
 ]
