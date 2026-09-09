@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NongStore",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T16:20:35.132Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMythicalFist [ELITE]",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-09-09T16:23:09.363Z"
+  },
+  {
+    "player1": "NongStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 52,
+    "p_name": "World Locks",
+    "p_count": 312,
+    "price_wl": 312,
+    "traded_with": null,
+    "timestamp": "2026-09-09T16:23:45.571Z"
   }
 ]
