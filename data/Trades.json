@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RAFABW [ELITE]",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-09T07:13:43.013Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "deVarley",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-09T07:15:26.504Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Duma",
+    "world": "JUAL",
+    "action": "BUY",
+    "item_name": "Posh Portrait",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-09T07:15:47.856Z"
   }
 ]
