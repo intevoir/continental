@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lLikeStrayberry",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-09T06:57:25.921Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lali",
     "world": "STOREZ",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-09T07:02:38.427Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Neffyk",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T07:03:22.810Z"
   }
 ]
