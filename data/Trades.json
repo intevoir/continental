@@ -4,19 +4,6 @@
     "player2": "yuwen",
     "world": "MARKET",
     "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-09T23:17:21.659Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yuwen",
-    "world": "MARKET",
-    "action": "BUY",
     "item_name": "Antigravity Generator",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-09T23:26:23.911Z"
+  },
+  {
+    "player1": "NongStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 1045,
+    "price_wl": 1045,
+    "traded_with": null,
+    "timestamp": "2026-09-09T23:28:32.476Z"
   }
 ]
