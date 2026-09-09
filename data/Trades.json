@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-09T15:56:52.904Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Venzkyy",
-    "world": "GAMBA",
-    "action": "BUY",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-09T15:57:24.836Z"
-  },
-  {
-    "player1": "obitoX",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 2375,
-    "price_wl": 2375,
-    "traded_with": null,
-    "timestamp": "2026-09-09T15:57:24.853Z"
-  },
-  {
-    "player1": "Makr",
-    "player2": "Buying Machine",
-    "world": "55",
-    "action": "SELL",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3600000,
-    "price_wl": 3600000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T15:57:24.862Z"
-  },
-  {
     "player1": "txphone",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 2750,
     "traded_with": null,
     "timestamp": "2026-09-09T15:58:45.584Z"
+  },
+  {
+    "player1": "DrAndros",
+    "player2": "@SELL",
+    "world": "ANDROSSS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 6,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@SELL",
+    "timestamp": "2026-09-09T15:59:26.079Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "DrAndros",
+    "world": "ANDROSSS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAndros",
+    "timestamp": "2026-09-09T15:59:26.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Venzkyy",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-09T15:59:26.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BaliPeople",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-09T15:59:26.093Z"
   }
 ]
