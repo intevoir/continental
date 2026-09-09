@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JulTzy",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Scarf of Chains",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-09T13:11:37.097Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSFC",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21,
     "traded_with": null,
     "timestamp": "2026-09-09T13:13:37.851Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bryannaru",
+    "world": "BUYDONATE",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-09T13:13:55.128Z"
   }
 ]
