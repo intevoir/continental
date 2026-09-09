@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BobMarlay",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 144,
-    "price_wl": 144,
-    "traded_with": null,
-    "timestamp": "2026-09-09T20:43:07.825Z"
-  },
-  {
     "player1": "Tamid",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +115,18 @@
     "price_wl": 7100,
     "traded_with": null,
     "timestamp": "2026-09-09T20:52:38.263Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dskernas",
+    "world": "SHOPEM",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-09T20:56:37.619Z"
   }
 ]
