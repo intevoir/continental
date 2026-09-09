@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Trovsen",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-09T18:08:58.022Z"
-  },
-  {
     "player1": "Kingael",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-09T18:11:13.308Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ordoo",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Cultist Hood",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T18:11:58.895Z"
   }
 ]
