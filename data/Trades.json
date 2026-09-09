@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Menoly",
-    "player2": "Buying Machine",
-    "world": "BFG12",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 720,
-    "price_wl": 720,
-    "traded_with": null,
-    "timestamp": "2026-09-09T05:20:47.387Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Winn []",
     "world": "TOKOZ",
@@ -128,5 +115,18 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-09-09T05:23:54.119Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rhiana",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Tied-up Buns",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-09T05:25:05.044Z"
   }
 ]
