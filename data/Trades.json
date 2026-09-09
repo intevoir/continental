@@ -1,18 +1,5 @@
 [
   {
-    "player1": "IZZYY",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2100,
-    "price_wl": 2100,
-    "traded_with": null,
-    "timestamp": "2026-09-09T19:26:40.732Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IZZYY",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-09T19:37:58.117Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyDaniel",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 149,
+    "p_name": "World Locks",
+    "p_count": 745,
+    "price_wl": 745,
+    "traded_with": null,
+    "timestamp": "2026-09-09T19:38:41.480Z"
   }
 ]
