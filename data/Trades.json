@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Chrost",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-09T01:31:23.127Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAFABW",
     "world": "ARROZJAK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-09-09T01:34:28.307Z"
+  },
+  {
+    "player1": "Oless",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 715,
+    "price_wl": 715,
+    "traded_with": null,
+    "timestamp": "2026-09-09T01:35:11.336Z"
   }
 ]
