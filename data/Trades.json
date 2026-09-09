@@ -1,18 +1,5 @@
 [
   {
-    "player1": "rafaelsianturi",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-09T17:45:05.652Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrVanzzOp",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-09T17:48:12.275Z"
+  },
+  {
+    "player1": "DrVanzzOp",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-09T17:48:51.197Z"
   }
 ]
