@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drl4q",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-09-09T13:14:38.547Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JulTzy",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-09T13:16:13.464Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JulTzy",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "World Owner Blingin' Chain",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-09T13:17:07.945Z"
   }
 ]
