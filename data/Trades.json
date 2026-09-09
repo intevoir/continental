@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BobMarlay",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 96,
-    "price_wl": 96,
-    "traded_with": null,
-    "timestamp": "2026-09-09T20:52:11.957Z"
-  },
-  {
     "player1": "Dskernas",
     "player2": "Buying Machine",
     "world": "FIOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-09T20:58:17.484Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dskernas",
+    "world": "SHOPEM",
+    "action": "BUY",
+    "item_name": "Gem Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-09T20:59:23.102Z"
   }
 ]
