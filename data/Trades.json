@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dskernas",
-    "world": "BUYJJK",
-    "action": "BUY",
-    "item_name": "Jujutsu Shoes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-09T08:53:06.029Z"
-  },
-  {
     "player1": "kaiituru1",
     "player2": "Buying Machine",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-09T08:56:06.960Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-09T08:57:07.924Z"
   }
 ]
