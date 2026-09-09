@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MurrCps",
-    "world": "BTI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 136000,
-    "price_wl": 136000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T12:00:57.078Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTAMBOL",
-    "world": "BFGKYNA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 11703,
-    "price_wl": 11703,
-    "traded_with": null,
-    "timestamp": "2026-09-09T12:01:00.790Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrTAMBOL",
     "world": "BFGKYNA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1360,
     "traded_with": null,
     "timestamp": "2026-09-09T12:01:50.946Z"
+  },
+  {
+    "player1": "LOVEKLEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 16560,
+    "price_wl": 16560,
+    "traded_with": null,
+    "timestamp": "2026-09-09T12:02:37.817Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AltMurrCps",
+    "world": "BTI",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 13600,
+    "price_wl": 13600,
+    "traded_with": null,
+    "timestamp": "2026-09-09T12:02:37.826Z"
   }
 ]
