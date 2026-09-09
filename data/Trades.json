@@ -1,18 +1,5 @@
 [
   {
-    "player1": "fhhf",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 58,
-    "p_name": "World Locks",
-    "p_count": 5510,
-    "price_wl": 5510,
-    "traded_with": null,
-    "timestamp": "2026-09-09T05:12:34.763Z"
-  },
-  {
     "player1": "Khyto",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 8640,
     "traded_with": null,
     "timestamp": "2026-09-09T05:17:06.107Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOSM",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-09T05:17:51.417Z"
   }
 ]
