@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Crystal of Legend [PRO ]",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T13:45:54.542Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AppleJuice",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T13:45:54.546Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@AppleJuice",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-09-09T13:48:14.541Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ALNSC",
+    "world": "ZX4",
+    "action": "BUY",
+    "item_name": "Grey Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-09T13:49:22.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SELL",
+    "world": "DYOW",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T13:49:43.601Z"
   }
 ]
