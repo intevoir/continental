@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BakriiZy [ELITE]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T17:11:48.040Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BakriiZy [ELITE]",
-    "world": "ARROZJAK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-09T17:12:00.902Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KingEclipse",
     "world": "SHOP",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-09T17:13:05.184Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingEclipse",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Da Vinci Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-09T17:13:09.940Z"
+  },
+  {
+    "player1": "Suprimee",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-09T17:13:37.211Z"
   }
 ]
