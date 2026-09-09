@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrLolly",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 27000,
-    "price_wl": 27000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T06:56:32.478Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Duma",
     "world": "JUAL",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-09-09T06:58:36.845Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BosPlenger",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T06:59:26.055Z"
   }
 ]
