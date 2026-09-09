@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iBelut",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-09T18:39:32.533Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ler",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 340,
-    "price_wl": 340,
-    "traded_with": null,
-    "timestamp": "2026-09-09T18:39:41.021Z"
-  },
-  {
     "player1": "kaiituru1",
     "player2": "Buying Machine",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-09T18:42:39.030Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iBelut",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-09T18:43:20.056Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 165,
+    "price_wl": 165,
+    "traded_with": null,
+    "timestamp": "2026-09-09T18:43:23.823Z"
   }
 ]
