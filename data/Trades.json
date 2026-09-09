@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NontonYoutube",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-09T02:44:37.900Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Obskura",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-09T02:48:58.046Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NontonYoutube",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-09-09T02:49:40.145Z"
   }
 ]
