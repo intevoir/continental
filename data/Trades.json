@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Haxed",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-09T00:24:01.686Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ManusiaTeladan",
     "world": "JAEHA",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-09T00:28:03.056Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pieya",
+    "world": "PLAZADES",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-09-09T00:28:51.035Z"
   }
 ]
