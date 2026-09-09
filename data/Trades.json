@@ -4,19 +4,6 @@
     "player2": "Devil of Legend",
     "world": "VENDSHOP",
     "action": "BUY",
-    "item_name": "Royal Deck of Cards",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-09T11:04:54.098Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Devil of Legend",
-    "world": "VENDSHOP",
-    "action": "BUY",
     "item_name": "Arcane Armor",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-09T11:09:55.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devil of Legend",
+    "world": "BUYRED",
+    "action": "BUY",
+    "item_name": "Fenyx's Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-09T11:10:05.388Z"
   }
 ]
