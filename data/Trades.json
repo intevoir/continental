@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Vexo",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119000,
-    "price_wl": 119000,
-    "traded_with": null,
-    "timestamp": "2026-09-09T01:37:20.184Z"
-  },
-  {
     "player1": "Zeta",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-09T01:43:45.347Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "napake",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 44,
+    "price_wl": 44,
+    "traded_with": null,
+    "timestamp": "2026-09-09T01:45:14.183Z"
   }
 ]
