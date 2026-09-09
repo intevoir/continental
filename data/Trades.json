@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kingael",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-09T06:20:19.206Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kingael",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-09T06:20:26.371Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Duma",
     "world": "JUAL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2220,
     "traded_with": null,
     "timestamp": "2026-09-09T06:26:37.389Z"
+  },
+  {
+    "player1": "DrRseon",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Hellfire Horns - Ruby",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T06:27:08.378Z"
+  },
+  {
+    "player1": "Thekindman",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-09T06:27:08.391Z"
   }
 ]
