@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KNOW",
-    "world": "BUYCHAND",
-    "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-09T11:26:23.743Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iLivy",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-09T11:32:06.342Z"
+  },
+  {
+    "player1": "ABILLL",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-09-09T11:33:15.202Z"
   }
 ]
