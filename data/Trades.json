@@ -4,19 +4,6 @@
     "player2": "DOPEGT",
     "world": "FIOBFG",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-09T08:10:51.673Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DOPEGT",
-    "world": "FIOBFG",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-09T08:16:54.483Z"
+  },
+  {
+    "player1": "Dskernas",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 560,
+    "price_wl": 560,
+    "traded_with": null,
+    "timestamp": "2026-09-09T08:17:11.481Z"
   }
 ]
