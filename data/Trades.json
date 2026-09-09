@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nosferatuu",
-    "world": "CERAH",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-09T02:56:41.780Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nosferatuu",
-    "world": "CERAH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-09T02:56:41.787Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Obskura",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-09T03:05:07.582Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AbySukaaBgl",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 153,
+    "price_wl": 153,
+    "traded_with": null,
+    "timestamp": "2026-09-09T03:05:46.235Z"
+  },
+  {
+    "player1": "Nosferatuu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-09T03:06:14.248Z"
   }
 ]
