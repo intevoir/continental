@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "flacooo",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-09T07:48:57.392Z"
-  },
-  {
     "player1": "BramBir",
     "player2": "Buying Machine",
     "world": "RSS",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-09T07:51:54.988Z"
+  },
+  {
+    "player1": "BramBir",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-09T07:52:43.097Z"
   }
 ]
