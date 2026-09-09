@@ -1,32 +1,6 @@
 [
   {
     "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "BFGOUS",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 61,
-    "p_name": "World Locks",
-    "p_count": 427,
-    "price_wl": 427,
-    "traded_with": null,
-    "timestamp": "2026-09-09T21:38:18.567Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yuwen",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-09T21:41:30.126Z"
-  },
-  {
-    "player1": "littlestars",
     "player2": "Renting Station",
     "world": "BUY",
     "action": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-09T21:49:48.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "REKOI",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14300,
+    "price_wl": 14300,
+    "traded_with": null,
+    "timestamp": "2026-09-09T21:51:44.682Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "REKOI",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3575,
+    "price_wl": 3575,
+    "traded_with": null,
+    "timestamp": "2026-09-09T21:51:52.530Z"
   }
 ]
