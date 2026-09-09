@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZanButuhOntel",
-    "player2": "Buying Machine",
-    "world": "PLAZADES",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 220,
-    "p_name": "World Locks",
-    "p_count": 5280,
-    "price_wl": 5280,
-    "traded_with": null,
-    "timestamp": "2026-09-09T02:12:58.349Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrFlatscreen",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 115,
     "traded_with": null,
     "timestamp": "2026-09-09T02:25:58.901Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caletha",
+    "world": "DPR",
+    "action": "BUY",
+    "item_name": "Non La",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-09T02:26:58.615Z"
   }
 ]
