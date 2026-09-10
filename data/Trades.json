@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Obskura",
-    "world": "BFGNABI",
-    "action": "BUY",
-    "item_name": "Lightning Horns",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-10T05:59:50.013Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:00:19.917Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kaiituru1",
     "world": "RSS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 27500,
     "traded_with": null,
     "timestamp": "2026-09-10T06:06:22.338Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@TML",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:07:22.620Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 280,
+    "price_wl": 280,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:07:22.704Z"
   }
 ]
