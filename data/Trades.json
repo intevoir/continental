@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KampialCps",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 77500,
-    "price_wl": 77500,
-    "traded_with": null,
-    "timestamp": "2026-09-10T01:25:11.140Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EinstSkar",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 61,
-    "p_name": "World Locks",
-    "p_count": 610,
-    "price_wl": 610,
-    "traded_with": null,
-    "timestamp": "2026-09-10T01:29:13.116Z"
-  },
-  {
     "player1": "KampialCps",
     "player2": "Renting Station",
     "world": "BFGTOWERS",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-10T01:32:13.883Z"
+  },
+  {
+    "player1": "AwRv",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T01:33:13.503Z"
+  },
+  {
+    "player1": "AwRv",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T01:33:13.516Z"
   }
 ]
