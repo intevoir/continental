@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nosferatuu",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:47:00.348Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nosferatuu",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:47:00.404Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MOROS",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-10T06:50:05.141Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 17,
+    "price_wl": 17,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:51:01.927Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:51:11.047Z"
   }
 ]
