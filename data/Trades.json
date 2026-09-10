@@ -4,32 +4,6 @@
     "player2": "Arengentong []",
     "world": "HSHOP",
     "action": "BUY",
-    "item_name": "Portcullis",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-10T22:46:44.544Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Arengentong []",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "TROLL Mannequin",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-10T22:47:19.187Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Arengentong []",
-    "world": "HSHOP",
-    "action": "BUY",
     "item_name": "Wooden Platform",
     "item_count": 200,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-10T22:52:22.733Z"
+  },
+  {
+    "player1": "xcva",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-10T22:52:41.649Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arengentong []",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Heartcastle Stone",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-10T22:52:45.848Z"
   }
 ]
