@@ -10,19 +10,6 @@
     "p_count": 750,
     "price_wl": 750,
     "traded_with": null,
-    "timestamp": "2026-09-10T18:43:15.235Z"
-  },
-  {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "GEIGERO",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
     "timestamp": "2026-09-10T18:43:20.232Z"
   },
   {
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-10T18:49:32.846Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Chaos Corruption",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:50:17.349Z"
   }
 ]
