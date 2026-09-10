@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BOBBIGT",
-    "world": "RIO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 625,
-    "price_wl": 625,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:21:01.816Z"
-  },
-  {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:21:06.315Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Darrick",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:21:32.947Z"
-  },
-  {
-    "player1": "Darrick",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:21:36.830Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Darrick",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-10T10:22:04.763Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:22:33.674Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOBBIGT",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Rift Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:22:38.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "littlestars",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:22:50.823Z"
+  },
+  {
+    "player1": "Admon",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:22:59.623Z"
   }
 ]
