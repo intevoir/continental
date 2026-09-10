@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Carasuma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T22:55:40.033Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKaiizie",
     "world": "SHOPEE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-09-10T23:01:53.743Z"
+  },
+  {
+    "player1": "BobMarlay",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4760,
+    "price_wl": 4760,
+    "traded_with": null,
+    "timestamp": "2026-09-10T23:03:38.692Z"
   }
 ]
