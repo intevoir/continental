@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ZenTy",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-09-10T05:40:49.677Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Enny",
     "world": "TRADING",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-10T05:42:28.216Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Enny",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T05:43:11.717Z"
   }
 ]
