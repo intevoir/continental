@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "QOS",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-10T02:37:38.094Z"
-  },
-  {
     "player1": "NextEraCPS",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-10T02:43:06.797Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr939",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T02:45:07.492Z"
   }
 ]
