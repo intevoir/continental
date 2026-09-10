@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "ARROZJAK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T07:11:19.884Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "ARROZJAK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T07:11:43.251Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FazhaAnakBaik",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 252,
     "traded_with": null,
     "timestamp": "2026-09-10T07:17:49.667Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 715,
+    "price_wl": 715,
+    "traded_with": null,
+    "timestamp": "2026-09-10T07:18:12.503Z"
+  },
+  {
+    "player1": "Becker",
+    "player2": "Renting Station",
+    "world": "HELL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-10T07:18:12.508Z"
   }
 ]
