@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@swy [ELITE] [$$$LUXURY$$$]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Stained Glass",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-10T03:55:22.622Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "minkeblue",
     "world": "HSHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-09-10T04:06:27.827Z"
+  },
+  {
+    "player1": "napake",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T04:09:29.361Z"
   }
 ]
