@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BUYCHAND",
-    "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:50:46.474Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iBelut",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 850,
     "traded_with": null,
     "timestamp": "2026-09-10T13:54:15.908Z"
+  },
+  {
+    "player1": "DrMcd",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:54:46.039Z"
   }
 ]
