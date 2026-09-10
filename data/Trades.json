@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrDarkSysTems",
-    "player2": "Renting Station",
-    "world": "AGE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:45:46.147Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "EzaCity",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-10T10:49:18.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ritsma",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:49:48.711Z"
   }
 ]
