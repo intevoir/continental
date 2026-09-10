@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dr939",
-    "world": "BUYT",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-10T02:16:28.314Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cavets",
-    "world": "BFGSYNO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-10T02:19:40.320Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Yia [ELITE]",
     "world": "DVINSHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-10T02:24:53.958Z"
+  },
+  {
+    "player1": "@Yia [ELITE]",
+    "player2": "Buying Machine",
+    "world": "NE",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T02:25:32.065Z"
+  },
+  {
+    "player1": "Dvinnnn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T02:25:32.077Z"
   }
 ]
