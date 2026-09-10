@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Finality",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Dice Block",
-    "item_count": 226,
-    "p_name": "World Locks",
-    "p_count": 113,
-    "price_wl": 113,
-    "traded_with": null,
-    "timestamp": "2026-09-10T07:21:14.020Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iRavelSTR",
     "world": "BFGSERVER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 18000,
     "traded_with": null,
     "timestamp": "2026-09-10T07:24:19.233Z"
+  },
+  {
+    "player1": "Filipino",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-09-10T07:25:26.731Z"
   }
 ]
