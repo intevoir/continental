@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-10T02:33:08.612Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZYBO",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-09-10T02:36:04.176Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZYBO",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-10T02:37:06.578Z"
   }
 ]
