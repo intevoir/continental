@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ALNSC",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:47:02.768Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NNBC",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 110,
-    "p_name": "World Locks",
-    "p_count": 1100,
-    "price_wl": 1100,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:47:22.066Z"
-  },
-  {
     "player1": "Orangie",
     "player2": "Renting Station",
     "world": "GOKU67",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-10T08:51:20.422Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ALNSC",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:51:53.318Z"
+  },
+  {
+    "player1": "Miwwa",
+    "player2": "Renting Station",
+    "world": "FIOBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:52:01.655Z"
   }
 ]
