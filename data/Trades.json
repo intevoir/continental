@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HULL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24000,
-    "price_wl": 24000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T20:11:34.515Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LoSientoX",
     "world": "TOKOC",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-10T20:15:23.779Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LoSientoX",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-09-10T20:16:37.080Z"
   }
 ]
