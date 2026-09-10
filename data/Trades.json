@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LoSientoX",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:33:28.588Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-10T06:36:04.596Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "DISKON",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:36:59.592Z"
   }
 ]
