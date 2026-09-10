@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKaiizie",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Thingamajig",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-10T17:03:52.701Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "udine",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-10T17:03:52.711Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iBelut []",
     "world": "BFGWE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-10T17:07:20.876Z"
+  },
+  {
+    "player1": "Belzeno",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-10T17:08:08.577Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Prismatix",
+    "world": "SURGCL",
+    "action": "BUY",
+    "item_name": "Surgical Scalpel",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-10T17:08:17.480Z"
   }
 ]
