@@ -1,44 +1,5 @@
 [
   {
-    "player1": "PKJSW",
-    "player2": "Renting Station",
-    "world": "TRADING",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:43:58.947Z"
-  },
-  {
-    "player1": "@swy [ELITE] [$$$LUXURY$$$]",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:44:18.805Z"
-  },
-  {
-    "player1": "Illuminati: DrMbox [ELITE]",
-    "player2": "KFK of Legend [PRO ] [RICH] [] [EXCLUSIVE]",
-    "world": "KFK1",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "KFK of Legend [PRO ] [RICH] [] [EXCLUSIVE]",
-    "timestamp": "2026-09-10T08:44:51.052Z"
-  },
-  {
     "player1": "KFK of Legend [PRO ] [RICH] [] [EXCLUSIVE]",
     "player2": "Illuminati: DrMbox [ELITE]",
     "world": "KFK1",
@@ -128,5 +89,44 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-10T08:49:15.564Z"
+  },
+  {
+    "player1": "NNBA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:49:53.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NNBA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:49:53.368Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NNBA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:50:01.269Z"
   }
 ]
