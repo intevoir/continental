@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FazhaAnakBaik",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Neptune's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T19:03:20.666Z"
-  },
-  {
     "player1": "Bellemere",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-10T19:11:24.164Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "NNU",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 1080,
+    "price_wl": 1080,
+    "traded_with": null,
+    "timestamp": "2026-09-10T19:11:32.416Z"
   }
 ]
