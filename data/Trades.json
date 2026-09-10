@@ -1,31 +1,5 @@
 [
   {
-    "player1": "GinzzVoldigoad",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-10T15:11:45.716Z"
-  },
-  {
-    "player1": "GinzzVoldigoad",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-10T15:11:45.723Z"
-  },
-  {
     "player1": "DrMeydilin [] []",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-10T15:15:17.095Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ritsma",
+    "world": "PIIHOME",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-09-10T15:15:47.631Z"
+  },
+  {
+    "player1": "Ritsma",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-10T15:15:47.638Z"
   }
 ]
