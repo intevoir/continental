@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Ridhoo15",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:41:31.367Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:41:44.524Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 226,
-    "p_name": "World Locks",
-    "p_count": 452,
-    "price_wl": 452,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:42:10.489Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kaiituru1",
     "world": "RSS",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-10T13:43:35.455Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kaiituru1",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:44:11.984Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DONXLI",
+    "world": "FREE",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 225,
+    "price_wl": 225,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:44:24.693Z"
+  },
+  {
+    "player1": "ZenTyALT",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:44:28.346Z"
   }
 ]
