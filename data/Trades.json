@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Deltek",
-    "world": "BFGRALL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-10T22:28:36.407Z"
-  },
-  {
     "player1": "DrOsmora",
     "player2": "Buying Machine",
     "world": "HYBAR",
@@ -128,5 +115,18 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-09-10T22:34:28.472Z"
+  },
+  {
+    "player1": "AwRv",
+    "player2": "Buying Machine",
+    "world": "FOX",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T22:37:16.127Z"
   }
 ]
