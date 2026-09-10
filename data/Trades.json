@@ -1,18 +1,5 @@
 [
   {
-    "player1": "totoni",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19635,
-    "price_wl": 19635,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:36:41.186Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Enny",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-09-10T10:39:54.676Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ItsDva",
+    "world": "BLOCKS",
+    "action": "BUY",
+    "item_name": "Cave Platform",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:40:43.416Z"
   }
 ]
