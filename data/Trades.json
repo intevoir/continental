@@ -1,18 +1,5 @@
 [
   {
-    "player1": "udine",
-    "player2": "Buying Machine",
-    "world": "WHOLESALESTORE",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 10350,
-    "price_wl": 10350,
-    "traded_with": null,
-    "timestamp": "2026-09-10T21:37:04.207Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DionBJ",
     "world": "R1N",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-10T21:43:58.550Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@waku",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-10T21:46:23.452Z"
   }
 ]
