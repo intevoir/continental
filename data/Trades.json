@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@satriateguh1",
-    "world": "BUYPLAT",
-    "action": "BUY",
-    "item_name": "Hover Platform",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T17:59:39.260Z"
-  },
-  {
     "player1": "Cloviz",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-10T18:06:20.374Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cloviz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:06:33.092Z"
   }
 ]
