@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Bellemere",
-    "player2": "Buying Machine",
-    "world": "FIOBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2840,
-    "price_wl": 2840,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:26:05.699Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrThyID",
     "world": "STORES",
@@ -128,5 +115,18 @@
     "price_wl": 9750,
     "traded_with": null,
     "timestamp": "2026-09-10T06:28:58.295Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrThyID",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Orange Stuff",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:29:10.623Z"
   }
 ]
