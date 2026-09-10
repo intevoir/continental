@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "justfun",
-    "world": "ZB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-10T09:32:13.279Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fhhf",
-    "world": "TOKOME",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-10T09:32:13.289Z"
-  },
-  {
-    "player1": "JIJIMAO []",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-10T09:32:13.297Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fhhf",
     "world": "TOKOME",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-09-10T09:35:14.009Z"
+  },
+  {
+    "player1": "@ZhenX [PRO ]",
+    "player2": "RAGV3N",
+    "world": "BFG2WS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RAGV3N",
+    "timestamp": "2026-09-10T09:35:25.962Z"
+  },
+  {
+    "player1": "RAGV3N",
+    "player2": "@ZhenX [PRO ]",
+    "world": "BFG2WS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@ZhenX [PRO ]",
+    "timestamp": "2026-09-10T09:35:25.963Z"
+  },
+  {
+    "player1": "Xvput",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-10T09:35:43.016Z"
   }
 ]
