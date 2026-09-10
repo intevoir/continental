@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iBelut",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Wings of Daidalos",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T16:21:33.773Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Piisang",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Heart Monitor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-10T16:22:13.324Z"
-  },
-  {
     "player1": "hiis",
     "player2": "Renting Station",
     "world": "BFGPOYO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-10T16:24:41.220Z"
+  },
+  {
+    "player1": "Drcdj",
+    "player2": "@Eetii",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Eetii",
+    "timestamp": "2026-09-10T16:25:14.956Z"
+  },
+  {
+    "player1": "@Eetii",
+    "player2": "Drcdj",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Drcdj",
+    "timestamp": "2026-09-10T16:25:14.956Z"
   }
 ]
