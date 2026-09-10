@@ -1,18 +1,5 @@
 [
   {
-    "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-09-10T10:22:33.674Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BOBBIGT",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-10T10:25:03.530Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ridhoo15",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 77,
+    "p_name": "World Locks",
+    "p_count": 462,
+    "price_wl": 462,
+    "traded_with": null,
+    "timestamp": "2026-09-10T10:25:51.861Z"
   }
 ]
