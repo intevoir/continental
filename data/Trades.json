@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKaiizie",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Red Hair Dye",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:33:39.356Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FungpaoCPS",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:34:10.494Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LOVEKLEE",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:34:10.510Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aleea",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 17625,
     "traded_with": null,
     "timestamp": "2026-09-10T18:39:21.695Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKaiizie",
+    "world": "BUTIK",
+    "action": "BUY",
+    "item_name": "Blue Hair Dye",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:40:12.990Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Thaker",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 84,
+    "p_name": "World Locks",
+    "p_count": 64680,
+    "price_wl": 64680,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:40:13.043Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "GEIGERO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:40:25.651Z"
   }
 ]
