@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrGGKN",
-    "world": "HA",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:15:53.549Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BOSM",
     "world": "BFGPOYO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-10T06:19:54.749Z"
+  },
+  {
+    "player1": "DrCane",
+    "player2": "Renting Station",
+    "world": "V5",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:20:55.065Z"
   }
 ]
