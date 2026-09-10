@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 625,
-    "price_wl": 625,
-    "traded_with": null,
-    "timestamp": "2026-09-10T04:02:33.833Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lyans",
     "world": "ARROZJAK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-10T04:12:39.217Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anara",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Hooves of Cernunnos",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-10T04:13:31.026Z"
   }
 ]
