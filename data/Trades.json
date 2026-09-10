@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@ZhenX [PRO ]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:01:12.755Z"
-  },
-  {
-    "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 715,
-    "price_wl": 715,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:01:39.534Z"
-  },
-  {
     "player1": "littlestars",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1080,
     "traded_with": null,
     "timestamp": "2026-09-10T08:03:28.627Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@ZhenX [PRO ]",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:04:29.259Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArrangGT",
+    "world": "GVEZ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:04:29.313Z"
   }
 ]
