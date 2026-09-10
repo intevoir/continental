@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SINOSxJUDI",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:49:32.846Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZEMAH",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8500,
     "traded_with": null,
     "timestamp": "2026-09-10T18:57:51.894Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 33,
+    "p_name": "World Locks",
+    "p_count": 3300,
+    "price_wl": 3300,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:59:18.894Z"
   }
 ]
