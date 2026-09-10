@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "yuwen",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:03:28.608Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Dskernas",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-10T08:07:58.917Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:08:31.479Z"
   }
 ]
