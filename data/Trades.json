@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MOROS",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T06:47:00.411Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "BFGTOWERS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-10T06:51:11.047Z"
+  },
+  {
+    "player1": "OnlyRen",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 220,
+    "p_name": "World Locks",
+    "p_count": 1540,
+    "price_wl": 1540,
+    "traded_with": null,
+    "timestamp": "2026-09-10T06:54:01.822Z"
   }
 ]
