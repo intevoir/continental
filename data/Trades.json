@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dragonoid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Beach Blast",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-10T14:26:46.256Z"
-  },
-  {
-    "player1": "DrEBU",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-10T14:26:58.774Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yuteaa",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-10T14:29:30.148Z"
+  },
+  {
+    "player1": "SANGBAGUS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T14:30:31.812Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrThyID",
+    "world": "STOREKU",
+    "action": "BUY",
+    "item_name": "Flipping Coin",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-10T14:31:01.557Z"
   }
 ]
