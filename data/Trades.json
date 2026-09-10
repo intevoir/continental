@@ -1,31 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 5100,
-    "price_wl": 5100,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:13:47.913Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 1210,
-    "price_wl": 1210,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:13:47.925Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ALNSC",
     "world": "ZX4",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-10T13:15:19.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pakdewira",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:15:23.916Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stxt",
+    "world": "BFGBTY",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:15:40.130Z"
   }
 ]
