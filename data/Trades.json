@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Szczakowa",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:34:37.896Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTOMAT",
-    "world": "BFGNG",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:35:09.742Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ridhoo15",
     "world": "PIIHOME",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-10T13:37:33.473Z"
+  },
+  {
+    "player1": "DrBonsV",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:38:14.796Z"
+  },
+  {
+    "player1": "Nabill16",
+    "player2": "Renting Station",
+    "world": "7U",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16065,
+    "price_wl": 16065,
+    "traded_with": null,
+    "timestamp": "2026-09-10T13:38:39.847Z"
   }
 ]
