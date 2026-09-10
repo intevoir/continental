@@ -1,18 +1,5 @@
 [
   {
-    "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-09-10T08:01:50.054Z"
-  },
-  {
     "player1": "Dskernas",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-10T08:04:29.313Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CookiesAddict",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-10T08:04:55.251Z"
   }
 ]
