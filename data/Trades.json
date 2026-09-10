@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Aleea",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Silk Skirt - White",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:34:10.517Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Aleea",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Super Eye Mask - Pink",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-10T18:35:10.596Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKaiizie",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 360,
     "traded_with": null,
     "timestamp": "2026-09-10T18:40:25.651Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "GEIGERO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:40:46.893Z"
+  },
+  {
+    "player1": "Bellemere",
+    "player2": "Buying Machine",
+    "world": "GEIGERO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-10T18:41:13.542Z"
   }
 ]
