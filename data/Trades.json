@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZYBO",
-    "world": "HEMAT",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-10T02:37:06.578Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "QOS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-10T02:41:10.125Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OnlyDaniel",
+    "world": "USHOP",
+    "action": "BUY",
+    "item_name": "Royal Cumulus Cloud",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-10T02:43:06.797Z"
   }
 ]
