@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MengChuan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-10T13:57:16.897Z"
-  },
-  {
     "player1": "NakPeguyangan",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 3020,
     "traded_with": null,
     "timestamp": "2026-09-10T14:05:39.489Z"
+  },
+  {
+    "player1": "0BBA",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-10T14:05:51.592Z"
   }
 ]
