@@ -1,18 +1,5 @@
 [
   {
-    "player1": "dyyyfu",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-11T00:17:23.205Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "dyyyfu",
     "world": "BFGWE",
@@ -128,5 +115,18 @@
     "price_wl": 518,
     "traded_with": null,
     "timestamp": "2026-09-11T00:25:28.392Z"
+  },
+  {
+    "player1": "Djong",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T00:28:46.186Z"
   }
 ]
