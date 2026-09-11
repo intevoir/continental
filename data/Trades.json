@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ELRorrr",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Ultraviolet Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-11T01:26:10.910Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LoSientoX",
-    "world": "JISWACOOK",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-11T01:26:11.133Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LoSientoX",
     "world": "JISWACOOK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-11T01:28:04.917Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LoSientoX",
+    "world": "JISWACOOK",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-11T01:28:23.414Z"
+  },
+  {
+    "player1": "ngaselrom",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-09-11T01:28:23.439Z"
   }
 ]
