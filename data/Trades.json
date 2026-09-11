@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Carasuma",
-    "world": "VEND8",
-    "action": "BUY",
-    "item_name": "Giant Flag",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-11T22:43:19.082Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Carasuma",
-    "world": "LOJON",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T22:43:59.748Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZetsuNii",
     "world": "SO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-11T22:50:28.412Z"
+  },
+  {
+    "player1": "idcaboutyou",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-11T22:52:04.230Z"
+  },
+  {
+    "player1": "RNF12",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-11T22:52:04.246Z"
   }
 ]
