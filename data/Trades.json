@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ALNSC",
-    "world": "ZX4",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:26:11.738Z"
-  },
-  {
     "player1": "Kautsar",
     "player2": "Renting Station",
     "world": "FIOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-11T08:29:12.080Z"
+  },
+  {
+    "player1": "ManTmbuk",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "DigiVend Machine",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 38,
+    "price_wl": 38,
+    "traded_with": null,
+    "timestamp": "2026-09-11T08:30:21.116Z"
   }
 ]
