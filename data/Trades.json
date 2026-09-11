@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "WestinBryan",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-11T18:20:36.723Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Trowzinn",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-11T18:26:06.973Z"
+  },
+  {
+    "player1": "AlamakNajisNya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Meydilin's Evil Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-09-11T18:27:15.994Z"
   }
 ]
