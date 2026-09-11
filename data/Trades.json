@@ -1,18 +1,5 @@
 [
   {
-    "player1": "WestinBryan",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 17,
-    "p_name": "World Locks",
-    "p_count": 11730,
-    "price_wl": 11730,
-    "traded_with": null,
-    "timestamp": "2026-09-11T18:18:31.102Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZetsuNii",
     "world": "VELW",
@@ -128,5 +115,18 @@
     "price_wl": 28,
     "traded_with": null,
     "timestamp": "2026-09-11T18:23:33.903Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Saros",
+    "world": "VENDBAL",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-11T18:24:27.198Z"
   }
 ]
