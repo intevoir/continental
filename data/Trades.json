@@ -1,18 +1,5 @@
 [
   {
-    "player1": "udine",
-    "player2": "Buying Machine",
-    "world": "WHOLESALESTORE",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 147,
-    "p_name": "World Locks",
-    "p_count": 6615,
-    "price_wl": 6615,
-    "traded_with": null,
-    "timestamp": "2026-09-11T19:42:30.102Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "udine",
     "world": "BFGSTOCK",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-11T19:47:58.826Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mikael99",
+    "world": "BFGRANZ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-09-11T19:48:32.391Z"
   }
 ]
