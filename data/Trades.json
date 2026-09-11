@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BROPLZBGL",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-11T19:14:45.252Z"
-  },
-  {
     "player1": "CupangWorth",
     "player2": "Renting Station",
     "world": "HV",
@@ -128,5 +115,18 @@
     "price_wl": 1603,
     "traded_with": null,
     "timestamp": "2026-09-11T19:21:48.973Z"
+  },
+  {
+    "player1": "DrTakochi",
+    "player2": "Buying Machine",
+    "world": "POLIX",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 1550,
+    "price_wl": 1550,
+    "traded_with": null,
+    "timestamp": "2026-09-11T19:23:19.222Z"
   }
 ]
