@@ -1,31 +1,5 @@
 [
   {
-    "player1": "tangankanan",
-    "player2": "Buying Machine",
-    "world": "CERAH",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 8640,
-    "price_wl": 8640,
-    "traded_with": null,
-    "timestamp": "2026-09-11T00:35:32.344Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZEWOX",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Non La",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-11T00:37:33.137Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZEWOX",
     "world": "PAKAIAN",
@@ -128,5 +102,31 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-09-11T00:44:08.582Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "PAKAIAN",
+    "action": "BUY",
+    "item_name": "Seafoam Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T00:44:36.820Z"
+  },
+  {
+    "player1": "HakYio",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-09-11T00:44:36.835Z"
   }
 ]
