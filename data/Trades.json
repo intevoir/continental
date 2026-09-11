@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "COWOBINGUNG",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T04:55:28.134Z"
-  },
-  {
     "player1": "DrYunShan",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-09-11T05:01:07.300Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arengentong",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Wooden Platform",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:01:38.679Z"
   }
 ]
