@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drwillyam",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 27,
-    "p_name": "World Locks",
-    "p_count": 27,
-    "price_wl": 27,
-    "traded_with": null,
-    "timestamp": "2026-09-11T04:31:23.341Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Dr939",
     "world": "PASARAN",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-11T04:42:12.950Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "viztors",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-09-11T04:43:13.667Z"
   }
 ]
