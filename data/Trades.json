@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BabyGhostBoy",
-    "player2": "Renting Station",
-    "world": "CUAN",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17255,
-    "price_wl": 17255,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:55:51.916Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AlamakNajisNya",
-    "world": "BUYSILK",
-    "action": "BUY",
-    "item_name": "Silk Vest - Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:56:53.238Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "latips",
     "world": "GUNTING12",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-11T18:00:58.285Z"
+  },
+  {
+    "player1": "VerowXChintia",
+    "player2": "LoyTobatJudi",
+    "world": "JUDI",
+    "action": "TRADE",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "LoyTobatJudi",
+    "timestamp": "2026-09-11T18:02:10.797Z"
+  },
+  {
+    "player1": "LoyTobatJudi",
+    "player2": "VerowXChintia",
+    "world": "JUDI",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "VerowXChintia",
+    "timestamp": "2026-09-11T18:02:10.797Z"
   }
 ]
