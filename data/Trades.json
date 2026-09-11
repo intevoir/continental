@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Meidina",
-    "world": "SO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T14:21:10.017Z"
-  },
-  {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 26,
-    "p_name": "World Locks",
-    "p_count": 2340,
-    "price_wl": 2340,
-    "traded_with": null,
-    "timestamp": "2026-09-11T14:21:33.729Z"
-  },
-  {
     "player1": "Meidina",
     "player2": "Buying Machine",
     "world": "FIOBFG",
@@ -128,5 +102,31 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-09-11T14:23:31.090Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Meidina",
+    "world": "SO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T14:23:43.795Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-11T14:24:13.654Z"
   }
 ]
