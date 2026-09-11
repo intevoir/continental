@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EzaCity",
-    "world": "BFGSTOCK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:06:42.723Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@RKMzz",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 13500,
-    "price_wl": 13500,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:08:25.720Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Xbella",
     "world": "TOKOSET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-11T03:14:17.497Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "wilyon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T03:16:55.410Z"
+  },
+  {
+    "player1": "SangBgl",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T03:17:23.383Z"
   }
 ]
