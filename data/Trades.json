@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Neffyk",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:24:33.828Z"
-  },
-  {
-    "player1": "Neffyk",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:24:37.789Z"
-  },
-  {
     "player1": "@KRYX []",
     "player2": "SHYSS",
     "world": "BFGCDG",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-11T11:27:32.792Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@IH0",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:28:06.551Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSeverine",
+    "world": "BFGSERVER",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:28:34.835Z"
   }
 ]
