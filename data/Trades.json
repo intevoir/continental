@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AlamakNajisNya",
-    "world": "MANDI",
-    "action": "BUY",
-    "item_name": "Green Contact Lens",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:51:48.845Z"
-  },
-  {
     "player1": "MOOZ",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-09-11T17:57:19.466Z"
+  },
+  {
+    "player1": "Arkaxena",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-11T17:59:14.755Z"
   }
 ]
