@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZetsuNii",
-    "world": "VELW",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 81,
-    "p_name": "World Locks",
-    "p_count": 27,
-    "price_wl": 27,
-    "traded_with": null,
-    "timestamp": "2026-09-11T18:19:04.592Z"
-  },
-  {
     "player1": "WestinBryan",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-11T18:24:27.198Z"
+  },
+  {
+    "player1": "Meidina",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-09-11T18:25:15.837Z"
   }
 ]
