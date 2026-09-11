@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KRYX []",
-    "player2": "SHYSS",
-    "world": "BFGCDG",
-    "action": "TRADE",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "SHYSS",
-    "timestamp": "2026-09-11T11:25:04.327Z"
-  },
-  {
     "player1": "SHYSS",
     "player2": "@KRYX []",
     "world": "BFGCDG",
@@ -128,5 +115,18 @@
     "price_wl": 360,
     "traded_with": null,
     "timestamp": "2026-09-11T11:29:10.637Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EntodGpt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 840,
+    "price_wl": 840,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:30:18.852Z"
   }
 ]
