@@ -4,19 +4,6 @@
     "player2": "abox",
     "world": "FREERENT",
     "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-11T21:28:45.003Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "abox",
-    "world": "FREERENT",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 140,
     "traded_with": null,
     "timestamp": "2026-09-11T21:37:20.194Z"
+  },
+  {
+    "player1": "MrFinan",
+    "player2": "Renting Station",
+    "world": "BFGFIX",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 71,
+    "price_wl": 71,
+    "traded_with": null,
+    "timestamp": "2026-09-11T21:38:35.675Z"
   }
 ]
