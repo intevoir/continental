@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Apateapate",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-11T06:41:17.692Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bangjali",
     "world": "BUYRICHC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-09-11T06:44:18.687Z"
+  },
+  {
+    "player1": "gojek",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 28,
+    "price_wl": 28,
+    "traded_with": null,
+    "timestamp": "2026-09-11T06:44:54.834Z"
   }
 ]
