@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "PLAZAS",
-    "action": "BUY",
-    "item_name": "Public Lava",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-11T20:00:01.858Z"
-  },
-  {
     "player1": "Meidina",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-11T20:03:36.918Z"
+  },
+  {
+    "player1": "MIRAAS",
+    "player2": "Buying Machine",
+    "world": "MIRAKATANA",
+    "action": "SELL",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200000,
+    "price_wl": 200000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T20:04:27.985Z"
   }
 ]
