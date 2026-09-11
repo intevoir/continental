@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KingEclipse",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-11T14:47:29.616Z"
-  },
-  {
-    "player1": "OldSpices",
-    "player2": "Alfred888",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 35,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Alfred888",
-    "timestamp": "2026-09-11T14:47:38.502Z"
-  },
-  {
     "player1": "Alfred888",
     "player2": "OldSpices",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-11T14:50:47.029Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Quests [PRO ] [$$$LUXURY$$$]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-11T14:50:50.725Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKaiizie",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-11T14:51:18.596Z"
   }
 ]
