@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BallXy",
-    "world": "BFGVAT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:55:20.168Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "spookyfakeh",
-    "world": "STOREDL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:56:33.374Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "spookyfakeh",
     "world": "STOREDL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17625,
     "traded_with": null,
     "timestamp": "2026-09-11T11:58:52.205Z"
+  },
+  {
+    "player1": "gajelas9",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:59:27.146Z"
+  },
+  {
+    "player1": "EyesNightMare",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:59:43.788Z"
   }
 ]
