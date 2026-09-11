@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LegendaryQueen",
-    "world": "REC",
-    "action": "BUY",
-    "item_name": "Cape of Dunes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:02:17.455Z"
-  },
-  {
     "player1": "Kayloo",
     "player2": "Renting Station",
     "world": "HELL",
@@ -128,5 +115,18 @@
     "price_wl": 270,
     "traded_with": null,
     "timestamp": "2026-09-11T09:04:02.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MURRY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:05:31.513Z"
   }
 ]
