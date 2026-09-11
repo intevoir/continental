@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RonXcps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:40:52.544Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RonXcps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:40:52.560Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ALNSC",
     "world": "ZX4",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-11T08:46:29.036Z"
+  },
+  {
+    "player1": "Kayloo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 6075,
+    "price_wl": 6075,
+    "traded_with": null,
+    "timestamp": "2026-09-11T08:48:13.414Z"
+  },
+  {
+    "player1": "Piisang",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-11T08:48:13.421Z"
   }
 ]
