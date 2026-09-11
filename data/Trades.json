@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BagasGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:05:56.793Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Leonecry",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-09-11T11:06:00.705Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bacang",
     "world": "DIGIVEND",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-11T11:08:28.973Z"
+  },
+  {
+    "player1": "AlamakNajisNya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Air Robinsons",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:08:58.333Z"
+  },
+  {
+    "player1": "AlamakNajisNya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-11T11:09:18.926Z"
   }
 ]
