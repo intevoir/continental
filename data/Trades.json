@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ALNSC",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:00:16.675Z"
-  },
-  {
-    "player1": "KySecond",
-    "player2": "Renting Station",
-    "world": "HELL",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:02:09.339Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "ASSOY",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:02:09.349Z"
-  },
-  {
     "player1": "KySecond",
     "player2": "Renting Station",
     "world": "HELL",
@@ -102,5 +63,70 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-11T09:02:26.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ALNSC",
+    "world": "ZX4",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:03:01.657Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:03:14.959Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 280,
+    "price_wl": 280,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:03:27.429Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LegendaryQueen",
+    "world": "REC",
+    "action": "BUY",
+    "item_name": "Creepy Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:03:27.439Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IceCrown",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:03:27.446Z"
   }
 ]
