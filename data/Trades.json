@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Danver",
-    "world": "BFGORDO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-11T18:17:36.086Z"
-  },
-  {
     "player1": "WestinBryan",
     "player2": "Buying Machine",
     "world": "KUYBFG",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-11T18:22:05.798Z"
+  },
+  {
+    "player1": "Meidina",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 28,
+    "price_wl": 28,
+    "traded_with": null,
+    "timestamp": "2026-09-11T18:23:33.903Z"
   }
 ]
