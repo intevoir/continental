@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "latips",
-    "world": "GUNTING12",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:57:19.466Z"
-  },
-  {
     "player1": "Arkaxena",
     "player2": "Buying Machine",
     "world": "KUYBFG",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "VerowXChintia",
     "timestamp": "2026-09-11T18:02:10.797Z"
+  },
+  {
+    "player1": "tangankanan",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-11T18:03:55.900Z"
   }
 ]
