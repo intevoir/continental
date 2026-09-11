@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ColayBrow []",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-11T23:06:15.585Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KnowZaax",
-    "world": "BFGORDO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-11T23:06:28.561Z"
-  },
-  {
     "player1": "OzanKotak",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-11T23:13:26.644Z"
+  },
+  {
+    "player1": "abox",
+    "player2": "Buying Machine",
+    "world": "TAWAR",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-11T23:15:15.714Z"
+  },
+  {
+    "player1": "jaltakou7",
+    "player2": "Renting Station",
+    "world": "KPC",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-11T23:15:15.726Z"
   }
 ]
