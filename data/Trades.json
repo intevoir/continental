@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Pernandez",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Lucky Pendant",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 560,
-    "price_wl": 560,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:18:07.136Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Wedzy",
     "world": "VENDBAL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-11T09:20:08.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Irene",
+    "world": "TRADING",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:20:33.233Z"
   }
 ]
