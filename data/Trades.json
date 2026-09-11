@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Heart Monitor",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-11T12:56:54.531Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SelaluNT",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "DrXrc",
     "timestamp": "2026-09-11T12:59:37.001Z"
+  },
+  {
+    "player1": "DrDDN",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-09-11T13:01:02.397Z"
   }
 ]
