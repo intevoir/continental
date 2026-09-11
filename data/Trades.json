@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Djong",
-    "player2": "Buying Machine",
-    "world": "BFGRHA",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 5110,
-    "price_wl": 5110,
-    "traded_with": null,
-    "timestamp": "2026-09-11T10:52:50.869Z"
-  },
-  {
-    "player1": "RZN",
-    "player2": "Renting Station",
-    "world": "FOX",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-09-11T10:53:51.877Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@ExTube",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-11T10:53:55.519Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@ExTube",
     "world": "FIOBFG",
@@ -128,5 +89,44 @@
     "price_wl": 340,
     "traded_with": null,
     "timestamp": "2026-09-11T10:57:00.523Z"
+  },
+  {
+    "player1": "Maquia",
+    "player2": "razi9",
+    "world": "DFEA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "razi9",
+    "timestamp": "2026-09-11T10:57:26.232Z"
+  },
+  {
+    "player1": "razi9",
+    "player2": "Maquia",
+    "world": "DFEA",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Maquia",
+    "timestamp": "2026-09-11T10:57:26.232Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Yungss",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Charger",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 5600,
+    "price_wl": 5600,
+    "traded_with": null,
+    "timestamp": "2026-09-11T10:57:53.135Z"
   }
 ]
