@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-11T19:03:58.651Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Meidina",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-11T19:07:41.562Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BowenPotter",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 141,
+    "price_wl": 141,
+    "traded_with": null,
+    "timestamp": "2026-09-11T19:09:04.872Z"
   }
 ]
