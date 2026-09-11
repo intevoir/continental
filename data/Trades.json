@@ -1,18 +1,5 @@
 [
   {
-    "player1": "yorend",
-    "player2": "Renting Station",
-    "world": "CITEM",
-    "action": "RENT",
-    "item_name": "Golden Bomber Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2975,
-    "price_wl": 2975,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:42:36.392Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Orrey",
     "world": "TXPHONE",
@@ -128,5 +115,18 @@
     "price_wl": 27,
     "traded_with": null,
     "timestamp": "2026-09-11T03:46:02.866Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AKen",
+    "world": "BFGIBU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-11T03:46:37.714Z"
   }
 ]
