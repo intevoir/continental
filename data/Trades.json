@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KenzoWilson",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-11T05:46:27.573Z"
-  },
-  {
     "player1": "KenzoWilson",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 441,
     "traded_with": null,
     "timestamp": "2026-09-11T05:50:00.431Z"
+  },
+  {
+    "player1": "Drzeelol",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 464,
+    "price_wl": 464,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:50:29.814Z"
   }
 ]
