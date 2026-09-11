@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AlamakNajisNya",
-    "world": "MANDI",
-    "action": "BUY",
-    "item_name": "Black Eye Drops",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:48:50.537Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RobinKeller",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-11T17:49:06.782Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MIRAAS",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 260000,
     "traded_with": null,
     "timestamp": "2026-09-11T17:50:08.397Z"
+  },
+  {
+    "player1": "DrTakochi",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-11T17:50:49.221Z"
+  },
+  {
+    "player1": "DrTakochi",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-11T17:50:49.234Z"
   }
 ]
