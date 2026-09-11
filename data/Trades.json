@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RZN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "DigiVend Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-11T20:44:41.178Z"
-  },
-  {
     "player1": "Meidina",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +115,18 @@
     "price_wl": 22000,
     "traded_with": null,
     "timestamp": "2026-09-11T20:52:45.925Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MIRAAS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2600,
+    "price_wl": 2600,
+    "traded_with": null,
+    "timestamp": "2026-09-11T20:53:02.777Z"
   }
 ]
