@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Fish Tank",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-11T13:52:01.037Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XOTOY",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-11T13:54:27.165Z"
+  },
+  {
+    "player1": "Haydenquins",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6150,
+    "price_wl": 6150,
+    "traded_with": null,
+    "timestamp": "2026-09-11T13:55:09.402Z"
   }
 ]
