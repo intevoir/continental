@@ -4,19 +4,6 @@
     "player2": "EzaCity",
     "world": "BFGSTOCK",
     "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:06:31.111Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EzaCity",
-    "world": "BFGSTOCK",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-11T03:13:16.644Z"
+  },
+  {
+    "player1": "AKen",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-11T03:14:17.497Z"
   }
 ]
