@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "blankspace",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Red Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:59:43.733Z"
-  },
-  {
     "player1": "",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1900,
     "traded_with": null,
     "timestamp": "2026-09-11T04:03:48.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanDjarin",
+    "world": "BFGTOWERS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 37750,
+    "price_wl": 37750,
+    "traded_with": null,
+    "timestamp": "2026-09-11T04:04:56.985Z"
   }
 ]
