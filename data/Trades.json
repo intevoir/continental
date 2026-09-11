@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BlackRox",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T04:54:36.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "COWOBINGUNG",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-11T04:54:36.277Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "COWOBINGUNG",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-11T04:57:16.313Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PrincessEricka",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-11T04:58:13.479Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bunguls",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-11T04:58:27.588Z"
   }
 ]
