@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MOOZ",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-11T10:43:50.729Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MOOZ",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-11T10:43:54.812Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Leonecry",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-11T10:46:47.671Z"
+  },
+  {
+    "player1": "Herlambang777",
+    "player2": "Renting Station",
+    "world": "KFK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-09-11T10:47:22.172Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-09-11T10:47:52.449Z"
   }
 ]
