@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Aizenns",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-11T22:24:02.487Z"
-  },
-  {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 147,
-    "price_wl": 147,
-    "traded_with": null,
-    "timestamp": "2026-09-11T22:24:37.795Z"
-  },
-  {
     "player1": "Benihime",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1300,
     "traded_with": null,
     "timestamp": "2026-09-11T22:26:53.779Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Benihime",
+    "world": "JJFW",
+    "action": "BUY",
+    "item_name": "Beach Blast",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-11T22:27:39.235Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Benihime",
+    "world": "JJFW",
+    "action": "BUY",
+    "item_name": "Beach Blast",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-11T22:27:50.877Z"
   }
 ]
