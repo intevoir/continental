@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingMIN5DLS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 37500,
-    "price_wl": 37500,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:42:48.080Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrLeem",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Black Leather Couch",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:43:30.250Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrLeem",
     "world": "JUAL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-11T09:45:45.177Z"
+  },
+  {
+    "player1": "Lanciau of Legend [$$$LUXURY$$$] []",
+    "player2": "Freaa",
+    "world": "GOLDENS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Freaa",
+    "timestamp": "2026-09-11T09:46:21.692Z"
+  },
+  {
+    "player1": "Freaa",
+    "player2": "Lanciau of Legend [$$$LUXURY$$$] []",
+    "world": "GOLDENS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Lanciau of Legend [$$$LUXURY$$$] []",
+    "timestamp": "2026-09-11T09:46:21.692Z"
   }
 ]
