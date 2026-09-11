@@ -1,31 +1,5 @@
 [
   {
-    "player1": "AbySukaaBgl",
-    "player2": "Buying Machine",
-    "world": "BFGBTY",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 1920,
-    "price_wl": 1920,
-    "traded_with": null,
-    "timestamp": "2026-09-11T05:25:20.668Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fzal",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Food Grinder",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-11T05:25:24.712Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "starmoon",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 1680,
     "traded_with": null,
     "timestamp": "2026-09-11T05:27:46.932Z"
+  },
+  {
+    "player1": "AbySukaaBgl",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 1920,
+    "price_wl": 1920,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:28:17.001Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AbySukaaBgl",
+    "world": "KANTIN",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 1680,
+    "price_wl": 1680,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:28:47.640Z"
   }
 ]
