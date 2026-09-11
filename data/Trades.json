@@ -1,18 +1,5 @@
 [
   {
-    "player1": "",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-11T03:53:40.106Z"
-  },
-  {
     "player1": "andrenalin21",
     "player2": "Renting Station",
     "world": "VEYW",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-11T03:58:51.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "blankspace",
+    "world": "BUYCHEST",
+    "action": "BUY",
+    "item_name": "Red Chest",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-11T03:59:43.733Z"
   }
 ]
