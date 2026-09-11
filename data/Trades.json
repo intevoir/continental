@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrTML",
-    "world": "QASE",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:13:11.749Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@satriateguh1",
-    "world": "VELW",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 216,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:13:47.891Z"
-  },
-  {
-    "player1": "Arkaxena",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-11T08:14:04.870Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Recovering",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-11T08:15:53.092Z"
+  },
+  {
+    "player1": "MOROS",
+    "player2": "spookyfakeh",
+    "world": "FIOBFG",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "spookyfakeh",
+    "timestamp": "2026-09-11T08:16:47.887Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "MOROS",
+    "world": "FIOBFG",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MOROS",
+    "timestamp": "2026-09-11T08:16:47.887Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "MOROS",
+    "world": "FIOBFG",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 80,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MOROS",
+    "timestamp": "2026-09-11T08:16:47.887Z"
   }
 ]
