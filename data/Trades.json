@@ -1,18 +1,5 @@
 [
   {
-    "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 280,
-    "price_wl": 280,
-    "traded_with": null,
-    "timestamp": "2026-09-11T09:03:27.429Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LegendaryQueen",
     "world": "REC",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-11T09:08:15.914Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pernandez",
+    "world": "REC",
+    "action": "BUY",
+    "item_name": "That 70's Jacket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-11T09:08:32.602Z"
   }
 ]
