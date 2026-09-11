@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrTAMBOL",
-    "world": "BFGKYNA",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-11T05:20:44.502Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZYBO",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 216,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-09-11T05:21:14.734Z"
-  },
-  {
     "player1": "Vanimek",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-11T05:22:15.472Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AbySukaaBgl",
+    "world": "KANTIN",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 1680,
+    "price_wl": 1680,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:23:15.602Z"
+  },
+  {
+    "player1": "AbySukaaBgl",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 1920,
+    "price_wl": 1920,
+    "traded_with": null,
+    "timestamp": "2026-09-11T05:23:38.159Z"
   }
 ]
