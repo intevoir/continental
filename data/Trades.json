@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Miwwa",
-    "player2": "Renting Station",
-    "world": "FOX",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-09-11T23:20:17.801Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "abox",
     "world": "QGEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-11T23:25:21.577Z"
+  },
+  {
+    "player1": "abox",
+    "player2": "Buying Machine",
+    "world": "QGEIGER",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-11T23:25:33.372Z"
   }
 ]
