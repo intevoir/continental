@@ -1,18 +1,5 @@
 [
   {
-    "player1": "yanto",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-11T12:13:19.666Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ASAP",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-09-11T12:14:41.620Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DIWRE [ELITE]",
+    "world": "PLAZADES",
+    "action": "BUY",
+    "item_name": "Sonic Buster Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-11T12:16:33.920Z"
   }
 ]
