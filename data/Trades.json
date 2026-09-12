@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T22:01:33.298Z"
-  },
-  {
     "player1": "DrV1nic",
     "player2": "Renting Station",
     "world": "NEPTUNERENT",
@@ -128,5 +115,18 @@
     "price_wl": 13500,
     "traded_with": null,
     "timestamp": "2026-09-12T22:07:35.004Z"
+  },
+  {
+    "player1": "Xbella",
+    "player2": "Renting Station",
+    "world": "HYBAR",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 95,
+    "price_wl": 95,
+    "traded_with": null,
+    "timestamp": "2026-09-12T22:09:35.617Z"
   }
 ]
