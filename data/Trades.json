@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MASJEKK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:27:17.115Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BTKBTK",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 60000,
     "traded_with": null,
     "timestamp": "2026-09-12T01:31:13.915Z"
+  },
+  {
+    "player1": "RoadToMneck",
+    "player2": "Buying Machine",
+    "world": "TIE",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000000,
+    "price_wl": 4000000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:34:15.753Z"
   }
 ]
