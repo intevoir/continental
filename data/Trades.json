@@ -1,18 +1,5 @@
 [
   {
-    "player1": "fourthwall",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:25:00.132Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ONETZY",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "razi9",
     "timestamp": "2026-09-12T06:27:21.537Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyxven",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:27:47.408Z"
   }
 ]
