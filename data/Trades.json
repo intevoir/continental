@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSeverine",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-09-12T05:58:53.666Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMythicalFist [ELITE]",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 170,
     "traded_with": null,
     "timestamp": "2026-09-12T06:00:48.435Z"
+  },
+  {
+    "player1": "ONETZY",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:01:11.866Z"
   }
 ]
