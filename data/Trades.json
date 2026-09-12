@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PiwwwX",
-    "world": "CMD",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 7700,
-    "price_wl": 7700,
-    "traded_with": null,
-    "timestamp": "2026-09-12T15:25:01.055Z"
-  },
-  {
-    "player1": "Andraisgoods",
-    "player2": "Renting Station",
-    "world": "SHOPK",
-    "action": "RENT",
-    "item_name": "Wings Of The Underworld",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-12T15:25:01.061Z"
-  },
-  {
     "player1": "AlvaMart [ELITE]",
     "player2": "Renting Station",
     "world": "KFK",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-12T15:27:44.794Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BROPLZBGL",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-12T15:28:20.095Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andraisgoods",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Super Utility Shirt - Red",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-12T15:28:20.110Z"
   }
 ]
