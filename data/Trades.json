@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrLolly",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:46:20.866Z"
-  },
-  {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:46:49.661Z"
-  },
-  {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 130,
-    "price_wl": 130,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:47:21.629Z"
-  },
-  {
     "player1": "Aizenns",
     "player2": "Buying Machine",
     "world": "TXPHONE",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-12T01:47:25.701Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aizenns",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 130,
+    "p_name": "World Locks",
+    "p_count": 780,
+    "price_wl": 780,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:48:22.873Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gasukareme",
+    "world": "KRCZ",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:48:52.560Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLolly",
+    "world": "KRCZ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:48:52.575Z"
   }
 ]
