@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BaliPeople",
-    "world": "RB",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 10650,
-    "price_wl": 10650,
-    "traded_with": null,
-    "timestamp": "2026-09-12T09:06:55.931Z"
-  },
-  {
-    "player1": "DrOtongBaik",
-    "player2": "Buying Machine",
-    "world": "MARKET",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 720,
-    "price_wl": 720,
-    "traded_with": null,
-    "timestamp": "2026-09-12T09:07:24.813Z"
-  },
-  {
     "player1": "DANTOD",
     "player2": "Renting Station",
     "world": "BFGPB",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-12T09:11:58.612Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLucan",
+    "world": "YUKISHOP",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-12T09:12:45.420Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Migyz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T09:12:54.165Z"
   }
 ]
