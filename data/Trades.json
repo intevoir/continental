@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-09-12T08:06:19.223Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pocong",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-09-12T08:10:25.421Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T08:10:51.873Z"
   }
 ]
