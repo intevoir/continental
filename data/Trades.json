@@ -5,19 +5,6 @@
     "world": "MARKET",
     "action": "BUY",
     "item_name": "Bulletin Board",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-12T20:26:54.694Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AzureDuck_369",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
     "item_count": 150,
     "p_name": "World Locks",
     "p_count": 150,
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-09-12T20:29:27.559Z"
+  },
+  {
+    "player1": "Okii",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-12T20:31:16.607Z"
   }
 ]
