@@ -10,32 +10,6 @@
     "p_count": 2000,
     "price_wl": 2000,
     "traded_with": null,
-    "timestamp": "2026-09-12T14:32:29.205Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "",
-    "world": "AOII",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T14:32:42.692Z"
-  },
-  {
-    "player1": "",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
     "timestamp": "2026-09-12T14:32:55.162Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-12T14:34:33.984Z"
+  },
+  {
+    "player1": "ENTJ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-12T14:35:30.402Z"
+  },
+  {
+    "player1": "totoni",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19635,
+    "price_wl": 19635,
+    "traded_with": null,
+    "timestamp": "2026-09-12T14:35:30.413Z"
   }
 ]
