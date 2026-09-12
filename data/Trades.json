@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Migyz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T05:59:42.448Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Migyz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Signal Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T05:59:46.846Z"
-  },
-  {
     "player1": "Onniegtg",
     "player2": "Buying Machine",
     "world": "FIOBFG",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-12T06:02:57.414Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zonra",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:03:40.605Z"
+  },
+  {
+    "player1": "ONETZY",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:03:40.620Z"
   }
 ]
