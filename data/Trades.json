@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZEWOX",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Stone Spear",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:54:58.963Z"
-  },
-  {
-    "player1": "MMEG",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 105,
-    "price_wl": 105,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:55:58.915Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrFertys",
     "world": "VENDBAL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-12T06:58:00.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFertys",
+    "world": "VENDBAL",
+    "action": "BUY",
+    "item_name": "Ghastly Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:58:16.472Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MMEG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:58:31.125Z"
   }
 ]
