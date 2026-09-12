@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKaiizie",
-    "world": "MAHAL",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-09-12T20:33:58.708Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Okii",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6200,
     "traded_with": null,
     "timestamp": "2026-09-12T20:40:32.635Z"
+  },
+  {
+    "player1": "BoosterFire",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-12T20:42:03.932Z"
   }
 ]
