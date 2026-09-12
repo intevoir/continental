@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "TXPHONE",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:47:21.673Z"
-  },
-  {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-12T01:47:21.677Z"
-  },
-  {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
     "item_name": "Haunted Chemical",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 120000,
     "traded_with": null,
     "timestamp": "2026-09-12T01:49:39.910Z"
+  },
+  {
+    "player1": "DrGilbertCps",
+    "player2": "Buying Machine",
+    "world": "TIE",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000000,
+    "price_wl": 4000000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:50:23.884Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aizenns",
+    "world": "QGEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-12T01:50:32.249Z"
   }
 ]
