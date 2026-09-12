@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lunnnnnnn",
-    "player2": "ZYBO",
-    "world": "BAG",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 4,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ZYBO",
-    "timestamp": "2026-09-12T02:16:37.453Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kautsar",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "BallXy",
     "timestamp": "2026-09-12T02:18:12.258Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T02:18:39.022Z"
   }
 ]
