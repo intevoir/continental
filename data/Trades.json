@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "yoo_235",
-    "world": "BFGTOWERS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-09-12T14:10:09.543Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Leonecry",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Kanji Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T14:11:03.982Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "chezeku",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-12T14:12:02.176Z"
+  },
+  {
+    "player1": "BurJiro",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 21420,
+    "price_wl": 21420,
+    "traded_with": null,
+    "timestamp": "2026-09-12T14:12:50.091Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leonecry",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Dark Magic Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-12T14:13:01.093Z"
   }
 ]
