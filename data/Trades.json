@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MythicalFistt []",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 81,
-    "p_name": "World Locks",
-    "p_count": 27,
-    "price_wl": 27,
-    "traded_with": null,
-    "timestamp": "2026-09-12T12:47:32.396Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "IceCrown",
     "world": "BUYKFK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-12T12:50:11.318Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Geewon",
+    "world": "SELLDIGIVENDS",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-12T12:50:35.084Z"
   }
 ]
