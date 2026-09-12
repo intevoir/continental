@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DArrK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:49:28.038Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DArrK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:49:28.050Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ManyolL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-09-12T21:54:00.200Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NNBC",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T21:54:30.924Z"
+  },
+  {
+    "player1": "MOJUNG",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-12T21:54:34.444Z"
   }
 ]
