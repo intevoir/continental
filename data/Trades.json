@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nozferatuu",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-12T03:10:01.067Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nozferatuu",
-    "world": "FIOBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 252,
-    "price_wl": 252,
-    "traded_with": null,
-    "timestamp": "2026-09-12T03:10:01.091Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BallXy",
     "world": "TRADING",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-09-12T03:15:04.240Z"
+  },
+  {
+    "player1": "Nozferatuu",
+    "player2": "Buying Machine",
+    "world": "FIOBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-12T03:17:04.915Z"
+  },
+  {
+    "player1": "CsperLEK",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-12T03:17:08.751Z"
   }
 ]
