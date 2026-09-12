@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BOSM",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Legal Briefs",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-09-12T18:59:05.920Z"
-  },
-  {
     "player1": "MMEG",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-12T19:04:08.213Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUNBA",
+    "world": "PO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-12T19:04:38.873Z"
   }
 ]
