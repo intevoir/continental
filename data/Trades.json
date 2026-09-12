@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ler",
-    "player2": "Renting Station",
-    "world": "HYBAR",
-    "action": "RENT",
-    "item_name": "Benzyl's Corrupted Demon Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-09-12T18:19:38.695Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hairn",
-    "world": "CEK",
-    "action": "BUY",
-    "item_name": "Neptune's Chariot",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-12T18:19:38.706Z"
-  },
-  {
     "player1": "SANGBAGUS",
     "player2": "Renting Station",
     "world": "SONG1",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-12T18:20:53.546Z"
+  },
+  {
+    "player1": "DrSeverine",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T18:21:34.705Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "deVarley",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-09-12T18:21:47.533Z"
   }
 ]
