@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SLOWMOTIONS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T07:13:06.494Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SHAVER",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "DrRichbow",
     "timestamp": "2026-09-12T07:19:07.885Z"
+  },
+  {
+    "player1": "dielz",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-12T07:20:13.369Z"
   }
 ]
