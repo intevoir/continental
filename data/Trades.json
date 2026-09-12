@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Beowulf's Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T17:57:10.284Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Pegasus Lance",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T17:57:31.609Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CoLLMan",
-    "world": "BFGORDO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-09-12T17:57:40.381Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cloviz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-09-12T17:58:20.294Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cloviz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-12T18:01:20.757Z"
+  },
+  {
+    "player1": "DrAKIBAT",
+    "player2": "Arengentong",
+    "world": "BFGGIH",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Arengentong",
+    "timestamp": "2026-09-12T18:02:13.419Z"
+  },
+  {
+    "player1": "Arengentong",
+    "player2": "DrAKIBAT",
+    "world": "BFGGIH",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 41,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAKIBAT",
+    "timestamp": "2026-09-12T18:02:13.420Z"
+  },
+  {
+    "player1": "Arengentong",
+    "player2": "DrAKIBAT",
+    "world": "BFGGIH",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 18,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAKIBAT",
+    "timestamp": "2026-09-12T18:02:13.420Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFlatscreen",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-12T18:02:39.654Z"
   }
 ]
