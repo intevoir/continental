@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrAinzi",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-09-12T09:01:16.052Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Obskura",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-09-12T09:03:18.331Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Mamaneri []",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Golden Heart Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 150000,
+    "price_wl": 150000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T09:03:54.348Z"
   }
 ]
