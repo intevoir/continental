@@ -4,19 +4,6 @@
     "player2": "MythicalFistt []",
     "world": "SHOPL",
     "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-12T12:58:30.620Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MythicalFistt []",
-    "world": "SHOPL",
-    "action": "BUY",
     "item_name": "Pepper",
     "item_count": 150,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-09-12T13:00:24.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dragonoid",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-12T13:00:33.520Z"
   }
 ]
