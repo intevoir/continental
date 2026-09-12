@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Cynos",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-12T19:35:51.913Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DerekCole",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-09-12T19:38:27.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pirkejas",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-12T19:39:23.200Z"
   }
 ]
