@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Geewon",
-    "world": "SELLDIGIVENDS",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-12T12:50:35.084Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PakBurhan",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-12T12:51:16.916Z"
-  },
-  {
     "player1": "@Winn []",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-12T12:56:14.491Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PakBurhan",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-12T12:56:44.968Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KFK of Legend [] [PRO ] [RICH] [] [EXCLUSIVE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Purple Chest",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-12T12:56:44.982Z"
   }
 ]
