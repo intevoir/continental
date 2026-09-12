@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ritsma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Neptune's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-12T02:02:34.097Z"
-  },
-  {
     "player1": "ponza10",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-12T02:05:46.341Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ErumaCPS",
+    "world": "FREE",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-09-12T02:07:13.879Z"
   }
 ]
