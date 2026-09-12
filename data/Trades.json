@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MMEG",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 59,
-    "p_name": "World Locks",
-    "p_count": 413,
-    "price_wl": 413,
-    "traded_with": null,
-    "timestamp": "2026-09-12T14:38:32.240Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Orangie",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-12T14:39:35.629Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "TLJSAVE",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 45000,
+    "price_wl": 45000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T14:40:32.306Z"
   }
 ]
