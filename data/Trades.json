@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "D Battery",
-    "item_count": 108,
-    "p_name": "World Locks",
-    "p_count": 1620,
-    "price_wl": 1620,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:12:00.559Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zonra",
     "world": "BUYPAINTBRUSH",
@@ -128,5 +115,18 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-09-12T06:13:45.464Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zonra",
+    "world": "BUYMONITORSS",
+    "action": "BUY",
+    "item_name": "Heart Monitor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:14:52.223Z"
   }
 ]
