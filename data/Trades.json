@@ -4,19 +4,6 @@
     "player2": "IceCrown",
     "world": "IKAN",
     "action": "BUY",
-    "item_name": "Fishing Rod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T23:46:28.039Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "IKAN",
-    "action": "BUY",
     "item_name": "Candy Cane Bait",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-12T23:51:12.825Z"
+  },
+  {
+    "player1": "SangBgl",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T23:53:13.484Z"
   }
 ]
