@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MyZaa",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Riding Silkworm - White",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T20:27:21.348Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Migyz",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-12T20:31:57.799Z"
+  },
+  {
+    "player1": "Obskura",
+    "player2": "Renting Station",
+    "world": "TOKO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-12T20:32:18.268Z"
   }
 ]
