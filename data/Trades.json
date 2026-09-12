@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "pirkejas",
-    "world": "VND",
-    "action": "BUY",
-    "item_name": "Weather Machine - Dark Mountains",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:28:18.329Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "pirkejas",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Harvester Of Sorrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:30:19.670Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yuwen",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1020,
-    "price_wl": 1020,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:32:52.950Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yuwen",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1020,
-    "price_wl": 1020,
-    "traded_with": null,
-    "timestamp": "2026-09-12T21:33:21.938Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "yuwen",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-12T21:43:51.082Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Crossixir",
+    "world": "BFGJOHN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-12T21:44:25.894Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leonecry",
+    "world": "DOWN",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Charcoal",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-12T21:44:30.497Z"
+  },
+  {
+    "player1": "Suguruu []",
+    "player2": "deVarley",
+    "world": "MIN5DLS",
+    "action": "TRADE",
+    "item_name": "Da Vinci Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "deVarley",
+    "timestamp": "2026-09-12T21:44:38.853Z"
+  },
+  {
+    "player1": "deVarley",
+    "player2": "Suguruu []",
+    "world": "MIN5DLS",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Suguruu []",
+    "timestamp": "2026-09-12T21:44:38.853Z"
   }
 ]
