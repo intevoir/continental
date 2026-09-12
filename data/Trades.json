@@ -4,19 +4,6 @@
     "player2": "DeRekt",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Mystic Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T13:15:20.386Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DeRekt",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Winter Frost Bow",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-12T13:18:40.616Z"
+  },
+  {
+    "player1": "bototob",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-12T13:19:23.162Z"
   }
 ]
