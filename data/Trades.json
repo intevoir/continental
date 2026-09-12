@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Saros",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:04:41.657Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nayhers",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:04:41.667Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Saros",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:04:41.674Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nayhers",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-12T06:04:41.695Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TEMBAK",
     "world": "LIBUR",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 996,
     "traded_with": null,
     "timestamp": "2026-09-12T06:05:59.002Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "cocooo",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:06:42.104Z"
+  },
+  {
+    "player1": "Vladera [ELITE]",
+    "player2": "00112233",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "Infinity Katana",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "00112233",
+    "timestamp": "2026-09-12T06:06:42.158Z"
+  },
+  {
+    "player1": "00112233",
+    "player2": "Vladera [ELITE]",
+    "world": "BTK",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 110,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Vladera [ELITE]",
+    "timestamp": "2026-09-12T06:06:42.158Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kaiituru1",
+    "world": "IIC",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-12T06:06:42.158Z"
   }
 ]
