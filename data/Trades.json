@@ -1,31 +1,5 @@
 [
   {
-    "player1": "NextEraCPS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-12T22:20:55.742Z"
-  },
-  {
-    "player1": "Seime",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-12T22:22:43.763Z"
-  },
-  {
     "player1": "COOLBGL",
     "player2": "Buying Machine",
     "world": "TRADING",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-12T22:38:09.078Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TysonGross",
+    "world": "STOREDL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-12T22:40:04.679Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TysonGross",
+    "world": "STOREDL",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T22:40:08.447Z"
   }
 ]
