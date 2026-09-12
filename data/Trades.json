@@ -1,18 +1,5 @@
 [
   {
-    "player1": "sousei",
-    "player2": "Renting Station",
-    "world": "KFK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-09-12T03:32:17.837Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FlashDuck",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-12T03:35:08.179Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AbenAja",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-12T03:36:06.776Z"
   }
 ]
