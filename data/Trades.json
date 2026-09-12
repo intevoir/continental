@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Danzcps22",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-12T19:58:00.854Z"
-  },
-  {
-    "player1": "@SHA [SUPER] [PRO ]",
-    "player2": "Buying Machine",
-    "world": "CMD",
-    "action": "SELL",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3950000,
-    "price_wl": 3950000,
-    "traded_with": null,
-    "timestamp": "2026-09-12T19:58:00.872Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Danzcps22",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 33,
-    "price_wl": 33,
-    "traded_with": null,
-    "timestamp": "2026-09-12T19:58:05.245Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Migyz",
     "world": "KEDAI",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-09-12T20:03:36.324Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "dykduk []",
+    "world": "BFGTST",
+    "action": "TRADE",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "dykduk []",
+    "timestamp": "2026-09-12T20:04:04.103Z"
+  },
+  {
+    "player1": "dykduk []",
+    "player2": "spookyfakeh",
+    "world": "BFGTST",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "spookyfakeh",
+    "timestamp": "2026-09-12T20:04:04.103Z"
+  },
+  {
+    "player1": "dykduk []",
+    "player2": "spookyfakeh",
+    "world": "BFGTST",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "spookyfakeh",
+    "timestamp": "2026-09-12T20:04:04.103Z"
   }
 ]
