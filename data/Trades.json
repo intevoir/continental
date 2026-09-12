@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PrincessEricka",
-    "world": "ALWC",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-12T08:54:49.815Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LucyDemon",
     "world": "WWLW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-12T09:00:56.450Z"
+  },
+  {
+    "player1": "DrAinzi",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-09-12T09:01:16.052Z"
   }
 ]
