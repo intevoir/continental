@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BIRU",
     "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-13T13:33:00.080Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrYokk",
-    "world": "DEPOINT",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-09-13T13:33:03.599Z"
-  },
-  {
-    "player1": "PENGHANTU",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-13T13:34:36.248Z"
+  },
+  {
+    "player1": "DrYokk",
+    "player2": "Renting Station",
+    "world": "BFGPOYO",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-13T13:36:36.897Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MASJEKK",
+    "world": "BFGMASA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 69300,
+    "price_wl": 69300,
+    "traded_with": null,
+    "timestamp": "2026-09-13T13:36:36.906Z"
   }
 ]
