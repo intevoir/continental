@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 1339,
-    "price_wl": 1339,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:50:24.133Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IceCrown",
     "world": "FOX",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-13T22:56:36.305Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dellz",
+    "world": "TRADING",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 52,
+    "price_wl": 52,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:57:09.999Z"
   }
 ]
