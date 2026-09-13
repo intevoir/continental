@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:59:44.459Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fortitude",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 384,
-    "price_wl": 384,
-    "traded_with": null,
-    "timestamp": "2026-09-13T23:00:10.647Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Dellz",
     "world": "KEDAI",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-13T23:04:38.081Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 624,
+    "price_wl": 624,
+    "traded_with": null,
+    "timestamp": "2026-09-13T23:05:13.912Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kaiituru1",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 450,
+    "price_wl": 450,
+    "traded_with": null,
+    "timestamp": "2026-09-13T23:05:13.921Z"
   }
 ]
