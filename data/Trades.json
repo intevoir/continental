@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "wews",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T10:57:27.681Z"
-  },
-  {
     "player1": "KAMISAN",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 625000,
     "traded_with": null,
     "timestamp": "2026-09-13T11:01:21.807Z"
+  },
+  {
+    "player1": "MrFinan",
+    "player2": "Buying Machine",
+    "world": "FIOBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 42,
+    "price_wl": 42,
+    "traded_with": null,
+    "timestamp": "2026-09-13T11:02:22.543Z"
   }
 ]
