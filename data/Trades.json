@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PilolGt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-13T01:15:30.469Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "COOLBGL",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-09-13T01:17:41.822Z"
+  },
+  {
+    "player1": "abox",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 336,
+    "price_wl": 336,
+    "traded_with": null,
+    "timestamp": "2026-09-13T01:18:31.939Z"
   }
 ]
