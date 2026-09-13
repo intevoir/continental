@@ -1,18 +1,5 @@
 [
   {
-    "player1": "COOLBGL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 92,
-    "p_name": "World Locks",
-    "p_count": 644,
-    "price_wl": 644,
-    "traded_with": null,
-    "timestamp": "2026-09-13T02:22:57.745Z"
-  },
-  {
     "player1": "PilolGt",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-13T02:28:21.862Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PilolGt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 199,
+    "p_name": "World Locks",
+    "p_count": 796,
+    "price_wl": 796,
+    "traded_with": null,
+    "timestamp": "2026-09-13T02:29:13.491Z"
   }
 ]
