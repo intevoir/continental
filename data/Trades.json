@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Moyy",
-    "world": "KEDAI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T14:41:03.681Z"
-  },
-  {
-    "player1": "BangBabu",
-    "player2": "Renting Station",
-    "world": "BFGPOYO",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-09-13T14:41:03.690Z"
-  },
-  {
     "player1": "slebewaja",
     "player2": "Renting Station",
     "world": "TIE",
@@ -128,5 +102,31 @@
     "price_wl": 10948,
     "traded_with": null,
     "timestamp": "2026-09-13T14:42:01.223Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BangBabu",
+    "world": "PANTRY",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-13T14:42:13.426Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gianyounjung",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Freaky Fried Egg Eyes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-13T14:42:22.013Z"
   }
 ]
