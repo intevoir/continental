@@ -4,19 +4,6 @@
     "player2": "@KiKiNG",
     "world": "TRADING",
     "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-13T20:12:42.728Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@KiKiNG",
-    "world": "TRADING",
-    "action": "BUY",
     "item_name": "Super Golden Booty Chest",
     "item_count": 30,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-13T20:15:03.945Z"
+  },
+  {
+    "player1": "@VoraxStore",
+    "player2": "Renting Station",
+    "world": "BENZYL",
+    "action": "RENT",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-09-13T20:15:50.443Z"
   }
 ]
