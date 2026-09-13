@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrXenita",
-    "player2": "Renting Station",
-    "world": "RENTMOZ",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-09-13T06:17:13.485Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PilolGt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1800,
-    "price_wl": 1800,
-    "traded_with": null,
-    "timestamp": "2026-09-13T06:17:17.536Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-13T06:17:27.400Z"
-  },
-  {
     "player1": "mataelang",
     "player2": "Renting Station",
     "world": "BFGPOYO",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-13T06:19:30.642Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PilolGt",
+    "world": "AOV",
+    "action": "BUY",
+    "item_name": "Summer Surprise",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 39,
+    "price_wl": 39,
+    "traded_with": null,
+    "timestamp": "2026-09-13T06:20:06.686Z"
+  },
+  {
+    "player1": "TIRTANEEDIRENG",
+    "player2": "ParkerZuzezo",
+    "world": "MESAROZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 4,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ParkerZuzezo",
+    "timestamp": "2026-09-13T06:20:06.703Z"
+  },
+  {
+    "player1": "ParkerZuzezo",
+    "player2": "TIRTANEEDIRENG",
+    "world": "MESAROZ",
+    "action": "TRADE",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 121,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "TIRTANEEDIRENG",
+    "timestamp": "2026-09-13T06:20:06.703Z"
   }
 ]
