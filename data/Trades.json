@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anggapuh",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Intergalactic Warrior Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:46:18.674Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anggapuh",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Silverstar Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:46:43.525Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZanZunZan",
     "world": "WHITE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-13T00:48:52.130Z"
+  },
+  {
+    "player1": "POKOCUY [CHAD!]",
+    "player2": "Obskura",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Obskura",
+    "timestamp": "2026-09-13T00:50:20.189Z"
+  },
+  {
+    "player1": "Obskura",
+    "player2": "POKOCUY [CHAD!]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 32,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "POKOCUY [CHAD!]",
+    "timestamp": "2026-09-13T00:50:20.190Z"
   }
 ]
