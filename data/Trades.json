@@ -1,18 +1,5 @@
 [
   {
-    "player1": "txphone",
-    "player2": "Buying Machine",
-    "world": "BFGSERVER",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 47600,
-    "price_wl": 47600,
-    "traded_with": null,
-    "timestamp": "2026-09-13T19:10:24.325Z"
-  },
-  {
     "player1": "@Verif",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-13T19:24:33.774Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rei104 [ELITE]",
+    "world": "JOINBFG",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-09-13T19:25:22.240Z"
   }
 ]
