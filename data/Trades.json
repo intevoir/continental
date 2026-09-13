@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-13T04:55:10.958Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-13T04:55:10.980Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Leonecry",
     "world": "VENDSHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-13T04:57:12.289Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leonecry",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Chicken Meat",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-13T04:57:43.721Z"
+  },
+  {
+    "player1": "Fklng",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-13T04:58:12.461Z"
   }
 ]
