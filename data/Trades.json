@@ -1,18 +1,5 @@
 [
   {
-    "player1": "skyboss",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:32:00.695Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "fauzpos",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-13T22:38:12.855Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "SELLBOOT",
+    "action": "BUY",
+    "item_name": "Black Air Robinsons",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:40:23.641Z"
   }
 ]
