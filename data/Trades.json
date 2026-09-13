@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HER",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 625000,
-    "price_wl": 625000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T12:49:43.302Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrNusa",
     "world": "RENTDEVIL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 625000,
     "traded_with": null,
     "timestamp": "2026-09-13T12:52:11.176Z"
+  },
+  {
+    "player1": "arrMCD",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-13T12:52:46.183Z"
   }
 ]
