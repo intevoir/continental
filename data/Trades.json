@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@ELCYAN",
-    "world": "VENDNIE",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-13T11:29:39.800Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Azoid",
-    "world": "SELLSONGPEY",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-13T11:29:44.082Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Azoid",
     "world": "SELLSONGPEY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-13T11:33:36.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrIbnu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-13T11:34:01.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-09-13T11:34:01.113Z"
   }
 ]
