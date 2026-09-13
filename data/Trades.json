@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Anggapuh [ELITE]",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Troll Face #1",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:29:10.862Z"
-  },
-  {
-    "player1": "tangankanan",
-    "player2": "Buying Machine",
-    "world": "DPS",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 26000,
-    "price_wl": 26000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:29:10.872Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XOTOY",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-13T00:32:36.488Z"
+  },
+  {
+    "player1": "txp",
+    "player2": "ZeinnRtoBGL",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 55,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ZeinnRtoBGL",
+    "timestamp": "2026-09-13T00:33:11.631Z"
+  },
+  {
+    "player1": "ZeinnRtoBGL",
+    "player2": "txp",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "txp",
+    "timestamp": "2026-09-13T00:33:11.632Z"
   }
 ]
