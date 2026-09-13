@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrPrevillege",
-    "world": "QGEIGER",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:21:07.746Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPrevillege",
-    "world": "QGEIGER",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-13T00:21:16.607Z"
-  },
-  {
     "player1": "ZanZunZan",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 17255,
     "traded_with": null,
     "timestamp": "2026-09-13T00:26:22.900Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MayoCPS2",
+    "world": "BUYFOODS",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-13T00:27:22.178Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MayoCPS2",
+    "world": "BUYFOODS",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-13T00:27:26.586Z"
   }
 ]
