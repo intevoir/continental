@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "abox",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-13T01:22:32.026Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "greamm",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-13T01:27:59.582Z"
+  },
+  {
+    "player1": "Kizi",
+    "player2": "Buying Machine",
+    "world": "DPS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-13T01:28:46.788Z"
   }
 ]
