@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "akasu",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-13T17:29:23.071Z"
-  },
-  {
-    "player1": "Venox",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T17:29:40.251Z"
-  },
-  {
     "player1": "pinnoy",
     "player2": "Renting Station",
     "world": "BFGWE",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-09-13T17:34:43.981Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Rift Cape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-13T17:35:37.362Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GinzzVoldigoad",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-13T17:35:58.229Z"
   }
 ]
