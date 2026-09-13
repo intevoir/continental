@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "VDA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3550,
-    "price_wl": 3550,
-    "traded_with": null,
-    "timestamp": "2026-09-13T19:04:13.159Z"
-  },
-  {
-    "player1": "DrGoogleGemini",
-    "player2": "Renting Station",
-    "world": "BFGSERVER",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-09-13T19:04:26.196Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BabyGhostBoy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-13T19:09:14.822Z"
+  },
+  {
+    "player1": "txphone",
+    "player2": "Buying Machine",
+    "world": "BFGSERVER",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 68,
+    "p_name": "World Locks",
+    "p_count": 47600,
+    "price_wl": 47600,
+    "traded_with": null,
+    "timestamp": "2026-09-13T19:10:24.325Z"
+  },
+  {
+    "player1": "@Verif",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-13T19:10:45.800Z"
   }
 ]
