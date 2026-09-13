@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ReeGTI",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Black Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T08:12:21.014Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ReeGTI",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Shadow Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T08:13:07.751Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@GANG [] [BLOCKMO]",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-13T08:16:27.077Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EyesNightMare",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 460,
+    "price_wl": 460,
+    "traded_with": null,
+    "timestamp": "2026-09-13T08:17:10.243Z"
+  },
+  {
+    "player1": "LhT",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-13T08:17:14.662Z"
   }
 ]
