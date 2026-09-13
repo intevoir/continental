@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZEMAH",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Alaskan King Crab Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-13T17:23:22.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bacang",
-    "world": "DIGIVEND",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-13T17:24:22.539Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "pinnoy",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-13T17:27:50.384Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "akasu",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-13T17:29:23.071Z"
+  },
+  {
+    "player1": "Venox",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-13T17:29:40.251Z"
   }
 ]
