@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "SELLBOOT",
-    "action": "BUY",
-    "item_name": "Black Air Robinsons",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:40:23.641Z"
-  },
-  {
-    "player1": "fauzpos",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:42:01.532Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DERSSGT",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-13T22:45:30.210Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fauzpos",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:46:05.128Z"
+  },
+  {
+    "player1": "BusetGilang",
+    "player2": "Buying Machine",
+    "world": "CUAN",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:46:05.141Z"
   }
 ]
