@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TERBATAS",
-    "world": "BUYSHAMPOO",
-    "action": "BUY",
-    "item_name": "Black Hair Dye",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T04:28:25.732Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Osas [PRO ]",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-13T04:31:09.918Z"
+  },
+  {
+    "player1": "FlashDuck",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Elite Item: Bomber Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-09-13T04:32:17.297Z"
   }
 ]
