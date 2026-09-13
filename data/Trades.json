@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZEMAH",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Rift Cape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-13T17:35:37.362Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GinzzVoldigoad",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-13T17:36:54.353Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Door Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-13T17:36:58.247Z"
   }
 ]
