@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tangankanan",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-13T15:53:42.287Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TorDirt_369",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-13T15:54:06.918Z"
-  },
-  {
     "player1": "Piisang",
     "player2": "CO0",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15000,
     "traded_with": null,
     "timestamp": "2026-09-13T15:58:00.594Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@QOIL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 144,
+    "price_wl": 144,
+    "traded_with": null,
+    "timestamp": "2026-09-13T15:59:44.477Z"
+  },
+  {
+    "player1": "Nikita",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-13T16:00:08.247Z"
   }
 ]
