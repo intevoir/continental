@@ -2,19 +2,6 @@
   {
     "player1": "NextEraCPS",
     "player2": "Buying Machine",
-    "world": "SKYBOS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 147,
-    "price_wl": 147,
-    "traded_with": null,
-    "timestamp": "2026-09-13T22:19:23.978Z"
-  },
-  {
-    "player1": "NextEraCPS",
-    "player2": "Buying Machine",
     "world": "FGEIGER",
     "action": "SELL",
     "item_name": "Blue Crystal",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-09-13T22:28:09.105Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NessFX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:30:55.640Z"
   }
 ]
