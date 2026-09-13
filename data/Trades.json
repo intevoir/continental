@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ReeGTI",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Scarf of Chains",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-13T08:01:19.763Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrBrianna",
     "world": "PANTRY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-13T08:03:03.265Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "PANTRY",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-13T08:03:16.409Z"
   }
 ]
