@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dnystriaaa",
-    "world": "VENDING",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-13T20:37:03.040Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TakoChi",
-    "world": "VENDING",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-13T20:38:25.694Z"
-  },
-  {
     "player1": "ordoo",
     "player2": "Renting Station",
     "world": "TOKO",
@@ -128,5 +102,31 @@
     "price_wl": 11515,
     "traded_with": null,
     "timestamp": "2026-09-13T20:42:13.138Z"
+  },
+  {
+    "player1": "AliongRTO",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-13T20:47:25.854Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VianOfLegend",
+    "world": "REY",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-13T20:47:29.331Z"
   }
 ]
