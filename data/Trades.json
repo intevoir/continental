@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Carasuma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-09-13T10:06:28.347Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kaiituru1",
-    "world": "RSS",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 139,
-    "p_name": "World Locks",
-    "p_count": 695,
-    "price_wl": 695,
-    "traded_with": null,
-    "timestamp": "2026-09-13T10:06:36.765Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "spookyfakeh",
     "world": "BIRU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-09-13T10:09:58.425Z"
+  },
+  {
+    "player1": "YinJin",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-09-13T10:10:12.087Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YinJin",
+    "world": "USXG",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-09-13T10:10:21.239Z"
   }
 ]
