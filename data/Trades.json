@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Winn []",
-    "world": "VERBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-13T19:44:27.604Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Winn []",
-    "world": "VERBFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-13T19:44:27.619Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Arengentong",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-13T19:47:57.138Z"
+  },
+  {
+    "player1": "@KiKiNG",
+    "player2": "Renting Station",
+    "world": "TXPHONE",
+    "action": "RENT",
+    "item_name": "Spear Darkness - N8",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-09-13T19:49:36.230Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 130,
+    "price_wl": 130,
+    "traded_with": null,
+    "timestamp": "2026-09-13T19:49:51.291Z"
   }
 ]
