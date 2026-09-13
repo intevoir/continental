@@ -1,19 +1,6 @@
 [
   {
     "player1": "XOTOY",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-13T07:18:46.976Z"
-  },
-  {
-    "player1": "XOTOY",
     "player2": "Buying Machine",
     "world": "BIRU",
     "action": "SELL",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-13T07:23:51.549Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-13T07:24:34.421Z"
   }
 ]
