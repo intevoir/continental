@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BruceLiew",
-    "world": "GELQ",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-13T21:55:25.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RamaKalem",
     "world": "BLOCKM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 392,
     "traded_with": null,
     "timestamp": "2026-09-13T22:00:58.254Z"
+  },
+  {
+    "player1": "Gungnir",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-09-13T22:01:43.787Z"
   }
 ]
