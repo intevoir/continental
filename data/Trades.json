@@ -1,18 +1,5 @@
 [
   {
-    "player1": "blankspace",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Mega Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-13T05:58:46.348Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Leonecry",
     "world": "HA",
@@ -128,5 +115,18 @@
     "price_wl": 6450,
     "traded_with": null,
     "timestamp": "2026-09-13T06:01:47.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SUKIO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-13T06:02:45.088Z"
   }
 ]
