@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BallXy2",
-    "world": "USXG",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-13T10:17:06.054Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "YinJin",
     "world": "USXG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-13T10:18:23.287Z"
+  },
+  {
+    "player1": "YinJin",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 8400,
+    "price_wl": 8400,
+    "traded_with": null,
+    "timestamp": "2026-09-13T10:19:03.089Z"
   }
 ]
