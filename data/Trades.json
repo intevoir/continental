@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrKaiizie",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-13T15:52:02.174Z"
-  },
-  {
     "player1": "DrPOJIK",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-13T15:55:06.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BananaSnake_369",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-13T15:55:42.786Z"
   }
 ]
