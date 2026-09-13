@@ -1,19 +1,6 @@
 [
   {
     "player1": "@Veewel",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 43,
-    "p_name": "World Locks",
-    "p_count": 4300,
-    "price_wl": 4300,
-    "traded_with": null,
-    "timestamp": "2026-09-13T21:22:12.928Z"
-  },
-  {
-    "player1": "@Veewel",
     "player2": "Renting Station",
     "world": "VENDSPOT",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-13T21:47:20.565Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "BLOCKM",
+    "action": "BUY",
+    "item_name": "Fuizi's Intergalactic Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-09-13T21:49:21.691Z"
   }
 ]
