@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck [ELITE]",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-13T05:44:34.978Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hassasin",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-13T05:44:43.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "mfebri334",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-13T05:45:35.650Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "mfebri334",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-13T05:47:07.618Z"
+  },
+  {
+    "player1": "namakukontol",
+    "player2": "Buying Machine",
+    "world": "LOBU",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-09-13T05:47:37.739Z"
+  },
+  {
+    "player1": "@Yrko",
+    "player2": "Buying Machine",
+    "world": "ZRAIK24",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 320000,
+    "price_wl": 320000,
+    "traded_with": null,
+    "timestamp": "2026-09-13T05:47:37.745Z"
+  },
+  {
+    "player1": "funkytuwn",
+    "player2": "Renting Station",
+    "world": "BFGPOYO",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-09-13T05:48:04.532Z"
   }
 ]
