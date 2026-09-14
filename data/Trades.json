@@ -1,18 +1,5 @@
 [
   {
-    "player1": "stxt",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 29750,
-    "price_wl": 29750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T22:17:06.905Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrRegans",
     "world": "RIO",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-14T22:27:00.297Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Grey Wallpaper",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-14T22:31:03.314Z"
   }
 ]
