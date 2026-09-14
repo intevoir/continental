@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "PELID",
     "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 28,
-    "price_wl": 28,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:17:41.058Z"
-  },
-  {
-    "player1": "JikGhonz",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
     "item_name": "Dead Geiger Counter",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 32500,
     "traded_with": null,
     "timestamp": "2026-09-14T15:20:33.895Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFreeFlre",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:20:57.725Z"
   }
 ]
