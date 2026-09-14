@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MrIbnu",
-    "world": "FGEIGER",
-    "action": "BUY",
-    "item_name": "Radioactive Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 140,
-    "price_wl": 140,
-    "traded_with": null,
-    "timestamp": "2026-09-14T10:52:39.971Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yoell",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-14T10:54:00.291Z"
+  },
+  {
+    "player1": "Drwuwu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 21000,
+    "price_wl": 21000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T10:54:36.670Z"
   }
 ]
