@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zanza",
-    "world": "VENDN",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:12:14.440Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ReyNoMode",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:13:17.931Z"
-  },
-  {
     "player1": "Ashmapi",
     "player2": "Buying Machine",
     "world": "KUYBFG",
@@ -128,5 +102,31 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-14T08:16:39.131Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ashmapi",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:17:07.126Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ashmapi",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:17:10.910Z"
   }
 ]
