@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Xendok",
-    "player2": "Buying Machine",
-    "world": "BFGBTY",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 67,
-    "p_name": "World Locks",
-    "p_count": 469,
-    "price_wl": 469,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:36:56.728Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ler",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 375,
     "traded_with": null,
     "timestamp": "2026-09-14T08:38:56.119Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Perk",
+    "world": "JK",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:39:37.345Z"
   }
 ]
