@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "LUXI",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:18:16.611Z"
-  },
-  {
-    "player1": "kamcan",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2440,
-    "price_wl": 2440,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:18:16.625Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ASURANSl",
     "world": "HLEV",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-14T13:20:16.669Z"
+  },
+  {
+    "player1": "DrN4NA",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Cloak",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:20:51.043Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GunturComeback []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Sonic Buster Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:21:17.740Z"
   }
 ]
