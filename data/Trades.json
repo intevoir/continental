@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "BFGNUM11",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 135000,
-    "price_wl": 135000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:24:39.253Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BurJiro",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-14T21:37:36.115Z"
+  },
+  {
+    "player1": "alibakar",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:38:36.969Z"
   }
 ]
