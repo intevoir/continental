@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "HAIMIYAA",
-    "world": "NDEJ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:39:34.316Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:39:34.361Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HAIMIYAA",
     "world": "STOREDL",
     "action": "BUY",
     "item_name": "Lucky Clover",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-14T11:41:59.861Z"
+  },
+  {
+    "player1": "Rawy",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 924,
+    "price_wl": 924,
+    "traded_with": null,
+    "timestamp": "2026-09-14T11:42:56.399Z"
+  },
+  {
+    "player1": "Rawy",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 924,
+    "price_wl": 924,
+    "traded_with": null,
+    "timestamp": "2026-09-14T11:43:03.686Z"
   }
 ]
