@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SelfMod",
-    "player2": "Renting Station",
-    "world": "BFGPEI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:52:41.948Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RamaKalem",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-09-14T08:54:14.789Z"
+  },
+  {
+    "player1": "Ashmapi",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:54:58.637Z"
   }
 ]
