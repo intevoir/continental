@@ -5,19 +5,6 @@
     "world": "PELID",
     "action": "SELL",
     "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:48:26.498Z"
-  },
-  {
-    "player1": "kamcan",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
     "item_count": 65,
     "p_name": "World Locks",
     "p_count": 195,
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-14T15:52:50.000Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kamcan",
+    "world": "K62",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:52:58.924Z"
   }
 ]
