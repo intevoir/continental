@@ -1,31 +1,5 @@
 [
   {
-    "player1": "yasc",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-14T18:20:29.395Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SAMURAIN",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1300,
-    "price_wl": 1300,
-    "traded_with": null,
-    "timestamp": "2026-09-14T18:20:45.138Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SAMURAIN",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 22900,
     "traded_with": null,
     "timestamp": "2026-09-14T18:24:54.293Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "hanyaptht",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-14T18:25:35.893Z"
+  },
+  {
+    "player1": "Nikita",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T18:25:51.538Z"
   }
 ]
