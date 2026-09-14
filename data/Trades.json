@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Xvput",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-14T22:42:30.607Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HAQIYORI",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 188,
-    "price_wl": 188,
-    "traded_with": null,
-    "timestamp": "2026-09-14T22:42:30.618Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HAQIYORI",
     "world": "GEMSKU",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-14T22:47:50.594Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Brokee",
+    "world": "JVK",
+    "action": "BUY",
+    "item_name": "Benzyl's Health Bar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250000,
+    "price_wl": 250000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T22:48:58.870Z"
+  },
+  {
+    "player1": "Drzarealm",
+    "player2": "Buying Machine",
+    "world": "PELID",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-14T22:54:03.789Z"
   }
 ]
