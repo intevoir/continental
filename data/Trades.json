@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "spookyfakeh",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:52:17.991Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-14T20:54:46.790Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrEnalStore",
+    "world": "GEMSKU",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:01:51.129Z"
   }
 ]
