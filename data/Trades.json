@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Sen10",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:35:57.184Z"
-  },
-  {
-    "player1": "Sen10",
-    "player2": "Buying Machine",
-    "world": "TXPHONE",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-14T08:36:05.226Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ler",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 156,
     "traded_with": null,
     "timestamp": "2026-09-14T08:37:37.534Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ler",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:37:45.979Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ler",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T08:38:02.696Z"
   }
 ]
