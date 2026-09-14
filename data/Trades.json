@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LIQDIMJAGO",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 21,
-    "price_wl": 21,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:45:15.634Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LIQDIMJAGO",
     "world": "PELID",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-14T20:52:17.991Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrEnalStore",
+    "world": "GEMSKU",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:52:25.416Z"
   }
 ]
