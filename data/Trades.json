@@ -1,57 +1,5 @@
 [
   {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "HUL",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:21:19.263Z"
-  },
-  {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "HUL",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:21:36.241Z"
-  },
-  {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "HUL",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 189,
-    "p_name": "World Locks",
-    "p_count": 756,
-    "price_wl": 756,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:22:20.352Z"
-  },
-  {
-    "player1": "EthBFGGG",
-    "player2": "Renting Station",
-    "world": "ELA",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 107100,
-    "price_wl": 107100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:22:20.363Z"
-  },
-  {
     "player1": "EthBFGGG",
     "player2": "Renting Station",
     "world": "ELA",
@@ -128,5 +76,57 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-14T19:31:23.112Z"
+  },
+  {
+    "player1": "HAQIYORI",
+    "player2": "PENGHANTU",
+    "world": "MIN1WL",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "PENGHANTU",
+    "timestamp": "2026-09-14T19:32:23.032Z"
+  },
+  {
+    "player1": "PENGHANTU",
+    "player2": "HAQIYORI",
+    "world": "MIN1WL",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 200,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "HAQIYORI",
+    "timestamp": "2026-09-14T19:32:23.033Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PICES",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:32:27.154Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PICES",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:32:50.364Z"
   }
 ]
