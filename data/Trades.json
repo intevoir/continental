@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "MYGEIGER",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:09:04.508Z"
-  },
-  {
-    "player1": "kamcan",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:09:13.058Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "MYGEIGER",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:09:55.798Z"
-  },
-  {
     "player1": "razi9",
     "player2": "legianf89",
     "world": "BFGPONTI",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-14T16:11:25.909Z"
+  },
+  {
+    "player1": "DJABARANO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7100,
+    "price_wl": 7100,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:11:56.547Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bocil23",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:11:56.558Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZawyn",
+    "world": "MIN1WL",
+    "action": "BUY",
+    "item_name": "Heatbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:11:56.574Z"
   }
 ]
