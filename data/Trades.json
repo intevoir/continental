@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Benzyl of Legend [PRO ] [$$$LUXURY$$$] [RAWR]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:08:28.467Z"
-  },
-  {
-    "player1": "Bacang",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:09:16.160Z"
-  },
-  {
-    "player1": "GripAtre_192",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:09:16.172Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Neffyk",
     "world": "CUAN",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 225,
     "traded_with": null,
     "timestamp": "2026-09-14T19:11:36.592Z"
+  },
+  {
+    "player1": "@Jusoo [PRO ] [] [BEAUTYAURORA]",
+    "player2": "Kitty of Legend [MEOW]",
+    "world": "JUSOO",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kitty of Legend [MEOW]",
+    "timestamp": "2026-09-14T19:16:23.297Z"
+  },
+  {
+    "player1": "@Jusoo [PRO ] [] [BEAUTYAURORA]",
+    "player2": "Kitty of Legend [MEOW]",
+    "world": "JUSOO",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 20,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kitty of Legend [MEOW]",
+    "timestamp": "2026-09-14T19:16:23.298Z"
+  },
+  {
+    "player1": "Kitty of Legend [MEOW]",
+    "player2": "@Jusoo [PRO ] [] [BEAUTYAURORA]",
+    "world": "JUSOO",
+    "action": "TRADE",
+    "item_name": "Black Gems (Black Gem Transfer)",
+    "item_count": 2000000,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Jusoo [PRO ] [] [BEAUTYAURORA]",
+    "timestamp": "2026-09-14T19:16:23.298Z"
   }
 ]
