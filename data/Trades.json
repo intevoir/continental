@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:05:23.297Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tamid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:06:23.400Z"
-  },
-  {
-    "player1": "Yohan",
-    "player2": "Buying Machine",
-    "world": "HYBAR",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:06:36.044Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tamid",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-09-14T21:09:24.711Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Dark Walnut Ladders",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:11:24.703Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "HYBAR",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:11:24.716Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Jungle Pillar",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:11:40.439Z"
   }
 ]
