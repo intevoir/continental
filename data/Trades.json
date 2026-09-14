@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ReyNoMode",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T07:50:13.630Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "WES",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-14T07:50:18.448Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ReyNoMode",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T07:50:26.645Z"
-  },
-  {
     "player1": "IFuunyV1",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +89,44 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T07:51:33.706Z"
+  },
+  {
+    "player1": "ReyNoMode",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-09-14T07:52:06.738Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "WES",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T07:52:06.753Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "WES",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T07:52:18.899Z"
   }
 ]
