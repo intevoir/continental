@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "greamm",
-    "world": "VENDIIN",
-    "action": "BUY",
-    "item_name": "Stained Glass",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:37:50.630Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ReeGTI",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Silk Vest - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:38:16.979Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PilolGt",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-14T15:41:52.196Z"
+  },
+  {
+    "player1": "Xbella",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1380,
+    "price_wl": 1380,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:42:16.076Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xbella",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:42:44.829Z"
   }
 ]
