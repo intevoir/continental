@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RamaKalem",
-    "player2": "Buying Machine",
-    "world": "BFGIBU",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:15:57.353Z"
-  },
-  {
     "player1": "jayawinata",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-09-14T16:17:05.218Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KNOW",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:17:51.564Z"
   }
 ]
