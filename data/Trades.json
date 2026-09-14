@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Flex",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:29:40.959Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Mahardika",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-14T20:38:12.544Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "VNED",
+    "action": "BUY",
+    "item_name": "Jungle Pillar",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:39:13.510Z"
   }
 ]
