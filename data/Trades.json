@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Takoo",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T09:54:25.115Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "iyan of Legend [ELITE] [BLOCKMO]",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Shampoo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-14T09:54:34.873Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iyan of Legend [ELITE] [BLOCKMO]",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 60000,
     "traded_with": null,
     "timestamp": "2026-09-14T09:57:28.937Z"
+  },
+  {
+    "player1": "alyabii",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T09:58:10.348Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bugg",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Yellow",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-14T09:58:14.532Z"
   }
 ]
