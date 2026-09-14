@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lRafa2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 144,
-    "price_wl": 144,
-    "traded_with": null,
-    "timestamp": "2026-09-14T09:04:04.552Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rynow",
     "world": "POHON",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T09:06:01.469Z"
+  },
+  {
+    "player1": "MMEG",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 47,
+    "p_name": "World Locks",
+    "p_count": 329,
+    "price_wl": 329,
+    "traded_with": null,
+    "timestamp": "2026-09-14T09:06:49.319Z"
   }
 ]
