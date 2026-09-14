@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KUXAK",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:01:36.115Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KUXAK",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:02:08.765Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SHAVER",
-    "world": "375",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:02:35.956Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "POCOKY",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-14T20:03:52.818Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SHAVER",
+    "world": "375",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:04:36.540Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KUXAK",
+    "world": "NOW",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:04:36.554Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CloneKiel",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:04:36.563Z"
   }
 ]
