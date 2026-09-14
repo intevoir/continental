@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Miwwa",
-    "world": "SHOPEM",
-    "action": "BUY",
-    "item_name": "Possessing Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:18:27.282Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Weather Machine - Snowy",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:20:32.930Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@MESA",
     "world": "BFGNUM11",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1240,
     "traded_with": null,
     "timestamp": "2026-09-14T21:35:53.291Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Error969",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Scythe of the Underworld",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:37:36.100Z"
+  },
+  {
+    "player1": "Arengentong",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:37:36.115Z"
   }
 ]
