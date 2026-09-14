@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "MAMI",
-    "action": "BUY",
-    "item_name": "Spotlight",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-14T22:47:50.594Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Brokee",
     "world": "JVK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-14T22:55:48.521Z"
+  },
+  {
+    "player1": "Drzarealm",
+    "player2": "Buying Machine",
+    "world": "PELID",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 164,
+    "p_name": "World Locks",
+    "p_count": 492,
+    "price_wl": 492,
+    "traded_with": null,
+    "timestamp": "2026-09-14T22:56:13.350Z"
   }
 ]
