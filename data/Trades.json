@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Veewel",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-14T23:41:23.349Z"
-  },
-  {
     "player1": "Projectile",
     "player2": "Renting Station",
     "world": "GOKU67",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T23:44:09.044Z"
+  },
+  {
+    "player1": "@Veewel",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-14T23:48:24.476Z"
   }
 ]
