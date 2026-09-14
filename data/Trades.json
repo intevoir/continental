@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 495,
-    "price_wl": 495,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:35:35.743Z"
-  },
-  {
-    "player1": "Dnystriaaa",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:35:35.757Z"
-  },
-  {
-    "player1": "Jettcute",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 4,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 7100,
     "traded_with": null,
     "timestamp": "2026-09-14T13:37:52.512Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "VENDIIN",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:38:28.846Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HULL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 72000,
+    "price_wl": 72000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:38:41.095Z"
   }
 ]
