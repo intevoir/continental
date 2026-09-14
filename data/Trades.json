@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fetos",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:03:23.909Z"
-  },
-  {
     "player1": "MyFavEx",
     "player2": "Buying Machine",
     "world": "PELID",
@@ -128,5 +115,18 @@
     "price_wl": 21,
     "traded_with": null,
     "timestamp": "2026-09-14T21:06:39.927Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDuxxy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:07:24.859Z"
   }
 ]
