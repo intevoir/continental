@@ -10,32 +10,6 @@
     "p_count": 750,
     "price_wl": 750,
     "traded_with": null,
-    "timestamp": "2026-09-14T16:13:57.484Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "MYGEIGER",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:14:01.676Z"
-  },
-  {
-    "player1": "kamcan",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
     "timestamp": "2026-09-14T16:14:11.030Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-14T16:15:57.376Z"
+  },
+  {
+    "player1": "RamaKalem",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:16:10.255Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wonodadi",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:16:22.955Z"
   }
 ]
