@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "CHEAPES",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:17:27.853Z"
-  },
-  {
     "player1": "BusetGilang",
     "player2": "Buying Machine",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-14T19:22:44.834Z"
+  },
+  {
+    "player1": "Bacang",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:27:35.385Z"
   }
 ]
