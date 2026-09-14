@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BillMasihPemula",
-    "player2": "Renting Station",
-    "world": "RENTIYU",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-09-14T18:59:47.000Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Rynow []",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 8500,
     "traded_with": null,
     "timestamp": "2026-09-14T19:04:47.095Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "OF",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:06:14.229Z"
   }
 ]
