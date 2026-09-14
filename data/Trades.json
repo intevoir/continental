@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mahardika",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 36500,
-    "price_wl": 36500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:29:40.973Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "POCOKY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:30:08.830Z"
-  },
-  {
     "player1": "Flex",
     "player2": "Buying Machine",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-14T20:39:13.510Z"
+  },
+  {
+    "player1": "LIQDIMJAGO",
+    "player2": "Buying Machine",
+    "world": "PELID",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 39,
+    "price_wl": 39,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:39:35.220Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LIQDIMJAGO",
+    "world": "PELID",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:39:42.582Z"
   }
 ]
