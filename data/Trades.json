@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ZEMAH",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:31:54.971Z"
-  },
-  {
-    "player1": "sihilisko",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:31:59.776Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zhal",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-14T15:34:15.814Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sihilisko",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 4200,
+    "price_wl": 4200,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:35:41.421Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PilolGt",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:35:49.708Z"
   }
 ]
