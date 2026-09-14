@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jejowyy",
-    "world": "WJO",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T06:14:28.238Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Perk",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-14T06:15:24.277Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Perk",
     "world": "BFGID",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 357,
     "traded_with": null,
     "timestamp": "2026-09-14T06:19:48.791Z"
+  },
+  {
+    "player1": "napake",
+    "player2": "Buying Machine",
+    "world": "RSS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-14T06:20:27.275Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "TOMATQU",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T06:20:27.289Z"
   }
 ]
