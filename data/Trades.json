@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NQ1",
-    "world": "BFGJEI",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:43:14.140Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RamaKalem",
     "world": "VENDT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-14T20:48:44.040Z"
+  },
+  {
+    "player1": "ErlanSky",
+    "player2": "Renting Station",
+    "world": "BFGWE",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:50:16.441Z"
   }
 ]
