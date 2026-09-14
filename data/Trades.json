@@ -1,31 +1,5 @@
 [
   {
-    "player1": "kamcan",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:04:12.852Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Sxoozy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T16:04:15.510Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kamcan",
     "world": "MYGEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-14T16:05:19.136Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kamcan",
+    "world": "MYGEIGER",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:05:54.457Z"
+  },
+  {
+    "player1": "kamcan",
+    "player2": "Buying Machine",
+    "world": "PELID",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T16:05:54.472Z"
   }
 ]
