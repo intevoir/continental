@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BruceLiew",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T07:14:47.780Z"
-  },
-  {
     "player1": "KembarRTO",
     "player2": "Renting Station",
     "world": "FREE",
@@ -128,5 +115,18 @@
     "price_wl": 3950000,
     "traded_with": null,
     "timestamp": "2026-09-14T07:22:56.557Z"
+  },
+  {
+    "player1": "dekanax",
+    "player2": "Renting Station",
+    "world": "XC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T07:23:20.363Z"
   }
 ]
