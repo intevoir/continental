@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Dark Walnut Ladders",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-09-14T21:11:24.703Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
     "world": "HYBAR",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-14T21:18:27.282Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaKalem",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Weather Machine - Snowy",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-14T21:20:32.930Z"
   }
 ]
