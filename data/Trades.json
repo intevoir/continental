@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "POCOKY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:42:44.880Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NQ1",
     "world": "BFGJEI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 85,
     "traded_with": null,
     "timestamp": "2026-09-14T20:46:16.387Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SHAVER",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:48:44.040Z"
   }
 ]
