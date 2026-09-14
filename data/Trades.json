@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "txphone",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-14T22:09:51.613Z"
-  },
-  {
     "player1": "COOLBGL",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 256,
     "traded_with": null,
     "timestamp": "2026-09-14T22:15:15.238Z"
+  },
+  {
+    "player1": "stxt",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 29750,
+    "price_wl": 29750,
+    "traded_with": null,
+    "timestamp": "2026-09-14T22:17:06.905Z"
   }
 ]
