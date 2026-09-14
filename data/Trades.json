@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrJustWilliam",
-    "world": "SELLPAINTING",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 31,
-    "price_wl": 31,
-    "traded_with": null,
-    "timestamp": "2026-09-14T09:32:17.881Z"
-  },
-  {
     "player1": "@KSEEH",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T09:34:10.021Z"
+  },
+  {
+    "player1": "DrJustWilliam",
+    "player2": "Renting Station",
+    "world": "TRADING",
+    "action": "RENT",
+    "item_name": "Zenitsu Agatsuma",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-09-14T09:34:25.743Z"
   }
 ]
