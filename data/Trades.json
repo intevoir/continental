@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Account",
-    "world": "STOREDL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-09-14T18:16:35.836Z"
-  },
-  {
     "player1": "SAMURAIN",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1300,
     "traded_with": null,
     "timestamp": "2026-09-14T18:20:45.138Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SAMURAIN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-09-14T18:21:25.832Z"
   }
 ]
