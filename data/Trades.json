@@ -1,44 +1,5 @@
 [
   {
-    "player1": "PANGERANMODOL",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T04:11:28.639Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "zhakyCB",
-    "world": "REMET",
-    "action": "BUY",
-    "item_name": "Spider Sniper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T04:12:20.709Z"
-  },
-  {
-    "player1": "fhhf",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 2472,
-    "price_wl": 2472,
-    "traded_with": null,
-    "timestamp": "2026-09-14T04:13:36.048Z"
-  },
-  {
     "player1": "@SenzuParker",
     "player2": "Buying Machine",
     "world": "MOMMYMYLO",
@@ -128,5 +89,44 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-14T04:20:28.379Z"
+  },
+  {
+    "player1": "txphone",
+    "player2": "fatniegar",
+    "world": "TXPHONE",
+    "action": "TRADE",
+    "item_name": "Spear Darkness - N8",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "fatniegar",
+    "timestamp": "2026-09-14T04:21:12.693Z"
+  },
+  {
+    "player1": "fatniegar",
+    "player2": "txphone",
+    "world": "TXPHONE",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 20,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "txphone",
+    "timestamp": "2026-09-14T04:21:12.693Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fatniegar",
+    "world": "TXPHONE",
+    "action": "BUY",
+    "item_name": "Muni's Caspiro",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-14T04:21:37.485Z"
   }
 ]
