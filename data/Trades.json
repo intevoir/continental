@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kamcan",
-    "world": "VLIA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-14T17:24:59.981Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Guwon [ELITE]",
-    "world": "STOREDL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-09-14T17:25:52.588Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jettcute",
     "world": "TXPHONE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 224,
     "traded_with": null,
     "timestamp": "2026-09-14T17:31:24.253Z"
+  },
+  {
+    "player1": "PoliceB",
+    "player2": "Buying Machine",
+    "world": "OF",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-09-14T17:31:56.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kamcan",
+    "world": "TXPHONE",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T17:31:56.329Z"
   }
 ]
