@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrJiYeon",
-    "world": "BUYTORCH",
-    "action": "BUY",
-    "item_name": "Torch",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-09-14T06:44:36.425Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BabyGhostBoy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-09-14T06:55:58.348Z"
+  },
+  {
+    "player1": "WILJU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-14T06:57:07.352Z"
   }
 ]
