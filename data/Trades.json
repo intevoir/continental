@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "VENDT",
-    "action": "BUY",
-    "item_name": "Screen Door",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:43:14.163Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RamaKalem",
-    "world": "VENDT",
-    "action": "BUY",
-    "item_name": "Orange Portal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:43:22.927Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aztecs",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-14T20:50:16.441Z"
+  },
+  {
+    "player1": "POCOKY",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:51:17.314Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arengentong",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:51:17.326Z"
   }
 ]
