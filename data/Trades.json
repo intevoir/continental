@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SenzuParker",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Celestial Lance",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:33:47.131Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SenzuParker",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Squirt Gun",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:34:02.653Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ser09GT",
-    "world": "WES",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:34:31.937Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kamcan",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "KroYY",
     "timestamp": "2026-09-14T11:37:46.581Z"
+  },
+  {
+    "player1": "Detacss",
+    "player2": "Renting Station",
+    "world": "VENDSPOT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T11:38:41.383Z"
+  },
+  {
+    "player1": "DrRikoFF123",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T11:38:44.761Z"
+  },
+  {
+    "player1": "kamcan",
+    "player2": "Buying Machine",
+    "world": "PELID",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-14T11:38:49.222Z"
   }
 ]
