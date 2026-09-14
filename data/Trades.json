@@ -1,18 +1,5 @@
 [
   {
-    "player1": "bototob",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 1755,
-    "price_wl": 1755,
-    "traded_with": null,
-    "timestamp": "2026-09-14T15:53:50.156Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zyrec",
     "world": "COOK",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-14T15:56:25.239Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sihilisko",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4800,
+    "price_wl": 4800,
+    "traded_with": null,
+    "timestamp": "2026-09-14T15:56:50.990Z"
   }
 ]
