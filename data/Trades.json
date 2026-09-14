@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drwuwu",
-    "world": "STOREDL",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-14T10:04:36.878Z"
-  },
-  {
     "player1": "Bellemere",
     "player2": "Buying Machine",
     "world": "GEIGERO",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-09-14T10:06:18.852Z"
+  },
+  {
+    "player1": "KySecond",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7050,
+    "price_wl": 7050,
+    "traded_with": null,
+    "timestamp": "2026-09-14T10:07:23.473Z"
   }
 ]
