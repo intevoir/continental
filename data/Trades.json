@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@AeJay",
-    "world": "VENDM",
-    "action": "BUY",
-    "item_name": "Street Sign",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:39:27.036Z"
-  },
-  {
-    "player1": "aysarfathur",
-    "player2": "Renting Station",
-    "world": "TRADING",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-14T19:39:27.047Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@SHAVER",
     "world": "375",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T19:44:28.982Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AeJay",
+    "world": "VENDM",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:46:30.644Z"
+  },
+  {
+    "player1": "Jettcute",
+    "player2": "Buying Machine",
+    "world": "TXPHONE",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-14T19:46:43.285Z"
   }
 ]
