@@ -1,18 +1,5 @@
 [
   {
-    "player1": "POCOKY",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-14T20:25:19.035Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "POCOKY",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-14T20:30:13.758Z"
+  },
+  {
+    "player1": "DrOtongBaik",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Pure Being of Light and Shadow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-09-14T20:33:13.816Z"
   }
 ]
