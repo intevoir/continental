@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-09-14T17:55:05.491Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wonodadi",
-    "world": "BUYCC",
-    "action": "BUY",
-    "item_name": "Creative Coin",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 570000,
-    "price_wl": 570000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T17:56:05.989Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSyaz",
     "world": "FZGX",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-14T17:59:16.157Z"
+  },
+  {
+    "player1": "DrDetac",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-14T18:00:09.408Z"
+  },
+  {
+    "player1": "HAQIYORI",
+    "player2": "Renting Station",
+    "world": "TXPHONE",
+    "action": "RENT",
+    "item_name": "Monkey D. Luffy",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-09-14T18:00:34.338Z"
   }
 ]
