@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ReyNoMode",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14000,
-    "price_wl": 14000,
-    "traded_with": null,
-    "timestamp": "2026-09-14T07:54:40.497Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Jejowyy",
     "world": "WES",
@@ -128,5 +115,18 @@
     "price_wl": 45,
     "traded_with": null,
     "timestamp": "2026-09-14T07:56:19.789Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jejowyy",
+    "world": "WES",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T07:57:07.582Z"
   }
 ]
