@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bugg",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-14T09:58:14.532Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-14T10:03:03.811Z"
+  },
+  {
+    "player1": "Exalted",
+    "player2": "Renting Station",
+    "world": "CMD",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-14T10:04:04.676Z"
   }
 ]
