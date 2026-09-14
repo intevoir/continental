@@ -1,18 +1,5 @@
 [
   {
-    "player1": "purukuda",
-    "player2": "Renting Station",
-    "world": "VENDSPOT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-14T05:20:41.853Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMbox [ELITE]",
     "world": "JUAL",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-14T05:23:06.391Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox [ELITE]",
+    "world": "JUAL",
+    "action": "BUY",
+    "item_name": "Holographic Sign",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-14T05:23:37.424Z"
   }
 ]
