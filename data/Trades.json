@@ -4,19 +4,6 @@
     "player2": "Frexxi",
     "world": "SHOPS",
     "action": "BUY",
-    "item_name": "Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-14T23:16:55.617Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Frexxi",
-    "world": "SHOPS",
-    "action": "BUY",
     "item_name": "Death's Scarf",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 144000,
     "traded_with": null,
     "timestamp": "2026-09-14T23:24:24.067Z"
+  },
+  {
+    "player1": "Majah",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-14T23:28:00.823Z"
   }
 ]
