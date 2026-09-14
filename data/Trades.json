@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Haydenquins",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7100,
-    "price_wl": 7100,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:22:21.640Z"
-  },
-  {
-    "player1": "Aztecs",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20765,
-    "price_wl": 20765,
-    "traded_with": null,
-    "timestamp": "2026-09-14T13:22:45.962Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "sihilisko",
     "world": "VENDSHOP",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-14T13:26:34.257Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ler",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:26:50.632Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aztecs",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-09-14T13:27:18.846Z"
   }
 ]
