@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CsperLEK",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 1950,
-    "price_wl": 1950,
-    "traded_with": null,
-    "timestamp": "2026-09-14T11:56:44.834Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrKaiizie",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-14T12:02:11.222Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKaiizie",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Stylish Draped Trench Coat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-14T12:03:19.755Z"
   }
 ]
