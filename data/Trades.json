@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Aizenns",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-15T09:16:51.527Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LarenMw",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 7300,
     "traded_with": null,
     "timestamp": "2026-09-15T09:21:40.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRegans",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 33000,
+    "price_wl": 33000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T09:22:41.282Z"
   }
 ]
