@@ -1,31 +1,5 @@
 [
   {
-    "player1": "HER",
-    "player2": "Lunnnnnnn",
-    "world": "CIYY",
-    "action": "TRADE",
-    "item_name": "Black ATM Machine",
-    "item_count": 250,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Lunnnnnnn",
-    "timestamp": "2026-09-15T02:34:25.694Z"
-  },
-  {
-    "player1": "Lunnnnnnn",
-    "player2": "HER",
-    "world": "CIYY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 75,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "HER",
-    "timestamp": "2026-09-15T02:34:25.694Z"
-  },
-  {
     "player1": "moiu7",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrMythicalFist [ELITE]",
     "timestamp": "2026-09-15T02:40:46.546Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HER",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 625000,
+    "price_wl": 625000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T02:41:30.480Z"
+  },
+  {
+    "player1": "JikGhonz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-15T02:41:36.914Z"
   }
 ]
