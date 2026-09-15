@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "e0s",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-15T19:08:50.797Z"
-  },
-  {
     "player1": "OLD1",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-09-15T19:15:55.653Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VINXCHRISTY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-09-15T19:19:11.673Z"
   }
 ]
