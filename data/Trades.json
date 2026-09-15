@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Screamy",
-    "player2": "Buying Machine",
-    "world": "SCREAMYTEST",
-    "action": "SELL",
-    "item_name": "Dirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:34:28.164Z"
-  },
-  {
     "player1": "burtyfr",
     "player2": "Renting Station",
     "world": "BFGSPK",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-09-15T08:36:37.160Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingTEMBAK",
+    "world": "MANDI",
+    "action": "BUY",
+    "item_name": "Contact Lens Cleaning Solution",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:37:21.948Z"
   }
 ]
