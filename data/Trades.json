@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "xcva",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-15T23:24:55.670Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "xcva",
-    "world": "SHOPUI",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-15T23:25:58.402Z"
-  },
-  {
     "player1": "Hutabarat",
     "player2": "Renting Station",
     "world": "PURPLE",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-15T23:33:12.354Z"
+  },
+  {
+    "player1": "DevinaC",
+    "player2": "Renting Station",
+    "world": "BFGSPK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23800,
+    "price_wl": 23800,
+    "traded_with": null,
+    "timestamp": "2026-09-15T23:33:57.224Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Obskura",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-15T23:34:20.683Z"
   }
 ]
