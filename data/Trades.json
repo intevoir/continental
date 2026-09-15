@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 4800,
-    "price_wl": 4800,
-    "traded_with": null,
-    "timestamp": "2026-09-15T15:19:44.215Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anggapuh",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Blue Eye Drops",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-15T15:19:44.221Z"
-  },
-  {
     "player1": "sihilisko",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 90,
     "traded_with": null,
     "timestamp": "2026-09-15T15:22:46.269Z"
+  },
+  {
+    "player1": "PocongV",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-15T15:23:18.760Z"
+  },
+  {
+    "player1": "Xbella",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-15T15:23:18.768Z"
   }
 ]
