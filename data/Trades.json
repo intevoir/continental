@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ToyaRTO1",
-    "world": "BFGPOYO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-09-15T12:39:14.342Z"
-  },
-  {
     "player1": "Sxoozy",
     "player2": "Renting Station",
     "world": "BFGADVAN",
@@ -128,5 +115,18 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-09-15T12:45:10.155Z"
+  },
+  {
+    "player1": "PROKERZ",
+    "player2": "Buying Machine",
+    "world": "GELQ",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T12:45:33.505Z"
   }
 ]
