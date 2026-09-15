@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KelvinKel",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-09-15T13:06:16.390Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "CTOKO",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-15T13:06:16.404Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZhaoChan",
     "world": "SHOPKG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-15T13:08:13.764Z"
+  },
+  {
+    "player1": "Tuslam",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-15T13:09:27.661Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SEANSHOP []",
+    "world": "MYRA",
+    "action": "BUY",
+    "item_name": "Teeny Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-15T13:09:40.742Z"
   }
 ]
