@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "YouPie_404",
-    "world": "BFGSUG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 32,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:19:43.303Z"
-  },
-  {
     "player1": "@Screamy",
     "player2": "Buying Machine",
     "world": "SCREAMYTEST",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-15T08:23:13.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AeJay",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:23:26.249Z"
   }
 ]
