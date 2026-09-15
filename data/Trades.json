@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DERSSGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-15T10:31:42.629Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MURRY",
-    "world": "GIJ",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-15T10:31:42.651Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ItsDva",
-    "world": "BUYGREY",
-    "action": "BUY",
-    "item_name": "Dark Grey Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-15T10:31:54.495Z"
-  },
-  {
     "player1": "Exalted",
     "player2": "Renting Station",
     "world": "TXPHONE",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-15T10:36:48.429Z"
+  },
+  {
+    "player1": "Nir4",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 173750,
+    "price_wl": 173750,
+    "traded_with": null,
+    "timestamp": "2026-09-15T10:36:55.409Z"
+  },
+  {
+    "player1": "Exalted",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 9035,
+    "price_wl": 9035,
+    "traded_with": null,
+    "timestamp": "2026-09-15T10:36:58.967Z"
+  },
+  {
+    "player1": "DERSSGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-15T10:37:06.164Z"
   }
 ]
