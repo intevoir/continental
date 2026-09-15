@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZEWOX",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Black Eye Drops",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:53:37.425Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZEWOX",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Black Contact Lens",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:53:37.444Z"
-  },
-  {
     "player1": "@GANG [] [BLOCKMO]",
     "player2": "Renting Station",
     "world": "TXPHONE",
@@ -128,5 +102,31 @@
     "price_wl": 18000,
     "traded_with": null,
     "timestamp": "2026-09-15T01:58:11.545Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiSmitch",
+    "world": "CMD",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 4320,
+    "price_wl": 4320,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:58:39.874Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:58:39.889Z"
   }
 ]
