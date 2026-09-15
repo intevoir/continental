@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kingael",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 480,
-    "price_wl": 480,
-    "traded_with": null,
-    "timestamp": "2026-09-15T11:26:02.346Z"
-  },
-  {
-    "player1": "NEARO",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14000,
-    "price_wl": 14000,
-    "traded_with": null,
-    "timestamp": "2026-09-15T11:26:49.491Z"
-  },
-  {
     "player1": "NEARO",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-09-15T11:29:02.208Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TysonGross",
+    "world": "HUL",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-15T11:29:11.656Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TysonGross",
+    "world": "HUL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T11:29:36.730Z"
   }
 ]
