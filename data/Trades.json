@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Beliau",
-    "world": "HLEV",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 213,
-    "p_name": "World Locks",
-    "p_count": 9798,
-    "price_wl": 9798,
-    "traded_with": null,
-    "timestamp": "2026-09-14T23:55:07.168Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrKaiizie",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-14T23:55:07.173Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ordoo",
     "world": "MARTS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-15T00:05:08.299Z"
+  },
+  {
+    "player1": "Zhuu",
+    "player2": "@GANG [] [BLOCKMO]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@GANG [] [BLOCKMO]",
+    "timestamp": "2026-09-15T00:05:47.010Z"
+  },
+  {
+    "player1": "@GANG [] [BLOCKMO]",
+    "player2": "Zhuu",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 60,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Zhuu",
+    "timestamp": "2026-09-15T00:05:47.011Z"
   }
 ]
