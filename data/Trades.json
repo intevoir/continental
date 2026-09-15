@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OLD1",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-15T18:58:41.083Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CloverSky",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-15T19:00:50.309Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrDuxxy",
     "world": "HUL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-15T19:06:07.355Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 44,
+    "p_name": "World Locks",
+    "p_count": 4532,
+    "price_wl": 4532,
+    "traded_with": null,
+    "timestamp": "2026-09-15T19:07:00.324Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sihilisko",
+    "world": "KANTIN",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 3400,
+    "price_wl": 3400,
+    "traded_with": null,
+    "timestamp": "2026-09-15T19:07:05.197Z"
   }
 ]
