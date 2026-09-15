@@ -4,19 +4,6 @@
     "player2": "moiu7",
     "world": "MARKET",
     "action": "BUY",
-    "item_name": "Red Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-15T03:55:11.927Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "moiu7",
-    "world": "MARKET",
-    "action": "BUY",
     "item_name": "Black Block",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-15T04:00:47.488Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Super Beach Blast",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T04:01:46.690Z"
   }
 ]
