@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Tuslam",
-    "world": "BFGPOYO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-15T13:56:27.728Z"
-  },
-  {
     "player1": "RickMo",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 10500,
     "traded_with": null,
     "timestamp": "2026-09-15T13:56:56.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "senatun",
+    "world": "SHOPWL",
+    "action": "BUY",
+    "item_name": "Food Grinder",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-15T13:57:03.754Z"
   }
 ]
