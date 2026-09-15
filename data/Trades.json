@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fhira2",
-    "world": "STOREKILAT",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-15T00:12:01.747Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ordoo",
     "world": "MARTS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-09-15T00:18:52.126Z"
+  },
+  {
+    "player1": "@Veewel",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-15T00:20:53.656Z"
   }
 ]
