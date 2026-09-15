@@ -10,32 +10,6 @@
     "p_count": 1000,
     "price_wl": 1000,
     "traded_with": null,
-    "timestamp": "2026-09-15T16:02:02.415Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wesimedan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-09-15T16:02:06.046Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
     "timestamp": "2026-09-15T16:02:15.113Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 160,
     "traded_with": null,
     "timestamp": "2026-09-15T16:04:13.868Z"
+  },
+  {
+    "player1": "PENGHANTU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-09-15T16:05:04.105Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zalfor",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Telephone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-15T16:05:04.119Z"
   }
 ]
