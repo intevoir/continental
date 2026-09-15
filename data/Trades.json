@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 38,
-    "p_name": "World Locks",
-    "p_count": 3800,
-    "price_wl": 3800,
-    "traded_with": null,
-    "timestamp": "2026-09-15T03:58:16.737Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Benihime",
     "world": "JJFW",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-15T04:05:36.711Z"
+  },
+  {
+    "player1": "WILJU",
+    "player2": "Renting Station",
+    "world": "BFGSPK",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-09-15T04:06:20.399Z"
   }
 ]
