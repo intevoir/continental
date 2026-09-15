@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MMEG",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-15T11:22:01.656Z"
-  },
-  {
     "player1": "TysonGross",
     "player2": "Renting Station",
     "world": "BFGSPK",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-15T11:26:02.346Z"
+  },
+  {
+    "player1": "NEARO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T11:26:49.491Z"
   }
 ]
