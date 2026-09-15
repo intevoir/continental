@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FlashDuck",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15400,
-    "price_wl": 15400,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:56:54.564Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CloneKiel []",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:56:59.741Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@AeJay",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-15T09:00:02.191Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AeJay",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-15T09:00:44.012Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SHYSS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-09-15T09:00:56.095Z"
   }
 ]
