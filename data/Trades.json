@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Xvput",
-    "world": "DOCS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:47:25.697Z"
-  },
-  {
     "player1": "HendRyuui",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 6100,
     "traded_with": null,
     "timestamp": "2026-09-15T08:51:57.566Z"
+  },
+  {
+    "player1": "Merayu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:52:27.905Z"
   }
 ]
