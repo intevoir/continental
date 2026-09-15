@@ -4,19 +4,6 @@
     "player2": "Takaradaa",
     "world": "BESTBFG",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-15T11:50:45.888Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Takaradaa",
-    "world": "BESTBFG",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 25,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-09-15T11:56:05.879Z"
+  },
+  {
+    "player1": "MannSky",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T11:56:23.178Z"
   }
 ]
