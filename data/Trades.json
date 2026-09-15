@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SEP1D",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Greatest Swordsman's Cloak",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-15T05:47:02.040Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SEP1D",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Greatest Swordsman's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T05:47:06.713Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SEP1D",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Greatest Swordsman's Kimono",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-15T05:47:21.141Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pabss",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1320,
     "traded_with": null,
     "timestamp": "2026-09-15T05:49:03.935Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEP1D",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Space Dog",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T05:50:00.215Z"
+  },
+  {
+    "player1": "mataelang",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 28,
+    "price_wl": 28,
+    "traded_with": null,
+    "timestamp": "2026-09-15T05:50:00.229Z"
+  },
+  {
+    "player1": "KARUTO",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 67,
+    "p_name": "World Locks",
+    "p_count": 1005,
+    "price_wl": 1005,
+    "traded_with": null,
+    "timestamp": "2026-09-15T05:50:00.238Z"
   }
 ]
