@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MMEG",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-09-15T07:50:01.358Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@GANG [] [BLOCKMO]",
     "world": "SURGT",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-15T07:52:19.226Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GalaxyThor",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 220,
+    "p_name": "World Locks",
+    "p_count": 1980,
+    "price_wl": 1980,
+    "traded_with": null,
+    "timestamp": "2026-09-15T07:53:32.941Z"
   }
 ]
