@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "N3on",
-    "world": "SETIA",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 525,
-    "price_wl": 525,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:36:21.126Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:36:21.153Z"
-  },
-  {
     "player1": "RichBoy",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-09-15T08:38:21.980Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RichBoy",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Black Devil Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:38:54.446Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KzYUU7",
+    "world": "SONGPYEON",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:39:22.439Z"
   }
 ]
