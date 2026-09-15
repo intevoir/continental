@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RichBoy",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Vortex Shirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:39:39.101Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Takaradaa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:40:23.342Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RichBoy",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Tars Lamora Miner Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:40:23.359Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Takaradaa",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-15T08:40:50.670Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "shyco",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Mood Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:40:55.019Z"
+  },
+  {
+    "player1": "Vernoidx",
+    "player2": "Buying Machine",
+    "world": "RIO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:41:23.131Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:41:23.141Z"
   }
 ]
