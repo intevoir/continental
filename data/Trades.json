@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PENGHANTU",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 174,
-    "price_wl": 174,
-    "traded_with": null,
-    "timestamp": "2026-09-15T16:01:01.626Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-15T16:02:30.509Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-15T16:03:02.386Z"
   }
 ]
