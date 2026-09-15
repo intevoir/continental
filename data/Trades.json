@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NQ1",
-    "player2": "Buying Machine",
-    "world": "BFGBTY",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 77,
-    "price_wl": 77,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:08:15.765Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "AppleJuice [ELITE]",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-09-15T01:16:18.715Z"
+  },
+  {
+    "player1": "BAYMAX",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:17:39.174Z"
   }
 ]
