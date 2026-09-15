@@ -1,31 +1,5 @@
 [
   {
-    "player1": "IceCrown",
-    "player2": "Renting Station",
-    "world": "CITEM",
-    "action": "RENT",
-    "item_name": "Infinity Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:45:35.637Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AeJay",
-    "world": "DELMAN",
-    "action": "BUY",
-    "item_name": "Benzyl's Impact Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:46:25.558Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xvput",
     "world": "DOCS",
@@ -128,5 +102,31 @@
     "price_wl": 1035,
     "traded_with": null,
     "timestamp": "2026-09-15T08:50:55.932Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AeJay",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Ezio's Beard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:51:27.921Z"
+  },
+  {
+    "player1": "Merayu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 61,
+    "p_name": "World Locks",
+    "p_count": 6100,
+    "price_wl": 6100,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:51:57.566Z"
   }
 ]
