@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZhaoChan",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:29:24.548Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "mataelang",
-    "world": "BFGORDO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:29:33.163Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "mataelang",
-    "world": "BFGORDO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:29:40.197Z"
-  },
-  {
     "player1": "OnlyRiz",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-09-15T01:35:51.734Z"
+  },
+  {
+    "player1": "mataelang",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 130,
+    "price_wl": 130,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:36:29.811Z"
+  },
+  {
+    "player1": "mataelang",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 52,
+    "p_name": "World Locks",
+    "p_count": 364,
+    "price_wl": 364,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:36:46.621Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNusa",
+    "world": "RENTDEVIL",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:36:54.064Z"
   }
 ]
