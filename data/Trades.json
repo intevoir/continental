@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "RSS",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-15T00:13:51.301Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kaiituru1",
     "world": "BUYDTA",
@@ -128,5 +115,18 @@
     "price_wl": 10560,
     "traded_with": null,
     "timestamp": "2026-09-15T00:24:07.494Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fhira2",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 3375,
+    "price_wl": 3375,
+    "traded_with": null,
+    "timestamp": "2026-09-15T00:25:59.068Z"
   }
 ]
