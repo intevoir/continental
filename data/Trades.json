@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HAQIYORI",
-    "world": "TXPHONE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:51:41.162Z"
-  },
-  {
     "player1": "@GANG [] [BLOCKMO]",
     "player2": "Renting Station",
     "world": "TXPHONE",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-15T01:54:03.723Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7100,
+    "price_wl": 7100,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:57:39.823Z"
   }
 ]
