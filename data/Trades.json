@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Tuslam",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Horns of Infinity",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-15T14:40:34.822Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PoliceMan",
     "world": "RIECHS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-15T14:43:06.934Z"
+  },
+  {
+    "player1": "muatane",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "American Sports Ball Jersey",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-15T14:43:14.404Z"
   }
 ]
