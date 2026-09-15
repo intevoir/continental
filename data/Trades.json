@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fklng",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 11100,
-    "price_wl": 11100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T20:26:56.225Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "AIQ",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-15T20:27:31.134Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "AIQ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 66,
     "traded_with": null,
     "timestamp": "2026-09-15T20:29:51.016Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Laferte",
+    "world": "WIRAFARM",
+    "action": "BUY",
+    "item_name": "Iron Bars",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-09-15T20:30:30.424Z"
+  },
+  {
+    "player1": "DrPapiChulo",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-15T20:30:30.447Z"
   }
 ]
