@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "AIQ",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 1840,
-    "price_wl": 1840,
-    "traded_with": null,
-    "timestamp": "2026-09-15T20:27:31.148Z"
-  },
-  {
     "player1": "Cp88",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-15T20:31:38.417Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "Buying Machine",
+    "world": "BFGRALL",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T20:35:55.163Z"
   }
 ]
