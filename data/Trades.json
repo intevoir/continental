@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@AeJay",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Horn Headband",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T08:50:36.407Z"
-  },
-  {
     "player1": "IceCrown",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-15T08:53:50.959Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AeJay",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Mysterious Detective's Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-15T08:54:43.627Z"
   }
 ]
