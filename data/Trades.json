@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kudaprut",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-15T00:22:54.386Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "fhira2",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-15T00:37:17.259Z"
+  },
+  {
+    "player1": "@GANG [] [BLOCKMO]",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Bloodveil Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-15T00:43:03.402Z"
   }
 ]
