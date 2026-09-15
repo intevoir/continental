@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@GANG [] [BLOCKMO]",
-    "player2": "Renting Station",
-    "world": "TXPHONE",
-    "action": "RENT",
-    "item_name": "Osas's Azure Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4760,
-    "price_wl": 4760,
-    "traded_with": null,
-    "timestamp": "2026-09-15T01:53:37.458Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZEWOX",
     "world": "COLOR",
@@ -128,5 +115,18 @@
     "price_wl": 350,
     "traded_with": null,
     "timestamp": "2026-09-15T01:58:39.889Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 17820,
+    "price_wl": 17820,
+    "traded_with": null,
+    "timestamp": "2026-09-15T01:59:39.643Z"
   }
 ]
