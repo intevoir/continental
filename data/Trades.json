@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 4532,
-    "price_wl": 4532,
-    "traded_with": null,
-    "timestamp": "2026-09-15T19:07:00.324Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "sihilisko",
     "world": "KANTIN",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-15T19:13:59.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox [ELITE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-15T19:14:59.391Z"
   }
 ]
