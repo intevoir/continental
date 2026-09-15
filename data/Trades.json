@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lylie",
-    "player2": "Buying Machine",
-    "world": "BFGTST",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 9750,
-    "price_wl": 9750,
-    "traded_with": null,
-    "timestamp": "2026-09-15T00:09:49.751Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RamaKalem",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-15T00:15:14.694Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Benihime",
+    "world": "BLOCKM",
+    "action": "BUY",
+    "item_name": "Food Grinder",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-15T00:16:09.467Z"
   }
 ]
