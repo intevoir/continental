@@ -4,19 +4,6 @@
     "player2": "goim",
     "world": "SHOPDL",
     "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-16T00:56:34.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "goim",
-    "world": "SHOPDL",
-    "action": "BUY",
     "item_name": "Signal Jammer",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-16T01:03:18.223Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caletha",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-16T01:03:59.234Z"
   }
 ]
