@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BlackRox",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:36:21.275Z"
-  },
-  {
-    "player1": "Retriever",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:37:19.373Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Guwon [ELITE]",
     "world": "TRD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-16T19:52:55.403Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Buying Machine",
+    "world": "MZ0",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 2160,
+    "price_wl": 2160,
+    "traded_with": null,
+    "timestamp": "2026-09-16T19:52:59.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "999number",
+    "world": "OEWY",
+    "action": "BUY",
+    "item_name": "Horns of Infinity",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-16T19:53:25.932Z"
   }
 ]
