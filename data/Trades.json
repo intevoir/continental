@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrGGKN",
-    "world": "DIGIVENDI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-09-16T00:09:13.531Z"
-  },
-  {
     "player1": "e0s",
     "player2": "Renting Station",
     "world": "TOKO",
@@ -128,5 +115,18 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-16T00:20:17.027Z"
+  },
+  {
+    "player1": "POLDA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 483,
+    "price_wl": 483,
+    "traded_with": null,
+    "timestamp": "2026-09-16T00:21:16.722Z"
   }
 ]
