@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ccoins",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-09-16T23:18:02.888Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ccoins",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 96,
-    "price_wl": 96,
-    "traded_with": null,
-    "timestamp": "2026-09-16T23:19:03.577Z"
-  },
-  {
-    "player1": "RAFABW [ELITE]",
-    "player2": "ApplePieTenshi",
-    "world": "ZRTQ",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ApplePieTenshi",
-    "timestamp": "2026-09-16T23:19:03.714Z"
-  },
-  {
     "player1": "ApplePieTenshi",
     "player2": "RAFABW [ELITE]",
     "world": "ZRTQ",
@@ -128,5 +89,44 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-16T23:24:28.894Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cieloo",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:26:44.024Z"
+  },
+  {
+    "player1": "PENGHANTU",
+    "player2": "RAFABW [ELITE]",
+    "world": "ZRIR",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RAFABW [ELITE]",
+    "timestamp": "2026-09-16T23:26:45.445Z"
+  },
+  {
+    "player1": "RAFABW [ELITE]",
+    "player2": "PENGHANTU",
+    "world": "ZRIR",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "PENGHANTU",
+    "timestamp": "2026-09-16T23:26:45.445Z"
   }
 ]
