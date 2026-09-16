@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CosmicPS",
-    "world": "BFGSTOCK",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-16T08:32:31.380Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NNBA",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-16T08:35:59.657Z"
+  },
+  {
+    "player1": "JustTambuk",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-09-16T08:37:28.739Z"
   }
 ]
