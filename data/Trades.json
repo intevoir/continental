@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "izul22",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T09:16:23.535Z"
-  },
-  {
-    "player1": "Shikamaru",
-    "player2": "Renting Station",
-    "world": "RICH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-16T09:17:16.020Z"
-  },
-  {
     "player1": "mirrrz",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-16T09:21:17.814Z"
+  },
+  {
+    "player1": "@Seleb",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 65000,
+    "price_wl": 65000,
+    "traded_with": null,
+    "timestamp": "2026-09-16T09:22:18.024Z"
+  },
+  {
+    "player1": "spookyfakeh",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 32200,
+    "price_wl": 32200,
+    "traded_with": null,
+    "timestamp": "2026-09-16T09:22:18.034Z"
   }
 ]
