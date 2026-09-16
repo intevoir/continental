@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PYNNNSS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancient Altar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-16T08:01:23.895Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FinEko",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-16T08:05:14.502Z"
+  },
+  {
+    "player1": "ITiaraV1",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-16T08:05:24.782Z"
   }
 ]
