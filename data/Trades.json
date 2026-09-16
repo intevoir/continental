@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SSSARAH",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 119,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-09-16T23:11:27.128Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SSSARAH",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T23:12:05.357Z"
-  },
-  {
     "player1": "@KAU []",
     "player2": "Buying Machine",
     "world": "BELI",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-16T23:15:18.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLolly",
+    "world": "BFGTOWERS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:16:02.111Z"
+  },
+  {
+    "player1": "BraveAzure_150",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:16:17.264Z"
   }
 ]
