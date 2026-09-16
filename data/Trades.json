@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Tuslam",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Mint Julep",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-16T13:55:06.475Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jeen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems MasterCard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-16T13:55:33.094Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Akenoos",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Clam Cruiser",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-16T13:55:49.988Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Akenoos",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-16T13:57:19.274Z"
+  },
+  {
+    "player1": "KingAcun",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-16T13:57:38.104Z"
+  },
+  {
+    "player1": "Jeen",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-16T13:57:38.112Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Akenoos",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Cigar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-16T13:57:38.123Z"
   }
 ]
