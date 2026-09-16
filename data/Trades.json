@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LOVEKLEE",
-    "world": "VENDO",
-    "action": "BUY",
-    "item_name": "Cigar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-16T17:55:29.945Z"
-  },
-  {
     "player1": "udine",
     "player2": "Renting Station",
     "world": "BFGW",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-09-16T18:03:06.924Z"
+  },
+  {
+    "player1": "Akenoos",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 20400,
+    "price_wl": 20400,
+    "traded_with": null,
+    "timestamp": "2026-09-16T18:03:41.293Z"
   }
 ]
