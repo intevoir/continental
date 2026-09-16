@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Winn []",
-    "world": "MAD",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-16T00:01:35.206Z"
-  },
-  {
     "player1": "ZetsuNii",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-16T00:05:43.883Z"
+  },
+  {
+    "player1": "CITEZ",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-16T00:06:39.944Z"
   }
 ]
