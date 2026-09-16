@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KAU []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:59:56.891Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XIXA",
     "world": "SPOT",
@@ -128,5 +115,18 @@
     "price_wl": 182500,
     "traded_with": null,
     "timestamp": "2026-09-16T23:05:20.994Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RamaAntiGedor",
+    "world": "SURGG",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:07:05.271Z"
   }
 ]
