@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Xbella",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-16T04:20:16.689Z"
-  },
-  {
     "player1": "sousei",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 27200,
     "traded_with": null,
     "timestamp": "2026-09-16T04:26:17.162Z"
+  },
+  {
+    "player1": "DrJiYeon",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 96,
+    "p_name": "World Locks",
+    "p_count": 1440,
+    "price_wl": 1440,
+    "traded_with": null,
+    "timestamp": "2026-09-16T04:26:56.420Z"
   }
 ]
