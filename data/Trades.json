@@ -4,19 +4,6 @@
     "player2": "BoxHoldings",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T05:02:30.834Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BoxHoldings",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Songpyeon",
     "item_count": 249,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10400,
     "traded_with": null,
     "timestamp": "2026-09-16T05:07:07.547Z"
+  },
+  {
+    "player1": "zalmagang [BLOCKMO]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10400,
+    "price_wl": 10400,
+    "traded_with": null,
+    "timestamp": "2026-09-16T05:08:07.570Z"
   }
 ]
