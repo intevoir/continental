@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@KAU []",
-    "player2": "Buying Machine",
-    "world": "ASSOY",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 138,
-    "p_name": "World Locks",
-    "p_count": 89700,
-    "price_wl": 89700,
-    "traded_with": null,
-    "timestamp": "2026-09-16T20:41:40.976Z"
-  },
-  {
-    "player1": "@KAU []",
-    "player2": "Buying Machine",
-    "world": "PASARAN",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-09-16T20:44:42.518Z"
-  },
-  {
     "player1": "Clohtes",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-16T21:02:09.840Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ADELYA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-09-16T21:03:09.878Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ADELYA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-09-16T21:03:17.995Z"
   }
 ]
