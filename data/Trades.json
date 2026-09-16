@@ -1,31 +1,5 @@
 [
   {
-    "player1": "POLDA",
-    "player2": "Buying Machine",
-    "world": "RIO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-16T00:33:21.317Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KUXAK",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-16T00:33:25.693Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KUXAK",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 420,
     "traded_with": null,
     "timestamp": "2026-09-16T00:34:46.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RNF",
+    "world": "BFGTOWERS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 115,
+    "p_name": "World Locks",
+    "p_count": 86250,
+    "price_wl": 86250,
+    "traded_with": null,
+    "timestamp": "2026-09-16T00:35:35.502Z"
+  },
+  {
+    "player1": "bototob",
+    "player2": "Renting Station",
+    "world": "BFGPOYO",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-16T00:35:50.579Z"
   }
 ]
