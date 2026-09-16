@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Bernan [$$$LUXURY$$$]",
-    "player2": "Renting Station",
-    "world": "BFGNG",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-09-16T01:42:17.498Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Papinn",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 450,
     "traded_with": null,
     "timestamp": "2026-09-16T01:47:20.372Z"
+  },
+  {
+    "player1": "Xbella",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 230,
+    "price_wl": 230,
+    "traded_with": null,
+    "timestamp": "2026-09-16T01:48:21.270Z"
   }
 ]
