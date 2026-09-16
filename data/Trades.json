@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrLolly",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 14832,
-    "price_wl": 14832,
-    "traded_with": null,
-    "timestamp": "2026-09-16T05:04:08.921Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMbox [ELITE]",
-    "world": "BUYPURPLECHEST",
-    "action": "BUY",
-    "item_name": "Purple Chest",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-16T05:05:05.995Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Shikamaru",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-16T05:10:07.543Z"
+  },
+  {
+    "player1": "@RonXcps",
+    "player2": "ItsDva",
+    "world": "ZOOZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ItsDva",
+    "timestamp": "2026-09-16T05:11:29.568Z"
+  },
+  {
+    "player1": "ItsDva",
+    "player2": "@RonXcps",
+    "world": "ZOOZ",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@RonXcps",
+    "timestamp": "2026-09-16T05:11:29.568Z"
   }
 ]
