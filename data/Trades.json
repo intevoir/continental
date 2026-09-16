@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-16T13:35:23.007Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drzeelol",
     "world": "BUYCHECKPOINT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-16T13:36:50.039Z"
+  },
+  {
+    "player1": "ParuSehat",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-16T13:39:25.005Z"
   }
 ]
