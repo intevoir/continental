@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AnakSholeh",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-16T16:51:09.721Z"
-  },
-  {
     "player1": "Medisen",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-09-16T16:52:53.917Z"
+  },
+  {
+    "player1": "Annabelle of Legend",
+    "player2": "Renting Station",
+    "world": "KEMBAR",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-09-16T16:53:10.130Z"
   }
 ]
