@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HAQIYORI",
-    "world": "TXPHONE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-16T02:22:30.605Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HAQIYORI",
-    "world": "TXPHONE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-09-16T02:22:46.325Z"
-  },
-  {
     "player1": "HAQIYORI",
     "player2": "Buying Machine",
     "world": "TXPHONE",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-16T02:27:47.319Z"
+  },
+  {
+    "player1": "@Isayaak",
+    "player2": "Buying Machine",
+    "world": "ZUSB",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-16T02:28:33.493Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SLOWMOTIONS",
+    "world": "BFGSERVER",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 220,
+    "price_wl": 220,
+    "traded_with": null,
+    "timestamp": "2026-09-16T02:28:33.507Z"
   }
 ]
