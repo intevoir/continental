@@ -1,44 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 26,
-    "price_wl": 26,
-    "traded_with": null,
-    "timestamp": "2026-09-16T07:25:58.629Z"
-  },
-  {
-    "player1": "Clohtes",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-16T07:25:58.643Z"
-  },
-  {
-    "player1": "Clohtes",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-16T07:26:02.447Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "burtyfr",
     "world": "BFGWE",
@@ -128,5 +89,44 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-16T07:27:59.289Z"
+  },
+  {
+    "player1": "TerendapLaraku",
+    "player2": "SHYSS",
+    "world": "BFGDNAZ",
+    "action": "TRADE",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SHYSS",
+    "timestamp": "2026-09-16T07:28:07.163Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "TerendapLaraku",
+    "world": "BFGDNAZ",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 4,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "TerendapLaraku",
+    "timestamp": "2026-09-16T07:28:07.163Z"
+  },
+  {
+    "player1": "Kroasia",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-16T07:28:19.344Z"
   }
 ]
