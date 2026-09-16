@@ -4,19 +4,6 @@
     "player2": "999number",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Giant Eye Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:04:36.972Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "999number",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Da Vinci Wings",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-16T22:09:00.581Z"
+  },
+  {
+    "player1": "Clohtes",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-16T22:10:42.694Z"
   }
 ]
