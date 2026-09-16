@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 11515,
-    "price_wl": 11515,
-    "traded_with": null,
-    "timestamp": "2026-09-16T05:34:16.663Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AK121",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-16T05:34:16.679Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AK121",
     "world": "KANTIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 144,
     "traded_with": null,
     "timestamp": "2026-09-16T05:35:17.430Z"
+  },
+  {
+    "player1": "AquarinS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6800,
+    "price_wl": 6800,
+    "traded_with": null,
+    "timestamp": "2026-09-16T05:36:17.574Z"
+  },
+  {
+    "player1": "jmbt48",
+    "player2": "Renting Station",
+    "world": "GOKU67",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 13090,
+    "price_wl": 13090,
+    "traded_with": null,
+    "timestamp": "2026-09-16T05:36:42.577Z"
   }
 ]
