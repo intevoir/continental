@@ -1,18 +1,5 @@
 [
   {
-    "player1": "muatane",
-    "player2": "Buying Machine",
-    "world": "VENDSHOP",
-    "action": "SELL",
-    "item_name": "Royal Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-16T15:24:13.360Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrNDRENIX",
     "world": "TKO",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-16T15:29:11.160Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TAROFOP",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-16T15:29:26.862Z"
   }
 ]
