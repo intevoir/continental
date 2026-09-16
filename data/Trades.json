@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JustTambuk",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:58:56.298Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JustTambuk",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:59:03.034Z"
-  },
-  {
     "player1": "@KAU []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-16T23:02:58.399Z"
+  },
+  {
+    "player1": "Kingael",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:04:58.482Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSdach of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 182500,
+    "price_wl": 182500,
+    "traded_with": null,
+    "timestamp": "2026-09-16T23:05:20.994Z"
   }
 ]
