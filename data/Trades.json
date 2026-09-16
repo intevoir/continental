@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "999number",
-    "world": "OEWY",
-    "action": "BUY",
-    "item_name": "3OP's Purple Flaming Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:52:55.403Z"
-  },
-  {
-    "player1": "Retriever",
-    "player2": "Buying Machine",
-    "world": "MZ0",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 2160,
-    "price_wl": 2160,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:52:59.926Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "999number",
-    "world": "OEWY",
-    "action": "BUY",
-    "item_name": "Horns of Infinity",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:53:25.932Z"
-  },
-  {
     "player1": "Retriever",
     "player2": "Renting Station",
     "world": "HYBAR",
@@ -128,5 +89,44 @@
     "price_wl": 37500,
     "traded_with": null,
     "timestamp": "2026-09-16T19:57:27.639Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Renting Station",
+    "world": "HYBAR",
+    "action": "RENT",
+    "item_name": "Diamondboy's King Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23800,
+    "price_wl": 23800,
+    "traded_with": null,
+    "timestamp": "2026-09-16T19:58:27.603Z"
+  },
+  {
+    "player1": "BFGDEK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 92,
+    "price_wl": 92,
+    "traded_with": null,
+    "timestamp": "2026-09-16T19:58:27.616Z"
+  },
+  {
+    "player1": "BFGDEK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-09-16T19:58:30.897Z"
   }
 ]
