@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PENGHANTU",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-09-16T18:08:09.817Z"
-  },
-  {
     "player1": "VLaferte",
     "player2": "Renting Station",
     "world": "ZFIRE",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-09-16T18:08:37.721Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PENGHANTU",
+    "world": "BIRU",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 490,
+    "price_wl": 490,
+    "traded_with": null,
+    "timestamp": "2026-09-16T18:09:08.947Z"
   }
 ]
