@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FinEko",
-    "world": "PURPLE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-16T09:34:26.552Z"
-  },
-  {
     "player1": "lRafa",
     "player2": "Renting Station",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-16T09:35:45.011Z"
+  },
+  {
+    "player1": "Quintillion",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 192,
+    "p_name": "World Locks",
+    "p_count": 8640,
+    "price_wl": 8640,
+    "traded_with": null,
+    "timestamp": "2026-09-16T09:36:18.705Z"
   }
 ]
