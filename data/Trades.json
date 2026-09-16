@@ -1,19 +1,6 @@
 [
   {
     "player1": "BFGDEK",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-09-16T19:59:27.447Z"
-  },
-  {
-    "player1": "BFGDEK",
     "player2": "Renting Station",
     "world": "AWAL",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-16T20:21:52.287Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TaniaFrans",
+    "world": "HUL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-16T20:22:32.704Z"
   }
 ]
