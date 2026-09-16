@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PANGERANMODOL",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-16T17:33:05.141Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MMEG",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-16T17:37:55.189Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "WAR",
+    "world": "K62",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-16T17:38:59.758Z"
   }
 ]
