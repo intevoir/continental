@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MASJEKK",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 330,
-    "price_wl": 330,
-    "traded_with": null,
-    "timestamp": "2026-09-16T11:41:40.432Z"
-  },
-  {
     "player1": "Zelaa []",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-16T11:46:21.119Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BirBintang [] [] [RICH] [] []",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-16T11:46:49.436Z"
   }
 ]
