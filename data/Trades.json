@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BorenCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:21:00.859Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BorenCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 41,
-    "price_wl": 41,
-    "traded_with": null,
-    "timestamp": "2026-09-16T22:21:07.388Z"
-  },
-  {
     "player1": "@SHIINASOBBER",
     "player2": "Renting Station",
     "world": "RAGRENT",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-16T22:41:50.305Z"
+  },
+  {
+    "player1": "DrYungs",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-16T22:44:50.168Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "alibakar",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 66,
+    "p_name": "World Locks",
+    "p_count": 8448,
+    "price_wl": 8448,
+    "traded_with": null,
+    "timestamp": "2026-09-16T22:44:50.179Z"
   }
 ]
