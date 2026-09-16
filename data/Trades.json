@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drzeelol",
-    "world": "BUYCHECKPOINT",
-    "action": "BUY",
-    "item_name": "Checkpoint",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-16T13:35:23.015Z"
-  },
-  {
     "player1": "KrisnaGANTENG",
     "player2": "Renting Station",
     "world": "RENTMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-16T13:39:25.005Z"
+  },
+  {
+    "player1": "MASJEKK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 17500,
+    "price_wl": 17500,
+    "traded_with": null,
+    "timestamp": "2026-09-16T13:40:41.089Z"
   }
 ]
