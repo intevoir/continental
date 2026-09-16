@@ -1,18 +1,5 @@
 [
   {
-    "player1": "lolot",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-09-16T21:55:48.580Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Yokosomasu",
     "world": "BEDROCK",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-09-16T22:00:56.308Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "999number",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pocket Lighter",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-16T22:03:54.816Z"
   }
 ]
