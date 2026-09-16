@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDDN",
-    "world": "BTKSAR",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-16T10:06:32.605Z"
-  },
-  {
     "player1": "Sakuchi",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 121,
     "traded_with": null,
     "timestamp": "2026-09-16T10:08:33.337Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems MasterCard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-16T10:08:58.192Z"
   }
 ]
