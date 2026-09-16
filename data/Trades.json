@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RamaAntiGedor",
-    "world": "TOKOV",
-    "action": "BUY",
-    "item_name": "Black Hair Dye",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-16T21:39:52.946Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "flame40",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-16T21:43:23.567Z"
+  },
+  {
+    "player1": "Yokosomasu",
+    "player2": "Renting Station",
+    "world": "BEDROCK",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-16T21:45:23.529Z"
   }
 ]
