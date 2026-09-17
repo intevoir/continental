@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YinJin",
-    "player2": "Buying Machine",
-    "world": "E4T",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 112,
-    "price_wl": 112,
-    "traded_with": null,
-    "timestamp": "2026-09-17T15:09:58.293Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "666x []",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-17T15:11:27.754Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "666x []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-17T15:11:59.698Z"
   }
 ]
