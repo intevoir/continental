@@ -5,32 +5,6 @@
     "world": "HUL",
     "action": "BUY",
     "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2200,
-    "price_wl": 2200,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:45:47.918Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrOuis",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:46:00.297Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrEnalStore",
-    "world": "HUL",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
     "item_count": 10,
     "p_name": "World Locks",
     "p_count": 1100,
@@ -128,5 +102,31 @@
     "price_wl": 35,
     "traded_with": null,
     "timestamp": "2026-09-17T08:50:50.985Z"
+  },
+  {
+    "player1": "yqm",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legal Briefs",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:51:50.937Z"
+  },
+  {
+    "player1": "nacel",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:51:50.946Z"
   }
 ]
