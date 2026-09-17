@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Piisang",
-    "world": "SOQ",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-17T21:36:25.832Z"
-  },
-  {
     "player1": "Tanker",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 67500,
     "traded_with": null,
     "timestamp": "2026-09-17T21:43:55.606Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Kosovo",
+    "world": "BFGIBU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T21:44:56.051Z"
   }
 ]
