@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 93,
-    "p_name": "World Locks",
-    "p_count": 558,
-    "price_wl": 558,
-    "traded_with": null,
-    "timestamp": "2026-09-17T07:10:47.857Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kaseeh",
     "world": "HUUS",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-09-17T07:15:21.974Z"
+  },
+  {
+    "player1": "PukulPedo",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-17T07:16:37.249Z"
   }
 ]
