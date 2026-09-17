@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Tanker []",
-    "world": "PG",
-    "action": "BUY",
-    "item_name": "Golden Ox Pendant",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-17T22:22:21.404Z"
-  },
-  {
     "player1": "@Thick [PRO ] []",
     "player2": "Renting Station",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-17T22:28:51.829Z"
+  },
+  {
+    "player1": "Aizenns",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 91,
+    "price_wl": 91,
+    "traded_with": null,
+    "timestamp": "2026-09-17T22:30:13.363Z"
   }
 ]
