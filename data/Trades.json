@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@KENTMAUKAYA",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-17T04:54:13.636Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZetsuNii",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 99,
-    "p_name": "World Locks",
-    "p_count": 33,
-    "price_wl": 33,
-    "traded_with": null,
-    "timestamp": "2026-09-17T04:54:46.601Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZetsuNii",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-17T05:00:12.176Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Takarada2",
+    "world": "BESTBFG",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T05:02:01.338Z"
+  },
+  {
+    "player1": "@KENTMAUKAYA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 210,
+    "p_name": "World Locks",
+    "p_count": 138600,
+    "price_wl": 138600,
+    "traded_with": null,
+    "timestamp": "2026-09-17T05:02:09.188Z"
   }
 ]
