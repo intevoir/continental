@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "YUBC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T00:23:00.359Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "YUBC",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 217,
-    "p_name": "World Locks",
-    "p_count": 868,
-    "price_wl": 868,
-    "traded_with": null,
-    "timestamp": "2026-09-17T00:23:22.823Z"
-  },
-  {
     "player1": "azrilh",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-17T00:30:20.283Z"
+  },
+  {
+    "player1": "R1M",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-17T00:30:54.142Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "666x",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Phoenix Armor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-17T00:30:57.880Z"
   }
 ]
