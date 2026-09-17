@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Leonecry",
-    "world": "DOWN",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-17T14:22:16.754Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lowiss",
-    "world": "CERAH",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-17T14:24:17.412Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "justfun",
     "world": "KIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14960,
     "traded_with": null,
     "timestamp": "2026-09-17T14:26:24.412Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leonecry",
+    "world": "TOMBSTONES",
+    "action": "BUY",
+    "item_name": "Tombstone Seed",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T14:26:28.782Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FinEko",
+    "world": "BFGP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T14:26:55.389Z"
   }
 ]
