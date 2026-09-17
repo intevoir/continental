@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ccoins []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 512,
-    "price_wl": 512,
-    "traded_with": null,
-    "timestamp": "2026-09-17T03:07:50.641Z"
-  },
-  {
     "player1": "kristodddddd",
     "player2": "Buying Machine",
     "world": "ZUSB",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-17T03:09:05.380Z"
+  },
+  {
+    "player1": "kristodddddd",
+    "player2": "Buying Machine",
+    "world": "ZUSB",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-17T03:09:40.639Z"
   }
 ]
