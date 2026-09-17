@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JustTambuk",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T01:19:41.024Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Qoni",
-    "world": "RENTSS",
-    "action": "BUY",
-    "item_name": "Pink Crystal Cluster Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-17T01:20:17.474Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ALPACA",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 31020,
     "traded_with": null,
     "timestamp": "2026-09-17T01:22:35.558Z"
+  },
+  {
+    "player1": "[]",
+    "player2": "Buying Machine",
+    "world": "ZUSB",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-17T01:23:18.405Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Obskura",
+    "world": "PLAZADES",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-17T01:23:22.531Z"
   }
 ]
