@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SEANSHOP []",
-    "world": "VENDM",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-17T22:00:02.919Z"
-  },
-  {
     "player1": "AkuRioo",
     "player2": "Buying Machine",
     "world": "PASARAN",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-17T22:21:46.157Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tanker []",
+    "world": "PG",
+    "action": "BUY",
+    "item_name": "Golden Ox Pendant",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-17T22:22:21.404Z"
   }
 ]
