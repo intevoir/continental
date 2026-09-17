@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@HighRank",
-    "player2": "Renting Station",
-    "world": "BUYKFK",
-    "action": "RENT",
-    "item_name": "KFK's Underworld Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:45:15.127Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "HUL",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-17T08:49:49.535Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "REPIN",
+    "world": "ZCZT",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:50:50.985Z"
   }
 ]
