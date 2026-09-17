@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "DPWD",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-17T21:29:17.153Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tanker",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21,
     "traded_with": null,
     "timestamp": "2026-09-17T21:40:23.143Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "justfun",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Exclamation Sign",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-17T21:40:56.193Z"
   }
 ]
