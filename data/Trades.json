@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NawaaD",
-    "world": "BFGADVAN",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T19:06:02.001Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 239,
-    "p_name": "World Locks",
-    "p_count": 478,
-    "price_wl": 478,
-    "traded_with": null,
-    "timestamp": "2026-09-17T19:06:50.630Z"
-  },
-  {
     "player1": "MMEG",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-17T19:10:52.790Z"
+  },
+  {
+    "player1": "NawaaD",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-17T19:11:03.331Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tanker",
+    "world": "VENDS",
+    "action": "BUY",
+    "item_name": "Bear Spirit",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-17T19:11:13.936Z"
   }
 ]
