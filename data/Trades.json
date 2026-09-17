@@ -1,18 +1,5 @@
 [
   {
-    "player1": "[]",
-    "player2": "Buying Machine",
-    "world": "ZUSB",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-17T01:23:18.405Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Obskura",
     "world": "PLAZADES",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-17T01:32:23.719Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Filipino",
+    "world": "NOW",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-17T01:33:05.550Z"
   }
 ]
