@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "HARTA",
-    "action": "BUY",
-    "item_name": "Growch Cultist Robe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T13:20:50.226Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrRegans",
-    "world": "HARTA",
-    "action": "BUY",
-    "item_name": "Dominatus Moderateus",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T13:20:50.235Z"
-  },
-  {
     "player1": "Arniuss",
     "player2": "Renting Station",
     "world": "SONG1",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-17T13:24:11.419Z"
+  },
+  {
+    "player1": "senrtomray",
+    "player2": "HAIMIYAA",
+    "world": "BFGEYC",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "HAIMIYAA",
+    "timestamp": "2026-09-17T13:25:53.013Z"
+  },
+  {
+    "player1": "HAIMIYAA",
+    "player2": "senrtomray",
+    "world": "BFGEYC",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "senrtomray",
+    "timestamp": "2026-09-17T13:25:53.015Z"
   }
 ]
