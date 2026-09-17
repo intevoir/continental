@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Piisang",
-    "world": "COLOUR",
-    "action": "BUY",
-    "item_name": "Blue Hair Dye",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-17T16:51:56.571Z"
-  },
-  {
     "player1": "TheCreamYgy",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10080,
     "traded_with": null,
     "timestamp": "2026-09-17T16:52:32.330Z"
+  },
+  {
+    "player1": "TheCreamYgy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Nyan Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-17T16:52:56.020Z"
   }
 ]
