@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SLOWMOTIONS",
-    "world": "BFGSTOCK",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-17T04:05:34.787Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drtbgs",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-09-17T04:15:33.550Z"
+  },
+  {
+    "player1": "6ZZ",
+    "player2": "Renting Station",
+    "world": "PURPLE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-17T04:15:53.710Z"
   }
 ]
