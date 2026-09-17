@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@BoothGT []",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-17T20:45:57.544Z"
-  },
-  {
     "player1": "GilangJir",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 33,
     "traded_with": null,
     "timestamp": "2026-09-17T21:05:28.375Z"
+  },
+  {
+    "player1": "BusetGilang",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 680,
+    "price_wl": 680,
+    "traded_with": null,
+    "timestamp": "2026-09-17T21:07:07.354Z"
   }
 ]
