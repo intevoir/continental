@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrOuis",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:49:49.535Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "REPIN",
-    "world": "ZCZT",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:50:50.985Z"
-  },
-  {
     "player1": "yqm",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-09-17T08:54:14.390Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrImmo",
+    "world": "BFGSERVER",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:54:51.659Z"
+  },
+  {
+    "player1": "DriFAX",
+    "player2": "Renting Station",
+    "world": "RENTONLY",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:55:13.455Z"
   }
 ]
