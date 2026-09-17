@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AirFresh",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-09-16T23:57:55.356Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BGROS",
     "world": "TOKO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-16T23:59:45.195Z"
+  },
+  {
+    "player1": "Kakek [ELITE]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-17T00:00:41.284Z"
   }
 ]
