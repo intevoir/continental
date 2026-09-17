@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 96,
-    "price_wl": 96,
-    "traded_with": null,
-    "timestamp": "2026-09-17T00:21:16.565Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrBrianna",
     "world": "YUBC",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-17T00:24:06.682Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "666x",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Royal Scarf of Chains",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-17T00:25:03.127Z"
   }
 ]
