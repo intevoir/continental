@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CloneKiel",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-17T17:48:56.450Z"
-  },
-  {
     "player1": "Udilll",
     "player2": "Renting Station",
     "world": "AULA",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-09-17T17:51:01.062Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lyans",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-17T17:52:56.519Z"
   }
 ]
