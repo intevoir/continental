@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@QOIL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T12:20:56.240Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FinEko",
     "world": "BFGSERVER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@CHYZHYY [] [$$$LUXURY$$$]",
     "timestamp": "2026-09-17T12:22:46.956Z"
+  },
+  {
+    "player1": "MIRAAS",
+    "player2": "Renting Station",
+    "world": "BFGSERVER",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-17T12:23:02.346Z"
   }
 ]
