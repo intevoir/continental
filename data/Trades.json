@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LIENO",
-    "player2": "Buying Machine",
-    "world": "BFGPINTAR",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 79,
-    "p_name": "World Locks",
-    "p_count": 474,
-    "price_wl": 474,
-    "traded_with": null,
-    "timestamp": "2026-09-17T16:02:40.886Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrYakul",
     "world": "ALO",
@@ -128,5 +115,18 @@
     "price_wl": 84,
     "traded_with": null,
     "timestamp": "2026-09-17T16:05:39.694Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Piisang",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "Hedge",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-17T16:05:48.743Z"
   }
 ]
