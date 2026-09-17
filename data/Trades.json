@@ -4,32 +4,6 @@
     "player2": "Hourbour",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-17T12:38:45.950Z"
-  },
-  {
-    "player1": "Fuuma",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-09-17T12:38:45.970Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hourbour",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Black Gems",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-17T12:39:46.294Z"
+  },
+  {
+    "player1": "Hourbour",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 88,
+    "p_name": "World Locks",
+    "p_count": 528,
+    "price_wl": 528,
+    "traded_with": null,
+    "timestamp": "2026-09-17T12:40:47.078Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "999",
+    "world": "AOJE",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 71500,
+    "price_wl": 71500,
+    "traded_with": null,
+    "timestamp": "2026-09-17T12:40:58.899Z"
   }
 ]
