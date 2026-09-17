@@ -1,44 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 85,
-    "p_name": "World Locks",
-    "p_count": 13175,
-    "price_wl": 13175,
-    "traded_with": null,
-    "timestamp": "2026-09-17T22:48:14.214Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 126,
-    "p_name": "World Locks",
-    "p_count": 6930,
-    "price_wl": 6930,
-    "traded_with": null,
-    "timestamp": "2026-09-17T22:48:55.120Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 121,
-    "p_name": "World Locks",
-    "p_count": 1815,
-    "price_wl": 1815,
-    "traded_with": null,
-    "timestamp": "2026-09-17T22:48:55.134Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DionBJ",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 21420,
     "traded_with": null,
     "timestamp": "2026-09-17T22:57:03.809Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "soGe",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-09-17T23:00:00.626Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lucents",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 215,
+    "p_name": "World Locks",
+    "p_count": 860,
+    "price_wl": 860,
+    "traded_with": null,
+    "timestamp": "2026-09-17T23:00:00.639Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lucents",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 215,
+    "p_name": "World Locks",
+    "p_count": 2150,
+    "price_wl": 2150,
+    "traded_with": null,
+    "timestamp": "2026-09-17T23:00:04.693Z"
   }
 ]
