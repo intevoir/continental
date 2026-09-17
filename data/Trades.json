@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JustTambuk",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Farmer Slave",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-17T06:06:16.692Z"
-  },
-  {
     "player1": "KUXAK",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-09-17T06:13:20.009Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrHaloSalz",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-17T06:13:27.937Z"
   }
 ]
