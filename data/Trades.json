@@ -1,32 +1,6 @@
 [
   {
     "player1": "nacel",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:13:50.475Z"
-  },
-  {
-    "player1": "nacel",
-    "player2": "Renting Station",
-    "world": "HYBAR",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 95,
-    "price_wl": 95,
-    "traded_with": null,
-    "timestamp": "2026-09-17T08:13:50.480Z"
-  },
-  {
-    "player1": "nacel",
     "player2": "Renting Station",
     "world": "BFGPOYO",
     "action": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-17T08:19:38.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BabunyaCurseGT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:20:38.929Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BabunyaCurseGT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T08:20:38.982Z"
   }
 ]
