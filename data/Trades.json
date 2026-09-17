@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "stns",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-17T15:55:38.056Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Screamy",
     "world": "BFGP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-09-17T15:57:38.385Z"
+  },
+  {
+    "player1": "bototob",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-17T15:59:35.475Z"
   }
 ]
