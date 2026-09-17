@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "vanillia []",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-17T18:57:50.841Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "vanillia []",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-17T18:57:59.056Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Piisang",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-17T18:58:09.720Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drbfgtako",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 596,
     "traded_with": null,
     "timestamp": "2026-09-17T19:02:52.767Z"
+  },
+  {
+    "player1": "Win of Legend [PRO ]",
+    "player2": "BUS of Legend [PRO ] []",
+    "world": "JUDI",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BUS of Legend [PRO ] []",
+    "timestamp": "2026-09-17T19:03:05.076Z"
+  },
+  {
+    "player1": "BUS of Legend [PRO ] []",
+    "player2": "Win of Legend [PRO ]",
+    "world": "JUDI",
+    "action": "TRADE",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Win of Legend [PRO ]",
+    "timestamp": "2026-09-17T19:03:05.076Z"
+  },
+  {
+    "player1": "zalmagang [BLOCKMO]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-09-17T19:03:12.534Z"
   }
 ]
