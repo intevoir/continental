@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Mendes",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 205,
-    "p_name": "World Locks",
-    "p_count": 410,
-    "price_wl": 410,
-    "traded_with": null,
-    "timestamp": "2026-09-17T12:48:45.624Z"
-  },
-  {
     "player1": "Labuh",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-17T12:53:05.885Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AirFresh",
+    "world": "ZUT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 43,
+    "p_name": "World Locks",
+    "p_count": 30100,
+    "price_wl": 30100,
+    "traded_with": null,
+    "timestamp": "2026-09-17T12:53:12.794Z"
   }
 ]
