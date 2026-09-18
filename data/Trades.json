@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JeldyAnakAyam []",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Donation Box",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-18T03:34:28.251Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Daapoy",
-    "world": "BEDROCK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-18T03:35:04.580Z"
-  },
-  {
     "player1": "RoToMray",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 65000,
     "traded_with": null,
     "timestamp": "2026-09-18T03:49:12.155Z"
+  },
+  {
+    "player1": "@HighRank",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 32500,
+    "price_wl": 32500,
+    "traded_with": null,
+    "timestamp": "2026-09-18T03:49:20.074Z"
+  },
+  {
+    "player1": "999",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 129,
+    "p_name": "World Locks",
+    "p_count": 13287,
+    "price_wl": 13287,
+    "traded_with": null,
+    "timestamp": "2026-09-18T03:49:40.690Z"
   }
 ]
