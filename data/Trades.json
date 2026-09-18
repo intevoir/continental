@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 309,
-    "price_wl": 309,
-    "traded_with": null,
-    "timestamp": "2026-09-18T01:38:10.641Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Benihime",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-18T01:46:32.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOSM",
+    "world": "BFGORDO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-09-18T01:47:14.273Z"
   }
 ]
