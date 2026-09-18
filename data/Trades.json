@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "1k4n",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-18T06:11:13.725Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "1k4n",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-09-18T06:11:24.547Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yakult",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-18T06:17:40.586Z"
+  },
+  {
+    "player1": "nacel",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-18T06:18:17.396Z"
+  },
+  {
+    "player1": "DrYunShan",
+    "player2": "Renting Station",
+    "world": "BA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-18T06:18:17.409Z"
   }
 ]
