@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FinEko",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 506,
-    "price_wl": 506,
-    "traded_with": null,
-    "timestamp": "2026-09-18T01:32:08.246Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FinEko",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Black Gems MasterCard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-18T01:32:15.814Z"
-  },
-  {
     "player1": "bliyy",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-18T01:36:10.851Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 309,
+    "price_wl": 309,
+    "traded_with": null,
+    "timestamp": "2026-09-18T01:38:10.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Benihime",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-09-18T01:38:10.660Z"
   }
 ]
