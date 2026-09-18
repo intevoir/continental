@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 465,
-    "price_wl": 465,
-    "traded_with": null,
-    "timestamp": "2026-09-18T06:26:27.324Z"
-  },
-  {
-    "player1": "Bacang",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-18T06:29:53.003Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bacang",
+    "world": "RSS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-18T06:29:58.522Z"
   }
 ]
