@@ -1,31 +1,5 @@
 [
   {
-    "player1": "YXTU",
-    "player2": "Buying Machine",
-    "world": "AWAL",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 196,
-    "price_wl": 196,
-    "traded_with": null,
-    "timestamp": "2026-09-18T05:22:49.444Z"
-  },
-  {
-    "player1": "HAQIYORI",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 21420,
-    "price_wl": 21420,
-    "traded_with": null,
-    "timestamp": "2026-09-18T05:24:50.169Z"
-  },
-  {
     "player1": "@SHIINASOBBER",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-09-18T05:28:21.253Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HAQIYORI",
+    "world": "BFGADVAN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-09-18T05:29:52.506Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HAQIYORI",
+    "world": "BFGADVAN",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-18T05:29:52.659Z"
   }
 ]
