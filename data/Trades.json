@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "666x",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-18T03:54:36.789Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrGGKN",
-    "world": "BFGMODS",
-    "action": "BUY",
-    "item_name": "Fire Wand",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-18T03:54:43.417Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrGGKN",
     "world": "BFGMODS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-18T03:59:26.731Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-18T04:00:24.949Z"
+  },
+  {
+    "player1": "6ZZ",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-18T04:00:49.873Z"
   }
 ]
