@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "wendyldf",
-    "world": "ALFAMART",
-    "action": "BUY",
-    "item_name": "Black Bow of the Rainbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-18T07:47:23.005Z"
-  },
-  {
     "player1": "Gahtak",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-18T07:50:36.372Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Becker",
+    "world": "BFGTOWERS",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-18T07:52:41.771Z"
   }
 ]
