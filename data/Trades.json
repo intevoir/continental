@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 14200,
-    "price_wl": 14200,
-    "traded_with": null,
-    "timestamp": "2026-09-18T06:49:50.790Z"
-  },
-  {
     "player1": "nacel",
     "player2": "Buying Machine",
     "world": "VENDIIN",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-18T06:56:15.493Z"
+  },
+  {
+    "player1": "nacel",
+    "player2": "Renting Station",
+    "world": "HYBAR",
+    "action": "RENT",
+    "item_name": "Galactic Destructor - Purple",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-18T06:56:53.883Z"
   }
 ]
