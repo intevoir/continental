@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "XIXA",
-    "world": "NAWAR",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-18T01:58:38.080Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XIXA",
-    "world": "NAWAR",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-18T01:59:19.143Z"
-  },
-  {
     "player1": "PENJAMU",
     "player2": "Renting Station",
     "world": "FREE",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-09-18T02:03:19.563Z"
+  },
+  {
+    "player1": "TopGusss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-09-18T02:04:19.805Z"
+  },
+  {
+    "player1": "TopGusss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 78,
+    "p_name": "World Locks",
+    "p_count": 3432,
+    "price_wl": 3432,
+    "traded_with": null,
+    "timestamp": "2026-09-18T02:04:23.619Z"
   }
 ]
