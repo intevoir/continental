@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Quests [PRO ] [$$$LUXURY$$$]",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-17T23:55:13.604Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Quests [PRO ] [$$$LUXURY$$$]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 8550,
-    "price_wl": 8550,
-    "traded_with": null,
-    "timestamp": "2026-09-17T23:57:18.715Z"
-  },
-  {
     "player1": "@BoothGT []",
     "player2": "Renting Station",
     "world": "RENTCOOL",
@@ -128,5 +102,31 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-09-18T00:08:47.461Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kautsar",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 120000,
+    "price_wl": 120000,
+    "traded_with": null,
+    "timestamp": "2026-09-18T00:10:39.451Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCcyn",
+    "world": "VENDQ",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-18T00:11:00.340Z"
   }
 ]
