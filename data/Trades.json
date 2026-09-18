@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 110,
-    "price_wl": 110,
-    "traded_with": null,
-    "timestamp": "2026-09-18T06:26:30.843Z"
-  },
-  {
-    "player1": "Bacang",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-18T06:29:58.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "666x",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-18T06:31:17.392Z"
   }
 ]
