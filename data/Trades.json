@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ArthaSTOREv2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 247,
-    "p_name": "World Locks",
-    "p_count": 988,
-    "price_wl": 988,
-    "traded_with": null,
-    "timestamp": "2026-09-19T07:23:31.623Z"
-  },
-  {
     "player1": "ArthaSTOREv2",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-19T07:29:39.554Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fiura",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 144,
+    "price_wl": 144,
+    "traded_with": null,
+    "timestamp": "2026-09-19T07:30:27.511Z"
   }
 ]
