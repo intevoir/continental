@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PAVILIONs",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-19T06:38:05.031Z"
-  },
-  {
     "player1": "rDNA",
     "player2": "Renting Station",
     "world": "RENTCOOL",
@@ -128,5 +115,18 @@
     "price_wl": 500000,
     "traded_with": null,
     "timestamp": "2026-09-19T06:47:57.789Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jackpot [$$$LUXURY$$$]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-09-19T06:48:55.875Z"
   }
 ]
