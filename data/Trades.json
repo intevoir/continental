@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrDetac",
-    "world": "BIRI",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-19T06:55:55.852Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "RENTMURAH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-19T06:55:55.858Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Retriever",
     "world": "RENTMURAH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-19T06:57:13.180Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Retriever",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-09-19T06:57:14.517Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDetac",
+    "world": "BIRI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-19T06:57:26.760Z"
   }
 ]
