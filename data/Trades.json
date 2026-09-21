@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@cicaak [ELITE] []",
-    "player2": "Renting Station",
-    "world": "RENTCOOL",
-    "action": "RENT",
-    "item_name": "Yia's Buddha Earth Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9520,
-    "price_wl": 9520,
-    "traded_with": null,
-    "timestamp": "2026-09-21T20:10:07.974Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@dsw",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 68000,
     "traded_with": null,
     "timestamp": "2026-09-21T20:26:15.113Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 55000,
+    "price_wl": 55000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T20:27:36.846Z"
   }
 ]
