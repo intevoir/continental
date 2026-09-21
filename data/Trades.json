@@ -4,19 +4,6 @@
     "player2": "Galonn",
     "world": "LPASAR",
     "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-09-21T13:28:54.250Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "LPASAR",
-    "action": "BUY",
     "item_name": "Sugar",
     "item_count": 200,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-21T13:33:20.392Z"
+  },
+  {
+    "player1": "NixxCaw",
+    "player2": "Renting Station",
+    "world": "PG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-09-21T13:33:55.777Z"
   }
 ]
