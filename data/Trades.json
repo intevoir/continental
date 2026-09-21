@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anylose",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:37:20.732Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GOIN",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 71000,
-    "price_wl": 71000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:38:21.474Z"
-  },
-  {
-    "player1": "DrYakul",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:40:21.606Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FroxCPS",
-    "world": "SILL",
-    "action": "BUY",
-    "item_name": "Guardian Pineapple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:40:32.899Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "tadung46",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-21T03:45:23.658Z"
+  },
+  {
+    "player1": "@MurrCps[YTJASA]",
+    "player2": "jesang",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "Ancestral Orb of Time",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "jesang",
+    "timestamp": "2026-09-21T03:45:43.899Z"
+  },
+  {
+    "player1": "@MurrCps[YTJASA]",
+    "player2": "jesang",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "jesang",
+    "timestamp": "2026-09-21T03:45:43.900Z"
+  },
+  {
+    "player1": "jesang",
+    "player2": "@MurrCps[YTJASA]",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@MurrCps[YTJASA]",
+    "timestamp": "2026-09-21T03:45:43.900Z"
+  },
+  {
+    "player1": "jesang",
+    "player2": "@MurrCps[YTJASA]",
+    "world": "LUCK",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 39,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@MurrCps[YTJASA]",
+    "timestamp": "2026-09-21T03:45:43.900Z"
   }
 ]
