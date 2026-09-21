@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jovicps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 1245,
-    "price_wl": 1245,
-    "traded_with": null,
-    "timestamp": "2026-09-21T09:14:59.267Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kautsar",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Straw Hat",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-21T09:18:46.337Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kautsar",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 375,
     "traded_with": null,
     "timestamp": "2026-09-21T09:20:31.063Z"
+  },
+  {
+    "player1": "Dimzz00",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-21T09:20:59.155Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "0SCAR",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-21T09:21:02.749Z"
   }
 ]
