@@ -1,19 +1,6 @@
 [
   {
     "player1": "NextEraCPS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:24:50.909Z"
-  },
-  {
-    "player1": "NextEraCPS",
     "player2": "Renting Station",
     "world": "SEWA",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-09-21T17:29:18.319Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drzarealm",
+    "world": "ETHAN0",
+    "action": "BUY",
+    "item_name": "Osas's Azure Blade",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 220000,
+    "price_wl": 220000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:29:57.431Z"
   }
 ]
