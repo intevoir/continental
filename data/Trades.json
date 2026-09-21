@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Carlots",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:05:03.499Z"
-  },
-  {
     "player1": "Fedox",
     "player2": "Renting Station",
     "world": "NE",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-21T14:06:04.343Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingzRgt",
+    "world": "INGREARROZV2",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:06:36.225Z"
   }
 ]
