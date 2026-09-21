@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fazzcor",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-21T16:43:38.926Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Raidenmaru",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-21T16:45:09.950Z"
+  },
+  {
+    "player1": "aharr",
+    "player2": "Buying Machine",
+    "world": "FREEBFGDNA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 135,
+    "p_name": "World Locks",
+    "p_count": 945,
+    "price_wl": 945,
+    "traded_with": null,
+    "timestamp": "2026-09-21T16:45:54.663Z"
   }
 ]
