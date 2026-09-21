@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dr939",
-    "world": "SHOPO",
-    "action": "BUY",
-    "item_name": "Worthless Rags",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T12:54:34.515Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BAYAMS",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-21T12:57:54.650Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "falcaowen",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Da Vinci Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-21T12:58:36.866Z"
   }
 ]
