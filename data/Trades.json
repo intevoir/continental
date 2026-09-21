@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RickMo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 130,
-    "price_wl": 130,
-    "traded_with": null,
-    "timestamp": "2026-09-21T10:05:51.669Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yunchae",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T10:05:59.699Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kautsar",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-21T10:07:51.221Z"
+  },
+  {
+    "player1": "BRGN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 1215,
+    "price_wl": 1215,
+    "traded_with": null,
+    "timestamp": "2026-09-21T10:08:39.554Z"
+  },
+  {
+    "player1": "FxD",
+    "player2": "Buying Machine",
+    "world": "UNLIDNA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-21T10:08:51.917Z"
   }
 ]
