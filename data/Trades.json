@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrLowies",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-21T10:33:34.735Z"
-  },
-  {
     "player1": "Kautsar",
     "player2": "Buying Machine",
     "world": "TRADING",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-09-21T10:35:49.208Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLowies",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-21T10:36:32.593Z"
   }
 ]
