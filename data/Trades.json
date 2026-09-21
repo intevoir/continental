@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:38:50.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:38:54.363Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:38:57.988Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lyans",
     "world": "DPR",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-21T18:41:10.892Z"
+  },
+  {
+    "player1": "SuamiFurina",
+    "player2": "Yrbae",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Yrbae",
+    "timestamp": "2026-09-21T18:42:18.308Z"
+  },
+  {
+    "player1": "SuamiFurina",
+    "player2": "Yrbae",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Ultra World Spray",
+    "item_count": 96,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Yrbae",
+    "timestamp": "2026-09-21T18:42:18.308Z"
+  },
+  {
+    "player1": "Yrbae",
+    "player2": "SuamiFurina",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SuamiFurina",
+    "timestamp": "2026-09-21T18:42:18.308Z"
   }
 ]
