@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NextEraCPS",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:29:10.895Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lyans",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-21T17:36:19.777Z"
+  },
+  {
+    "player1": "Cp88",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:36:40.621Z"
   }
 ]
