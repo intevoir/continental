@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RDI",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-21T19:03:06.943Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrKaiizie",
     "world": "SHOPEE",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-21T19:05:56.055Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKaiizie",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-21T19:06:56.860Z"
   }
 ]
