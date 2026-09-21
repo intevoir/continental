@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:29:45.484Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "p3ntolan",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Incognito Hat",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:29:45.490Z"
-  },
-  {
     "player1": "Fahrimanu",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +102,31 @@
     "price_wl": 975000,
     "traded_with": null,
     "timestamp": "2026-09-21T14:32:48.688Z"
+  },
+  {
+    "player1": "Self",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:33:21.813Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Qzemm",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:33:47.656Z"
   }
 ]
