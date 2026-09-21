@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fedox",
-    "world": "BFGSERVER",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:46:44.987Z"
-  },
-  {
-    "player1": "aharr",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDNA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:46:53.400Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MEEHE",
     "world": "VENDFU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-09-21T17:50:27.293Z"
+  },
+  {
+    "player1": "aharr",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:51:27.243Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jackpot [] [RAWR]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:51:42.197Z"
   }
 ]
