@@ -1,31 +1,5 @@
 [
   {
-    "player1": "JIJIMAO",
-    "player2": "Renting Station",
-    "world": "GOKU67",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:55:02.136Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HBSY",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Monocle",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:55:29.720Z"
-  },
-  {
     "player1": "Fazzcor",
     "player2": "Buying Machine",
     "world": "RENTCOOL",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-21T17:56:57.718Z"
+  },
+  {
+    "player1": "Fazzcor",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 85,
+    "price_wl": 85,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:57:29.752Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fazzcor",
+    "world": "RENTCOOL",
+    "action": "BUY",
+    "item_name": "Muni's Caspiro",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:57:58.383Z"
   }
 ]
