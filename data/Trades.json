@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MonarchyTM",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Hellfire Horns - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25000,
-    "price_wl": 25000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T19:19:00.698Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Leem",
     "world": "BREAKS",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-21T19:26:23.545Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kautsar",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-21T19:27:09.311Z"
   }
 ]
