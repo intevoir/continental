@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Yuminattha",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Surgical Scalpel",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-21T04:54:47.015Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Yuminattha",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Surgical Splint",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-21T04:54:51.460Z"
-  },
-  {
     "player1": "XiaoBikut",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 42340,
     "traded_with": null,
     "timestamp": "2026-09-21T04:56:22.395Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Oreon",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 2340,
+    "price_wl": 2340,
+    "traded_with": null,
+    "timestamp": "2026-09-21T04:56:39.007Z"
+  },
+  {
+    "player1": "Yuminattha",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 650,
+    "price_wl": 650,
+    "traded_with": null,
+    "timestamp": "2026-09-21T04:56:46.811Z"
   }
 ]
