@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@SELL",
-    "world": "ZIS",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 166,
-    "p_name": "World Locks",
-    "p_count": 7636,
-    "price_wl": 7636,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:09:35.010Z"
-  },
-  {
     "player1": "ArthaSTOREv2",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-21T18:23:40.121Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MESA",
+    "world": "SPOT",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 78000,
+    "price_wl": 78000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:25:04.093Z"
   }
 ]
