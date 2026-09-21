@@ -1,18 +1,5 @@
 [
   {
-    "player1": "WAR",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Hellfire Horns - Ruby",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T09:43:10.890Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RickMo",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-09-21T09:47:41.956Z"
+  },
+  {
+    "player1": "bugg",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-09-21T09:49:02.790Z"
   }
 ]
