@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Sakuch1",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:30:58.628Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IvangGT",
     "world": "BFGTOK",
@@ -128,5 +115,18 @@
     "price_wl": 55,
     "traded_with": null,
     "timestamp": "2026-09-21T03:37:20.732Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GOIN",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 71000,
+    "price_wl": 71000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T03:38:21.474Z"
   }
 ]
