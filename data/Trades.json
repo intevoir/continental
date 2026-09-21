@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "senatun",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:01:56.154Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BlackRox",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-09-21T03:05:13.604Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMozartz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6400,
     "traded_with": null,
     "timestamp": "2026-09-21T03:06:20.807Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMozartz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 384,
+    "price_wl": 384,
+    "traded_with": null,
+    "timestamp": "2026-09-21T03:06:49.319Z"
+  },
+  {
+    "player1": "Obskura",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-21T03:06:49.333Z"
   }
 ]
