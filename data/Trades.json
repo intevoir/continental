@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "p3ntolan",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Fancy Birdbath",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:09:05.170Z"
-  },
-  {
-    "player1": "Kuupu",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:09:18.355Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kuupu",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-21T14:10:05.118Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingzRgt",
+    "world": "INGREARROZV2",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:10:13.104Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "p3ntolan",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:10:33.309Z"
   }
 ]
