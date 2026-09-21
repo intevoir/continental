@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SuamiFurina",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T19:08:57.881Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKaiizie",
     "world": "SHOPEE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-21T19:14:22.824Z"
+  },
+  {
+    "player1": "MonarchyTM",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T19:15:16.605Z"
   }
 ]
