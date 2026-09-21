@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fhira",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-21T09:46:41.712Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vernoidx",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 238,
     "traded_with": null,
     "timestamp": "2026-09-21T09:53:52.472Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PoliceMan",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 550,
+    "price_wl": 550,
+    "traded_with": null,
+    "timestamp": "2026-09-21T09:55:01.455Z"
   }
 ]
