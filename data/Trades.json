@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lali",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19500,
-    "price_wl": 19500,
-    "traded_with": null,
-    "timestamp": "2026-09-21T04:07:32.868Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sekte []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-21T04:10:00.240Z"
+  },
+  {
+    "player1": "Nayhers",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 2250,
+    "price_wl": 2250,
+    "traded_with": null,
+    "timestamp": "2026-09-21T04:10:38.200Z"
   }
 ]
