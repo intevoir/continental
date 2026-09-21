@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CloverSky",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-21T23:25:42.488Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bypass",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 720,
     "traded_with": null,
     "timestamp": "2026-09-21T23:35:42.881Z"
+  },
+  {
+    "player1": "YXTU",
+    "player2": "Buying Machine",
+    "world": "BFGP",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-09-21T23:36:26.614Z"
   }
 ]
