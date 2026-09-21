@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "falcaowen",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Smoog the Great Dragon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-21T13:21:27.171Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSetau",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-21T13:25:22.262Z"
+  },
+  {
+    "player1": "Gungnir",
+    "player2": "Buying Machine",
+    "world": "BFGPOSEIDON",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14400,
+    "price_wl": 14400,
+    "traded_with": null,
+    "timestamp": "2026-09-21T13:26:03.233Z"
   }
 ]
