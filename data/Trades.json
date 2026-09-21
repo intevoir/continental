@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LandK",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-21T19:16:00.269Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Jhonwik",
     "world": "BUYBADGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "bossREMEDLX3",
     "timestamp": "2026-09-21T19:20:01.513Z"
+  },
+  {
+    "player1": "Fazzcor",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-21T19:22:23.233Z"
   }
 ]
