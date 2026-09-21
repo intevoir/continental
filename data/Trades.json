@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "p3ntolan",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Monocle",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-21T16:05:37.973Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zyrec",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-21T16:17:54.017Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BAYAMS",
+    "world": "MAD",
+    "action": "BUY",
+    "item_name": "Weather Machine - Party",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-21T16:18:29.744Z"
   }
 ]
