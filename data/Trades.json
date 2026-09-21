@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fazzcor",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 127,
-    "p_name": "World Locks",
-    "p_count": 635,
-    "price_wl": 635,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:08:46.289Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "ZIS",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-21T18:11:57.095Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fazzcor",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:12:36.372Z"
   }
 ]
