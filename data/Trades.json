@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Fazzcor",
-    "player2": "Buying Machine",
-    "world": "BIRU",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-21T18:04:58.131Z"
-  },
-  {
-    "player1": "CO0",
-    "player2": "@SELL",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 90,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@SELL",
-    "timestamp": "2026-09-21T18:05:01.642Z"
-  },
-  {
-    "player1": "CO0",
-    "player2": "@SELL",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Black Gem Lock",
-    "item_count": 3,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@SELL",
-    "timestamp": "2026-09-21T18:05:01.643Z"
-  },
-  {
-    "player1": "@SELL",
-    "player2": "CO0",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "CO0",
-    "timestamp": "2026-09-21T18:05:01.643Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HBSY",
     "world": "BELI",
@@ -128,5 +76,57 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-21T18:06:34.914Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Laferte",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:07:35.144Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "demonzps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 19200,
+    "price_wl": 19200,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:07:41.574Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "demonzps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1280,
+    "price_wl": 1280,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:07:48.608Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "demonzps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 384,
+    "price_wl": 384,
+    "traded_with": null,
+    "timestamp": "2026-09-21T18:07:55.770Z"
   }
 ]
