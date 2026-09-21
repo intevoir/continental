@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MYSA",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:25:19.393Z"
-  },
-  {
     "player1": "999",
     "player2": "Renting Station",
     "world": "BANGBFG",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-21T17:31:59.281Z"
+  },
+  {
+    "player1": "RamaSukaTerbang",
+    "player2": "Buying Machine",
+    "world": "BIRU",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:34:01.765Z"
   }
 ]
