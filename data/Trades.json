@@ -1,18 +1,5 @@
 [
   {
-    "player1": "zalbfg",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-21T19:47:22.596Z"
-  },
-  {
     "player1": "nicaogt",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 8500,
     "traded_with": null,
     "timestamp": "2026-09-21T20:06:21.551Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Crystal Gate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-21T20:07:06.545Z"
   }
 ]
