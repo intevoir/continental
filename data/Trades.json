@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HBSY",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Bushy Beard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:49:35.265Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HBSY",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Killer Doctor's Smock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:50:27.279Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jackpot [] [RAWR]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:50:27.293Z"
-  },
-  {
     "player1": "aharr",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-21T17:55:02.136Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HBSY",
+    "world": "CLOTHES",
+    "action": "BUY",
+    "item_name": "Monocle",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:55:29.720Z"
+  },
+  {
+    "player1": "Fazzcor",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:55:49.146Z"
+  },
+  {
+    "player1": "Fazzcor",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:55:57.722Z"
   }
 ]
