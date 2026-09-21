@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Carlots",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 178,
-    "p_name": "World Locks",
-    "p_count": 89,
-    "price_wl": 89,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:01:06.373Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Carlots",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Change of Address",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17,
-    "price_wl": 17,
-    "traded_with": null,
-    "timestamp": "2026-09-21T17:04:46.490Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrYungs",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-21T17:06:11.844Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@KingBoys [] []",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 222,
+    "p_name": "World Locks",
+    "p_count": 2220,
+    "price_wl": 2220,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:08:46.452Z"
+  },
+  {
+    "player1": "SuperLevv",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-21T17:09:14.905Z"
   }
 ]
