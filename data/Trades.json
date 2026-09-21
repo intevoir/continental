@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@BOT",
-    "player2": "Renting Station",
-    "world": "TTTXOX",
-    "action": "RENT",
-    "item_name": "Legendary Skeletal Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 29750,
-    "price_wl": 29750,
-    "traded_with": null,
-    "timestamp": "2026-09-21T11:49:02.761Z"
-  },
-  {
-    "player1": "@ElhanGT [PRO ] [] []",
-    "player2": "Renting Station",
-    "world": "WAKU",
-    "action": "RENT",
-    "item_name": "World Catastrophe - 03",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23800,
-    "price_wl": 23800,
-    "traded_with": null,
-    "timestamp": "2026-09-21T11:49:02.773Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrYakul",
     "world": "KETOKO",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@BOT",
     "timestamp": "2026-09-21T11:51:02.861Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAiou",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T11:51:29.575Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stns",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-21T11:51:29.584Z"
   }
 ]
