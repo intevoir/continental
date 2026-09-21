@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "p3ntolan",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Fishing Rod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-09-21T15:57:30.000Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "falcaowen",
     "world": "BELI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-09-21T15:59:21.516Z"
+  },
+  {
+    "player1": "FennFenn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T15:59:25.338Z"
   }
 ]
