@@ -1,44 +1,5 @@
 [
   {
-    "player1": "@Yrko",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:00:15.586Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Catrin []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 245,
-    "price_wl": 245,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:01:03.397Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Catrin []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-21T14:01:22.271Z"
-  },
-  {
     "player1": "Carlots",
     "player2": "Buying Machine",
     "world": "RENTCOOL",
@@ -128,5 +89,44 @@
     "price_wl": 792,
     "traded_with": null,
     "timestamp": "2026-09-21T14:02:02.703Z"
+  },
+  {
+    "player1": "Carlots",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 1225,
+    "price_wl": 1225,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:02:07.807Z"
+  },
+  {
+    "player1": "Carlots",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:02:16.189Z"
+  },
+  {
+    "player1": "Carlots",
+    "player2": "Buying Machine",
+    "world": "SC3",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 170,
+    "p_name": "World Locks",
+    "p_count": 340,
+    "price_wl": 340,
+    "traded_with": null,
+    "timestamp": "2026-09-21T14:02:30.705Z"
   }
 ]
