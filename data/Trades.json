@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LIQDIMJAGO",
-    "world": "MIN5DLS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-21T20:24:14.067Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@dsw",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-21T20:34:19.788Z"
+  },
+  {
+    "player1": "ArenGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T20:34:50.825Z"
   }
 ]
