@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Teyooo",
-    "world": "BFGTEDS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-21T12:20:23.230Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrZaikos",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-09-21T12:20:26.977Z"
-  },
-  {
-    "player1": "Negy",
-    "player2": "Renting Station",
-    "world": "BENZYL",
-    "action": "RENT",
-    "item_name": "Legendary Abyssal Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-09-21T12:21:58.014Z"
-  },
-  {
     "player1": "DrShakaa",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-21T12:24:21.895Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "umann",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T12:24:32.539Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "@SHIINA[CREJA]",
+    "world": "MMHP",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 8,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@SHIINA[CREJA]",
+    "timestamp": "2026-09-21T12:24:41.237Z"
+  },
+  {
+    "player1": "@SHIINA[CREJA]",
+    "player2": "MassDerr",
+    "world": "MMHP",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MassDerr",
+    "timestamp": "2026-09-21T12:24:41.242Z"
   }
 ]
