@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Benihime",
-    "player2": "Exinst",
-    "world": "PLL",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Exinst",
-    "timestamp": "2026-09-21T16:31:34.235Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ResekCPS",
-    "world": "ESZ",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 192,
-    "price_wl": 192,
-    "traded_with": null,
-    "timestamp": "2026-09-21T16:31:39.043Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ResekCPS",
     "world": "ESZ",
@@ -128,5 +102,31 @@
     "price_wl": 960,
     "traded_with": null,
     "timestamp": "2026-09-21T16:34:02.899Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LiteZero_400",
+    "world": "LMSK",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-21T16:34:43.024Z"
+  },
+  {
+    "player1": "LiteZero_400",
+    "player2": "Buying Machine",
+    "world": "LMSK",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-21T16:35:00.564Z"
   }
 ]
