@@ -1,18 +1,5 @@
 [
   {
-    "player1": "moiu7",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-21T05:08:42.314Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "KIT",
@@ -128,5 +115,18 @@
     "price_wl": 1300,
     "traded_with": null,
     "timestamp": "2026-09-21T05:11:57.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Faruk",
+    "world": "BFGPOLO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-21T05:12:28.482Z"
   }
 ]
