@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@dsw",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 87,
-    "p_name": "World Locks",
-    "p_count": 17400,
-    "price_wl": 17400,
-    "traded_with": null,
-    "timestamp": "2026-09-21T20:10:07.963Z"
-  },
-  {
     "player1": "@cicaak [ELITE] []",
     "player2": "Renting Station",
     "world": "RENTCOOL",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-21T20:24:14.067Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 68000,
+    "price_wl": 68000,
+    "traded_with": null,
+    "timestamp": "2026-09-21T20:26:15.113Z"
   }
 ]
