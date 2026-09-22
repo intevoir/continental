@@ -1,44 +1,5 @@
 [
   {
-    "player1": "CeeR",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:33:51.162Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZEWOX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:34:36.201Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Qzemm",
-    "world": "BUYCHAND",
-    "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:34:36.216Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xilan",
     "world": "MKNA",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "Filipino",
     "timestamp": "2026-09-22T08:36:55.680Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "CROT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 91,
+    "p_name": "World Locks",
+    "p_count": 10010,
+    "price_wl": 10010,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:39:28.915Z"
+  },
+  {
+    "player1": "@Articus []",
+    "player2": "@VoraxStore [ELITE]",
+    "world": "RENTECY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@VoraxStore [ELITE]",
+    "timestamp": "2026-09-22T08:39:28.947Z"
+  },
+  {
+    "player1": "@VoraxStore [ELITE]",
+    "player2": "@Articus []",
+    "world": "RENTECY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Articus []",
+    "timestamp": "2026-09-22T08:39:28.947Z"
   }
 ]
