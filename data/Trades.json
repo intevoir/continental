@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MacanHijau",
-    "world": "SHOPY",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:29:17.318Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrZaikos",
     "world": "BIRI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-22T17:39:22.663Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:41:11.441Z"
   }
 ]
