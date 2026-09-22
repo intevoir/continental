@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fahrimanu",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-22T21:26:40.481Z"
-  },
-  {
-    "player1": "ManyolL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 38,
-    "p_name": "World Locks",
-    "p_count": 1140,
-    "price_wl": 1140,
-    "traded_with": null,
-    "timestamp": "2026-09-22T21:26:50.984Z"
-  },
-  {
     "player1": "hanyaptht",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-22T21:36:52.619Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ojakkigtps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T21:37:53.229Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ojakkigtps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T21:38:09.491Z"
   }
 ]
