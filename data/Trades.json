@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Pasang",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-22T18:38:33.901Z"
-  },
-  {
     "player1": "NikCPS",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-09-22T18:42:22.812Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pasang",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T18:42:47.684Z"
   }
 ]
