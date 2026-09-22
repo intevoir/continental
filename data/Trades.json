@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LeonCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:40:28.992Z"
-  },
-  {
-    "player1": "GOIN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1360,
-    "price_wl": 1360,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:40:48.977Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:41:04.156Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "stns",
     "world": "BIRI",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 13400,
     "traded_with": null,
     "timestamp": "2026-09-22T08:42:30.520Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 945,
+    "price_wl": 945,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:43:03.641Z"
+  },
+  {
+    "player1": "LaavyZ",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:43:30.391Z"
+  },
+  {
+    "player1": "LaavyZ",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:43:30.402Z"
   }
 ]
