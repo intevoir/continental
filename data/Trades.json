@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zaen",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Wood Block Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-22T05:50:28.819Z"
-  },
-  {
     "player1": "abahhkau",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-22T05:52:52.484Z"
+  },
+  {
+    "player1": "abahhkau",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 29,
+    "p_name": "World Locks",
+    "p_count": 87,
+    "price_wl": 87,
+    "traded_with": null,
+    "timestamp": "2026-09-22T05:53:41.623Z"
   }
 ]
