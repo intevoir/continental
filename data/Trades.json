@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zaen",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:36:47.171Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BelSaa",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-22T02:41:16.086Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zaxxs",
+    "world": "BUYPATH",
+    "action": "BUY",
+    "item_name": "Objective Marker",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:43:56.896Z"
   }
 ]
