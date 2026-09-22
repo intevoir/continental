@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "latips",
-    "world": "SHERRBFG",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:08:49.619Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MacanHijau",
-    "world": "SHOPY",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:09:48.833Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HBSY",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Balance Mooncake",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:09:48.859Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Gerald [PRO ] []",
     "world": "BUYPAINTBRUSH",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-22T17:12:05.847Z"
+  },
+  {
+    "player1": "AKUNAKMELETUP",
+    "player2": "Buying Machine",
+    "world": "E4T",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 82,
+    "p_name": "World Locks",
+    "p_count": 574,
+    "price_wl": 574,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:12:50.229Z"
+  },
+  {
+    "player1": "latips",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:12:50.242Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrUlat",
+    "world": "MYDUO",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:12:50.250Z"
   }
 ]
