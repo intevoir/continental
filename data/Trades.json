@@ -1,18 +1,5 @@
 [
   {
-    "player1": "AKUNAKMELETUP",
-    "player2": "Buying Machine",
-    "world": "E4T",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 196,
-    "p_name": "World Locks",
-    "p_count": 1372,
-    "price_wl": 1372,
-    "traded_with": null,
-    "timestamp": "2026-09-22T11:08:37.745Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ArsadNescafe",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-22T11:11:54.876Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "E4T",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 9200,
+    "price_wl": 9200,
+    "traded_with": null,
+    "timestamp": "2026-09-22T11:12:30.227Z"
   }
 ]
