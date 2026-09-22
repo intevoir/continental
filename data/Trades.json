@@ -4,32 +4,6 @@
     "player2": "RamaSukaTerbang",
     "world": "VENDRT",
     "action": "BUY",
-    "item_name": "Sheet Music: Flat Bass",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:53:03.272Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RamaSukaTerbang",
-    "world": "VENDRT",
-    "action": "BUY",
-    "item_name": "Sheet Music: Sharp Bass",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:53:10.779Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RamaSukaTerbang",
-    "world": "VENDRT",
-    "action": "BUY",
     "item_name": "Sheet Music: Bass Note",
     "item_count": 175,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-09-22T14:55:47.708Z"
+  },
+  {
+    "player1": "MaxVerstapen",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:55:58.904Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TikusTanah",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:56:10.235Z"
   }
 ]
