@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Xvput",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-22T22:19:07.087Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xvput",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 181,
-    "p_name": "World Locks",
-    "p_count": 1810,
-    "price_wl": 1810,
-    "traded_with": null,
-    "timestamp": "2026-09-22T22:19:18.890Z"
-  },
-  {
     "player1": "BrokenHearts",
     "player2": "Buying Machine",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-09-22T22:33:10.872Z"
+  },
+  {
+    "player1": "RealB2",
+    "player2": "Renting Station",
+    "world": "RENTING10",
+    "action": "RENT",
+    "item_name": "Imperial Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T22:36:35.278Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "udine",
+    "world": "RENTCOOL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-22T22:36:42.452Z"
   }
 ]
