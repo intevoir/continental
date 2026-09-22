@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mance1",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-22T10:02:15.583Z"
-  },
-  {
     "player1": "Mance",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-22T10:06:03.820Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ExSaudia",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 36000,
+    "price_wl": 36000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T10:08:04.418Z"
   }
 ]
