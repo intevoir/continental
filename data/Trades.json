@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DJABARANO",
-    "player2": "Buying Machine",
-    "world": "BFG20K",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 23,
-    "p_name": "World Locks",
-    "p_count": 115,
-    "price_wl": 115,
-    "traded_with": null,
-    "timestamp": "2026-09-22T16:44:35.799Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MacanHijau",
     "world": "HSHOP",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-22T16:47:49.592Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MacanHijau",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T16:48:09.019Z"
   }
 ]
