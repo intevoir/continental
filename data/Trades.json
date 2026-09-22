@@ -4,19 +4,6 @@
     "player2": "RamaSukaTerbang",
     "world": "BKSZ",
     "action": "BUY",
-    "item_name": "Sheet Music: Bass Note",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-09-22T06:06:45.546Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RamaSukaTerbang",
-    "world": "BKSZ",
-    "action": "BUY",
     "item_name": "Sheet Music: Flat Bass",
     "item_count": 55,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-09-22T06:14:44.699Z"
+  },
+  {
+    "player1": "999",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 3150,
+    "price_wl": 3150,
+    "traded_with": null,
+    "timestamp": "2026-09-22T06:15:28.813Z"
   }
 ]
