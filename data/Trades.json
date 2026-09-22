@@ -1,31 +1,5 @@
 [
   {
-    "player1": "LaavyZ",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDNASU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-09-22T00:59:32.653Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-22T00:59:32.666Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Suspicious",
     "world": "TEMU",
@@ -128,5 +102,31 @@
     "price_wl": 464,
     "traded_with": null,
     "timestamp": "2026-09-22T01:01:13.533Z"
+  },
+  {
+    "player1": "LaavyZ",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-22T01:02:04.908Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LaavyZ",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-22T01:02:06.779Z"
   }
 ]
