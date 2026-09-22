@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ENALRTO",
-    "player2": "Buying Machine",
-    "world": "SHOPFAIL",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-09-22T20:02:56.375Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "tangankanan",
     "world": "GBC25",
@@ -128,5 +115,18 @@
     "price_wl": 15620,
     "traded_with": null,
     "timestamp": "2026-09-22T20:06:50.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tangankanan",
+    "world": "GBC25",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-22T20:08:50.680Z"
   }
 ]
