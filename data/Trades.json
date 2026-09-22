@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SultanPablo",
-    "world": "BFG20K",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:24:07.407Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Devando",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:24:34.776Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ULTM",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4320,
     "traded_with": null,
     "timestamp": "2026-09-22T14:30:35.625Z"
+  },
+  {
+    "player1": "aharr",
+    "player2": "Buying Machine",
+    "world": "FREEBFGDNA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 56,
+    "price_wl": 56,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:33:45.164Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MYSA",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Laboratory",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:34:07.973Z"
   }
 ]
