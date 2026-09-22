@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SickleDawn_225",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-22T05:23:32.304Z"
-  },
-  {
     "player1": "DawnPlaya_225",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 99400,
     "traded_with": null,
     "timestamp": "2026-09-22T05:27:13.081Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GripShiny_225",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-09-22T05:27:24.470Z"
   }
 ]
