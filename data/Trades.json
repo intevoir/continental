@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "EssexInstitut",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 5720,
-    "price_wl": 5720,
-    "traded_with": null,
-    "timestamp": "2026-09-22T00:47:13.650Z"
-  },
-  {
     "player1": "Tumpah",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-22T00:52:23.215Z"
+  },
+  {
+    "player1": "DrTipsky",
+    "player2": "Buying Machine",
+    "world": "PASARAN",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-22T00:53:13.683Z"
   }
 ]
