@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SelfMod",
-    "world": "TTOMB",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-22T11:13:46.065Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kakaroto",
     "world": "E4T",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6164,
     "traded_with": null,
     "timestamp": "2026-09-22T11:14:30.447Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SACXXX",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-22T11:14:34.719Z"
   }
 ]
