@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zaen",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-22T15:10:51.610Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZEWOX",
     "world": "CHEAPR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-22T15:13:51.585Z"
+  },
+  {
+    "player1": "Hanzbot",
+    "player2": "Renting Station",
+    "world": "BFGIYA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T15:14:53.302Z"
   }
 ]
