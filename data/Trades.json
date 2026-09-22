@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kautsar",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-22T03:51:55.230Z"
-  },
-  {
     "player1": "@Elc",
     "player2": "Buying Machine",
     "world": "RENTCOOL",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-22T04:00:34.912Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HACLONE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T04:01:29.904Z"
   }
 ]
