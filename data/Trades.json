@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CO0",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Sec's Obito Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-09-22T11:36:53.939Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LowHealth",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-09-22T11:39:04.725Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mitsuki",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Blue Portal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T11:39:41.481Z"
   }
 ]
