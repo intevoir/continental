@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zaen",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 140,
-    "price_wl": 140,
-    "traded_with": null,
-    "timestamp": "2026-09-22T13:18:48.003Z"
-  },
-  {
-    "player1": "Zyenno",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-22T13:18:51.566Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RNF12",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 680,
     "traded_with": null,
     "timestamp": "2026-09-22T13:22:48.614Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyenno",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 260,
+    "price_wl": 260,
+    "traded_with": null,
+    "timestamp": "2026-09-22T13:23:29.424Z"
+  },
+  {
+    "player1": "RamaSukaTerbang",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-22T13:23:29.434Z"
   }
 ]
