@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "L4M",
-    "world": "TRADING",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-22T18:02:29.144Z"
-  },
-  {
     "player1": "LIENO",
     "player2": "Buying Machine",
     "world": "E4T",
@@ -128,5 +115,18 @@
     "price_wl": 8450,
     "traded_with": null,
     "timestamp": "2026-09-22T18:15:30.567Z"
+  },
+  {
+    "player1": "DrToyaSkuy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T18:16:14.222Z"
   }
 ]
