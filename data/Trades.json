@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Galielwy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T11:20:34.687Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@SELL",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17000,
     "traded_with": null,
     "timestamp": "2026-09-22T11:23:07.581Z"
+  },
+  {
+    "player1": "aharr []",
+    "player2": "Buying Machine",
+    "world": "FREEBFGDNA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 224,
+    "price_wl": 224,
+    "traded_with": null,
+    "timestamp": "2026-09-22T11:23:36.151Z"
   }
 ]
