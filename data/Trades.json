@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HammerAzure_167",
-    "player2": "Renting Station",
-    "world": "FREE",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-22T21:22:37.466Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kuek",
     "world": "HAI",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-22T21:33:50.267Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GrahamBell",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 6240,
+    "price_wl": 6240,
+    "traded_with": null,
+    "timestamp": "2026-09-22T21:35:07.019Z"
   }
 ]
