@@ -1,18 +1,5 @@
 [
   {
-    "player1": "moiu6",
-    "player2": "Renting Station",
-    "world": "TOKO",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 89,
-    "price_wl": 89,
-    "traded_with": null,
-    "timestamp": "2026-09-22T03:49:48.934Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kautsar",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 25000,
     "traded_with": null,
     "timestamp": "2026-09-22T03:57:45.629Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OP57",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Weather Machine - Protostar Landing",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-22T04:00:34.912Z"
   }
 ]
