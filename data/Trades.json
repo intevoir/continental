@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tangankanan",
-    "world": "GBC25",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-22T01:33:39.740Z"
-  },
-  {
     "player1": "Blayy",
     "player2": "Buying Machine",
     "world": "VE",
@@ -128,5 +115,18 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-09-22T01:35:41.180Z"
+  },
+  {
+    "player1": "Tanwi",
+    "player2": "Buying Machine",
+    "world": "ASSOY",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-22T01:36:46.879Z"
   }
 ]
