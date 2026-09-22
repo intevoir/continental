@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-22T20:23:56.851Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nayhers",
     "world": "IME",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-09-22T20:38:14.998Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nayhers",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Extractor Dynamo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-22T20:45:17.023Z"
   }
 ]
