@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ToyaRTO1",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-22T18:23:16.821Z"
-  },
-  {
-    "player1": "SAMURAIN",
-    "player2": "Renting Station",
-    "world": "GOKU67",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-09-22T18:23:24.114Z"
-  },
-  {
     "player1": "Freaa",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-09-22T18:29:45.955Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FennFenn",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T18:29:50.754Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DuckLite_229",
+    "world": "BFGP",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-09-22T18:30:18.246Z"
   }
 ]
