@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Sekte",
-    "world": "SHOP1",
-    "action": "BUY",
-    "item_name": "Phoenix Armor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-22T07:46:15.232Z"
-  },
-  {
-    "player1": "DirtSwag_596",
-    "player2": "ZEKGIB11836",
-    "world": "GEIGER1",
-    "action": "TRADE",
-    "item_name": "Green Stuff",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ZEKGIB11836",
-    "timestamp": "2026-09-22T07:46:15.243Z"
-  },
-  {
     "player1": "ZEKGIB11836",
     "player2": "DirtSwag_596",
     "world": "GEIGER1",
@@ -128,5 +102,31 @@
     "price_wl": 260,
     "traded_with": null,
     "timestamp": "2026-09-22T07:49:24.671Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sekte",
+    "world": "NO",
+    "action": "BUY",
+    "item_name": "Neptune's Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-22T07:51:16.697Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sekte",
+    "world": "NO",
+    "action": "BUY",
+    "item_name": "Purple Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-22T07:51:16.707Z"
   }
 ]
