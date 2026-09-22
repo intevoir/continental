@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:59:07.468Z"
-  },
-  {
-    "player1": "Fazzcor",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:59:14.888Z"
-  },
-  {
-    "player1": "Fazzcor",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 11,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 10500,
     "traded_with": null,
     "timestamp": "2026-09-22T03:01:19.816Z"
+  },
+  {
+    "player1": "Cloviz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 2625,
+    "price_wl": 2625,
+    "traded_with": null,
+    "timestamp": "2026-09-22T03:01:31.200Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MESA",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-22T03:01:56.181Z"
   }
 ]
