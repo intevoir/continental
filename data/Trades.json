@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PRIXE",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-22T05:14:25.188Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@KENTMAUKAYA",
     "world": "BUYPRINCESS",
@@ -128,5 +115,18 @@
     "price_wl": 144000,
     "traded_with": null,
     "timestamp": "2026-09-22T05:19:18.003Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDho",
+    "world": "BUYDONATIONBOX",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T05:21:10.087Z"
   }
 ]
