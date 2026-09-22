@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:41:48.317Z"
-  },
-  {
     "player1": "PAADANG",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 2025,
     "traded_with": null,
     "timestamp": "2026-09-22T08:45:31.152Z"
+  },
+  {
+    "player1": "KnowZaax",
+    "player2": "Buying Machine",
+    "world": "BUYBLOKS",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 310000,
+    "price_wl": 310000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:46:31.156Z"
   }
 ]
