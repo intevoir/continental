@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 480,
-    "price_wl": 480,
-    "traded_with": null,
-    "timestamp": "2026-09-22T22:40:15.654Z"
-  },
-  {
-    "player1": "Fazzcor",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-09-22T22:45:35.924Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SamIsHere",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-22T22:46:16.028Z"
   }
 ]
