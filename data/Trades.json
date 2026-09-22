@@ -1,18 +1,5 @@
 [
   {
-    "player1": "mocann",
-    "player2": "Buying Machine",
-    "world": "VE",
-    "action": "SELL",
-    "item_name": "Golden Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 45000,
-    "price_wl": 45000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T03:18:33.618Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Hanzbot",
     "world": "BFGIYA",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-09-22T03:23:03.609Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrESKONEI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T03:23:11.718Z"
   }
 ]
