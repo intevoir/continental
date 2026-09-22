@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RENGA",
-    "player2": "Buying Machine",
-    "world": "BUYBLOKS",
-    "action": "SELL",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 340000,
-    "price_wl": 340000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:21:04.544Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "N4",
@@ -128,5 +115,18 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-22T02:25:40.237Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Venus Guytrap",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:26:40.882Z"
   }
 ]
