@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "oirtykuli1",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:18:37.205Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Venus Guytrap",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:19:38.080Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrUraiDhy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-22T02:22:51.560Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Venus Guytrap",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:23:46.682Z"
+  },
+  {
+    "player1": "Rdooh",
+    "player2": "Buying Machine",
+    "world": "BFGJOHN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1360,
+    "price_wl": 1360,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:24:04.300Z"
   }
 ]
