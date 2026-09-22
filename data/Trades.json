@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MYSA",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-22T12:25:10.462Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrElfomosa",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-22T12:27:26.614Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T12:28:31.557Z"
   }
 ]
