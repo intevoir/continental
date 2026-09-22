@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Black Air Robinsons",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-22T12:04:10.868Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Space Thruster Boost Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-22T12:04:10.875Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Azurkuy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-22T12:04:32.787Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "radana",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Boots of Autumn",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-22T12:04:55.733Z"
+  },
+  {
+    "player1": "MURRY",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-22T12:05:17.080Z"
   }
 ]
