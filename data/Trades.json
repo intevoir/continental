@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KONTOLBESI",
-    "player2": "txphone",
-    "world": "8X8",
-    "action": "TRADE",
-    "item_name": "Spear Darkness - N8",
-    "item_count": 4,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "txphone",
-    "timestamp": "2026-09-22T03:33:41.623Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "AbySukaaBgl",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-22T03:38:35.680Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sekte",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Cigar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T03:39:12.829Z"
   }
 ]
