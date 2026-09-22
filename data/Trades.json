@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@BoothGT []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:14:28.790Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@BoothGT []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:14:28.796Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "hoys",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 450,
     "traded_with": null,
     "timestamp": "2026-09-22T08:16:28.098Z"
+  },
+  {
+    "player1": "yayakk",
+    "player2": "Qzemm",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Qzemm",
+    "timestamp": "2026-09-22T08:16:59.685Z"
+  },
+  {
+    "player1": "Qzemm",
+    "player2": "yayakk",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "yayakk",
+    "timestamp": "2026-09-22T08:16:59.686Z"
   }
 ]
