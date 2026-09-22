@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ELsinos",
-    "world": "BELANJA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:26:12.710Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MacanHijau",
-    "world": "SHOPY",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-22T17:26:56.325Z"
-  },
-  {
     "player1": "Laferte",
     "player2": "Renting Station",
     "world": "ZFIRE",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-22T17:28:12.649Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MacanHijau",
+    "world": "SHOPY",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:29:05.432Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MacanHijau",
+    "world": "SHOPY",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-22T17:29:17.318Z"
   }
 ]
