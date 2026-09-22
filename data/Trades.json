@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lenvin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-09-22T12:55:25.447Z"
-  },
-  {
     "player1": "InterMettal",
     "player2": "Renting Station",
     "world": "PG",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-09-22T12:58:07.163Z"
+  },
+  {
+    "player1": "OraipCPS",
+    "player2": "Buying Machine",
+    "world": "BFGPOSEIDON",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 106,
+    "p_name": "World Locks",
+    "p_count": 742,
+    "price_wl": 742,
+    "traded_with": null,
+    "timestamp": "2026-09-22T12:59:26.467Z"
   }
 ]
