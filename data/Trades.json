@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrUraiDhy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 108000,
-    "price_wl": 108000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:19:48.656Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "N4",
-    "action": "BUY",
-    "item_name": "Venus Guytrap",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-09-22T02:20:43.477Z"
-  },
-  {
     "player1": "RENGA",
     "player2": "Buying Machine",
     "world": "BUYBLOKS",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-09-22T02:24:39.394Z"
+  },
+  {
+    "player1": "RENGA",
+    "player2": "Buying Machine",
+    "world": "BUYBLOKS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 650,
+    "price_wl": 650,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:25:40.224Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Venus Guytrap",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-09-22T02:25:40.237Z"
   }
 ]
