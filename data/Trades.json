@@ -1,31 +1,5 @@
 [
   {
-    "player1": "andrywijaya123",
-    "player2": "Renting Station",
-    "world": "HV",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:21:34.202Z"
-  },
-  {
-    "player1": "idcaboutyou",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-22T14:22:34.829Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IceCrown",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-22T14:24:07.407Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devando",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:24:34.776Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ULTM",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 73000,
+    "price_wl": 73000,
+    "traded_with": null,
+    "timestamp": "2026-09-22T14:24:58.233Z"
   }
 ]
