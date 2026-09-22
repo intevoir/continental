@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "tangankanan",
-    "world": "GBC25",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-22T20:02:51.920Z"
-  },
-  {
     "player1": "ENALRTO",
     "player2": "Buying Machine",
     "world": "SHOPFAIL",
@@ -128,5 +115,18 @@
     "price_wl": 3300,
     "traded_with": null,
     "timestamp": "2026-09-22T20:05:13.834Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ENALRTO",
+    "world": "SHOPFAIL",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 22,
+    "p_name": "World Locks",
+    "p_count": 15620,
+    "price_wl": 15620,
+    "traded_with": null,
+    "timestamp": "2026-09-22T20:06:50.182Z"
   }
 ]
