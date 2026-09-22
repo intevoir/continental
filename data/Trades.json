@@ -1,18 +1,5 @@
 [
   {
-    "player1": "IH0",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-22T08:06:35.893Z"
-  },
-  {
     "player1": "ChanZunZhe",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 960,
     "traded_with": null,
     "timestamp": "2026-09-22T08:08:25.095Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RQryan",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Heart of Gaia",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-22T08:09:35.111Z"
   }
 ]
