@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tadung46",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-09-22T13:21:55.597Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SolidCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-09-22T13:22:28.601Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SolidCPS",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-22T13:24:38.347Z"
+  },
+  {
+    "player1": "Maori",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 630,
+    "price_wl": 630,
+    "traded_with": null,
+    "timestamp": "2026-09-22T13:25:35.513Z"
+  },
+  {
+    "player1": "Maori",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-22T13:25:51.564Z"
   }
 ]
