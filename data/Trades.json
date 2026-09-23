@@ -4,32 +4,6 @@
     "player2": "Tyaraw",
     "world": "PG",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:11:45.218Z"
-  },
-  {
-    "player1": "Takoo",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:12:25.655Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tyaraw",
-    "world": "PG",
-    "action": "BUY",
     "item_name": "Golden Ox Pendant",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-23T20:21:29.626Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-09-23T20:21:40.769Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-23T20:21:53.103Z"
   }
 ]
