@@ -1,31 +1,5 @@
 [
   {
-    "player1": "FSTVLST",
-    "player2": "Renting Station",
-    "world": "FREE",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-23T02:21:27.060Z"
-  },
-  {
-    "player1": "DrFlatscreen",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 108,
-    "p_name": "World Locks",
-    "p_count": 70200,
-    "price_wl": 70200,
-    "traded_with": null,
-    "timestamp": "2026-09-23T02:22:00.173Z"
-  },
-  {
     "player1": "DrFlatscreen",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 55250,
     "traded_with": null,
     "timestamp": "2026-09-23T02:23:17.867Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Heartcastle Column",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-23T02:24:21.531Z"
+  },
+  {
+    "player1": "DrFlatscreen",
+    "player2": "Buying Machine",
+    "world": "BA",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 165,
+    "p_name": "World Locks",
+    "p_count": 107250,
+    "price_wl": 107250,
+    "traded_with": null,
+    "timestamp": "2026-09-23T02:24:26.073Z"
   }
 ]
