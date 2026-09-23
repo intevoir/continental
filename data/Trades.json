@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 210,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-09-23T13:53:50.524Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-23T13:53:53.998Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "GROWMART",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-23T13:54:43.722Z"
-  },
-  {
     "player1": "SuppaNiga",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +89,44 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-23T13:58:09.655Z"
+  },
+  {
+    "player1": "DrLowies",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 4200,
+    "price_wl": 4200,
+    "traded_with": null,
+    "timestamp": "2026-09-23T13:58:45.718Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HappyFer",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-23T13:58:45.763Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HappyFer",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 260,
+    "price_wl": 260,
+    "traded_with": null,
+    "timestamp": "2026-09-23T13:59:08.011Z"
   }
 ]
