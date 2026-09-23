@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "GasMIN5DLS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 16000,
-    "price_wl": 16000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T19:13:39.442Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Knnz",
-    "world": "GBC25",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T19:16:38.449Z"
-  },
-  {
     "player1": "Alliance",
     "player2": "Renting Station",
     "world": "GOKU67",
@@ -128,5 +102,31 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-09-23T19:34:14.314Z"
+  },
+  {
+    "player1": "GasMIN5DLS",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Kittys Cat Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 535,
+    "price_wl": 535,
+    "traded_with": null,
+    "timestamp": "2026-09-23T19:36:12.147Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Knnz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 645,
+    "price_wl": 645,
+    "traded_with": null,
+    "timestamp": "2026-09-23T19:36:38.371Z"
   }
 ]
