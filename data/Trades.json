@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KrisJon00",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:39:00.583Z"
-  },
-  {
-    "player1": "WlyssZ",
-    "player2": "Renting Station",
-    "world": "TRADING",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:39:18.661Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Botom",
     "world": "BFGSPK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-23T18:41:57.611Z"
+  },
+  {
+    "player1": "WlyssZ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-09-23T18:42:58.533Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KrisJon00",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-09-23T18:43:10.222Z"
   }
 ]
