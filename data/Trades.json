@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Prathamax",
-    "player2": "Renting Station",
-    "world": "LURENT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-23T12:59:20.898Z"
-  },
-  {
     "player1": "Jaeha",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-23T13:03:28.875Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Athen",
+    "world": "KSHOP",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T13:04:22.082Z"
   }
 ]
