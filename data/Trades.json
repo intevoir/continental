@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BoosterFire",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6700,
-    "price_wl": 6700,
-    "traded_with": null,
-    "timestamp": "2026-09-23T17:45:33.859Z"
-  },
-  {
-    "player1": "zulfiroy",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Renting Station",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T17:46:02.637Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMendes",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50000,
     "traded_with": null,
     "timestamp": "2026-09-23T17:50:04.976Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LeonCPS",
+    "world": "BUYBLOKS",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-23T17:51:04.972Z"
+  },
+  {
+    "player1": "Gigahelper1",
+    "player2": "Renting Station",
+    "world": "FREEBFGDNASU",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-23T17:51:04.988Z"
   }
 ]
