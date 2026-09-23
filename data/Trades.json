@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wigglee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-23T10:37:15.941Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wigglee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2750,
-    "price_wl": 2750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T10:37:19.552Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DawnPlaya_192",
     "world": "BFG20K",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-23T10:42:04.325Z"
+  },
+  {
+    "player1": "Self",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-23T10:43:06.753Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NNBA",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T10:43:06.974Z"
   }
 ]
