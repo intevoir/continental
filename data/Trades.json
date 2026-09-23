@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@vow",
-    "player2": "@Yia",
-    "world": "DROP",
-    "action": "TRADE",
-    "item_name": "Peter Griffin Head Seed",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Yia",
-    "timestamp": "2026-09-23T08:53:36.775Z"
-  },
-  {
-    "player1": "@Yia",
-    "player2": "@vow",
-    "world": "DROP",
-    "action": "TRADE",
-    "item_name": "Jusoo's Creation Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@vow",
-    "timestamp": "2026-09-23T08:53:36.775Z"
-  },
-  {
     "player1": "@Yia",
     "player2": "@vow",
     "world": "DROP",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-23T08:55:32.912Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FazhaAnakBaik",
+    "world": "SEEDS",
+    "action": "BUY",
+    "item_name": "Neptune's Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-23T08:56:32.989Z"
+  },
+  {
+    "player1": "Chrost",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-23T08:56:33.000Z"
   }
 ]
