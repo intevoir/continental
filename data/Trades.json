@@ -4,32 +4,6 @@
     "player2": "MITOHA",
     "world": "INDOMART",
     "action": "BUY",
-    "item_name": "Wings of Daidalos",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-23T06:27:38.438Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Freaa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T06:28:38.435Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MITOHA",
-    "world": "INDOMART",
-    "action": "BUY",
     "item_name": "Royal Spirit Wings",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-23T06:33:48.786Z"
+  },
+  {
+    "player1": "Zurch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T06:34:41.318Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kautsar",
+    "world": "SABER",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 340000,
+    "price_wl": 340000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T06:34:59.678Z"
   }
 ]
