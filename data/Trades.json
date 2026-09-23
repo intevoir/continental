@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Cleafee",
-    "world": "BFGSIZE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-09-23T15:09:29.130Z"
-  },
-  {
-    "player1": "0re",
-    "player2": "Buying Machine",
-    "world": "DPS",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T15:10:24.968Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Suspicious",
-    "world": "BUYWALLPAPER",
-    "action": "BUY",
-    "item_name": "Blue Wallpaper",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-23T15:11:26.986Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Suspicious",
-    "world": "BUYWALLPAPER",
-    "action": "BUY",
-    "item_name": "Aqua Wallpaper",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-23T15:11:34.795Z"
-  },
-  {
     "player1": "Supermann09",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-23T15:12:55.993Z"
+  },
+  {
+    "player1": "Supermann09",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 270,
+    "price_wl": 270,
+    "traded_with": null,
+    "timestamp": "2026-09-23T15:13:47.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T15:13:47.934Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FlashDuck",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-09-23T15:13:47.941Z"
+  },
+  {
+    "player1": "Supermann09",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 17000,
+    "price_wl": 17000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T15:13:47.947Z"
   }
 ]
