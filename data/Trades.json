@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Tyaraw",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:10:24.799Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tyaraw",
-    "world": "PG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:11:41.824Z"
-  },
-  {
-    "player1": "RamaAntiGedor",
-    "player2": "Buying Machine",
-    "world": "BUYBATM",
-    "action": "SELL",
-    "item_name": "ATM Machine",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 68,
-    "price_wl": 68,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:11:41.836Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Tyaraw",
     "world": "PG",
@@ -128,5 +89,44 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-09-23T20:19:51.922Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-23T20:21:05.643Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-09-23T20:21:29.611Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-23T20:21:29.626Z"
   }
 ]
