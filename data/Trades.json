@@ -10,32 +10,6 @@
     "p_count": 500,
     "price_wl": 500,
     "traded_with": null,
-    "timestamp": "2026-09-23T05:08:52.612Z"
-  },
-  {
-    "player1": "Hika",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T05:08:52.679Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hika",
-    "world": "BFGJEI",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
     "timestamp": "2026-09-23T05:08:52.710Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 28000,
     "traded_with": null,
     "timestamp": "2026-09-23T05:12:54.107Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BilSukaBFG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 5840,
+    "price_wl": 5840,
+    "traded_with": null,
+    "timestamp": "2026-09-23T05:13:03.257Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BOT of Legend [BEAUTYAURORA]",
+    "world": "RIO",
+    "action": "BUY",
+    "item_name": "Golden Silk Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80000,
+    "price_wl": 80000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T05:13:18.042Z"
   }
 ]
