@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Hika",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T05:08:10.119Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Hika",
     "world": "BFGJEI",
@@ -128,5 +115,18 @@
     "price_wl": 20230,
     "traded_with": null,
     "timestamp": "2026-09-23T05:11:05.168Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mitsuki",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 28000,
+    "price_wl": 28000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T05:12:54.107Z"
   }
 ]
