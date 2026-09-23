@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BOREN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-23T21:54:28.144Z"
-  },
-  {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BOREN",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-23T21:54:57.465Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zanza",
     "world": "SHOP",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-09-23T22:00:26.662Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 74,
+    "p_name": "World Locks",
+    "p_count": 222,
+    "price_wl": 222,
+    "traded_with": null,
+    "timestamp": "2026-09-23T22:00:47.339Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArrangGT",
+    "world": "GVEZ",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-23T22:00:51.896Z"
   }
 ]
