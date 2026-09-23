@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PrincessEricka",
-    "world": "AREA",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:45:39.328Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hafari",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:46:23.380Z"
-  },
-  {
     "player1": "PrincessEricka",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-23T09:50:25.833Z"
+  },
+  {
+    "player1": "jmbt48",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 31510,
+    "price_wl": 31510,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:51:25.679Z"
+  },
+  {
+    "player1": "PrincessEricka",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 195,
+    "p_name": "World Locks",
+    "p_count": 585,
+    "price_wl": 585,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:51:25.688Z"
   }
 ]
