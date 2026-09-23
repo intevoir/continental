@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PrincessEricka",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:46:23.416Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PrincessEricka",
     "world": "AREA",
@@ -128,5 +115,18 @@
     "price_wl": 585,
     "traded_with": null,
     "timestamp": "2026-09-23T09:51:25.688Z"
+  },
+  {
+    "player1": "BangGelap",
+    "player2": "Renting Station",
+    "world": "TOKO",
+    "action": "RENT",
+    "item_name": "Zenitsu Agatsuma",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:52:42.773Z"
   }
 ]
