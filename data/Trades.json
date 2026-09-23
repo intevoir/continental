@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FinEko",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T21:43:33.141Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MrFinan",
-    "world": "PG",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T21:43:41.512Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kuek",
     "world": "FREEBFGDNASU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-23T21:54:28.144Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BOREN",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-23T21:54:57.465Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zanza",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Thermonuclear Blast",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-23T21:55:23.624Z"
   }
 ]
