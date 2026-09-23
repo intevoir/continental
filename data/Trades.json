@@ -1,32 +1,6 @@
 [
   {
     "player1": "Yudisium",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 5200,
-    "price_wl": 5200,
-    "traded_with": null,
-    "timestamp": "2026-09-23T00:23:20.248Z"
-  },
-  {
-    "player1": "rafaelsianturi",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-23T00:25:12.649Z"
-  },
-  {
-    "player1": "Yudisium",
     "player2": "Renting Station",
     "world": "NODEAL",
     "action": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 920,
     "traded_with": null,
     "timestamp": "2026-09-23T00:29:15.130Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PEMUDALAMA01",
+    "world": "YOKKF20",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 920,
+    "price_wl": 920,
+    "traded_with": null,
+    "timestamp": "2026-09-23T00:30:14.802Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrTipsky",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T00:30:14.810Z"
   }
 ]
