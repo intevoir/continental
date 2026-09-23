@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FungCPS",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:50:21.174Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JokiFUAD2",
-    "world": "BFGBOTOM",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:50:23.743Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JokiFUAD2",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-09-23T18:59:05.234Z"
+  },
+  {
+    "player1": "demonzcps",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-09-23T19:00:24.667Z"
+  },
+  {
+    "player1": "demonzcps",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5200,
+    "price_wl": 5200,
+    "traded_with": null,
+    "timestamp": "2026-09-23T19:00:36.676Z"
   }
 ]
