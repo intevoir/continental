@@ -2,19 +2,6 @@
   {
     "player1": "Tyaraw",
     "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-23T23:42:01.545Z"
-  },
-  {
-    "player1": "Tyaraw",
-    "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
     "item_name": "D Battery",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-23T23:46:31.547Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gzryz",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-23T23:50:05.977Z"
   }
 ]
