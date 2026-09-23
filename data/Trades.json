@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "999",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-09-23T03:47:18.467Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCcyn",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 6240,
-    "price_wl": 6240,
-    "traded_with": null,
-    "timestamp": "2026-09-23T03:47:26.582Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Mamaneri []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-23T03:53:21.683Z"
+  },
+  {
+    "player1": "DrSeime",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-23T03:54:21.771Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zaen",
+    "world": "STORES",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-23T03:54:21.793Z"
   }
 ]
