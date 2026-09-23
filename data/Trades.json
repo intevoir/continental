@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PrincessEricka",
-    "world": "AREA",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:44:22.393Z"
-  },
-  {
     "player1": "PrincessEricka",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 390,
     "traded_with": null,
     "timestamp": "2026-09-23T09:47:47.083Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRikoFF123",
+    "world": "WORKERS",
+    "action": "BUY",
+    "item_name": "Telephone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:48:23.904Z"
   }
 ]
