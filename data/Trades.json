@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Rawy",
-    "world": "7V",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 27000,
-    "price_wl": 27000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T06:09:35.685Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rawy",
-    "world": "7V",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 209,
-    "p_name": "World Locks",
-    "p_count": 22990,
-    "price_wl": 22990,
-    "traded_with": null,
-    "timestamp": "2026-09-23T06:09:35.693Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@HighRank",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 644,
     "traded_with": null,
     "timestamp": "2026-09-23T06:11:17.539Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 142,
+    "price_wl": 142,
+    "traded_with": null,
+    "timestamp": "2026-09-23T06:11:25.684Z"
+  },
+  {
+    "player1": "PrincessEricka",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10400,
+    "price_wl": 10400,
+    "traded_with": null,
+    "timestamp": "2026-09-23T06:11:36.366Z"
   }
 ]
