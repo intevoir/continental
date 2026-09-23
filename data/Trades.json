@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zulfiroy",
-    "world": "SUMMER",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 135,
-    "p_name": "World Locks",
-    "p_count": 135,
-    "price_wl": 135,
-    "traded_with": null,
-    "timestamp": "2026-09-23T17:30:26.381Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "zulfiroy",
-    "world": "SUMMER",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-23T17:31:03.030Z"
-  },
-  {
     "player1": "DrMbox [ELITE]",
     "player2": "Renting Station",
     "world": "COOKIE",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "WhiteRose",
     "timestamp": "2026-09-23T17:33:25.733Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PUTUT",
+    "world": "K62",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T17:33:57.313Z"
+  },
+  {
+    "player1": "zulfiroy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 24000,
+    "price_wl": 24000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T17:33:57.336Z"
   }
 ]
