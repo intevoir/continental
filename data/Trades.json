@@ -4,32 +4,6 @@
     "player2": "BUIJIK",
     "world": "OUTFIT",
     "action": "BUY",
-    "item_name": "Black Burning Eyes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:55:31.097Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Botom",
-    "world": "BFGOF",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-09-23T18:56:03.693Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BUIJIK",
-    "world": "OUTFIT",
-    "action": "BUY",
     "item_name": "Curly Hair",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-23T19:04:07.438Z"
+  },
+  {
+    "player1": "DrXenita",
+    "player2": "Yrbae",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Yrbae",
+    "timestamp": "2026-09-23T19:05:08.536Z"
+  },
+  {
+    "player1": "Yrbae",
+    "player2": "DrXenita",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrXenita",
+    "timestamp": "2026-09-23T19:05:08.537Z"
   }
 ]
