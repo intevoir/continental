@@ -4,32 +4,6 @@
     "player2": "VEDDSHOP",
     "world": "SHOPP",
     "action": "BUY",
-    "item_name": "Heartcastle Gate",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-23T11:44:47.808Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOPP",
-    "action": "BUY",
-    "item_name": "Aqua Cave Crystal",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-23T11:44:56.841Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOPP",
-    "action": "BUY",
     "item_name": "Purple Cave Crystal",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "stxt",
     "timestamp": "2026-09-23T11:46:53.599Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jackpot",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-09-23T11:49:12.733Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jackpot",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-23T11:49:20.848Z"
   }
 ]
