@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Sxoozy",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-23T16:35:45.006Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BiscuitTenshi",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-23T16:36:44.306Z"
+  },
+  {
+    "player1": "BrokenHearts",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-23T16:36:56.991Z"
   }
 ]
