@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZEMAH",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:58:14.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZEMAH",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-23T20:58:18.454Z"
-  },
-  {
     "player1": "DrixGT",
     "player2": "Renting Station",
     "world": "VERIF",
@@ -128,5 +102,31 @@
     "price_wl": 172500,
     "traded_with": null,
     "timestamp": "2026-09-23T21:08:27.214Z"
+  },
+  {
+    "player1": "FinEko",
+    "player2": "Yrbae",
+    "world": "BUYBLOKS",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Yrbae",
+    "timestamp": "2026-09-23T21:09:19.634Z"
+  },
+  {
+    "player1": "Yrbae",
+    "player2": "FinEko",
+    "world": "BUYBLOKS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 31,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "FinEko",
+    "timestamp": "2026-09-23T21:09:19.635Z"
   }
 ]
