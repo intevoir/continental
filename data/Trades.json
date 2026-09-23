@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "IceCrown",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Blue Laser Scimitar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T07:08:53.797Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FlashDuck",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-23T07:13:55.691Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PoliceMan",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 23000,
+    "price_wl": 23000,
+    "traded_with": null,
+    "timestamp": "2026-09-23T07:15:08.120Z"
   }
 ]
