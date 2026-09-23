@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Knnz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-23T22:19:00.255Z"
-  },
-  {
     "player1": "Fozn",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-23T22:27:40.598Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-23T22:28:33.423Z"
   }
 ]
