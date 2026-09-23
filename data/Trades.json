@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PrincessEricka",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:47:35.870Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PrincessEricka",
     "world": "AREA",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-23T09:55:42.536Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArthaSTORE",
+    "world": "BASI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:57:44.309Z"
   }
 ]
