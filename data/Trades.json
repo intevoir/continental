@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Bacang",
-    "world": "BUYCHEM",
-    "action": "BUY",
-    "item_name": "Mysterious Chemical",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-23T17:10:48.203Z"
-  },
-  {
     "player1": "ORDERs",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 14600,
     "traded_with": null,
     "timestamp": "2026-09-23T17:18:41.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "3ghz",
+    "world": "ZB",
+    "action": "BUY",
+    "item_name": "Wings of Deepest Winter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-23T17:19:15.359Z"
   }
 ]
