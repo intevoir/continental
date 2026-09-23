@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-23T16:47:57.533Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "iyemin",
     "world": "CIO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-23T16:49:31.145Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iyemin",
+    "world": "CIO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-23T16:49:34.818Z"
   }
 ]
