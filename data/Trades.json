@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "wxl",
-    "world": "FARMER",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-23T22:07:28.146Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wxl",
-    "world": "FARMER",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 136,
-    "p_name": "World Locks",
-    "p_count": 952,
-    "price_wl": 952,
-    "traded_with": null,
-    "timestamp": "2026-09-23T22:08:43.275Z"
-  },
-  {
     "player1": "Fozn",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12060,
     "traded_with": null,
     "timestamp": "2026-09-23T22:20:32.025Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-09-23T22:21:45.023Z"
+  },
+  {
+    "player1": "DixiPen",
+    "player2": "Buying Machine",
+    "world": "TRADING",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 16500,
+    "price_wl": 16500,
+    "traded_with": null,
+    "timestamp": "2026-09-23T22:21:58.786Z"
   }
 ]
