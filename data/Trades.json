@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DUPPING",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-09-23T16:17:14.679Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DUPPING",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-09-23T16:17:34.510Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NIELLR",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 760,
     "traded_with": null,
     "timestamp": "2026-09-23T16:19:18.626Z"
+  },
+  {
+    "player1": "kobar",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-23T16:20:16.804Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Minzly",
+    "world": "DNU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-23T16:20:41.173Z"
   }
 ]
