@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "burtyfr",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-23T07:28:30.025Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LeonCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-23T07:29:53.338Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "burtyfr",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Guardian Pineapple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-23T07:30:22.606Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PoliceMan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 23000,
-    "price_wl": 23000,
-    "traded_with": null,
-    "timestamp": "2026-09-23T07:30:45.719Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "senatun",
     "world": "BIRI",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-23T07:32:24.043Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "senatun",
+    "world": "BIRI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-23T07:32:39.920Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "REVIOS",
+    "world": "PWTS",
+    "action": "TRADE",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "REVIOS",
+    "timestamp": "2026-09-23T07:32:44.664Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "REVIOS",
+    "world": "PWTS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "REVIOS",
+    "timestamp": "2026-09-23T07:32:44.665Z"
+  },
+  {
+    "player1": "REVIOS",
+    "player2": "SAMURAIN",
+    "world": "PWTS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 71,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SAMURAIN",
+    "timestamp": "2026-09-23T07:32:44.665Z"
   }
 ]
