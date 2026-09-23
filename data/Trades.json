@@ -1,31 +1,5 @@
 [
   {
-    "player1": "SiAlau",
-    "player2": "Renting Station",
-    "world": "BFGIRVIN",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:41:25.533Z"
-  },
-  {
-    "player1": "PrincessEricka",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-23T09:42:12.925Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PrincessEricka",
     "world": "AREA",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-23T09:44:50.878Z"
+  },
+  {
+    "player1": "PrincessEricka",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:45:27.313Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PrincessEricka",
+    "world": "AREA",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-23T09:45:39.328Z"
   }
 ]
