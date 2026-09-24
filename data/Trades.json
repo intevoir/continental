@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FazhaAnakBaik",
-    "world": "BUYVENT",
-    "action": "BUY",
-    "item_name": "Air Vent",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:46:42.280Z"
-  },
-  {
     "player1": "tangankanan",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "AbuStore of Legend [] []",
     "timestamp": "2026-09-24T16:48:42.292Z"
+  },
+  {
+    "player1": "VEDDSHOP",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:48:54.337Z"
   }
 ]
