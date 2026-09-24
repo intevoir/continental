@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ShinyGrib",
-    "world": "HUL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:32:52.201Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrAthen",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-24T16:35:27.206Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FanLily",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Da Vinci Wings",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:35:58.653Z"
   }
 ]
