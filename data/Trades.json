@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@fhira",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Kembar's Thunder Anime Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 535,
-    "price_wl": 535,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:19:26.557Z"
-  },
-  {
-    "player1": "@fhira",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Kembar's CPS WearPack",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 535,
-    "price_wl": 535,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:19:30.325Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrCcyn",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-24T06:24:33.574Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mitsuki",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Stained Glass",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T06:25:34.209Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GilzzKunnn",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 21000,
+    "price_wl": 21000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T06:25:44.657Z"
   }
 ]
