@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@BoothGT []",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Beach Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:30:21.507Z"
-  },
-  {
     "player1": "pewtopia",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 645,
     "traded_with": null,
     "timestamp": "2026-09-24T06:36:30.583Z"
+  },
+  {
+    "player1": "WlyssZ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T06:38:22.836Z"
   }
 ]
