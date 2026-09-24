@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LeoCare",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:46:33.530Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Caths",
     "world": "SHOPCP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-24T09:48:10.856Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caths",
+    "world": "SHOPCP",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:48:49.320Z"
   }
 ]
