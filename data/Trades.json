@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DixiPen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-24T14:30:46.038Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DixiPen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-09-24T14:30:46.063Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Noixe",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 66000,
     "traded_with": null,
     "timestamp": "2026-09-24T14:33:47.666Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Bernan [$$$LUXURY$$$]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-09-24T14:34:57.778Z"
+  },
+  {
+    "player1": "Kasanz",
+    "player2": "Buying Machine",
+    "world": "MIN5DLS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T14:35:17.887Z"
   }
 ]
