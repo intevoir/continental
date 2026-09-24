@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrPRIORITY",
-    "world": "FOOD",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-24T14:27:12.238Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RealB2",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-24T14:29:09.062Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB2",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 520,
+    "price_wl": 520,
+    "traded_with": null,
+    "timestamp": "2026-09-24T14:30:00.393Z"
   }
 ]
