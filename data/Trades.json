@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VeteranREME",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-24T05:45:13.475Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HENGKER",
     "world": "FARMER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-24T05:48:05.392Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Dragon Gate",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-24T05:49:32.973Z"
   }
 ]
