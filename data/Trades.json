@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "999",
-    "world": "BUYH",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-24T15:43:25.294Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Donpaxue",
     "world": "SEEDS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 714,
     "traded_with": null,
     "timestamp": "2026-09-24T15:44:23.341Z"
+  },
+  {
+    "player1": "BEBEKkont",
+    "player2": "Buying Machine",
+    "world": "MIN5DLS",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T15:45:02.754Z"
   }
 ]
