@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JEMBUTGATAL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-24T17:14:26.960Z"
-  },
-  {
     "player1": "DrYunShan",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 430,
     "traded_with": null,
     "timestamp": "2026-09-24T17:16:53.631Z"
+  },
+  {
+    "player1": "DrKESH",
+    "player2": "Buying Machine",
+    "world": "B1S",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 330000,
+    "price_wl": 330000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T17:18:23.286Z"
   }
 ]
