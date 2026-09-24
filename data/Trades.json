@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCarlots",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 99,
-    "price_wl": 99,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:06:10.592Z"
-  },
-  {
-    "player1": "yorend",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:06:12.525Z"
-  },
-  {
     "player1": "yorend",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-09-24T16:07:07.586Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Knnz",
+    "world": "3DX",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:07:42.538Z"
+  },
+  {
+    "player1": "T4lha",
+    "player2": "Renting Station",
+    "world": "BFG20K",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:07:42.545Z"
   }
 ]
