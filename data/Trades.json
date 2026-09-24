@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Grey Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-24T04:46:05.478Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "YXTUYTIM",
     "world": "SHOPFAIL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5200,
     "traded_with": null,
     "timestamp": "2026-09-24T04:48:19.221Z"
+  },
+  {
+    "player1": "BoisClub",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 38,
+    "price_wl": 38,
+    "traded_with": null,
+    "timestamp": "2026-09-24T04:48:47.951Z"
   }
 ]
