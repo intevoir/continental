@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "YXTUYTIM",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 5200,
-    "price_wl": 5200,
-    "traded_with": null,
-    "timestamp": "2026-09-24T04:48:19.221Z"
-  },
-  {
-    "player1": "BoisClub",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 38,
-    "price_wl": 38,
-    "traded_with": null,
-    "timestamp": "2026-09-24T04:48:47.951Z"
-  },
-  {
     "player1": "BoisClub",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 9890,
     "traded_with": null,
     "timestamp": "2026-09-24T04:50:07.970Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zaen",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-24T04:50:45.029Z"
+  },
+  {
+    "player1": "Naturu",
+    "player2": "Renting Station",
+    "world": "NODEAL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-24T04:50:48.484Z"
   }
 ]
