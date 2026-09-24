@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fazzcor",
-    "world": "DNU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-24T15:52:04.498Z"
-  },
-  {
-    "player1": "LeonCPS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1400,
-    "price_wl": 1400,
-    "traded_with": null,
-    "timestamp": "2026-09-24T15:52:30.111Z"
-  },
-  {
     "player1": "LeonCPS",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-24T15:55:30.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LeonCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Space Cat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-24T15:55:50.210Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "N3on",
+    "world": "RELA",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 204,
+    "p_name": "World Locks",
+    "p_count": 68,
+    "price_wl": 68,
+    "traded_with": null,
+    "timestamp": "2026-09-24T15:55:59.463Z"
   }
 ]
