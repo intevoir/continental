@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Retriever",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 52,
-    "p_name": "World Locks",
-    "p_count": 156,
-    "price_wl": 156,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:30:23.892Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "alibakar",
-    "world": "LPASAR",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 111,
-    "p_name": "World Locks",
-    "p_count": 222,
-    "price_wl": 222,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:30:23.901Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@fhira",
     "world": "SABER",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 390,
     "traded_with": null,
     "timestamp": "2026-09-24T09:32:29.665Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:33:30.321Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zemonxd",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:33:30.332Z"
   }
 ]
