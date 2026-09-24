@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HENGKER",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 31050,
-    "price_wl": 31050,
-    "traded_with": null,
-    "timestamp": "2026-09-24T05:42:03.164Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrCcyn",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-24T05:45:09.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VeteranREME",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-24T05:45:13.475Z"
   }
 ]
