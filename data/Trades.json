@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "MARTZ",
-    "action": "BUY",
-    "item_name": "Picket Fence",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:37:47.720Z"
-  },
-  {
-    "player1": "peyow",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:38:03.043Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MissAdit",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 33,
     "traded_with": null,
     "timestamp": "2026-09-24T13:46:58.112Z"
+  },
+  {
+    "player1": "@WinterStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 68,
+    "p_name": "World Locks",
+    "p_count": 46988,
+    "price_wl": 46988,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:47:26.413Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yondayy",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:47:26.423Z"
   }
 ]
