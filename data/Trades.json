@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "batins []",
-    "world": "FGEIGER",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-09-24T08:30:57.532Z"
-  },
-  {
     "player1": "risadrys",
     "player2": "Buying Machine",
     "world": "BOREN",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-24T08:32:02.249Z"
+  },
+  {
+    "player1": "Zurch",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-24T08:32:57.824Z"
   }
 ]
