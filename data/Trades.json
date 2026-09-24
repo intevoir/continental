@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HadiPTHT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Screen Door",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:32:52.192Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ShinyGrib",
     "world": "HUL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21900,
     "traded_with": null,
     "timestamp": "2026-09-24T16:34:53.699Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Crown of Winter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:35:27.206Z"
   }
 ]
