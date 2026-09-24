@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@6MAL",
-    "world": "BUYPRINCESS",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:06:42.658Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PlayaAtre_192",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:06:42.663Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Baphor",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7200,
     "traded_with": null,
     "timestamp": "2026-09-24T16:11:44.748Z"
+  },
+  {
+    "player1": "RiiSukaBgl",
+    "player2": "Renting Station",
+    "world": "DESBY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17255,
+    "price_wl": 17255,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:14:24.727Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:14:49.202Z"
   }
 ]
