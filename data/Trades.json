@@ -1,44 +1,5 @@
 [
   {
-    "player1": "AbuStore of Legend [] []",
-    "player2": "LoyTobatJudi",
-    "world": "BESTBFG",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 3,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "LoyTobatJudi",
-    "timestamp": "2026-09-24T16:48:42.292Z"
-  },
-  {
-    "player1": "LoyTobatJudi",
-    "player2": "AbuStore of Legend [] []",
-    "world": "BESTBFG",
-    "action": "TRADE",
-    "item_name": "Hellfire Horns - Black",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "AbuStore of Legend [] []",
-    "timestamp": "2026-09-24T16:48:42.292Z"
-  },
-  {
-    "player1": "VEDDSHOP",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-24T16:48:54.337Z"
-  },
-  {
     "player1": "NixxCaw",
     "player2": "Renting Station",
     "world": "PG",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-24T16:51:42.478Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NixxCaw",
+    "world": "BFGIOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-24T16:51:47.231Z"
+  },
+  {
+    "player1": "Jackpot [RICH] [] [$$$LUXURY$$$] [] [RAWR]",
+    "player2": "Dr4Foor",
+    "world": "XXX",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr4Foor",
+    "timestamp": "2026-09-24T16:52:04.470Z"
+  },
+  {
+    "player1": "Dr4Foor",
+    "player2": "Jackpot [RICH] [] [$$$LUXURY$$$] [] [RAWR]",
+    "world": "XXX",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Jackpot [RICH] [] [$$$LUXURY$$$] [] [RAWR]",
+    "timestamp": "2026-09-24T16:52:04.470Z"
   }
 ]
