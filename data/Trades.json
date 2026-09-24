@@ -1,44 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:11:16.815Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:11:16.823Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-24T09:11:16.844Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Caths",
     "world": "TOMATOOO",
@@ -128,5 +89,44 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-24T09:13:17.693Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caths",
+    "world": "TOMATOOO",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:13:49.201Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKUXAK",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:14:18.521Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Caths",
+    "world": "TOMATOOO",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T09:14:18.537Z"
   }
 ]
