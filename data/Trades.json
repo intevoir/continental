@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "MARTZ",
-    "action": "BUY",
-    "item_name": "Screen Door",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:02:08.986Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "MARTZ",
-    "action": "BUY",
-    "item_name": "Barn Door",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:02:26.370Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SirD",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-24T13:05:39.139Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mitsuzanee",
+    "world": "BFGNG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:06:19.247Z"
+  },
+  {
+    "player1": "NessFX",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 90,
+    "p_name": "World Locks",
+    "p_count": 62100,
+    "price_wl": 62100,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:06:34.189Z"
   }
 ]
