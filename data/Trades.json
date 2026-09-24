@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zanza",
-    "world": "BFGP",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-24T01:26:31.269Z"
-  },
-  {
     "player1": "xcva",
     "player2": "Buying Machine",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-09-24T01:31:24.819Z"
+  },
+  {
+    "player1": "zanza",
+    "player2": "Renting Station",
+    "world": "BFGFIX",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 71,
+    "price_wl": 71,
+    "traded_with": null,
+    "timestamp": "2026-09-24T01:31:48.296Z"
   }
 ]
