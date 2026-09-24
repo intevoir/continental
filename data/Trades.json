@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-24T12:20:06.837Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrixGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-24T12:20:11.548Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrixGT",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 106,
     "traded_with": null,
     "timestamp": "2026-09-24T12:22:11.626Z"
+  },
+  {
+    "player1": "ManyolL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-24T12:22:47.213Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lutfiali",
+    "world": "MAHAL",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 56,
+    "p_name": "World Locks",
+    "p_count": 392,
+    "price_wl": 392,
+    "traded_with": null,
+    "timestamp": "2026-09-24T12:22:47.231Z"
   }
 ]
