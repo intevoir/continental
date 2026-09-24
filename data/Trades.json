@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fanbmet",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 26,
-    "p_name": "World Locks",
-    "p_count": 26,
-    "price_wl": 26,
-    "traded_with": null,
-    "timestamp": "2026-09-24T18:19:34.207Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Hutabarat",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 68,
     "traded_with": null,
     "timestamp": "2026-09-24T18:22:23.988Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fanbmet",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-24T18:23:24.029Z"
   }
 ]
