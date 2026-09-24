@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "MARTZ",
-    "action": "BUY",
-    "item_name": "Number Block 0",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:01:08.899Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TolakMBG",
-    "world": "UMINO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 172500,
-    "price_wl": 172500,
-    "traded_with": null,
-    "timestamp": "2026-09-24T13:01:12.624Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "slebewaja",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-09-24T13:04:38.384Z"
+  },
+  {
+    "player1": "Akenoos",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:05:10.456Z"
+  },
+  {
+    "player1": "Drruds",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-24T13:05:10.470Z"
   }
 ]
