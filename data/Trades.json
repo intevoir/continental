@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-24T08:44:16.510Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kobar",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-24T08:48:25.112Z"
+  },
+  {
+    "player1": "misja",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-09-24T08:49:30.466Z"
   }
 ]
