@@ -4,19 +4,6 @@
     "player2": "ghanati",
     "world": "BFGEYE",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-24T14:10:46.345Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ghanati",
-    "world": "BFGEYE",
-    "action": "BUY",
     "item_name": "Lucky Clover",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-24T14:13:27.922Z"
+  },
+  {
+    "player1": "kakaroto",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-24T14:13:51.485Z"
   }
 ]
