@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JEMBUTGATAL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 6910,
-    "price_wl": 6910,
-    "traded_with": null,
-    "timestamp": "2026-09-24T17:41:27.847Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JEMBUTGATAL",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 3800000,
     "traded_with": null,
     "timestamp": "2026-09-24T17:43:02.659Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BandarBokep",
+    "world": "CHEAPA",
+    "action": "BUY",
+    "item_name": "Hedge",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-24T17:43:26.861Z"
   }
 ]
