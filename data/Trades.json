@@ -1,44 +1,5 @@
 [
   {
-    "player1": "pewtopia",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:30:35.382Z"
-  },
-  {
-    "player1": "DrPRIORITY",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:31:21.255Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 169,
-    "p_name": "World Locks",
-    "p_count": 16900,
-    "price_wl": 16900,
-    "traded_with": null,
-    "timestamp": "2026-09-24T06:32:21.431Z"
-  },
-  {
     "player1": "fzal",
     "player2": "Renting Station",
     "world": "GOKU67",
@@ -128,5 +89,44 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-09-24T06:38:22.836Z"
+  },
+  {
+    "player1": "Nuansa",
+    "player2": "kakaroto",
+    "world": "SNGP1",
+    "action": "TRADE",
+    "item_name": "CreativePS World Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "kakaroto",
+    "timestamp": "2026-09-24T06:44:33.443Z"
+  },
+  {
+    "player1": "Nuansa",
+    "player2": "kakaroto",
+    "world": "SNGP1",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 16,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "kakaroto",
+    "timestamp": "2026-09-24T06:44:33.448Z"
+  },
+  {
+    "player1": "kakaroto",
+    "player2": "Nuansa",
+    "world": "SNGP1",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Nuansa",
+    "timestamp": "2026-09-24T06:44:33.448Z"
   }
 ]
