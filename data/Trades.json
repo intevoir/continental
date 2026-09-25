@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCcyn",
-    "world": "VENDP",
-    "action": "BUY",
-    "item_name": "Dark Purple Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-25T18:19:27.372Z"
-  },
-  {
     "player1": "Flex",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-25T18:24:38.946Z"
+  },
+  {
+    "player1": "Alip029",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-09-25T18:28:26.140Z"
   }
 ]
