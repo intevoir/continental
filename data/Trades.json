@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-09-25T07:14:51.053Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-25T07:15:32.964Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kapanof",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-25T07:15:32.990Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "POLO",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 34500,
     "traded_with": null,
     "timestamp": "2026-09-25T07:16:53.478Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POLO",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 31250,
+    "price_wl": 31250,
+    "traded_with": null,
+    "timestamp": "2026-09-25T07:17:32.013Z"
+  },
+  {
+    "player1": "POLO",
+    "player2": "Buying Machine",
+    "world": "MAGPLANT50",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 143,
+    "p_name": "World Locks",
+    "p_count": 21450,
+    "price_wl": 21450,
+    "traded_with": null,
+    "timestamp": "2026-09-25T07:17:32.026Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cleafee",
+    "world": "SELLVENDS",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 1760,
+    "price_wl": 1760,
+    "traded_with": null,
+    "timestamp": "2026-09-25T07:17:42.818Z"
   }
 ]
