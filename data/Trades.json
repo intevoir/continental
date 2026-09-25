@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-25T12:00:12.592Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PekerjaRajin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T12:00:16.609Z"
-  },
-  {
     "player1": "PekerjaRajin",
     "player2": "Buying Machine",
     "world": "BFGZAI",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-09-25T12:01:18.014Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PekerjaRajin",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T12:01:30.630Z"
+  },
+  {
+    "player1": "PekerjaRajin",
+    "player2": "Buying Machine",
+    "world": "BFGZAI",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-25T12:01:56.270Z"
   }
 ]
