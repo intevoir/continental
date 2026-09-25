@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "batins",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 390,
-    "price_wl": 390,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:27:13.729Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@fhira",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 1170,
-    "price_wl": 1170,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:27:40.773Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "COOLBGL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-25T11:28:44.715Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "0reOfLegend",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Nuke",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:29:00.336Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:29:06.046Z"
   }
 ]
