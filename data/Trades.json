@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Gungnir",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-25T09:30:01.740Z"
-  },
-  {
     "player1": "MyLordHand",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-25T09:33:52.862Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jaeha",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-25T09:34:54.102Z"
   }
 ]
