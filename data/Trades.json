@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrNusa",
-    "world": "LPUR",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 2107,
-    "price_wl": 2107,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:52:50.966Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrNusa",
-    "world": "LPUR",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 58,
-    "p_name": "World Locks",
-    "p_count": 348,
-    "price_wl": 348,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:52:50.975Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sakuch1",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-25T11:54:52.939Z"
+  },
+  {
+    "player1": "PekerjaRajin",
+    "player2": "Buying Machine",
+    "world": "BFGZAI",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:55:11.516Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PekerjaRajin",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:55:24.889Z"
   }
 ]
