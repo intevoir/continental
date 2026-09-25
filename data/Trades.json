@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HBSY",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-25T17:05:33.274Z"
-  },
-  {
     "player1": "DrOtongBaik",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 42000,
     "traded_with": null,
     "timestamp": "2026-09-25T17:11:36.552Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OwnerSOKIE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-25T17:12:07.996Z"
   }
 ]
