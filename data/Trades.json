@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Knnz",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 680,
-    "price_wl": 680,
-    "traded_with": null,
-    "timestamp": "2026-09-25T05:36:06.758Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Cleafee",
     "world": "SELLVENDS",
@@ -128,5 +115,18 @@
     "price_wl": 295,
     "traded_with": null,
     "timestamp": "2026-09-25T05:38:03.112Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ApplePieTenshi",
+    "world": "BUYKU",
+    "action": "BUY",
+    "item_name": "Ultraviolet Charm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-25T05:38:48.097Z"
   }
 ]
