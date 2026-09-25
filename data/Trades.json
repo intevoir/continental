@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fahrimanu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 130,
-    "price_wl": 130,
-    "traded_with": null,
-    "timestamp": "2026-09-25T04:49:47.330Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "wendyldf",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 348,
     "traded_with": null,
     "timestamp": "2026-09-25T04:51:22.952Z"
+  },
+  {
+    "player1": "millgoo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 2673,
+    "price_wl": 2673,
+    "traded_with": null,
+    "timestamp": "2026-09-25T04:52:35.367Z"
   }
 ]
