@@ -1,18 +1,5 @@
 [
   {
-    "player1": "millgoo",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-25T04:47:37.083Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "wendyldf",
     "world": "ALFAMART",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-25T04:49:22.174Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fahrimanu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 130,
+    "price_wl": 130,
+    "traded_with": null,
+    "timestamp": "2026-09-25T04:49:47.330Z"
   }
 ]
