@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Knnz",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-25T17:04:08.426Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HBSY",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-25T17:05:53.403Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingTEMBAK",
+    "world": "KKN",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-25T17:06:37.800Z"
   }
 ]
