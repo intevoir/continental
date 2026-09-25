@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RAXGenss",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-25T14:17:37.551Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BFGSIZE",
     "world": "BGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-09-25T14:19:42.819Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kaisou",
+    "world": "SHOP80",
+    "action": "BUY",
+    "item_name": "Hedge",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-25T14:20:39.396Z"
   }
 ]
