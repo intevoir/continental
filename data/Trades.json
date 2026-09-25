@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-25T07:20:33.936Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "stvnzky",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 35000,
-    "price_wl": 35000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T07:20:33.946Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cleafee",
     "world": "KIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-25T07:21:35.685Z"
+  },
+  {
+    "player1": "Retriever",
+    "player2": "Buying Machine",
+    "world": "MAGPLANT50",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-09-25T07:21:53.832Z"
+  },
+  {
+    "player1": "stvnzky",
+    "player2": "Buying Machine",
+    "world": "MAGPLANT50",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 83,
+    "p_name": "World Locks",
+    "p_count": 12450,
+    "price_wl": 12450,
+    "traded_with": null,
+    "timestamp": "2026-09-25T07:21:57.894Z"
   }
 ]
