@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KAU []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "GrowScan 9000",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-09-25T01:12:50.250Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zyenno",
     "world": "BFGNOT",
@@ -128,5 +115,18 @@
     "price_wl": 630,
     "traded_with": null,
     "timestamp": "2026-09-25T01:16:05.844Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ivaxx",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 17400,
+    "price_wl": 17400,
+    "traded_with": null,
+    "timestamp": "2026-09-25T01:16:49.010Z"
   }
 ]
