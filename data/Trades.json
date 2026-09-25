@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JustHamsir",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-25T06:54:19.487Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GHIIS",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T06:54:27.020Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vanimek",
     "world": "SABTU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "force",
     "timestamp": "2026-09-25T06:56:19.623Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GHIIS",
+    "world": "BUYDONATE",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-25T06:56:26.965Z"
+  },
+  {
+    "player1": "BrokenHearts",
+    "player2": "Buying Machine",
+    "world": "BFGDNA00",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 702,
+    "price_wl": 702,
+    "traded_with": null,
+    "timestamp": "2026-09-25T06:56:53.928Z"
   }
 ]
