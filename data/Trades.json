@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "wendyldf",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-25T04:50:22.957Z"
-  },
-  {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-25T04:50:22.965Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Reyuu1",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2673,
     "traded_with": null,
     "timestamp": "2026-09-25T04:52:35.367Z"
+  },
+  {
+    "player1": "GLHYX",
+    "player2": "Xilan",
+    "world": "WMW",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Xilan",
+    "timestamp": "2026-09-25T04:53:52.480Z"
+  },
+  {
+    "player1": "Xilan",
+    "player2": "GLHYX",
+    "world": "WMW",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 25,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GLHYX",
+    "timestamp": "2026-09-25T04:53:52.480Z"
   }
 ]
