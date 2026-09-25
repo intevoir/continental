@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jaeha",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-25T09:49:59.644Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jaeha",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 28,
-    "price_wl": 28,
-    "traded_with": null,
-    "timestamp": "2026-09-25T09:49:59.684Z"
-  },
-  {
     "player1": "jakimao",
     "player2": "Buying Machine",
     "world": "BUYBLOKS",
@@ -128,5 +102,31 @@
     "price_wl": 162500,
     "traded_with": null,
     "timestamp": "2026-09-25T09:51:59.661Z"
+  },
+  {
+    "player1": "RDI",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 680,
+    "price_wl": 680,
+    "traded_with": null,
+    "timestamp": "2026-09-25T09:52:08.360Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POLO",
+    "world": "GROWMART",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 166,
+    "p_name": "World Locks",
+    "p_count": 19920,
+    "price_wl": 19920,
+    "traded_with": null,
+    "timestamp": "2026-09-25T09:52:32.698Z"
   }
 ]
