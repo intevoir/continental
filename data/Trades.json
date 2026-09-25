@@ -1,18 +1,5 @@
 [
   {
-    "player1": "TolakMBG",
-    "player2": "Buying Machine",
-    "world": "BFG20K",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 69,
-    "p_name": "World Locks",
-    "p_count": 414,
-    "price_wl": 414,
-    "traded_with": null,
-    "timestamp": "2026-09-25T05:06:30.724Z"
-  },
-  {
     "player1": "Rdooh",
     "player2": "Renting Station",
     "world": "NODEAL",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-09-25T05:12:04.872Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kaidaps",
+    "world": "SELLVENDS",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 660,
+    "price_wl": 660,
+    "traded_with": null,
+    "timestamp": "2026-09-25T05:12:44.210Z"
   }
 ]
