@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BFGSIZE",
-    "world": "BGER",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 1820,
-    "price_wl": 1820,
-    "traded_with": null,
-    "timestamp": "2026-09-25T14:18:08.293Z"
-  },
-  {
-    "player1": "andrywijaya123",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-25T14:18:12.382Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAXGenss",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-09-25T14:21:09.990Z"
+  },
+  {
+    "player1": "BFGSIZE",
+    "player2": "Buying Machine",
+    "world": "SIHICC",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 2560,
+    "price_wl": 2560,
+    "traded_with": null,
+    "timestamp": "2026-09-25T14:22:10.896Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BoisClub",
+    "world": "HUL",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-25T14:22:10.905Z"
   }
 ]
