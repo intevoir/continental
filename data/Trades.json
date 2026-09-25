@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KatedYE",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 640,
-    "price_wl": 640,
-    "traded_with": null,
-    "timestamp": "2026-09-25T10:04:18.796Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OppanAja",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-25T10:07:21.882Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bagusvolt2",
+    "world": "VENDP",
+    "action": "BUY",
+    "item_name": "Bulletin Board",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-25T10:08:28.579Z"
   }
 ]
