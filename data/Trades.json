@@ -1,18 +1,5 @@
 [
   {
-    "player1": "whenyh [SUPER]",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:10:48.410Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Citraku",
     "world": "SONGP",
@@ -128,5 +115,18 @@
     "price_wl": 1380,
     "traded_with": null,
     "timestamp": "2026-09-25T11:15:09.761Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrHansenMaxWin",
+    "world": "BUYSHADES",
+    "action": "BUY",
+    "item_name": "Heart Glasses",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:15:46.208Z"
   }
 ]
