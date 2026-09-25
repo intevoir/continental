@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Gerald [PRO ] [$$$LUXURY$$$]",
-    "world": "BUYFEATHERED",
-    "action": "BUY",
-    "item_name": "Feathered Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T13:45:25.925Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Cleafee",
-    "world": "UMINO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 690,
-    "price_wl": 690,
-    "traded_with": null,
-    "timestamp": "2026-09-25T13:45:57.614Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "O2H",
     "world": "BFGADVAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-09-25T13:48:58.158Z"
+  },
+  {
+    "player1": "kordek2",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-25T13:51:03.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bhere",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Sniper Rifle",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-25T13:51:26.582Z"
   }
 ]
