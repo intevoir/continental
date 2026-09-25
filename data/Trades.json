@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrOtongBaik",
-    "player2": "DUPPING",
-    "world": "WEP",
-    "action": "TRADE",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DUPPING",
-    "timestamp": "2026-09-25T16:15:36.493Z"
-  },
-  {
-    "player1": "DrOtongBaik",
-    "player2": "DUPPING",
-    "world": "WEP",
-    "action": "TRADE",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DUPPING",
-    "timestamp": "2026-09-25T16:15:36.493Z"
-  },
-  {
     "player1": "DUPPING",
     "player2": "DrOtongBaik",
     "world": "WEP",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-25T16:17:29.753Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JeldyAnakAyam",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Bunny Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-25T16:18:16.216Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PieGar_187",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-25T16:18:27.280Z"
   }
 ]
