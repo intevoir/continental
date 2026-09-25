@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ejeY",
-    "player2": "Buying Machine",
-    "world": "SIHICC",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-09-25T14:30:32.479Z"
-  },
-  {
     "player1": "Kaisou",
     "player2": "Renting Station",
     "world": "HYBAR",
@@ -128,5 +115,18 @@
     "price_wl": 166600,
     "traded_with": null,
     "timestamp": "2026-09-25T14:32:14.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CrobialXR",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-25T14:32:42.107Z"
   }
 ]
