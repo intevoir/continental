@@ -1,31 +1,5 @@
 [
   {
-    "player1": "lepor",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T16:32:47.815Z"
-  },
-  {
-    "player1": "SelaluNT",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-25T16:33:28.235Z"
-  },
-  {
     "player1": "Nuansa",
     "player2": "Ynn",
     "world": "BFGBETTER",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-25T16:37:21.122Z"
+  },
+  {
+    "player1": "Walid of Legend",
+    "player2": "@Mamaneri []",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 37,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Mamaneri []",
+    "timestamp": "2026-09-25T16:37:40.988Z"
+  },
+  {
+    "player1": "@Mamaneri []",
+    "player2": "Walid of Legend",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Walid of Legend",
+    "timestamp": "2026-09-25T16:37:40.988Z"
   }
 ]
