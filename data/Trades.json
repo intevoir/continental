@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Skycold",
-    "player2": "Buying Machine",
-    "world": "BFGPOSEIDON",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-09-25T12:15:06.855Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrALi",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-25T12:16:37.052Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrALi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T12:17:06.979Z"
   }
 ]
