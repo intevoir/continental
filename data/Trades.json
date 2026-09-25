@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CrobialXR",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-25T15:25:01.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BFGSIZE",
-    "world": "BFGSIZE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 1610,
-    "price_wl": 1610,
-    "traded_with": null,
-    "timestamp": "2026-09-25T15:25:05.069Z"
-  },
-  {
     "player1": "1k4n",
     "player2": "Buying Machine",
     "world": "BLOCK",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-09-25T15:25:49.675Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RQryan",
+    "world": "SOPBUY",
+    "action": "BUY",
+    "item_name": "Telephone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-09-25T15:27:07.851Z"
+  },
+  {
+    "player1": "DABO",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-09-25T15:27:33.873Z"
   }
 ]
