@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BrokenHearts",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-25T06:46:14.488Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "rimek",
     "world": "BELI",
@@ -128,5 +115,18 @@
     "price_wl": 1850,
     "traded_with": null,
     "timestamp": "2026-09-25T06:47:38.045Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Clohtes",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 72,
+    "price_wl": 72,
+    "traded_with": null,
+    "timestamp": "2026-09-25T06:48:43.425Z"
   }
 ]
