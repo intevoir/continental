@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OppanAja",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 6250,
-    "price_wl": 6250,
-    "traded_with": null,
-    "timestamp": "2026-09-25T10:17:16.597Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NEXTREME",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 24850,
-    "price_wl": 24850,
-    "traded_with": null,
-    "timestamp": "2026-09-25T10:17:16.607Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drbcx",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 210,
     "traded_with": null,
     "timestamp": "2026-09-25T10:28:14.031Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Isayaak",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 28000,
+    "price_wl": 28000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T10:28:32.478Z"
+  },
+  {
+    "player1": "@Isayaak",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-25T10:28:36.488Z"
   }
 ]
