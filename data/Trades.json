@@ -5,32 +5,6 @@
     "world": "FARMER",
     "action": "SELL",
     "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-25T08:46:03.414Z"
-  },
-  {
-    "player1": "BrokenHearts",
-    "player2": "Buying Machine",
-    "world": "STC",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 232,
-    "p_name": "World Locks",
-    "p_count": 27376,
-    "price_wl": 27376,
-    "traded_with": null,
-    "timestamp": "2026-09-25T08:46:03.424Z"
-  },
-  {
-    "player1": "kakaroto",
-    "player2": "Buying Machine",
-    "world": "FARMER",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
     "item_count": 143,
     "p_name": "World Locks",
     "p_count": 429,
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-25T08:47:54.219Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LeonCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-25T08:48:05.309Z"
+  },
+  {
+    "player1": "Drdoang",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-25T08:48:05.317Z"
   }
 ]
