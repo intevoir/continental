@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Gussti",
-    "world": "KKN",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-09-25T09:16:44.520Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fadlu",
-    "world": "KKN",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 43,
-    "p_name": "World Locks",
-    "p_count": 30100,
-    "price_wl": 30100,
-    "traded_with": null,
-    "timestamp": "2026-09-25T09:16:44.533Z"
-  },
-  {
     "player1": "ArsadNescafe",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 23100,
     "traded_with": null,
     "timestamp": "2026-09-25T09:19:17.416Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArsadNescafe",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-25T09:19:49.276Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JAPOTA",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-09-25T09:19:49.289Z"
   }
 ]
