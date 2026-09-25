@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HammerKnuck_187",
-    "world": "SGPY",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-25T16:23:15.766Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PAADANG",
     "world": "ALFAMART",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3900000,
     "traded_with": null,
     "timestamp": "2026-09-25T16:25:25.628Z"
+  },
+  {
+    "player1": "Knnz",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-25T16:27:18.095Z"
   }
 ]
