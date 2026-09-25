@@ -1,31 +1,5 @@
 [
   {
-    "player1": "PekerjaRajin",
-    "player2": "Buying Machine",
-    "world": "BFGZAI",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:58:11.626Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BAMBANG233",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-25T11:58:11.630Z"
-  },
-  {
     "player1": "natas",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-25T11:59:07.575Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hisazu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:59:56.292Z"
+  },
+  {
+    "player1": "DarTws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-09-25T11:59:56.301Z"
   }
 ]
