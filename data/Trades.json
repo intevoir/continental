@@ -1,57 +1,5 @@
 [
   {
-    "player1": "VinoIceCup",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 41,
-    "p_name": "World Locks",
-    "p_count": 82,
-    "price_wl": 82,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:22:29.436Z"
-  },
-  {
-    "player1": "VinoIceCup",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:22:46.061Z"
-  },
-  {
-    "player1": "VinoIceCup",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 245,
-    "price_wl": 245,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:22:53.690Z"
-  },
-  {
-    "player1": "RTX5090",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:23:45.975Z"
-  },
-  {
     "player1": "GTX1650",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-09-26T16:25:51.769Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RETAS",
+    "world": "BUYPATH",
+    "action": "BUY",
+    "item_name": "Path Marker",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-26T16:26:30.921Z"
+  },
+  {
+    "player1": "ONDO",
+    "player2": "BabunyaCurseGT",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Black ATM Machine",
+    "item_count": 8,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BabunyaCurseGT",
+    "timestamp": "2026-09-26T16:26:35.802Z"
+  },
+  {
+    "player1": "BabunyaCurseGT",
+    "player2": "ONDO",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 92,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ONDO",
+    "timestamp": "2026-09-26T16:26:35.802Z"
+  },
+  {
+    "player1": "BabunyaCurseGT",
+    "player2": "ONDO",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ONDO",
+    "timestamp": "2026-09-26T16:26:35.802Z"
   }
 ]
