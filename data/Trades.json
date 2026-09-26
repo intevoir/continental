@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 385,
-    "price_wl": 385,
-    "traded_with": null,
-    "timestamp": "2026-09-26T06:05:39.953Z"
-  },
-  {
-    "player1": "Alip029",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 26,
-    "price_wl": 26,
-    "traded_with": null,
-    "timestamp": "2026-09-26T06:05:47.599Z"
-  },
-  {
-    "player1": "Alip029",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
     "item_name": "Black Crystal",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-09-26T06:06:44.231Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Alip029",
+    "world": "RENTCOOL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T06:07:35.984Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TheRises",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500250,
+    "price_wl": 500250,
+    "traded_with": null,
+    "timestamp": "2026-09-26T06:07:36.019Z"
   }
 ]
