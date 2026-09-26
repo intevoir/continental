@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ToothCream_579",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-26T05:04:10.034Z"
-  },
-  {
-    "player1": "ToothCream_579",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-09-26T05:04:10.043Z"
-  },
-  {
     "player1": "GiiBee",
     "player2": "Alvan",
     "world": "GBI",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-09-26T05:09:11.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Alvan",
+    "world": "GIBUU",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4600,
+    "price_wl": 4600,
+    "traded_with": null,
+    "timestamp": "2026-09-26T05:10:35.623Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PallangRS",
+    "world": "SSO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T05:10:35.648Z"
   }
 ]
