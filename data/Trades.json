@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Elc",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-26T14:41:00.530Z"
-  },
-  {
-    "player1": "HarryPotter of Legend",
-    "player2": "HER",
-    "world": "ITEM",
-    "action": "TRADE",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "HER",
-    "timestamp": "2026-09-26T14:41:00.583Z"
-  },
-  {
     "player1": "HER",
     "player2": "HarryPotter of Legend",
     "world": "ITEM",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-09-26T14:42:34.776Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lmahjong1",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-09-26T14:48:07.880Z"
+  },
+  {
+    "player1": "FazhaAnakBaik",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2760,
+    "price_wl": 2760,
+    "traded_with": null,
+    "timestamp": "2026-09-26T14:48:07.922Z"
   }
 ]
