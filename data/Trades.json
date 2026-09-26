@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "RARVN",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 134,
-    "p_name": "World Locks",
-    "p_count": 93800,
-    "price_wl": 93800,
-    "traded_with": null,
-    "timestamp": "2026-09-26T07:25:27.369Z"
-  },
-  {
-    "player1": "DrDeboy",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T07:25:27.375Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TolakMBG",
     "world": "BFG20K",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-26T07:27:10.335Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PUTUT",
+    "world": "BUYBLOKS",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 6480,
+    "price_wl": 6480,
+    "traded_with": null,
+    "timestamp": "2026-09-26T07:28:13.296Z"
+  },
+  {
+    "player1": "PUTUT",
+    "player2": "Buying Machine",
+    "world": "BUYBLOKS",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-26T07:28:29.162Z"
   }
 ]
