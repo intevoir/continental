@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-09-26T19:16:11.568Z"
-  },
-  {
-    "player1": "Znfersir",
-    "player2": "Renting Station",
-    "world": "FARMER",
-    "action": "RENT",
-    "item_name": "Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T19:16:49.234Z"
-  },
-  {
     "player1": "Znfersir",
     "player2": "Renting Station",
     "world": "FARMER",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-26T19:18:14.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CrobialXR",
+    "world": "LPASAR",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-26T19:18:51.170Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ChillSyzy",
+    "world": "VENDD",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-26T19:18:51.184Z"
   }
 ]
