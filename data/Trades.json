@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Doujinn",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-09-26T05:32:33.966Z"
-  },
-  {
     "player1": "HadiPTHT",
     "player2": "Renting Station",
     "world": "ROAMX",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-09-26T05:36:24.444Z"
+  },
+  {
+    "player1": "Yudisium",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T05:37:25.234Z"
   }
 ]
