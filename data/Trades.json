@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bototob",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-09-26T13:16:45.486Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrGGKN",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Radioactive Chemical",
-    "item_count": 27,
-    "p_name": "World Locks",
-    "p_count": 1080,
-    "price_wl": 1080,
-    "traded_with": null,
-    "timestamp": "2026-09-26T13:17:24.291Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@KENTMAUKAYA",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-26T13:23:30.147Z"
+  },
+  {
+    "player1": "DrMRSTARK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-09-26T13:23:59.585Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Urben",
+    "world": "MZIF",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-26T13:23:59.595Z"
   }
 ]
