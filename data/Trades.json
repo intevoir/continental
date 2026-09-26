@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PallangRS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2720,
-    "price_wl": 2720,
-    "traded_with": null,
-    "timestamp": "2026-09-26T00:40:39.189Z"
-  },
-  {
     "player1": "@Hanura",
     "player2": "Renting Station",
     "world": "8X8",
@@ -115,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-09-26T00:46:43.122Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stns",
+    "world": "SHOPPP",
+    "action": "BUY",
+    "item_name": "Northern Lights Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-26T00:47:13.220Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stns",
+    "world": "SHOPPP",
+    "action": "BUY",
+    "item_name": "Pineapple Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-26T00:47:35.535Z"
   }
 ]
