@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PalPadhil",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Surg-E",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-26T21:33:50.133Z"
-  },
-  {
     "player1": "Muadzay",
     "player2": "Buying Machine",
     "world": "FREEBFGSKY",
@@ -128,5 +115,18 @@
     "price_wl": 40000,
     "traded_with": null,
     "timestamp": "2026-09-26T21:38:43.942Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hika",
+    "world": "E4T",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T21:38:50.976Z"
   }
 ]
