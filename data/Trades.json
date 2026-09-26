@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "COOLBGL",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-26T09:30:08.933Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Litejoy",
-    "world": "DISKON",
-    "action": "BUY",
-    "item_name": "Money Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-26T09:30:08.953Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Litejoy",
     "world": "DISKON",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-09-26T09:32:47.191Z"
+  },
+  {
+    "player1": "FazhaAnakBaik",
+    "player2": "Buying Machine",
+    "world": "SIHICC",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-26T09:34:18.812Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Litejoy",
+    "world": "DISKON",
+    "action": "BUY",
+    "item_name": "Dreamcatcher Staff",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-26T09:34:18.821Z"
   }
 ]
