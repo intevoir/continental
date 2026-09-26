@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@YrkoV2",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Green Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T17:59:12.435Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@YrkoV2",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Red Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T17:59:15.814Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LIENO",
     "world": "HEMAT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-26T18:02:36.176Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Deudi []",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Silk Tie - Grey",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T18:03:20.069Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CIKOCI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-09-26T18:03:35.027Z"
   }
 ]
