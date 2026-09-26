@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Leem",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Brown Wallpaper",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-26T21:53:43.671Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BingBaengBong",
     "world": "LPASAR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-26T21:59:45.321Z"
+  },
+  {
+    "player1": "Beative",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-09-26T22:00:58.352Z"
   }
 ]
