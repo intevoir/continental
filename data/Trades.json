@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Velmora",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Air Robinsons",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:57:04.846Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FinEko",
-    "world": "SUOMIGUILD",
-    "action": "BUY",
-    "item_name": "Country Cape: Finland",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T16:57:11.979Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrPeyyow",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-26T16:59:13.941Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakuchi",
+    "world": "SPKGBC",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T16:59:49.085Z"
+  },
+  {
+    "player1": "XHU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 72500,
+    "price_wl": 72500,
+    "traded_with": null,
+    "timestamp": "2026-09-26T17:00:17.376Z"
   }
 ]
