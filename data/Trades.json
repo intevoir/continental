@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tadung46",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Northern Lights Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-26T10:44:10.395Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LucyDemon",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 280,
     "traded_with": null,
     "timestamp": "2026-09-26T10:47:25.481Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tadung46",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Royal Furious Eye",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-26T10:48:17.333Z"
   }
 ]
