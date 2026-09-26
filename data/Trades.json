@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PAPILIV",
-    "player2": "Renting Station",
-    "world": "FREEBFGDNASU",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T22:41:35.287Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ONDO",
     "world": "FARMER",
@@ -128,5 +115,18 @@
     "price_wl": 14000,
     "traded_with": null,
     "timestamp": "2026-09-26T22:54:06.734Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JejeLampruy",
+    "world": "FREEBFGDNASU",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-09-26T22:54:42.844Z"
   }
 ]
