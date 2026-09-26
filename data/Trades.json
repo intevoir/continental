@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kurunanalt2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7200,
-    "price_wl": 7200,
-    "traded_with": null,
-    "timestamp": "2026-09-26T12:01:22.154Z"
-  },
-  {
-    "player1": "PrincessEricka",
-    "player2": "Renting Station",
-    "world": "BFGFIX",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 71,
-    "price_wl": 71,
-    "traded_with": null,
-    "timestamp": "2026-09-26T12:02:02.122Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PalPadhil",
     "world": "RAJABFG",
     "action": "BUY",
@@ -115,5 +89,44 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-09-26T12:08:26.481Z"
+  },
+  {
+    "player1": "@Vorax",
+    "player2": "@BoothGT []",
+    "world": "AULA",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@BoothGT []",
+    "timestamp": "2026-09-26T12:09:58.162Z"
+  },
+  {
+    "player1": "@BoothGT []",
+    "player2": "@Vorax",
+    "world": "AULA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Vorax",
+    "timestamp": "2026-09-26T12:09:58.164Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Barragan",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-26T12:10:02.490Z"
   }
 ]
