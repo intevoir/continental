@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Parahamat",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-26T09:03:24.888Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Parahamat",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-26T09:03:24.911Z"
-  },
-  {
     "player1": "DrKUXAK",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1375,
     "traded_with": null,
     "timestamp": "2026-09-26T09:04:56.437Z"
+  },
+  {
+    "player1": "DrRegans",
+    "player2": "DrUraiDhy",
+    "world": "OUTFIT",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrUraiDhy",
+    "timestamp": "2026-09-26T09:05:26.747Z"
+  },
+  {
+    "player1": "DrUraiDhy",
+    "player2": "DrRegans",
+    "world": "OUTFIT",
+    "action": "TRADE",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRegans",
+    "timestamp": "2026-09-26T09:05:26.748Z"
   }
 ]
