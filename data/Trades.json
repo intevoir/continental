@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "aliz",
-    "world": "MAMI",
-    "action": "BUY",
-    "item_name": "Fuizi's Intergalactic Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-26T23:35:03.957Z"
-  },
-  {
-    "player1": "VSH",
-    "player2": "Buying Machine",
-    "world": "CYNOBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 46240,
-    "price_wl": 46240,
-    "traded_with": null,
-    "timestamp": "2026-09-26T23:35:59.707Z"
-  },
-  {
     "player1": "itsrafaboys",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-26T23:38:28.922Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VSH",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-26T23:39:00.941Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "aliz",
+    "world": "MAMI",
+    "action": "BUY",
+    "item_name": "Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-26T23:39:19.777Z"
   }
 ]
