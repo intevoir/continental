@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Febvry",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Weather Machine - St. Paddy's Day",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-26T02:02:14.095Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MegumiStore",
     "world": "ZUT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-26T02:07:33.837Z"
+  },
+  {
+    "player1": "GrumpyCR",
+    "player2": "Buying Machine",
+    "world": "BUTUHMEGA",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 1242,
+    "price_wl": 1242,
+    "traded_with": null,
+    "timestamp": "2026-09-26T02:08:04.581Z"
   }
 ]
