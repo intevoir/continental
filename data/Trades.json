@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 55,
-    "p_name": "World Locks",
-    "p_count": 7150,
-    "price_wl": 7150,
-    "traded_with": null,
-    "timestamp": "2026-09-26T06:57:02.464Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 44,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-26T06:59:55.379Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ElMachooCB",
+    "world": "PG",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-26T07:00:55.529Z"
   }
 ]
