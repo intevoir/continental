@@ -4,19 +4,6 @@
     "player2": "@Leem",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Iron Bars",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-26T21:30:57.699Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Leem",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Nobleman's House Door",
     "item_count": 15,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-09-26T21:37:15.133Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Leem",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 195,
+    "p_name": "World Locks",
+    "p_count": 13,
+    "price_wl": 13,
+    "traded_with": null,
+    "timestamp": "2026-09-26T21:37:42.802Z"
   }
 ]
