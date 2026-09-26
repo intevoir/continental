@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Queee",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-26T06:23:08.726Z"
-  },
-  {
     "player1": "Elsora",
     "player2": "Renting Station",
     "world": "MADIRENT",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-26T06:26:10.800Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "FREE",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-26T06:27:47.644Z"
   }
 ]
