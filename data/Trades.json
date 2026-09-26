@@ -1,18 +1,5 @@
 [
   {
-    "player1": "fhhf",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9500,
-    "price_wl": 9500,
-    "traded_with": null,
-    "timestamp": "2026-09-26T12:48:14.050Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zelosantos",
     "world": "BFGEX",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-09-26T12:51:17.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "cerbecus",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Rift Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-26T12:52:19.285Z"
   }
 ]
