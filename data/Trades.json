@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrSedanTUA",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Golden Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-09-27T09:53:13.973Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrBaratts",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-27T09:55:46.938Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyenno",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3650,
+    "price_wl": 3650,
+    "traded_with": null,
+    "timestamp": "2026-09-27T09:56:16.363Z"
   }
 ]
