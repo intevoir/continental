@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Rakaa121",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-27T15:44:09.095Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Terabaikan",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-09-27T15:46:18.250Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GarudaXRupiah",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 160,
+    "p_name": "World Locks",
+    "p_count": 640,
+    "price_wl": 640,
+    "traded_with": null,
+    "timestamp": "2026-09-27T15:46:51.811Z"
   }
 ]
