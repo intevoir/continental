@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrGGKN",
-    "player2": "Buying Machine",
-    "world": "MOLDRED",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 1440,
-    "price_wl": 1440,
-    "traded_with": null,
-    "timestamp": "2026-09-27T15:49:53.357Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrOsmora",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-27T15:51:57.521Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArenGT",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Mystic Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-27T15:52:54.240Z"
   }
 ]
