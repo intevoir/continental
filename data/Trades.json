@@ -4,19 +4,6 @@
     "player2": "Mitsuki",
     "world": "PLAZA",
     "action": "BUY",
-    "item_name": "Chandelier",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-27T08:53:26.589Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitsuki",
-    "world": "PLAZA",
-    "action": "BUY",
     "item_name": "Mannequin",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 18000,
     "traded_with": null,
     "timestamp": "2026-09-27T08:59:59.821Z"
+  },
+  {
+    "player1": "GOIN",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-27T09:01:16.903Z"
   }
 ]
