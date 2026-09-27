@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Citraku",
-    "world": "BUYFOODS",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 190,
-    "p_name": "World Locks",
-    "p_count": 380,
-    "price_wl": 380,
-    "traded_with": null,
-    "timestamp": "2026-09-27T07:52:04.403Z"
-  },
-  {
     "player1": "Gahtak",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-27T07:55:21.839Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7950,
+    "price_wl": 7950,
+    "traded_with": null,
+    "timestamp": "2026-09-27T07:55:40.540Z"
   }
 ]
