@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tiniz []",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-27T08:32:41.581Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KeMealMin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-09-27T08:32:53.064Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RNG",
     "world": "CUAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17160,
     "traded_with": null,
     "timestamp": "2026-09-27T08:33:51.360Z"
+  },
+  {
+    "player1": "XENNOT",
+    "player2": "Renting Station",
+    "world": "CROT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-27T08:34:25.671Z"
+  },
+  {
+    "player1": "ITiara",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2010,
+    "price_wl": 2010,
+    "traded_with": null,
+    "timestamp": "2026-09-27T08:34:42.633Z"
   }
 ]
