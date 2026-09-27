@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ChillSyzy",
-    "player2": "Andras",
-    "world": "FREEBFG0",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Andras",
-    "timestamp": "2026-09-27T17:22:35.685Z"
-  },
-  {
-    "player1": "Andras",
-    "player2": "ChillSyzy",
-    "world": "FREEBFG0",
-    "action": "TRADE",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ChillSyzy",
-    "timestamp": "2026-09-27T17:22:35.685Z"
-  },
-  {
     "player1": "TolakMBG",
     "player2": "Renting Station",
     "world": "FARMDNA",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-27T17:29:38.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MassFer",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-27T17:32:11.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MassFer",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2600,
+    "price_wl": 2600,
+    "traded_with": null,
+    "timestamp": "2026-09-27T17:32:39.488Z"
   }
 ]
