@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AZKY",
-    "world": "YAQA",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-09-27T02:43:06.101Z"
-  },
-  {
-    "player1": "XYZENDS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-09-27T02:43:06.118Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "YOUDONTLOVEME",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-27T02:45:41.159Z"
+  },
+  {
+    "player1": "CUREN",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 440,
+    "price_wl": 440,
+    "traded_with": null,
+    "timestamp": "2026-09-27T02:46:16.239Z"
+  },
+  {
+    "player1": "CUREN",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 96,
+    "price_wl": 96,
+    "traded_with": null,
+    "timestamp": "2026-09-27T02:46:26.452Z"
   }
 ]
