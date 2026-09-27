@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "findingcienn",
-    "world": "TOBAKU",
-    "action": "BUY",
-    "item_name": "Angel Wings",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-09-27T18:09:53.844Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZenPablo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-27T18:10:14.273Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZenPablo",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-09-27T18:12:54.569Z"
+  },
+  {
+    "player1": "Beative",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 810,
+    "price_wl": 810,
+    "traded_with": null,
+    "timestamp": "2026-09-27T18:13:55.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZenPablo",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Firehouse",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-27T18:13:55.440Z"
   }
 ]
