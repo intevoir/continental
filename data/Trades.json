@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-27T02:37:26.787Z"
-  },
-  {
     "player1": "Gungnir",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-09-27T02:39:25.081Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XYZENDS",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Seed of Life",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-27T02:39:37.498Z"
   }
 ]
