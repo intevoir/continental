@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TonyJK",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 8400,
-    "price_wl": 8400,
-    "traded_with": null,
-    "timestamp": "2026-09-27T02:05:50.234Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "carbreng",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-09-27T02:05:50.250Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "carbreng",
     "world": "ARROZMARKET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 720,
     "traded_with": null,
     "timestamp": "2026-09-27T02:08:51.818Z"
+  },
+  {
+    "player1": "MacDemarcoo",
+    "player2": "Buying Machine",
+    "world": "PASARAN",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-09-27T02:09:52.557Z"
+  },
+  {
+    "player1": "MacDemarcoo",
+    "player2": "Buying Machine",
+    "world": "PASARAN",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-09-27T02:09:56.273Z"
   }
 ]
