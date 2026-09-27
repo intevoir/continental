@@ -1,18 +1,5 @@
 [
   {
-    "player1": "latips",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-27T06:41:48.509Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Adslow []",
     "world": "FREEBFGDNASU",
@@ -128,5 +115,18 @@
     "price_wl": 924,
     "traded_with": null,
     "timestamp": "2026-09-27T06:48:38.145Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMeius",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-27T06:49:41.007Z"
   }
 ]
