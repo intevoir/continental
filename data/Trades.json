@@ -1,44 +1,5 @@
 [
   {
-    "player1": "X1BET99",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-27T06:37:50.169Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Velmora",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 16000,
-    "price_wl": 16000,
-    "traded_with": null,
-    "timestamp": "2026-09-27T06:38:32.776Z"
-  },
-  {
-    "player1": "TopGusss",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-27T06:39:11.903Z"
-  },
-  {
     "player1": "ciloks",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-27T06:41:30.753Z"
+  },
+  {
+    "player1": "ZEWOX",
+    "player2": "DrElfomosa",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Giantify",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrElfomosa",
+    "timestamp": "2026-09-27T06:41:41.427Z"
+  },
+  {
+    "player1": "DrElfomosa",
+    "player2": "ZEWOX",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Troll Face #1",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ZEWOX",
+    "timestamp": "2026-09-27T06:41:41.428Z"
+  },
+  {
+    "player1": "latips",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-09-27T06:41:48.509Z"
   }
 ]
