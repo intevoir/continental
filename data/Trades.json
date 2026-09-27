@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Nusa",
-    "player2": "Buying Machine",
-    "world": "ZAH",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 56700,
-    "price_wl": 56700,
-    "traded_with": null,
-    "timestamp": "2026-09-27T04:55:48.405Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HaiVan",
     "world": "BFGWE",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-09-27T04:59:30.378Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Adslow",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "American Sports Ball Jersey",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-09-27T04:59:41.710Z"
   }
 ]
