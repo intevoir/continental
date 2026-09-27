@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ArrangGT",
-    "world": "GVEZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-27T20:15:46.012Z"
-  },
-  {
     "player1": "ciloks",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-27T20:34:04.699Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ciloks",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 910,
+    "price_wl": 910,
+    "traded_with": null,
+    "timestamp": "2026-09-27T20:34:43.431Z"
   }
 ]
