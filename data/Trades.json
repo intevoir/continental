@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@GANG",
-    "player2": "FxD",
-    "world": "GANGSURG",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 40,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "FxD",
-    "timestamp": "2026-09-27T14:18:31.734Z"
-  },
-  {
     "player1": "FxD",
     "player2": "@GANG",
     "world": "GANGSURG",
@@ -128,5 +115,18 @@
     "price_wl": 18000,
     "traded_with": null,
     "timestamp": "2026-09-27T14:20:32.404Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Febvry",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13600,
+    "price_wl": 13600,
+    "traded_with": null,
+    "timestamp": "2026-09-27T14:20:58.746Z"
   }
 ]
