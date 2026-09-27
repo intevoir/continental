@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VID",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-27T08:06:10.672Z"
-  },
-  {
     "player1": "8JKS",
     "player2": "Buying Machine",
     "world": "MOLDRED",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-09-27T08:07:10.455Z"
+  },
+  {
+    "player1": "8JKS",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-27T08:07:25.865Z"
   }
 ]
