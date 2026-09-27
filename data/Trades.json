@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrNFC",
-    "world": "DISKON",
-    "action": "BUY",
-    "item_name": "Silk Vest - Purple",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-09-27T15:23:46.858Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZEWOX",
     "world": "PAKAIAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-09-27T15:25:48.382Z"
+  },
+  {
+    "player1": "DrMySalman",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-27T15:26:13.477Z"
   }
 ]
