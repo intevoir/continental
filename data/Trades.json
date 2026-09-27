@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP1",
-    "action": "BUY",
-    "item_name": "Shop Sign",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-27T00:32:20.284Z"
-  },
-  {
     "player1": "Demiiz",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-09-27T00:38:28.088Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Beative",
+    "world": "AGE",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-27T00:39:46.194Z"
   }
 ]
