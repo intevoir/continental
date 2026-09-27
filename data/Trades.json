@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCaptFin",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-09-27T17:52:08.487Z"
-  },
-  {
     "player1": "ugj",
     "player2": "Renting Station",
     "world": "SONG1",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-27T17:55:17.296Z"
+  },
+  {
+    "player1": "jorhaha",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 98,
+    "price_wl": 98,
+    "traded_with": null,
+    "timestamp": "2026-09-27T17:55:47.123Z"
   }
 ]
