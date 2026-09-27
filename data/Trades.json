@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ciloks",
-    "world": "BFGU",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 34,
-    "p_name": "World Locks",
-    "p_count": 34,
-    "price_wl": 34,
-    "traded_with": null,
-    "timestamp": "2026-09-27T20:29:04.162Z"
-  },
-  {
     "player1": "Muadzay",
     "player2": "Buying Machine",
     "world": "SABTU",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-09-27T20:41:43.310Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nerissa",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-27T20:43:37.227Z"
   }
 ]
