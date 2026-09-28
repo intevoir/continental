@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jaeha",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Danieldd's Chimera Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:21:14.366Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Elc",
     "world": "BELANJAAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-09-28T01:24:12.060Z"
+  },
+  {
+    "player1": "R1M",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:25:01.104Z"
   }
 ]
