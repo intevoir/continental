@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FreakingBeach",
-    "world": "BFGYRO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:10:49.776Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "HSP",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:10:49.800Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XyrF",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:11:22.904Z"
-  },
-  {
     "player1": "ariws",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-28T15:12:50.078Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ariws",
+    "world": "HSP",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:13:24.163Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:13:37.258Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ariws",
+    "world": "HSP",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:13:49.172Z"
   }
 ]
