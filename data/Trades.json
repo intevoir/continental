@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LIENO",
-    "world": "8X8",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-28T04:37:39.954Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "didyouknowhead",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T04:37:52.060Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "didyouknowhead",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 210000,
     "traded_with": null,
     "timestamp": "2026-09-28T04:43:12.564Z"
+  },
+  {
+    "player1": "DyFox",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 24480,
+    "price_wl": 24480,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:43:49.370Z"
+  },
+  {
+    "player1": "orbreng",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:44:17.409Z"
   }
 ]
