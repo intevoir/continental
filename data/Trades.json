@@ -1,18 +1,5 @@
 [
   {
-    "player1": "R1M",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:06:54.269Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Dextraxt",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-28T01:16:09.051Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kizi",
+    "world": "BUYDELUXE",
+    "action": "BUY",
+    "item_name": "Deluxe Grow Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:17:12.346Z"
   }
 ]
