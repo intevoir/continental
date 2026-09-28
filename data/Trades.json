@@ -1,44 +1,5 @@
 [
   {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:12:50.078Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "HSP",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:13:24.163Z"
-  },
-  {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:13:37.258Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ariws",
     "world": "HSP",
@@ -128,5 +89,44 @@
     "price_wl": 106,
     "traded_with": null,
     "timestamp": "2026-09-28T15:15:59.941Z"
+  },
+  {
+    "player1": "VSH",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:16:25.638Z"
+  },
+  {
+    "player1": "VSH",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:16:25.652Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gracesia",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:16:46.078Z"
   }
 ]
