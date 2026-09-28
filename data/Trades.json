@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PalPadhil",
-    "world": "BFGSPK",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2100,
-    "price_wl": 2100,
-    "traded_with": null,
-    "timestamp": "2026-09-28T11:04:56.008Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrBaratts",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-28T11:07:24.334Z"
+  },
+  {
+    "player1": "KnoxCOOL",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-28T11:07:56.719Z"
   }
 ]
