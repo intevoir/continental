@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VID",
-    "world": "BENZYL",
-    "action": "BUY",
-    "item_name": "Renting Station",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:11:41.904Z"
-  },
-  {
     "player1": "ariws",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 57,
     "traded_with": null,
     "timestamp": "2026-09-28T15:14:30.103Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 114,
+    "p_name": "World Locks",
+    "p_count": 114,
+    "price_wl": 114,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:14:56.933Z"
   }
 ]
