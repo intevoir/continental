@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Yia",
-    "world": "SABER",
-    "action": "BUY",
-    "item_name": "Golden Heart Glasses",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-09-28T02:45:49.635Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Yia",
-    "world": "SABER",
-    "action": "BUY",
-    "item_name": "Golden Heart Shirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-09-28T02:45:49.647Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Suspicious",
     "world": "SELLHAPPY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 24000,
     "traded_with": null,
     "timestamp": "2026-09-28T02:46:03.243Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hisazu",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 24000,
+    "price_wl": 24000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T02:46:20.955Z"
+  },
+  {
+    "player1": "AbySukaaBgl",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-28T02:46:50.322Z"
   }
 ]
