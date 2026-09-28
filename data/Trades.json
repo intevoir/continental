@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:09:48.604Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FreakingBeach",
-    "world": "BFGYRO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-28T15:09:48.606Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VSH",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-09-28T15:10:49.800Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XyrF",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:11:22.904Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-28T15:11:22.915Z"
   }
 ]
