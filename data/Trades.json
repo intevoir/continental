@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kizi",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "TXMom's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:00:32.333Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zeta",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:00:48.770Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LeoCare",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-28T01:02:05.206Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Elc",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:02:54.288Z"
+  },
+  {
+    "player1": "R1M",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:02:54.297Z"
   }
 ]
