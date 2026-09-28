@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 108,
-    "price_wl": 108,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:35:10.120Z"
-  },
-  {
-    "player1": "802",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Game Token",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2085,
     "traded_with": null,
     "timestamp": "2026-09-28T01:42:56.316Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jaeha",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:44:25.614Z"
   }
 ]
