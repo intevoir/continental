@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Suspicious",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-28T02:57:15.765Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Suspicious",
-    "world": "KANTIN",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 155,
-    "p_name": "World Locks",
-    "p_count": 310,
-    "price_wl": 310,
-    "traded_with": null,
-    "timestamp": "2026-09-28T02:57:19.021Z"
-  },
-  {
     "player1": "DrLolly",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 14000,
     "traded_with": null,
     "timestamp": "2026-09-28T03:05:04.404Z"
+  },
+  {
+    "player1": "Mitsuzanee",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 68,
+    "p_name": "World Locks",
+    "p_count": 476,
+    "price_wl": 476,
+    "traded_with": null,
+    "timestamp": "2026-09-28T03:05:57.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Suspicious",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Heart Monitor",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-28T03:05:57.526Z"
   }
 ]
