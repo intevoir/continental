@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DanielIsaac",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Bloodveil Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-28T12:49:20.033Z"
-  },
-  {
-    "player1": "cookder",
-    "player2": "stns",
-    "world": "BLOCKMO",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 70,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "stns",
-    "timestamp": "2026-09-28T12:49:20.047Z"
-  },
-  {
     "player1": "stns",
     "player2": "cookder",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-28T12:51:21.266Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tangankanan",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-28T12:51:55.725Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDUPPING",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 55,
+    "price_wl": 55,
+    "traded_with": null,
+    "timestamp": "2026-09-28T12:52:21.514Z"
   }
 ]
