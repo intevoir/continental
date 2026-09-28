@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "FGEIGER",
     "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-28T03:54:46.490Z"
-  },
-  {
-    "player1": "Kepinthans",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-28T03:54:50.043Z"
-  },
-  {
-    "player1": "Kepinthans",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
     "item_name": "D Battery",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1240,
     "traded_with": null,
     "timestamp": "2026-09-28T03:59:25.416Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "9x6x9",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Mighty Tiger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:00:00.602Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "9x6x9",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:00:14.722Z"
   }
 ]
