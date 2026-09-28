@@ -1,18 +1,5 @@
 [
   {
-    "player1": "TwoSecond",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-28T11:12:59.969Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Mamaneri []",
     "world": "BUYBUMPER",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-28T11:16:01.604Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gracesia",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Pot O' Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-28T11:16:24.843Z"
   }
 ]
