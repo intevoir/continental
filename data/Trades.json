@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zurch",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-28T12:37:14.793Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XyrF",
-    "world": "IME",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 685,
-    "price_wl": 685,
-    "traded_with": null,
-    "timestamp": "2026-09-28T12:37:31.317Z"
-  },
-  {
     "player1": "DrDuxxy",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-28T12:40:33.344Z"
+  },
+  {
+    "player1": "nvyr",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 6700,
+    "price_wl": 6700,
+    "traded_with": null,
+    "timestamp": "2026-09-28T12:41:17.066Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMbox [ELITE]",
+    "world": "IME",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 34000,
+    "price_wl": 34000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T12:41:32.696Z"
   }
 ]
