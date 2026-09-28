@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Elc",
-    "world": "BELANJAAN",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 232,
-    "p_name": "World Locks",
-    "p_count": 116,
-    "price_wl": 116,
-    "traded_with": null,
-    "timestamp": "2026-09-28T01:21:42.953Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSUD",
     "world": "SOAM",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-28T01:25:01.104Z"
+  },
+  {
+    "player1": "PekerjaRajin",
+    "player2": "Buying Machine",
+    "world": "TYS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-09-28T01:25:43.845Z"
   }
 ]
