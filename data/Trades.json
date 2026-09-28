@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrSedanTUA",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-28T18:03:32.223Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ojakkigtps",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-09-28T18:05:33.841Z"
+  },
+  {
+    "player1": "Hisazu",
+    "player2": "Buying Machine",
+    "world": "ZAH",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350000,
+    "price_wl": 350000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T18:06:01.731Z"
   }
 ]
