@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MoraXian",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Sunset Cape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-09-28T04:24:59.343Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "plamen",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 14200,
     "traded_with": null,
     "timestamp": "2026-09-28T04:32:23.145Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stns",
+    "world": "CUAN",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 450,
+    "price_wl": 450,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:33:29.844Z"
   }
 ]
