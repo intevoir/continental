@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FungpaoCPS",
-    "world": "STORES",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 560,
-    "price_wl": 560,
-    "traded_with": null,
-    "timestamp": "2026-09-28T07:07:47.127Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Minzly",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-09-28T07:10:21.547Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DARS",
+    "world": "CBR",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-28T07:10:52.285Z"
   }
 ]
