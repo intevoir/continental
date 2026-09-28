@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "didyouknowhead",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-28T04:37:18.702Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LIENO",
     "world": "8X8",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-09-28T04:38:18.795Z"
+  },
+  {
+    "player1": "PallangRS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:38:34.379Z"
   }
 ]
