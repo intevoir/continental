@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Seleonore",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-28T19:17:00.351Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Gahtak",
     "world": "UCHEAP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-28T19:32:30.716Z"
+  },
+  {
+    "player1": "Yabbit",
+    "player2": "Buying Machine",
+    "world": "BFGREADY",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 103,
+    "p_name": "World Locks",
+    "p_count": 721,
+    "price_wl": 721,
+    "traded_with": null,
+    "timestamp": "2026-09-28T19:33:07.125Z"
   }
 ]
