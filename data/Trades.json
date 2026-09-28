@@ -1,31 +1,5 @@
 [
   {
-    "player1": "hydrexy",
-    "player2": "Buying Machine",
-    "world": "FREE",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 42,
-    "price_wl": 42,
-    "traded_with": null,
-    "timestamp": "2026-09-28T06:24:38.843Z"
-  },
-  {
-    "player1": "MasPais",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 8160,
-    "price_wl": 8160,
-    "traded_with": null,
-    "timestamp": "2026-09-28T06:24:38.857Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MasPais",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-28T06:27:09.474Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MasPais",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 47,
+    "p_name": "World Locks",
+    "p_count": 517,
+    "price_wl": 517,
+    "traded_with": null,
+    "timestamp": "2026-09-28T06:27:39.903Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "METAPLANET",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 221,
+    "p_name": "World Locks",
+    "p_count": 2652,
+    "price_wl": 2652,
+    "traded_with": null,
+    "timestamp": "2026-09-28T06:27:44.376Z"
   }
 ]
