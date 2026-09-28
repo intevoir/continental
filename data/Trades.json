@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "plamen",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Thermonuclear Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-09-28T04:08:06.813Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Andras",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-09-28T04:12:20.495Z"
+  },
+  {
+    "player1": "Terabaikan",
+    "player2": "Buying Machine",
+    "world": "LPASAR",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-09-28T04:12:54.601Z"
   }
 ]
