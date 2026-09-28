@@ -4,19 +4,6 @@
     "player2": "XYZENDS",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 165,
-    "p_name": "World Locks",
-    "p_count": 165,
-    "price_wl": 165,
-    "traded_with": null,
-    "timestamp": "2026-09-28T21:35:18.479Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XYZENDS",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Surgical Scalpel",
     "item_count": 52,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-28T21:41:21.051Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-28T21:43:01.474Z"
   }
 ]
