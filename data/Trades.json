@@ -1,44 +1,5 @@
 [
   {
-    "player1": "latips",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-28T06:44:22.257Z"
-  },
-  {
-    "player1": "latips",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-09-28T06:44:36.011Z"
-  },
-  {
-    "player1": "SAMURAIN",
-    "player2": "Queee",
-    "world": "1RRS",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Queee",
-    "timestamp": "2026-09-28T06:45:15.144Z"
-  },
-  {
     "player1": "Queee",
     "player2": "SAMURAIN",
     "world": "1RRS",
@@ -128,5 +89,44 @@
     "price_wl": 270,
     "traded_with": null,
     "timestamp": "2026-09-28T06:45:42.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PAADANG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 88,
+    "p_name": "World Locks",
+    "p_count": 880,
+    "price_wl": 880,
+    "traded_with": null,
+    "timestamp": "2026-09-28T06:46:15.389Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Queee",
+    "world": "SELLVENDS",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 1080,
+    "price_wl": 1080,
+    "traded_with": null,
+    "timestamp": "2026-09-28T06:46:15.405Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wildy",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-09-28T06:46:15.414Z"
   }
 ]
