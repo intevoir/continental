@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "yayakk",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-09-29T05:19:38.391Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DriFAX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-09-29T05:19:38.411Z"
-  },
-  {
     "player1": "adybahaya2",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-09-29T05:21:45.269Z"
+  },
+  {
+    "player1": "JandaWariaa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-09-29T05:22:23.709Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JandaWariaa",
+    "world": "SEEDS",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-09-29T05:22:41.354Z"
   }
 ]
