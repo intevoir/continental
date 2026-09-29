@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "hoys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-09-29T02:05:28.104Z"
-  },
-  {
     "player1": "ariws",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +115,18 @@
     "price_wl": 1260,
     "traded_with": null,
     "timestamp": "2026-09-29T02:11:35.878Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Citraku",
+    "world": "CITSHOP",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-09-29T02:13:43.491Z"
   }
 ]
