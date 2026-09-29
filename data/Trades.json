@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "dekanax",
-    "world": "BFGSENIN",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T04:49:06.150Z"
-  },
-  {
-    "player1": "dekanax",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14000,
-    "price_wl": 14000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T04:49:06.158Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrLutfiKun",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-09-29T04:50:24.293Z"
+  },
+  {
+    "player1": "boxboxbox",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-29T04:51:07.611Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLutfiKun",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Unicorn Jumper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-29T04:51:07.620Z"
   }
 ]
