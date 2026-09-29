@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Barrzy",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-09-29T02:59:06.683Z"
-  },
-  {
     "player1": "Alvan",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 110,
     "traded_with": null,
     "timestamp": "2026-09-29T03:00:44.926Z"
+  },
+  {
+    "player1": "Winyoo",
+    "player2": "Buying Machine",
+    "world": "BFGBTY",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-09-29T03:01:12.947Z"
   }
 ]
