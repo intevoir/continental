@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "FREEBFG0",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-29T16:09:03.558Z"
-  },
-  {
-    "player1": "miiiu7",
-    "player2": "Renting Station",
-    "world": "BFGNOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-29T16:09:07.980Z"
-  },
-  {
-    "player1": "koro20",
-    "player2": "Buying Machine",
-    "world": "FREEBFG0",
-    "action": "SELL",
     "item_name": "Red Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-09-29T16:10:53.375Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tesya",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-09-29T16:12:06.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phoxent",
+    "world": "ZAH",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 640,
+    "price_wl": 640,
+    "traded_with": null,
+    "timestamp": "2026-09-29T16:12:16.835Z"
   }
 ]
