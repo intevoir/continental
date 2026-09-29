@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Drruds",
-    "player2": "Buying Machine",
-    "world": "BFGJOHN",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 2100,
-    "price_wl": 2100,
-    "traded_with": null,
-    "timestamp": "2026-09-29T15:44:42.042Z"
-  },
-  {
-    "player1": "Polyamer1",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 140,
-    "p_name": "World Locks",
-    "p_count": 4200,
-    "price_wl": 4200,
-    "traded_with": null,
-    "timestamp": "2026-09-29T15:44:42.051Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GEONKENNEDY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-09-29T15:44:45.994Z"
-  },
-  {
     "player1": "DrCanouyy",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-29T15:46:14.184Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Glindd",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-09-29T15:46:30.011Z"
+  },
+  {
+    "player1": "Drruds",
+    "player2": "Buying Machine",
+    "world": "BFGJOHN",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 5400,
+    "price_wl": 5400,
+    "traded_with": null,
+    "timestamp": "2026-09-29T15:46:34.217Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GEONKENNEDY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-09-29T15:46:34.897Z"
   }
 ]
