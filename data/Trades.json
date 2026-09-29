@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ixoraa",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-29T13:56:32.801Z"
-  },
-  {
     "player1": "DevinaC",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-09-29T13:58:01.014Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PRICESTORE []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-29T13:58:33.625Z"
   }
 ]
