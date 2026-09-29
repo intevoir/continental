@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Alvan",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-09-29T01:21:07.370Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Alvan",
     "world": "GIBUU",
@@ -128,5 +115,18 @@
     "price_wl": 686,
     "traded_with": null,
     "timestamp": "2026-09-29T01:29:03.944Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Guwon [ELITE]",
+    "world": "BUYEGG",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-29T01:32:04.701Z"
   }
 ]
