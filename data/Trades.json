@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "SOAM",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 11025,
-    "price_wl": 11025,
-    "traded_with": null,
-    "timestamp": "2026-09-29T03:19:14.557Z"
-  },
-  {
-    "player1": "@Adiratna",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350000,
-    "price_wl": 350000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T03:19:18.952Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Adslow",
     "world": "SOAM",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-09-29T03:23:54.488Z"
+  },
+  {
+    "player1": "@Adiratna",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "TopMain's Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-09-29T03:25:11.425Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Winyoo",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Silverstar Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-29T03:25:21.680Z"
   }
 ]
