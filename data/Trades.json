@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrFreeFlre",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Challenge Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-29T14:39:52.229Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "EyesNightMare",
     "world": "TOKOC",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-29T14:41:00.289Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "EyesNightMare",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-09-29T14:41:16.399Z"
   }
 ]
