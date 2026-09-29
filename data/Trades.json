@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-09-29T02:21:28.952Z"
-  },
-  {
-    "player1": "Shikamaru",
-    "player2": "Renting Station",
-    "world": "BFGP",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-09-29T02:21:57.619Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKautsar",
     "world": "IME",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-09-29T02:38:35.571Z"
+  },
+  {
+    "player1": "DkkJo",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 1440,
+    "price_wl": 1440,
+    "traded_with": null,
+    "timestamp": "2026-09-29T02:39:35.562Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "orbreng",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-09-29T02:39:40.907Z"
   }
 ]
