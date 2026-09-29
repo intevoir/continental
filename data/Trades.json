@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@RonXcps",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T02:40:40.549Z"
-  },
-  {
     "player1": "Alvan",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-09-29T02:46:38.025Z"
+  },
+  {
+    "player1": "DkkJo",
+    "player2": "Buying Machine",
+    "world": "ANBUY",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-29T02:47:04.248Z"
   }
 ]
