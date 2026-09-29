@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Prismatix",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T03:16:11.989Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Guwon [ELITE]",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Silk Vest - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-29T03:16:51.493Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dekanax",
     "world": "BFGSENIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1845,
     "traded_with": null,
     "timestamp": "2026-09-29T03:19:53.242Z"
+  },
+  {
+    "player1": "@Adiratna",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 56,
+    "p_name": "World Locks",
+    "p_count": 112,
+    "price_wl": 112,
+    "traded_with": null,
+    "timestamp": "2026-09-29T03:21:54.603Z"
+  },
+  {
+    "player1": "@Adiratna",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Super Fireworks",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-29T03:21:54.612Z"
   }
 ]
