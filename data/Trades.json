@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DanielIsaac",
-    "world": "HUL",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 247,
-    "p_name": "World Locks",
-    "p_count": 741,
-    "price_wl": 741,
-    "traded_with": null,
-    "timestamp": "2026-09-29T11:55:32.469Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ChillSyzy",
-    "world": "FTL",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-29T11:55:32.487Z"
-  },
-  {
     "player1": "Drjda",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-29T11:57:00.591Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanielIsaac",
+    "world": "HUL",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-29T11:57:04.217Z"
+  },
+  {
+    "player1": "ReyndoTM",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-09-29T11:57:34.737Z"
   }
 ]
