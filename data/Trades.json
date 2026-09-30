@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SellBuy",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-30T05:57:33.854Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Benzyl of Legend [PRO ] [$$$LUXURY$$$] [RAWR]",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Legendary Wizard",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000000,
-    "price_wl": 1000000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T05:58:13.355Z"
-  },
-  {
     "player1": "DrTUNTAS",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-09-30T06:01:15.348Z"
+  },
+  {
+    "player1": "etuls",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 420,
+    "price_wl": 420,
+    "traded_with": null,
+    "timestamp": "2026-09-30T06:01:39.645Z"
+  },
+  {
+    "player1": "MAHJONG",
+    "player2": "Renting Station",
+    "world": "BFGW",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-30T06:01:43.493Z"
   }
 ]
