@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KkpetX",
-    "world": "PBD",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:39:50.456Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Wattled",
     "world": "BFGWE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-30T17:41:09.260Z"
+  },
+  {
+    "player1": "Wildy",
+    "player2": "Buying Machine",
+    "world": "BFGSPK",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-09-30T17:42:06.837Z"
   }
 ]
