@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Shinpotw",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-30T00:45:16.787Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Shinpotw",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-09-30T00:45:28.480Z"
-  },
-  {
     "player1": "KkpetX",
     "player2": "Buying Machine",
     "world": "MOLDRED",
@@ -128,5 +102,31 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-09-30T00:49:15.197Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KkpetX",
+    "world": "FTL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T00:49:19.551Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KkpetX",
+    "world": "FTL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-09-30T00:49:40.735Z"
   }
 ]
