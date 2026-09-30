@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Huge Lock",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:10:37.696Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "gawrguraa",
-    "world": "BFGSPK",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:10:40.983Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "gawrguraa",
     "world": "BFGSPK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2431,
     "traded_with": null,
     "timestamp": "2026-09-30T20:16:25.899Z"
+  },
+  {
+    "player1": "Drihkaz",
+    "player2": "Buying Machine",
+    "world": "NOW",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-09-30T20:20:27.727Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MiRwork",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-09-30T20:20:57.031Z"
   }
 ]
