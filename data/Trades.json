@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Prismatix",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-30T06:18:21.522Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "visn41555",
-    "world": "KKPETX",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-09-30T06:18:48.930Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Einstazur",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1495,
     "traded_with": null,
     "timestamp": "2026-09-30T06:21:21.325Z"
+  },
+  {
+    "player1": "Hika",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-09-30T06:21:40.339Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "visn41555",
+    "world": "KKPETX",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T06:21:40.354Z"
   }
 ]
