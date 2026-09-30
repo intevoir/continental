@@ -1,31 +1,5 @@
 [
   {
-    "player1": "IcePie_392",
-    "player2": "Renting Station",
-    "world": "FREEBFGDNASU",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:27:45.399Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Ziroi",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:28:14.884Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Ziroi",
     "world": "SHOPK",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-09-30T17:33:13.156Z"
+  },
+  {
+    "player1": "NINOSD",
+    "player2": "PAKANTOTISA",
+    "world": "VIJ",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "PAKANTOTISA",
+    "timestamp": "2026-09-30T17:33:47.351Z"
+  },
+  {
+    "player1": "PAKANTOTISA",
+    "player2": "NINOSD",
+    "world": "VIJ",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "NINOSD",
+    "timestamp": "2026-09-30T17:33:47.351Z"
   }
 ]
