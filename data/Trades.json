@@ -1,31 +1,5 @@
 [
   {
-    "player1": "lRafa2",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 87,
-    "p_name": "World Locks",
-    "p_count": 10005,
-    "price_wl": 10005,
-    "traded_with": null,
-    "timestamp": "2026-09-30T19:07:02.217Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "lRafa2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 340,
-    "price_wl": 340,
-    "traded_with": null,
-    "timestamp": "2026-09-30T19:07:09.539Z"
-  },
-  {
     "player1": "YAYANAKBAIK",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +102,31 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-09-30T19:08:01.722Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dheys",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-30T19:08:57.842Z"
+  },
+  {
+    "player1": "ihkaz",
+    "player2": "Buying Machine",
+    "world": "MOLDRED",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 760,
+    "price_wl": 760,
+    "traded_with": null,
+    "timestamp": "2026-09-30T19:09:22.322Z"
   }
 ]
