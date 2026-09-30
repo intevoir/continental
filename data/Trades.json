@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Akenoos",
-    "player2": "Renting Station",
-    "world": "BFGU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-09-30T11:24:26.051Z"
-  },
-  {
-    "player1": "AinStoreCPS",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-30T11:24:57.917Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "WithMeKenny",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 14400,
     "traded_with": null,
     "timestamp": "2026-09-30T11:29:27.629Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBaratts",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-09-30T11:29:39.535Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tyroxx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T11:29:50.251Z"
   }
 ]
