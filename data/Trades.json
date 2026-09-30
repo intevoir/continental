@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-30T11:37:44.063Z"
-  },
-  {
-    "player1": "koro20",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Dead Geiger Counter",
     "item_count": 44,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-09-30T11:42:05.842Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Yia",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T11:42:34.007Z"
   }
 ]
