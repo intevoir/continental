@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "MOLDRED",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-09-30T15:57:46.347Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "0BBA",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-09-30T15:57:46.360Z"
-  },
-  {
-    "player1": "risadrys",
-    "player2": "Buying Machine",
-    "world": "MOLDRED",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-30T15:59:10.809Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Glindd",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Dwarven Column",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-30T15:59:47.170Z"
+  },
+  {
+    "player1": "ZEMAH",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-09-30T15:59:47.179Z"
   }
 ]
