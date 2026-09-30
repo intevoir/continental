@@ -4,32 +4,6 @@
     "player2": "DrSocius",
     "world": "PLAZA",
     "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-30T16:31:17.859Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrSocius",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-30T16:31:22.352Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrSocius",
-    "world": "PLAZA",
-    "action": "BUY",
     "item_name": "Paint Bucket - Aqua",
     "item_count": 50,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-09-30T16:34:23.922Z"
+  },
+  {
+    "player1": "SuppaNiga",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 5940,
+    "price_wl": 5940,
+    "traded_with": null,
+    "timestamp": "2026-09-30T16:35:00.089Z"
+  },
+  {
+    "player1": "SuppaNiga",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 66000,
+    "price_wl": 66000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T16:35:00.102Z"
   }
 ]
