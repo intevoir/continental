@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSedanTUA",
-    "world": "GEMSKU",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 423,
-    "price_wl": 423,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:57:29.571Z"
-  },
-  {
-    "player1": "TopGuss",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:57:44.458Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nozferatuu",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-30T04:04:23.918Z"
+  },
+  {
+    "player1": "DrMbox [ELITE]",
+    "player2": "ArthaSTORE",
+    "world": "SINP",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 70,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ArthaSTORE",
+    "timestamp": "2026-09-30T04:05:24.763Z"
+  },
+  {
+    "player1": "ArthaSTORE",
+    "player2": "DrMbox [ELITE]",
+    "world": "SINP",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMbox [ELITE]",
+    "timestamp": "2026-09-30T04:05:24.764Z"
   }
 ]
