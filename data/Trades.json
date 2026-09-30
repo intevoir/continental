@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MiRwork",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:21:27.429Z"
-  },
-  {
     "player1": "GEFERRAL",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-09-30T20:32:31.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OWNERAJAZ",
+    "world": "SOAM",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T20:33:47.275Z"
   }
 ]
