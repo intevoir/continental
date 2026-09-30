@@ -5,19 +5,6 @@
     "world": "FTL",
     "action": "BUY",
     "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T00:49:19.551Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KkpetX",
-    "world": "FTL",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
     "item_count": 25,
     "p_name": "World Locks",
     "p_count": 100,
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-09-30T00:50:46.812Z"
+  },
+  {
+    "player1": "KkpetX",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 38,
+    "price_wl": 38,
+    "traded_with": null,
+    "timestamp": "2026-09-30T00:51:15.852Z"
   }
 ]
