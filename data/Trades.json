@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KrisJon00",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Royal Crescent Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-30T01:10:24.195Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Suspicious",
-    "world": "BAPAK",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-09-30T01:10:24.211Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Suspicious",
     "world": "BAPAK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 9765,
     "traded_with": null,
     "timestamp": "2026-09-30T01:16:51.634Z"
+  },
+  {
+    "player1": "XpiiEx",
+    "player2": "Buying Machine",
+    "world": "BFGFIRST",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-09-30T01:17:26.469Z"
+  },
+  {
+    "player1": "kingrosss",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-30T01:17:45.793Z"
   }
 ]
