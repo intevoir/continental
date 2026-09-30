@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "SELLCROWNS",
-    "action": "BUY",
-    "item_name": "TXMom's Crown",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 28000,
-    "price_wl": 28000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:25:55.079Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "coze",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 208,
     "traded_with": null,
     "timestamp": "2026-09-30T17:30:54.486Z"
+  },
+  {
+    "player1": "@Pranatak",
+    "player2": "Renting Station",
+    "world": "COOKIE",
+    "action": "RENT",
+    "item_name": "Wandering Gambler",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-30T17:31:20.147Z"
   }
 ]
