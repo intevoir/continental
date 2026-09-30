@@ -4,32 +4,6 @@
     "player2": "M4Manda",
     "world": "BFGNOT",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:58:39.863Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Leem",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:58:46.785Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "M4Manda",
-    "world": "BFGNOT",
-    "action": "BUY",
     "item_name": "Songpyeon",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 375,
     "traded_with": null,
     "timestamp": "2026-09-30T21:06:43.928Z"
+  },
+  {
+    "player1": "Bapakee",
+    "player2": "Buying Machine",
+    "world": "BFGSPK",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-09-30T21:09:39.989Z"
+  },
+  {
+    "player1": "Cavets",
+    "player2": "Buying Machine",
+    "world": "BFGSPK",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 138,
+    "p_name": "World Locks",
+    "p_count": 82800,
+    "price_wl": 82800,
+    "traded_with": null,
+    "timestamp": "2026-09-30T21:09:44.256Z"
   }
 ]
