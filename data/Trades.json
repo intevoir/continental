@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MatahariCps",
-    "world": "BFGU",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-09-30T01:07:34.956Z"
-  },
-  {
     "player1": "CASSILAS",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-09-30T01:11:54.305Z"
+  },
+  {
+    "player1": "Zelaa",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3570,
+    "price_wl": 3570,
+    "traded_with": null,
+    "timestamp": "2026-09-30T01:13:31.892Z"
   }
 ]
