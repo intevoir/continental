@@ -1,18 +1,5 @@
 [
   {
-    "player1": "XpiiEx",
-    "player2": "Buying Machine",
-    "world": "BFGFIRST",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-09-30T01:17:26.469Z"
-  },
-  {
     "player1": "kingrosss",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-09-30T01:24:29.505Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lyans",
+    "world": "AOII",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T01:25:42.284Z"
   }
 ]
