@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KumahaAingW",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:43:15.815Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SAMURAIN",
-    "world": "BFGXCOG",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 19500,
-    "price_wl": 19500,
-    "traded_with": null,
-    "timestamp": "2026-09-30T17:43:51.191Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SAMURAIN",
     "world": "BFGXCOG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-09-30T17:45:56.121Z"
+  },
+  {
+    "player1": "MemangBorjong",
+    "player2": "Renting Station",
+    "world": "VENDFU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-30T17:46:57.396Z"
+  },
+  {
+    "player1": "Laferte",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-09-30T17:47:21.869Z"
   }
 ]
