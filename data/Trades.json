@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "YXTUYTIM",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-09-30T01:59:47.089Z"
-  },
-  {
     "player1": "Hydrexty",
     "player2": "Buying Machine",
     "world": "FREE",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@Setau []",
     "timestamp": "2026-09-30T02:03:46.838Z"
+  },
+  {
+    "player1": "DrEnalStore",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T02:03:57.985Z"
   }
 ]
