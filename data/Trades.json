@@ -1,57 +1,5 @@
 [
   {
-    "player1": "KkpetX",
-    "player2": "Buying Machine",
-    "world": "MOLDRED",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:07:11.366Z"
-  },
-  {
-    "player1": "KkpetX",
-    "player2": "Buying Machine",
-    "world": "MOLDRED",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:07:30.562Z"
-  },
-  {
-    "player1": "KkpetX",
-    "player2": "Buying Machine",
-    "world": "MOLDRED",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:07:59.668Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Pahlawan",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Granite Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-09-30T03:09:04.212Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KkpetX",
     "world": "FTL",
@@ -128,5 +76,57 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-09-30T03:12:21.236Z"
+  },
+  {
+    "player1": "Kyinn",
+    "player2": "DrAzuraHIGH",
+    "world": "DIC3",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 10,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAzuraHIGH",
+    "timestamp": "2026-09-30T03:13:01.253Z"
+  },
+  {
+    "player1": "DrAzuraHIGH",
+    "player2": "Kyinn",
+    "world": "DIC3",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kyinn",
+    "timestamp": "2026-09-30T03:13:01.254Z"
+  },
+  {
+    "player1": "bototob",
+    "player2": "Renting Station",
+    "world": "15K",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-30T03:13:01.255Z"
+  },
+  {
+    "player1": "DrTUNTAS",
+    "player2": "Renting Station",
+    "world": "BFGNOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-09-30T03:13:17.729Z"
   }
 ]
