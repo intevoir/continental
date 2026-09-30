@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrSocius",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-30T14:48:53.941Z"
-  },
-  {
     "player1": "DrBULA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-09-30T14:53:37.575Z"
+  },
+  {
+    "player1": "RNF",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-09-30T14:54:22.529Z"
   }
 ]
