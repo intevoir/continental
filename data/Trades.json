@@ -1,31 +1,5 @@
 [
   {
-    "player1": "etuls",
-    "player2": "Buying Machine",
-    "world": "FREEBFG0",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-09-30T22:08:40.723Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Countrack",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "BlueMan's Crystal Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-09-30T22:08:51.061Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Countrack",
     "world": "SET",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-09-30T22:11:53.379Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hydrexty",
+    "world": "YEN",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-09-30T22:13:22.143Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ilhamCCPPSS",
+    "world": "FREE",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T22:13:41.537Z"
   }
 ]
