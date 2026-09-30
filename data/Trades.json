@@ -1,19 +1,6 @@
 [
   {
     "player1": "demonzps",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-09-30T20:41:05.037Z"
-  },
-  {
-    "player1": "demonzps",
     "player2": "Renting Station",
     "world": "KSEEH",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-09-30T20:48:35.964Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Pranatak",
+    "world": "EVLINE",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-09-30T20:55:08.391Z"
   }
 ]
