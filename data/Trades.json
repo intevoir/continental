@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drwuwu",
-    "player2": "Renting Station",
-    "world": "BFGSPK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-09-30T22:10:53.843Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Countrack",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-09-30T22:14:43.269Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Countrack",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "VIP Entrance",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-09-30T22:15:23.648Z"
   }
 ]
