@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBULA",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "GrowScan 9000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-09-30T15:07:47.569Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CFein",
     "world": "RAJABFG",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-09-30T15:11:29.864Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OMSU",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-09-30T15:11:38.594Z"
   }
 ]
