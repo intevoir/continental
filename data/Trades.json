@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RealB2",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Duct Tape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-09-30T22:23:27.359Z"
-  },
-  {
     "player1": "KingXury",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-09-30T22:31:57.266Z"
+  },
+  {
+    "player1": "carbreng",
+    "player2": "Renting Station",
+    "world": "VENDFU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-09-30T22:32:34.178Z"
   }
 ]
