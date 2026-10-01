@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Asakin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:57:19.375Z"
-  },
-  {
     "player1": "SAMURAIN",
     "player2": "Buying Machine",
     "world": "ANBUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-01T11:00:33.203Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "minyiee",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-01T11:02:52.996Z"
   }
 ]
