@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Agusmakankecap",
-    "player2": "Buying Machine",
-    "world": "FREEBFGSKY",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 42,
-    "price_wl": 42,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:34:04.249Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@VoraxStore",
     "world": "BLAYY",
@@ -128,5 +115,18 @@
     "price_wl": 3825,
     "traded_with": null,
     "timestamp": "2026-10-01T10:35:57.703Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Agusmakankecap",
+    "world": "BFGIBU",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-10-01T10:36:57.757Z"
   }
 ]
