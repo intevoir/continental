@@ -1,31 +1,5 @@
 [
   {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "TOKODC",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:27:40.322Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Velmora",
-    "world": "HALLO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:27:44.346Z"
-  },
-  {
     "player1": "Aellllll",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 17,
     "traded_with": null,
     "timestamp": "2026-10-01T09:31:00.052Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Couped",
+    "world": "BUYGOLD",
+    "action": "BUY",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 120000,
+    "price_wl": 120000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:31:30.103Z"
+  },
+  {
+    "player1": "Jasson",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:31:30.111Z"
   }
 ]
