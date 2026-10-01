@@ -4,19 +4,6 @@
     "player2": "Peknat",
     "world": "CUAN",
     "action": "BUY",
-    "item_name": "Flour",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-01T01:08:07.891Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Peknat",
-    "world": "CUAN",
-    "action": "BUY",
     "item_name": "Rice",
     "item_count": 11,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-01T01:12:01.783Z"
+  },
+  {
+    "player1": "XyrF",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Challenge Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-01T01:13:38.601Z"
   }
 ]
