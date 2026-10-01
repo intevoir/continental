@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@OnlyKey",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 52500,
-    "price_wl": 52500,
-    "traded_with": null,
-    "timestamp": "2026-10-01T11:37:40.811Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NothingCut",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-01T11:58:15.195Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "44gb",
+    "world": "BUYGIANTFLAG",
+    "action": "BUY",
+    "item_name": "Big Flag",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-01T11:58:39.740Z"
   }
 ]
