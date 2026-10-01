@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tangankanan",
-    "world": "BFGNUM11",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 56000,
-    "price_wl": 56000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:24:36.703Z"
-  },
-  {
-    "player1": "CIPAL",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDNASU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 420,
-    "price_wl": 420,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:24:36.724Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CIPAL",
     "world": "FREEBFGDNASU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-01T22:31:39.097Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "carbreng",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:32:13.868Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "carbreng",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:32:39.762Z"
   }
 ]
