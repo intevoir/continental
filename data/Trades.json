@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hika",
-    "world": "TOKODC",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-10-01T15:03:09.052Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrThyID",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1950,
     "traded_with": null,
     "timestamp": "2026-10-01T15:05:07.014Z"
+  },
+  {
+    "player1": "Hika",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-01T15:06:20.931Z"
   }
 ]
