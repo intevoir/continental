@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Alvan",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 206,
-    "p_name": "World Locks",
-    "p_count": 27810,
-    "price_wl": 27810,
-    "traded_with": null,
-    "timestamp": "2026-10-01T12:19:01.828Z"
-  },
-  {
     "player1": "RoadToTimothy",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-01T12:24:03.005Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OP57",
+    "world": "BLOCKW",
+    "action": "BUY",
+    "item_name": "Mystic Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-01T12:24:35.658Z"
   }
 ]
