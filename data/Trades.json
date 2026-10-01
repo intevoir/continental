@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMoige",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-01T00:21:52.371Z"
-  },
-  {
-    "player1": "lobi",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-01T00:22:21.160Z"
-  },
-  {
     "player1": "ToyaRTO1",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-10-01T00:26:39.354Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ivaxx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-01T00:27:38.678Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ivaxx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-10-01T00:27:45.925Z"
   }
 ]
