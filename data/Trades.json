@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kiiikuk [ELITE]",
-    "player2": "Renting Station",
-    "world": "INTERN",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119000,
-    "price_wl": 119000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T07:13:40.492Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BigCnacup",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-01T07:15:40.811Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kiiikuk [ELITE]",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T07:16:42.035Z"
   }
 ]
