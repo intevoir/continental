@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HOLICOO",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Curly Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:19:49.334Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTheStrom",
-    "world": "YOGA44",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:19:49.342Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTheStrom",
-    "world": "YOGA44",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:20:10.829Z"
-  },
-  {
     "player1": "vuxy",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +89,44 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-01T10:21:50.276Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yeve",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-01T10:22:01.955Z"
+  },
+  {
+    "player1": "ZanZunZan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T10:22:01.959Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yeve",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-01T10:22:17.453Z"
   }
 ]
