@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrTUNTAS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-01T19:39:49.321Z"
-  },
-  {
     "player1": "PoliceD",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 32500,
     "traded_with": null,
     "timestamp": "2026-10-01T19:42:14.025Z"
+  },
+  {
+    "player1": "boostbro",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7100,
+    "price_wl": 7100,
+    "traded_with": null,
+    "timestamp": "2026-10-01T19:43:28.788Z"
   }
 ]
