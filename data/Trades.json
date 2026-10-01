@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Goyzilla",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:10:37.969Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Goyzilla",
-    "world": "CHEAPA",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:10:41.991Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DevinaC",
     "world": "CERAH",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 342,
     "traded_with": null,
     "timestamp": "2026-10-01T22:17:07.046Z"
+  },
+  {
+    "player1": "perkedelsarden",
+    "player2": "Renting Station",
+    "world": "BFGDNAYES",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:17:42.678Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Goyzilla",
+    "world": "FOOD",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:17:56.016Z"
   }
 ]
