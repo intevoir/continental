@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Tiankong",
-    "world": "BFGU",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-01T02:40:28.341Z"
-  },
-  {
-    "player1": "JekAckerman",
-    "player2": "Buying Machine",
-    "world": "TOKODC",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 54,
-    "p_name": "World Locks",
-    "p_count": 54,
-    "price_wl": 54,
-    "traded_with": null,
-    "timestamp": "2026-10-01T02:40:36.001Z"
-  },
-  {
     "player1": "JekAckerman",
     "player2": "Buying Machine",
     "world": "TOKODC",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-01T02:43:01.372Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Shinpotw",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-01T02:43:29.424Z"
+  },
+  {
+    "player1": "DrUsefull",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T02:43:33.124Z"
   }
 ]
