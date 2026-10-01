@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@RonXcps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:22:35.935Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "etuls",
     "world": "TOKODC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-01T22:30:04.481Z"
+  },
+  {
+    "player1": "DRYRTOMRAY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 95,
+    "p_name": "World Locks",
+    "p_count": 570,
+    "price_wl": 570,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:30:39.012Z"
   }
 ]
