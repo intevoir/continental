@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "vuxy",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Basim's Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-01T14:01:33.658Z"
-  },
-  {
     "player1": "TopGuss",
     "player2": "Renting Station",
     "world": "TOKO",
@@ -128,5 +115,18 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-10-01T14:02:54.186Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEMAH",
+    "world": "HALLO",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 320000,
+    "price_wl": 320000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T14:03:39.360Z"
   }
 ]
