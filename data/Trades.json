@@ -2,32 +2,6 @@
   {
     "player1": "BoxHoldings",
     "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 220,
-    "p_name": "World Locks",
-    "p_count": 1100,
-    "price_wl": 1100,
-    "traded_with": null,
-    "timestamp": "2026-10-01T08:09:09.860Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "D Battery",
-    "item_count": 59,
-    "p_name": "World Locks",
-    "p_count": 295,
-    "price_wl": 295,
-    "traded_with": null,
-    "timestamp": "2026-10-01T08:09:20.304Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
     "world": "FREEBFG0",
     "action": "SELL",
     "item_name": "Radioactive Chemical",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-10-01T08:15:57.267Z"
+  },
+  {
+    "player1": "@Filipino",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Silk Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-01T08:16:16.253Z"
+  },
+  {
+    "player1": "vuxy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Nightmare Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-01T08:16:27.260Z"
   }
 ]
