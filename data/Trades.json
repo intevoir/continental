@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Faron []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7900,
-    "price_wl": 7900,
-    "traded_with": null,
-    "timestamp": "2026-10-01T02:52:33.172Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jettcute",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-01T02:55:09.509Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "febri1",
     "world": "WMW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-01T03:02:06.554Z"
+  },
+  {
+    "player1": "BFL",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-01T03:02:37.457Z"
+  },
+  {
+    "player1": "HACLONE",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-01T03:02:37.464Z"
   }
 ]
