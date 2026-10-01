@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SAMURAIN",
-    "player2": "Buying Machine",
-    "world": "ANBUY",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 1925,
-    "price_wl": 1925,
-    "traded_with": null,
-    "timestamp": "2026-10-01T10:57:19.371Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Asakin",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-10-01T11:00:23.275Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArrangGT",
+    "world": "GVEZ",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-01T11:00:33.203Z"
   }
 ]
