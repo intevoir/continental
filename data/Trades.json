@@ -4,19 +4,6 @@
     "player2": "Goyzilla",
     "world": "CHEAPA",
     "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:09:30.705Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Goyzilla",
-    "world": "CHEAPA",
-    "action": "BUY",
     "item_name": "Onion",
     "item_count": 30,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-01T22:11:34.738Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Goyzilla",
+    "world": "FOOD",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:16:00.767Z"
   }
 ]
