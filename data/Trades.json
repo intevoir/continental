@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ucengz",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-10-01T18:51:41.968Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Ucengz",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 3680,
     "traded_with": null,
     "timestamp": "2026-10-01T18:58:00.605Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Beremm",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Sun Shooter Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T18:58:34.909Z"
   }
 ]
