@@ -5,32 +5,6 @@
     "world": "ARROZMARKET",
     "action": "BUY",
     "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:32:13.868Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "carbreng",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:32:39.762Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "carbreng",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
     "item_count": 16,
     "p_name": "World Locks",
     "p_count": 48,
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-01T22:40:42.738Z"
+  },
+  {
+    "player1": "RealB2",
+    "player2": "Renting Station",
+    "world": "RENTING10",
+    "action": "RENT",
+    "item_name": "Negro Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:40:50.551Z"
+  },
+  {
+    "player1": "RealB2",
+    "player2": "Renting Station",
+    "world": "RENTING10",
+    "action": "RENT",
+    "item_name": "Imperial Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:40:59.004Z"
   }
 ]
