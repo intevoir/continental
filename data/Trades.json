@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BoxHoldings",
-    "world": "BFGDHAN",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 200000,
-    "price_wl": 200000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T21:17:00.759Z"
-  },
-  {
     "player1": "kiiikuk [ELITE]",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-01T21:23:57.784Z"
+  },
+  {
+    "player1": "M1K0",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-01T21:24:40.774Z"
   }
 ]
