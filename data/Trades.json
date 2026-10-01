@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "carbreng",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:32:52.406Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NNBC",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:34:54.957Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CIPAL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-01T22:40:59.004Z"
+  },
+  {
+    "player1": "zztSheesh",
+    "player2": "Buying Machine",
+    "world": "BFGW",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:41:43.440Z"
+  },
+  {
+    "player1": "RNF12",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:41:43.456Z"
   }
 ]
