@@ -1,18 +1,5 @@
 [
   {
-    "player1": "perkedelsarden",
-    "player2": "Renting Station",
-    "world": "BFGDNAYES",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-01T22:17:42.678Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Goyzilla",
     "world": "FOOD",
@@ -128,5 +115,18 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-10-01T22:19:01.157Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Goyzilla",
+    "world": "CHEAPA",
+    "action": "BUY",
+    "item_name": "Chicken Meat",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-01T22:19:34.479Z"
   }
 ]
