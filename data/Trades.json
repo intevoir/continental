@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Hydrexty",
-    "player2": "Buying Machine",
-    "world": "FREE",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 110,
-    "p_name": "World Locks",
-    "p_count": 660,
-    "price_wl": 660,
-    "traded_with": null,
-    "timestamp": "2026-10-01T01:54:32.667Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Velmora",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-10-01T01:58:25.980Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wembanyama",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-10-01T01:59:37.450Z"
   }
 ]
