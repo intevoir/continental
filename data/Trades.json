@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ucengz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-10-01T19:30:53.142Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrElc",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-01T19:31:54.368Z"
-  },
-  {
     "player1": "Ucengz",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-01T19:38:21.559Z"
+  },
+  {
+    "player1": "Ucengz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 54,
+    "p_name": "World Locks",
+    "p_count": 324,
+    "price_wl": 324,
+    "traded_with": null,
+    "timestamp": "2026-10-01T19:39:09.828Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ucengz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 85,
+    "p_name": "World Locks",
+    "p_count": 3995,
+    "price_wl": 3995,
+    "traded_with": null,
+    "timestamp": "2026-10-01T19:39:23.860Z"
   }
 ]
