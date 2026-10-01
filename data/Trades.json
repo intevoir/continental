@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Alvan",
-    "world": "SHOPDI",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:53:35.913Z"
-  },
-  {
     "player1": "Andras",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-01T09:56:50.064Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CO0",
+    "world": "BFGNUM11",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 192500,
+    "price_wl": 192500,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:57:38.381Z"
   }
 ]
