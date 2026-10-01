@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RanY",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-01T16:38:30.607Z"
-  },
-  {
     "player1": "slebewaja",
     "player2": "Buying Machine",
     "world": "BFGSPK",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-10-01T16:40:53.223Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMendes",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Charcoal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-01T16:41:57.295Z"
   }
 ]
