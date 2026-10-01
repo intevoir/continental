@@ -1,44 +1,5 @@
 [
   {
-    "player1": "stxt",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7100,
-    "price_wl": 7100,
-    "traded_with": null,
-    "timestamp": "2026-10-01T03:04:37.908Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ashwin03",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ouroboros Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T03:04:57.536Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ashwin03",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Celestial Lance",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T03:05:39.520Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Ashwin03",
     "world": "SET",
@@ -128,5 +89,44 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-01T03:07:07.193Z"
+  },
+  {
+    "player1": "XyrF",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-01T03:07:39.215Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XyrF",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 1725,
+    "price_wl": 1725,
+    "traded_with": null,
+    "timestamp": "2026-10-01T03:07:39.226Z"
+  },
+  {
+    "player1": "XyrF",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 2070,
+    "price_wl": 2070,
+    "traded_with": null,
+    "timestamp": "2026-10-01T03:07:50.416Z"
   }
 ]
