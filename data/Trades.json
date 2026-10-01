@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "mkebe",
-    "world": "MARTS",
-    "action": "BUY",
-    "item_name": "Robert The Robot",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:08:58.057Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "44gb",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-01T09:13:28.380Z"
+  },
+  {
+    "player1": "DrSocius",
+    "player2": "Renting Station",
+    "world": "BFGEYD",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16065,
+    "price_wl": 16065,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:13:58.897Z"
   }
 ]
