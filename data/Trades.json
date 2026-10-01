@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "44gb",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Thermonuclear Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:08:58.062Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NightDone []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:10:38.873Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NightDone []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 54,
-    "p_name": "World Locks",
-    "p_count": 27,
-    "price_wl": 27,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:10:45.756Z"
-  },
-  {
     "player1": "TauthaTheLaugh",
     "player2": "Renting Station",
     "world": "HALLO",
@@ -128,5 +89,44 @@
     "price_wl": 16065,
     "traded_with": null,
     "timestamp": "2026-10-01T09:13:58.897Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vuxy",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Money Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:15:22.176Z"
+  },
+  {
+    "player1": "BirBintang [] [] [RICH] [] []",
+    "player2": "@QOIL",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 38,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@QOIL",
+    "timestamp": "2026-10-01T09:15:22.192Z"
+  },
+  {
+    "player1": "@QOIL",
+    "player2": "BirBintang [] [] [RICH] [] []",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BirBintang [] [] [RICH] [] []",
+    "timestamp": "2026-10-01T09:15:22.192Z"
   }
 ]
