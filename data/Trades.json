@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NightDone []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-01T09:12:20.270Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MOUKARA",
     "world": "BFGPB",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-01T09:16:22.120Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Urar",
+    "world": "HALLO",
+    "action": "BUY",
+    "item_name": "Golden Silk Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 70000,
+    "price_wl": 70000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T09:17:41.945Z"
   }
 ]
