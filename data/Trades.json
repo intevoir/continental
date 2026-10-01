@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Papoww",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-01T12:17:25.671Z"
-  },
-  {
     "player1": "Citraku",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 350000,
     "traded_with": null,
     "timestamp": "2026-10-01T12:19:32.027Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@NEPzy",
+    "world": "BUYRENTSTATION",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 42000,
+    "price_wl": 42000,
+    "traded_with": null,
+    "timestamp": "2026-10-01T12:20:10.529Z"
   }
 ]
