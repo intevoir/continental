@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bujanglapet",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Blue Hair Dye",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:20:52.586Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "bujanglapet",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Shampoo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:20:55.794Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "inb",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:22:27.074Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "inb",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-02T21:30:48.605Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Btg",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 16000,
+    "price_wl": 16000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:32:23.719Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "inb",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:32:23.729Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KINGHIGH",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:32:23.737Z"
   }
 ]
