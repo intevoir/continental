@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "haktan",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Super Beach Blast",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T09:08:07.306Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "vzenCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-02T09:10:44.661Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "vzenCPS",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-02T09:12:49.529Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tanker",
+    "world": "VENDW",
+    "action": "BUY",
+    "item_name": "Harvest Robinsons",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-02T09:14:01.956Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 15600,
+    "price_wl": 15600,
+    "traded_with": null,
+    "timestamp": "2026-10-02T09:14:01.981Z"
   }
 ]
