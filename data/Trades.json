@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@VoraxStore",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-02T17:11:05.518Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@VoraxStore",
-    "world": "SHOPEE",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-02T17:11:09.251Z"
-  },
-  {
     "player1": "Punch of Legend [PRO ]",
     "player2": "Renting Station",
     "world": "BENZYL",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@Isayaak",
     "timestamp": "2026-10-02T17:13:10.245Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Buying Machine",
+    "world": "B1S",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350000,
+    "price_wl": 350000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T17:13:52.037Z"
+  },
+  {
+    "player1": "ThePowerDyks",
+    "player2": "Buying Machine",
+    "world": "OBF",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 95,
+    "p_name": "World Locks",
+    "p_count": 2850,
+    "price_wl": 2850,
+    "traded_with": null,
+    "timestamp": "2026-10-02T17:14:14.178Z"
   }
 ]
