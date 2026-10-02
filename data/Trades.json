@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "laamons",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T19:13:57.684Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Citraku",
     "world": "MARKET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-02T19:18:03.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hassasin",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-02T19:20:31.811Z"
   }
 ]
