@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 190,
-    "price_wl": 190,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:44:32.236Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 975,
-    "price_wl": 975,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:44:39.346Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrFlatscreen",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-02T23:47:51.553Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sihilisko",
+    "world": "TOOKI",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-02T23:48:32.222Z"
+  },
+  {
+    "player1": "boostbro",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14100,
+    "price_wl": 14100,
+    "traded_with": null,
+    "timestamp": "2026-10-02T23:48:35.729Z"
   }
 ]
