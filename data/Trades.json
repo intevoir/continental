@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZENZOT",
-    "world": "DNAQQ",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-10-02T00:06:35.297Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CIPAL",
-    "world": "DNAQQ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-02T00:06:44.487Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CIPAL",
     "world": "DNAQQ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-02T00:11:13.403Z"
+  },
+  {
+    "player1": "OraipCPS",
+    "player2": "Buying Machine",
+    "world": "BFGSPK",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 206,
+    "p_name": "World Locks",
+    "p_count": 123600,
+    "price_wl": 123600,
+    "traded_with": null,
+    "timestamp": "2026-10-02T00:11:51.884Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PallangRS",
+    "world": "GBC25",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T00:12:05.066Z"
   }
 ]
