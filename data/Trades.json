@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Trovsen",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Winter Frost Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-02T08:09:27.589Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tanker",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Holy Halo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-02T08:09:27.616Z"
-  },
-  {
     "player1": "Wembanyama",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-02T08:12:20.960Z"
+  },
+  {
+    "player1": "Trovsen",
+    "player2": "Buying Machine",
+    "world": "BFGID",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 675,
+    "price_wl": 675,
+    "traded_with": null,
+    "timestamp": "2026-10-02T08:14:21.206Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GilzzKunnn",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T08:14:21.227Z"
   }
 ]
