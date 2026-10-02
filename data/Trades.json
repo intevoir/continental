@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "TukangGeiger",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Table Lamp",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:41:29.766Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TukangGeiger",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Pinball Bumper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:41:44.366Z"
-  },
-  {
     "player1": "ChanZunZhe",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +102,31 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-10-02T21:52:00.233Z"
+  },
+  {
+    "player1": "aliz",
+    "player2": "Buying Machine",
+    "world": "KPC",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:52:34.223Z"
+  },
+  {
+    "player1": "aliz",
+    "player2": "Buying Machine",
+    "world": "KPC",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:52:34.239Z"
   }
 ]
