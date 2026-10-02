@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Kayloo []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7100,
-    "price_wl": 7100,
-    "traded_with": null,
-    "timestamp": "2026-10-02T03:09:42.151Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Lmahjong1",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-02T03:13:43.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lmahjong1",
+    "world": "CHEP",
+    "action": "BUY",
+    "item_name": "Orange Stuff",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-02T03:15:22.061Z"
   }
 ]
