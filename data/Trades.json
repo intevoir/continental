@@ -1,31 +1,5 @@
 [
   {
-    "player1": "FalardFive",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 129,
-    "p_name": "World Locks",
-    "p_count": 70950,
-    "price_wl": 70950,
-    "traded_with": null,
-    "timestamp": "2026-10-02T08:44:42.372Z"
-  },
-  {
-    "player1": "Zyenno",
-    "player2": "skyboss",
-    "world": "LPUR",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "skyboss",
-    "timestamp": "2026-10-02T08:45:34.386Z"
-  },
-  {
     "player1": "skyboss",
     "player2": "Zyenno",
     "world": "LPUR",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrUraiDhy",
     "timestamp": "2026-10-02T08:48:36.310Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrSoldier",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 187500,
+    "price_wl": 187500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T08:48:48.386Z"
+  },
+  {
+    "player1": "ZemahStore",
+    "player2": "Renting Station",
+    "world": "LURENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-02T08:49:08.868Z"
   }
 ]
