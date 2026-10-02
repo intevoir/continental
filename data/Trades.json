@@ -4,19 +4,6 @@
     "player2": "TukangGeiger",
     "world": "GEIGER",
     "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:48:31.793Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TukangGeiger",
-    "world": "GEIGER",
-    "action": "BUY",
     "item_name": "Red Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-02T21:53:34.483Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RevanNoCounter",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:53:53.707Z"
   }
 ]
