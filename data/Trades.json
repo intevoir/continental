@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrEnalStore",
-    "player2": "Renting Station",
-    "world": "BFGJRN",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-10-02T01:47:55.415Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fanixxs",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-02T02:00:45.198Z"
+  },
+  {
+    "player1": "Kadatahu",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 106,
+    "p_name": "World Locks",
+    "p_count": 212,
+    "price_wl": 212,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:01:50.490Z"
   }
 ]
