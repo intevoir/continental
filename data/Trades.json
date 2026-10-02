@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "razi9",
-    "world": "BST",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-02T08:38:46.107Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@BoothGT []",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-02T08:43:37.171Z"
+  },
+  {
+    "player1": "Zluws",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-02T08:43:59.053Z"
   }
 ]
