@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JAMET",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 82,
-    "p_name": "World Locks",
-    "p_count": 3608,
-    "price_wl": 3608,
-    "traded_with": null,
-    "timestamp": "2026-10-02T03:45:26.369Z"
-  },
-  {
     "player1": "Zdee",
     "player2": "Buying Machine",
     "world": "BENZYL",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-10-02T03:47:27.721Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "URKO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-02T03:47:39.134Z"
   }
 ]
