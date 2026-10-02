@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "vzenCPS",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Malevolent Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:42:10.442Z"
-  },
-  {
     "player1": "ArfaJP2",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 14000,
     "traded_with": null,
     "timestamp": "2026-10-02T11:45:17.702Z"
+  },
+  {
+    "player1": "MatahariCps",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7100,
+    "price_wl": 7100,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:45:55.914Z"
   }
 ]
