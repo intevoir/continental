@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZemahStore",
-    "world": "RIO",
-    "action": "BUY",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 78000,
-    "price_wl": 78000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:41:33.032Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZemahStore",
-    "world": "RIO",
-    "action": "BUY",
-    "item_name": "Golden Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:41:41.892Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RGA",
-    "world": "RB",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 46,
-    "price_wl": 46,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:41:51.804Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RGA",
     "world": "RB",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-02T12:43:40.763Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RGA",
+    "world": "RB",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 198,
+    "p_name": "World Locks",
+    "p_count": 66,
+    "price_wl": 66,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:43:46.627Z"
+  },
+  {
+    "player1": "DrUraiDhy",
+    "player2": "Renting Station",
+    "world": "AULA",
+    "action": "RENT",
+    "item_name": "Pure Being of Light and Shadow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:43:59.153Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZemahStore",
+    "world": "YIA",
+    "action": "BUY",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80000,
+    "price_wl": 80000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:43:59.162Z"
   }
 ]
