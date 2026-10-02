@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Archfiend",
-    "player2": "Buying Machine",
-    "world": "TOOKI",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:13:08.399Z"
-  },
-  {
-    "player1": "Archfiend",
-    "player2": "Buying Machine",
-    "world": "TOOKI",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 54,
-    "price_wl": 54,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:13:08.407Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SkibidiFort",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-02T12:15:42.340Z"
+  },
+  {
+    "player1": "DrMessSt4inn",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:16:09.954Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "apantat",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 21,
+    "price_wl": 21,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:16:28.557Z"
   }
 ]
