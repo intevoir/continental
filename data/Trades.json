@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "bujanglapet",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T18:00:41.692Z"
-  },
-  {
     "player1": "@Mbox [ELITE] []",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 11025,
     "traded_with": null,
     "timestamp": "2026-10-02T18:02:13.030Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MESA",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 230,
+    "p_name": "World Locks",
+    "p_count": 10350,
+    "price_wl": 10350,
+    "traded_with": null,
+    "timestamp": "2026-10-02T18:02:33.879Z"
   }
 ]
