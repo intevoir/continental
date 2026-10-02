@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Archfiend",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 138,
-    "p_name": "World Locks",
-    "p_count": 138,
-    "price_wl": 138,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:13:45.410Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AnubiZs",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:13:49.747Z"
-  },
-  {
-    "player1": "8JKS",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Rebana's Lizard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4165,
-    "price_wl": 4165,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:14:00.590Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kailyynn",
     "world": "YIA",
@@ -128,5 +89,44 @@
     "price_wl": 1320,
     "traded_with": null,
     "timestamp": "2026-10-02T11:18:42.639Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "latips",
+    "world": "DUE6",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:19:35.470Z"
+  },
+  {
+    "player1": "latips",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:19:55.526Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MatahariCps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 875,
+    "price_wl": 875,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:20:03.082Z"
   }
 ]
