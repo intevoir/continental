@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDIIN",
     "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:16:30.717Z"
-  },
-  {
-    "player1": "IcyFLoaTREAL",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:16:34.689Z"
-  },
-  {
-    "player1": "IcyFLoaTREAL",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-02T23:20:28.426Z"
+  },
+  {
+    "player1": "ridwanpetani",
+    "player2": "TukangGeiger",
+    "world": "KLI",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "TukangGeiger",
+    "timestamp": "2026-10-02T23:21:33.196Z"
+  },
+  {
+    "player1": "TukangGeiger",
+    "player2": "ridwanpetani",
+    "world": "KLI",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ridwanpetani",
+    "timestamp": "2026-10-02T23:21:33.197Z"
   }
 ]
