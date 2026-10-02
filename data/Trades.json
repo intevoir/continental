@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrLAKEK",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Ducky Pajama Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:13:07.328Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Kaiizie []",
-    "world": "YUMEKO",
-    "action": "BUY",
-    "item_name": "Sheet Music: Flat Piano",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:13:07.340Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Kaiizie []",
-    "world": "YUMEKO",
-    "action": "BUY",
-    "item_name": "Sheet Music: Piano Note",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-02T23:13:07.349Z"
-  },
-  {
     "player1": "GTMasbro",
     "player2": "Buying Machine",
     "world": "BFGOF",
@@ -128,5 +89,44 @@
     "price_wl": 36,
     "traded_with": null,
     "timestamp": "2026-10-02T23:17:08.151Z"
+  },
+  {
+    "player1": "@Seannara []",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-02T23:18:08.757Z"
+  },
+  {
+    "player1": "IcyFLoaTREAL",
+    "player2": "Buying Machine",
+    "world": "TOOKI",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 525,
+    "price_wl": 525,
+    "traded_with": null,
+    "timestamp": "2026-10-02T23:18:13.316Z"
+  },
+  {
+    "player1": "IcyFLoaTREAL",
+    "player2": "Buying Machine",
+    "world": "TOOKI",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-10-02T23:18:27.487Z"
   }
 ]
