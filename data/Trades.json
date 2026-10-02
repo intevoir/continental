@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "TOOKI",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:13:08.380Z"
-  },
-  {
-    "player1": "SkibidiFort",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14200,
-    "price_wl": 14200,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:13:08.391Z"
-  },
-  {
-    "player1": "Archfiend",
-    "player2": "Buying Machine",
-    "world": "TOOKI",
-    "action": "SELL",
     "item_name": "Black Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 21000,
     "traded_with": null,
     "timestamp": "2026-10-02T12:15:09.233Z"
+  },
+  {
+    "player1": "SuperIja",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:15:29.397Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Udilll",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:15:42.340Z"
   }
 ]
