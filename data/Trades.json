@@ -1,44 +1,5 @@
 [
   {
-    "player1": "etuls",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-02T16:31:31.174Z"
-  },
-  {
-    "player1": "DrLowies",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-02T16:31:55.320Z"
-  },
-  {
-    "player1": "Chrost",
-    "player2": "Buying Machine",
-    "world": "BFGID",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 77,
-    "p_name": "World Locks",
-    "p_count": 51975,
-    "price_wl": 51975,
-    "traded_with": null,
-    "timestamp": "2026-10-02T16:32:31.030Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Yeweddd",
     "world": "BFGEYE",
@@ -128,5 +89,44 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-10-02T16:34:57.204Z"
+  },
+  {
+    "player1": "Gaell",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-02T16:35:31.757Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "mbutsdd",
+    "world": "BFGP",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-02T16:35:35.770Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@VoraxStore",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-02T16:35:43.186Z"
   }
 ]
