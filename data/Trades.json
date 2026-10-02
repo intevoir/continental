@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Andika888",
-    "player2": "Renting Station",
-    "world": "55",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:36:08.812Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kadatahu",
-    "world": "BUYDTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:36:24.331Z"
-  },
-  {
     "player1": "etuls",
     "player2": "Buying Machine",
     "world": "FGEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 144,
     "traded_with": null,
     "timestamp": "2026-10-02T06:39:19.808Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "etuls",
+    "world": "MOLDRED",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:39:52.662Z"
+  },
+  {
+    "player1": "etuls",
+    "player2": "Buying Machine",
+    "world": "CUAN",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 495,
+    "price_wl": 495,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:39:52.713Z"
   }
 ]
