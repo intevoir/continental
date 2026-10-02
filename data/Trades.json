@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "vzenCPS",
-    "world": "BUYITEM",
-    "action": "BUY",
-    "item_name": "Scythe of the Underworld",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:39:20.371Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sen0 []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Challenge Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:40:53.437Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "vzenCPS",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Candy Cane Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:41:13.484Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sen0 []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Spikey Anime Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:41:54.057Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JejeLampruy []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 17255,
     "traded_with": null,
     "timestamp": "2026-10-02T11:43:18.356Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "giku",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 33500,
+    "price_wl": 33500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:43:54.932Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "sihilisko",
+    "world": "JEJ4",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "sihilisko",
+    "timestamp": "2026-10-02T11:43:54.941Z"
+  },
+  {
+    "player1": "sihilisko",
+    "player2": "SAMURAIN",
+    "world": "JEJ4",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SAMURAIN",
+    "timestamp": "2026-10-02T11:43:54.941Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sen0 []",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:44:07.141Z"
   }
 ]
