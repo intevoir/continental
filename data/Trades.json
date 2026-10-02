@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "boostbro",
-    "world": "BFGSPK",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-02T04:28:54.469Z"
-  },
-  {
-    "player1": "Galielwy",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-02T04:29:01.308Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "musangle",
     "world": "BFGSPK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-02T04:34:56.645Z"
+  },
+  {
+    "player1": "GilzzKunnn",
+    "player2": "SAMURAIN",
+    "world": "PWFF",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SAMURAIN",
+    "timestamp": "2026-10-02T04:35:12.219Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "GilzzKunnn",
+    "world": "PWFF",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GilzzKunnn",
+    "timestamp": "2026-10-02T04:35:12.220Z"
   }
 ]
