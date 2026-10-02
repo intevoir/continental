@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "latips",
-    "world": "TOYMART",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-02T03:36:53.214Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Elpiji2kg",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T03:37:23.512Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "zztSheesh",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-02T03:40:36.455Z"
+  },
+  {
+    "player1": "Jejeeeeeeee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T03:41:25.478Z"
+  },
+  {
+    "player1": "Elpiji2kg",
+    "player2": "Renting Station",
+    "world": "RAGRENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-02T03:41:25.488Z"
   }
 ]
