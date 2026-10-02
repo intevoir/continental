@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "bujanglapet",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Milk",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-02T19:44:09.053Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-02T19:56:12.813Z"
+  },
+  {
+    "player1": "Fozn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 14880,
+    "price_wl": 14880,
+    "traded_with": null,
+    "timestamp": "2026-10-02T19:57:24.989Z"
   }
 ]
