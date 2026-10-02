@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BHOX",
-    "world": "CHEAP",
-    "action": "BUY",
-    "item_name": "Ancient Altar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-02T17:55:09.683Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ihza",
-    "world": "FREEBFG0",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-02T17:55:12.942Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "stxt",
     "world": "BFGNOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-02T17:56:33.025Z"
+  },
+  {
+    "player1": "VSH",
+    "player2": "Buying Machine",
+    "world": "ETULS123",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-02T17:58:11.103Z"
+  },
+  {
+    "player1": "@Mbox [ELITE] []",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Benzyl's Infinity Duct Tape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 892,
+    "price_wl": 892,
+    "traded_with": null,
+    "timestamp": "2026-10-02T17:58:14.641Z"
   }
 ]
