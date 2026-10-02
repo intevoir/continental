@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SAMURAIN",
-    "player2": "Buying Machine",
-    "world": "YYF",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 14800,
-    "price_wl": 14800,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:34:52.538Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Hika",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 7100,
     "traded_with": null,
     "timestamp": "2026-10-02T11:38:14.072Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vzenCPS",
+    "world": "BUYITEM",
+    "action": "BUY",
+    "item_name": "Scythe of the Underworld",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:39:20.371Z"
   }
 ]
