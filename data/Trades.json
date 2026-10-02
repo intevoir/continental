@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Znfersir",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 375,
-    "price_wl": 375,
-    "traded_with": null,
-    "timestamp": "2026-10-02T02:39:32.410Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Tanker",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Rainbow Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-02T02:40:16.727Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zeansky",
-    "world": "BFGEYE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-02T02:40:28.469Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zeansky",
     "world": "BFGEYE",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 288,
     "traded_with": null,
     "timestamp": "2026-10-02T02:43:37.342Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tanker",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Dapa's Moonlight Blade",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:45:03.424Z"
+  },
+  {
+    "player1": "@Quests [PRO ] [$$$LUXURY$$$]",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:45:03.445Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tanker",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Crystal Infused Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:45:19.055Z"
   }
 ]
