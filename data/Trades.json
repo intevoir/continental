@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Alliance",
-    "player2": "Renting Station",
-    "world": "ELA",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 107100,
-    "price_wl": 107100,
-    "traded_with": null,
-    "timestamp": "2026-10-02T18:46:46.351Z"
-  },
-  {
     "player1": "QEMEKU",
     "player2": "Renting Station",
     "world": "8X8",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-02T18:50:56.241Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "chelix",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T18:52:48.663Z"
   }
 ]
