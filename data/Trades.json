@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SardenCPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:12:07.614Z"
-  },
-  {
-    "player1": "Archfiend",
-    "player2": "Buying Machine",
-    "world": "TOOKI",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-10-02T12:12:42.269Z"
-  },
-  {
     "player1": "Archfiend",
     "player2": "Buying Machine",
     "world": "TOOKI",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-02T12:13:28.079Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 55000,
+    "price_wl": 55000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:15:09.212Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkibidiFort",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 21000,
+    "price_wl": 21000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T12:15:09.233Z"
   }
 ]
