@@ -4,19 +4,6 @@
     "player2": "@MESA",
     "world": "AZSTA",
     "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-02T04:59:38.816Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "AZSTA",
-    "action": "BUY",
     "item_name": "Infinity Gems",
     "item_count": 167,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-10-02T05:03:33.141Z"
+  },
+  {
+    "player1": "@MESA",
+    "player2": "Buying Machine",
+    "world": "STOREPAPA",
+    "action": "SELL",
+    "item_name": "Fossil Prep Station",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-02T05:04:39.645Z"
   }
 ]
