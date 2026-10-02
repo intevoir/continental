@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Notherns",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "VIP Entrance",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-02T22:27:47.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TukangGeiger",
-    "world": "GEIGERZ",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-02T22:29:48.676Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TukangGeiger",
     "world": "GEIGERZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 25740,
     "traded_with": null,
     "timestamp": "2026-10-02T22:33:49.698Z"
+  },
+  {
+    "player1": "DJABARANO",
+    "player2": "Buying Machine",
+    "world": "FREEDNABFGS",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 129,
+    "p_name": "World Locks",
+    "p_count": 774,
+    "price_wl": 774,
+    "traded_with": null,
+    "timestamp": "2026-10-02T22:34:50.892Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Negy",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T22:34:57.867Z"
   }
 ]
