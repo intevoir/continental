@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "XNXXXXXNX",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Haunted Chemical",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 65,
-    "price_wl": 65,
-    "traded_with": null,
-    "timestamp": "2026-10-02T16:45:44.839Z"
-  },
-  {
     "player1": "ExJono",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-02T16:49:39.382Z"
+  },
+  {
+    "player1": "@Isayaak",
+    "player2": "Buying Machine",
+    "world": "VTT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-02T16:51:08.768Z"
   }
 ]
