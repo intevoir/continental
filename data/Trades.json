@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Aztecs",
-    "player2": "Buying Machine",
-    "world": "FREEBFG0",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1950,
-    "price_wl": 1950,
-    "traded_with": null,
-    "timestamp": "2026-10-02T04:52:08.532Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@MESA",
     "world": "BFGOUS",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "BfgDnaYes",
     "timestamp": "2026-10-02T04:55:05.923Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CloverSky",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Purple",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-02T04:55:33.564Z"
   }
 ]
