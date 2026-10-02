@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TwoSecond",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T02:54:08.594Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Andraisgoods",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 66000,
-    "price_wl": 66000,
-    "traded_with": null,
-    "timestamp": "2026-10-02T02:54:08.605Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TwoSecond1",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-10-02T02:57:09.600Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andraisgoods",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:58:09.377Z"
+  },
+  {
+    "player1": "ryvhen",
+    "player2": "Buying Machine",
+    "world": "1",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 83,
+    "p_name": "World Locks",
+    "p_count": 3735,
+    "price_wl": 3735,
+    "traded_with": null,
+    "timestamp": "2026-10-02T02:58:14.407Z"
   }
 ]
