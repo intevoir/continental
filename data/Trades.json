@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "bujanglapet",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Black Hair Dye",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-02T20:55:21.842Z"
-  },
-  {
     "player1": "DIKI1",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "inb",
     "timestamp": "2026-10-02T20:58:34.130Z"
+  },
+  {
+    "player1": "sihilisko",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 1160,
+    "price_wl": 1160,
+    "traded_with": null,
+    "timestamp": "2026-10-02T20:59:12.816Z"
   }
 ]
