@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "giku",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:29:07.410Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GilangSatya",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 3600,
-    "price_wl": 3600,
-    "traded_with": null,
-    "timestamp": "2026-10-02T11:29:10.893Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PekerjaRajin",
     "world": "CUAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17255,
     "traded_with": null,
     "timestamp": "2026-10-02T11:33:26.731Z"
+  },
+  {
+    "player1": "ZylenKai",
+    "player2": "Buying Machine",
+    "world": "RKM",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3600000,
+    "price_wl": 3600000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:33:52.006Z"
+  },
+  {
+    "player1": "SAMURAIN",
+    "player2": "Buying Machine",
+    "world": "YYF",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 14060,
+    "price_wl": 14060,
+    "traded_with": null,
+    "timestamp": "2026-10-02T11:34:05.562Z"
   }
 ]
