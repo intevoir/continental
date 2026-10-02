@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "etuls",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:46:07.447Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "tadung46",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 936,
     "traded_with": null,
     "timestamp": "2026-10-02T06:46:56.434Z"
+  },
+  {
+    "player1": "etuls",
+    "player2": "Buying Machine",
+    "world": "CUAN",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 234,
+    "p_name": "World Locks",
+    "p_count": 1170,
+    "price_wl": 1170,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:47:04.449Z"
   }
 ]
