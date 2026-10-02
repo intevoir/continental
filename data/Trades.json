@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lmahjong1",
-    "world": "BUTIK",
-    "action": "BUY",
-    "item_name": "Fire Essence",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-02T03:45:53.721Z"
-  },
-  {
     "player1": "THN",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-02T03:49:36.383Z"
+  },
+  {
+    "player1": "latips",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-02T03:50:45.167Z"
   }
 ]
