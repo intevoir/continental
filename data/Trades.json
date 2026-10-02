@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Qandaa",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Storage Box Xtreme - Level 1",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-02T00:08:33.509Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PallangRS",
     "world": "CHEAPKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 660,
     "traded_with": null,
     "timestamp": "2026-10-02T00:14:01.297Z"
+  },
+  {
+    "player1": "PallangRS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14200,
+    "price_wl": 14200,
+    "traded_with": null,
+    "timestamp": "2026-10-02T00:15:02.294Z"
   }
 ]
