@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "etuls",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 234,
-    "p_name": "World Locks",
-    "p_count": 936,
-    "price_wl": 936,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:46:56.434Z"
-  },
-  {
-    "player1": "etuls",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 234,
-    "p_name": "World Locks",
-    "p_count": 1170,
-    "price_wl": 1170,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:47:04.449Z"
-  },
-  {
     "player1": "Tekfis",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-10-02T06:50:13.575Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RajaBe",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Winter Freezer Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:51:04.216Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:51:04.225Z"
   }
 ]
