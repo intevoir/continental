@@ -1,31 +1,5 @@
 [
   {
-    "player1": "aliz",
-    "player2": "Buying Machine",
-    "world": "KPC",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:52:34.223Z"
-  },
-  {
-    "player1": "aliz",
-    "player2": "Buying Machine",
-    "world": "KPC",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-02T21:52:34.239Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MdominicXD",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 172,
     "traded_with": null,
     "timestamp": "2026-10-02T21:56:03.302Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ridwanpetani",
+    "world": "VENDIIN",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:56:34.995Z"
+  },
+  {
+    "player1": "ridwanpetani",
+    "player2": "Buying Machine",
+    "world": "VENDIIN",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-10-02T21:56:38.765Z"
   }
 ]
