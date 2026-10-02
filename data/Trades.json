@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "hydrexy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-02T06:14:12.136Z"
-  },
-  {
     "player1": "Fahrimanu",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 186,
     "traded_with": null,
     "timestamp": "2026-10-02T06:18:58.290Z"
+  },
+  {
+    "player1": "lobi",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-02T06:19:42.936Z"
   }
 ]
