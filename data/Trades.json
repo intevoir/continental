@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Citraku",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-02T19:09:03.491Z"
-  },
-  {
-    "player1": "DrToyaSkuy",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-02T19:09:17.325Z"
-  },
-  {
     "player1": "DrToyaSkuy",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 875,
     "traded_with": null,
     "timestamp": "2026-10-02T19:12:00.466Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YDAB",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Silk Vest - Red",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-02T19:12:29.825Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "laamons",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-02T19:12:58.292Z"
   }
 ]
