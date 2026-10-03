@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Z4X",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:28:44.549Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bugg",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-03T08:31:27.316Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nettoc",
+    "world": "BUYSLIPPERS",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:31:39.682Z"
   }
 ]
