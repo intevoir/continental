@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anything of Legend",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:53:20.311Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "hammer_270",
-    "world": "BASAH",
-    "action": "BUY",
-    "item_name": "Antidote",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:53:39.209Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "abelimut",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:54:12.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Rei104",
-    "world": "FREEAFK",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 210,
-    "p_name": "World Locks",
-    "p_count": 420,
-    "price_wl": 420,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:54:12.684Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Negy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-03T07:55:18.918Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rei104",
+    "world": "FREEAFK",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:55:43.726Z"
+  },
+  {
+    "player1": "Noixe",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:55:47.141Z"
+  },
+  {
+    "player1": "Adventure",
+    "player2": "Renting Station",
+    "world": "55",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:56:12.165Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rei104",
+    "world": "FREEAFK",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:56:12.182Z"
   }
 ]
