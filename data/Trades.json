@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fillia",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "White Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:26:55.838Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Z4X",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-03T08:30:27.270Z"
+  },
+  {
+    "player1": "cucuronaldo",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Golden Silk Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:31:27.316Z"
   }
 ]
