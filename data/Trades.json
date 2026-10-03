@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrEnalStore",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:20:22.518Z"
-  },
-  {
     "player1": "xinister []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-03T08:22:50.983Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bugg",
+    "world": "RENTCOOL",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:23:24.134Z"
   }
 ]
