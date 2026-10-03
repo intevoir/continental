@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@LoveIU",
-    "world": "AULA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 3500,
-    "price_wl": 3500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:55:47.923Z"
-  },
-  {
     "player1": "@Garmin",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 16000,
     "traded_with": null,
     "timestamp": "2026-10-03T15:00:50.147Z"
+  },
+  {
+    "player1": "sihilisko",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-10-03T15:01:08.536Z"
   }
 ]
