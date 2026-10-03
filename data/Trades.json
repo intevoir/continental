@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBonsV",
-    "world": "LMSK",
-    "action": "BUY",
-    "item_name": "Red Block",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-03T02:18:57.185Z"
-  },
-  {
     "player1": "Andras",
     "player2": "Buying Machine",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-03T02:20:17.353Z"
+  },
+  {
+    "player1": "MrTiger",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-03T02:20:49.819Z"
   }
 ]
