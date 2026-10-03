@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZemahStore",
-    "world": "CHAMPKU",
-    "action": "BUY",
-    "item_name": "Golden Ticket",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 50750,
-    "price_wl": 50750,
-    "traded_with": null,
-    "timestamp": "2026-10-03T09:32:57.573Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tanker [ELITE]",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12600,
     "traded_with": null,
     "timestamp": "2026-10-03T09:36:51.302Z"
+  },
+  {
+    "player1": "Jamet",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 135,
+    "p_name": "World Locks",
+    "p_count": 5940,
+    "price_wl": 5940,
+    "traded_with": null,
+    "timestamp": "2026-10-03T09:38:10.234Z"
   }
 ]
