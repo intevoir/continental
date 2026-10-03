@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OppanAja",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:41:58.441Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KINGKONGG",
-    "world": "WEI",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:42:14.562Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BrokenHearts",
     "world": "FREEBFG0",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Kainyx",
     "timestamp": "2026-10-03T14:42:44.144Z"
+  },
+  {
+    "player1": "XyrF",
+    "player2": "Buying Machine",
+    "world": "GEIGERPAP",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:42:48.385Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KINGKONGG",
+    "world": "WEI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:43:13.847Z"
   }
 ]
