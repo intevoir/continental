@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 2240,
-    "price_wl": 2240,
-    "traded_with": null,
-    "timestamp": "2026-10-03T09:39:52.830Z"
-  },
-  {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "SHREDDER 5000",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-03T09:44:54.309Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Becker",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-03T09:44:58.504Z"
   }
 ]
