@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JerryTakamora",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Wooden Platform",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T11:47:15.217Z"
-  },
-  {
-    "player1": "rajakecil",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T11:47:39.119Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rajakecil",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-03T11:48:55.532Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Renting Station",
+    "world": "FREEBFGBOS",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-03T11:49:40.866Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MassDerr",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T11:49:40.875Z"
   }
 ]
