@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T16:16:23.842Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "YSLY",
-    "world": "FREEAFK",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 10560,
-    "price_wl": 10560,
-    "traded_with": null,
-    "timestamp": "2026-10-03T16:16:32.114Z"
-  },
-  {
     "player1": "@NekoZEN",
     "player2": "Buying Machine",
     "world": "PG",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "JeckHannma",
     "timestamp": "2026-10-03T16:17:53.946Z"
+  },
+  {
+    "player1": "JANLYNN",
+    "player2": "Buying Machine",
+    "world": "BFGREADY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-10-03T16:17:57.458Z"
+  },
+  {
+    "player1": "irene",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-10-03T16:18:25.796Z"
   }
 ]
