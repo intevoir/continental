@@ -5,19 +5,6 @@
     "world": "SET",
     "action": "BUY",
     "item_name": "Open Sign",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T01:58:37.821Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Open Sign",
     "item_count": 5,
     "p_name": "World Locks",
     "p_count": 250,
@@ -128,5 +115,18 @@
     "price_wl": 15000,
     "traded_with": null,
     "timestamp": "2026-10-03T02:03:59.360Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RaaKun",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-03T02:04:55.205Z"
   }
 ]
