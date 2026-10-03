@@ -1,18 +1,5 @@
 [
   {
-    "player1": "backb",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:42:44.827Z"
-  },
-  {
     "player1": "backbro",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-10-03T08:47:32.669Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "WILDANPAA",
+    "world": "PAPI",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:47:40.685Z"
   }
 ]
