@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MatahariCps",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-03T00:38:52.084Z"
-  },
-  {
-    "player1": "DanzoS",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T00:38:57.474Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FabzCPS",
     "world": "BUTIK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-03T00:41:27.079Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FabzCPS",
+    "world": "BUTIK",
+    "action": "BUY",
+    "item_name": "Black Eye Drops",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-03T00:42:25.632Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HisaSTECU",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-10-03T00:42:53.575Z"
   }
 ]
