@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JeckHannma",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:58:13.700Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "0a0a0",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:58:13.710Z"
-  },
-  {
     "player1": "VVVO",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-03T07:59:42.693Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BintangRacingTe",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Red Contact Lens",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:00:14.266Z"
+  },
+  {
+    "player1": "0a0a0",
+    "player2": "Renting Station",
+    "world": "55",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:00:14.289Z"
   }
 ]
