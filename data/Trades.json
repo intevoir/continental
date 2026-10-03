@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Skavilin",
-    "world": "SHOPY",
-    "action": "BUY",
-    "item_name": "Ancient Altar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:08:39.096Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GripSickle",
-    "world": "AGE",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:08:58.476Z"
-  },
-  {
     "player1": "JihanTreks",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "SveZ of Legend [PRO ] [] []",
     "timestamp": "2026-10-03T07:11:32.666Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pipell",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:12:32.637Z"
+  },
+  {
+    "player1": "GilangSatya",
+    "player2": "Renting Station",
+    "world": "PAS",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:12:32.694Z"
   }
 ]
