@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TIDAR",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "BlueMan's Crystal Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-03T13:04:57.981Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "pewtopia",
     "world": "USE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-10-03T13:10:01.159Z"
+  },
+  {
+    "player1": "PeterParkir",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-03T13:10:09.154Z"
   }
 ]
