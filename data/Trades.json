@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Elpiji2kg",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:51:01.647Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HAWZ",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Public Lava",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:51:33.906Z"
-  },
-  {
-    "player1": "Miaaw",
-    "player2": "Renting Station",
-    "world": "AULA",
-    "action": "RENT",
-    "item_name": "Legendbot-009",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:51:46.011Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KINGHIGH",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-03T08:53:53.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HAWZ",
+    "world": "BUYAIR",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:54:42.190Z"
+  },
+  {
+    "player1": "Kadatahu",
+    "player2": "Buying Machine",
+    "world": "GEIGERPAP",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 28,
+    "p_name": "World Locks",
+    "p_count": 5040,
+    "price_wl": 5040,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:54:56.242Z"
+  },
+  {
+    "player1": "kakaroto",
+    "player2": "Buying Machine",
+    "world": "KUYBFG",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:55:02.802Z"
   }
 ]
