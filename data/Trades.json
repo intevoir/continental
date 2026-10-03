@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Andras",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-03T02:18:52.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gitto",
-    "world": "DNAJAVA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T02:18:52.663Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrBonsV",
     "world": "LMSK",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-03T02:19:49.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gitto",
+    "world": "DNAJAVA",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-03T02:19:53.979Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBonsV",
+    "world": "VENDBO",
+    "action": "BUY",
+    "item_name": "White Block",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-03T02:20:17.353Z"
   }
 ]
