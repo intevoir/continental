@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Rdooh",
-    "world": "KAYUBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:15:42.105Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jackyntul",
-    "world": "RINNSTORE",
-    "action": "BUY",
-    "item_name": "Mariachi Guitar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:15:42.116Z"
-  },
-  {
     "player1": "@Epyc",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-03T14:16:58.653Z"
+  },
+  {
+    "player1": "BrokenHearts",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:17:33.140Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Kaiizie[JASAPACAR] []",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Holographic Sign",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:17:33.144Z"
   }
 ]
