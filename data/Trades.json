@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "RIPVEND",
-    "action": "BUY",
-    "item_name": "Scarlet Rider's Bike",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:23:39.624Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PallSatu",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:23:59.449Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PallSatu",
     "world": "CROT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-03T07:26:29.505Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZEWOX",
+    "world": "PAKAIAN",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:27:03.155Z"
+  },
+  {
+    "player1": "pipell",
+    "player2": "Buying Machine",
+    "world": "GEIGERPAP",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:27:29.497Z"
   }
 ]
