@@ -1,31 +1,5 @@
 [
   {
-    "player1": "stns",
-    "player2": "Buying Machine",
-    "world": "FREEBFG0",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1300,
-    "price_wl": 1300,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:45:44.965Z"
-  },
-  {
-    "player1": "JAMET",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Renting Station",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-03T14:46:15.671Z"
-  },
-  {
     "player1": "ryvhen",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 3250,
     "traded_with": null,
     "timestamp": "2026-10-03T14:48:11.394Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KINGKONGG",
+    "world": "WEI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:48:21.607Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ROYALBFG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-03T14:48:25.398Z"
   }
 ]
