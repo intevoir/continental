@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "RIPVEND",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:22:48.209Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "RIPVEND",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-03T07:22:51.522Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "jengkii",
     "world": "BFGP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-10-03T07:24:06.849Z"
+  },
+  {
+    "player1": "BOCIKLOOPY",
+    "player2": "Buying Machine",
+    "world": "BFGNEPO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 47,
+    "p_name": "World Locks",
+    "p_count": 29610,
+    "price_wl": 29610,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:24:40.518Z"
+  },
+  {
+    "player1": "Cieloo",
+    "player2": "Renting Station",
+    "world": "XSR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-03T07:24:48.552Z"
   }
 ]
