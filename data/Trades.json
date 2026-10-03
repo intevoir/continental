@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dheys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 720,
-    "price_wl": 720,
-    "traded_with": null,
-    "timestamp": "2026-10-03T01:44:02.415Z"
-  },
-  {
     "player1": "cepldeath",
     "player2": "Renting Station",
     "world": "123MRAY",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-03T01:48:02.850Z"
+  },
+  {
+    "player1": "@SELL",
+    "player2": "Buying Machine",
+    "world": "PASARAN",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-03T01:48:33.351Z"
   }
 ]
