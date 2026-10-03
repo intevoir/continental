@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "purukuda",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:35:27.961Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xars",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-03T08:35:44.517Z"
-  },
-  {
     "player1": "lanciaugt",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-03T08:41:38.081Z"
+  },
+  {
+    "player1": "THN",
+    "player2": "Buying Machine",
+    "world": "BFGID",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:42:41.554Z"
+  },
+  {
+    "player1": "backb",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-03T08:42:44.827Z"
   }
 ]
