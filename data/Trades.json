@@ -1,18 +1,5 @@
 [
   {
-    "player1": "pipell",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-03T12:06:48.262Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Sycnaa",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 16250,
     "traded_with": null,
     "timestamp": "2026-10-03T12:09:48.951Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ramsx5",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-03T12:10:03.722Z"
   }
 ]
