@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "backbro",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-03T13:03:20.401Z"
-  },
-  {
     "player1": "etuls",
     "player2": "Buying Machine",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-03T13:05:27.707Z"
+  },
+  {
+    "player1": "Whops []",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Sunset Cape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-03T13:05:58.932Z"
   }
 ]
