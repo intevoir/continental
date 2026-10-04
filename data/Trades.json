@@ -5,32 +5,6 @@
     "world": "BLOCKMO",
     "action": "BUY",
     "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-04T16:52:39.758Z"
-  },
-  {
-    "player1": "kurunanalt2",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 46000,
-    "price_wl": 46000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T16:52:50.192Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "pendobrak",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
     "item_count": 250,
     "p_name": "World Locks",
     "p_count": 1250,
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-04T16:56:17.713Z"
+  },
+  {
+    "player1": "fer77 []",
+    "player2": "AkuPemula",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "AkuPemula",
+    "timestamp": "2026-10-04T16:57:47.657Z"
+  },
+  {
+    "player1": "AkuPemula",
+    "player2": "fer77 []",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "fer77 []",
+    "timestamp": "2026-10-04T16:57:47.661Z"
   }
 ]
