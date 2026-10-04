@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrALi",
-    "world": "RIO",
-    "action": "BUY",
-    "item_name": "Golden Sunset Cape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 70000,
-    "price_wl": 70000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T06:52:20.460Z"
-  },
-  {
     "player1": "AuraSycn",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-04T06:58:50.887Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AuraSycn",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-04T06:59:52.262Z"
   }
 ]
