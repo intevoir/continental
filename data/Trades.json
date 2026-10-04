@@ -1,31 +1,5 @@
 [
   {
-    "player1": "killcepl",
-    "player2": "Renting Station",
-    "world": "123MRAY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16065,
-    "price_wl": 16065,
-    "traded_with": null,
-    "timestamp": "2026-10-04T18:43:55.912Z"
-  },
-  {
-    "player1": "boxboxbox",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-04T18:44:37.392Z"
-  },
-  {
     "player1": "MaxVerstapen",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-04T18:48:39.512Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "killcepl",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 190,
+    "p_name": "World Locks",
+    "p_count": 760,
+    "price_wl": 760,
+    "traded_with": null,
+    "timestamp": "2026-10-04T18:49:01.606Z"
+  },
+  {
+    "player1": "kurunanalt2",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 27000,
+    "price_wl": 27000,
+    "traded_with": null,
+    "timestamp": "2026-10-04T18:49:04.151Z"
   }
 ]
