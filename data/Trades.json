@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-04T23:23:13.623Z"
-  },
-  {
-    "player1": "DRYRTOMRAY",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-04T23:23:17.877Z"
-  },
-  {
-    "player1": "DRYRTOMRAY",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-04T23:27:09.857Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Netherreap",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-04T23:28:10.588Z"
+  },
+  {
+    "player1": "amilys",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-10-04T23:28:28.303Z"
   }
 ]
