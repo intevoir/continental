@@ -1,31 +1,5 @@
 [
   {
-    "player1": "JejeLampruy",
-    "player2": "Buying Machine",
-    "world": "AULA",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:28:39.295Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Velmora",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:28:46.524Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ThePowerDyks",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-04T14:29:43.941Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Voxel",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 220,
+    "p_name": "World Locks",
+    "p_count": 2200,
+    "price_wl": 2200,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:30:20.526Z"
+  },
+  {
+    "player1": "@10rb",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:30:24.469Z"
   }
 ]
