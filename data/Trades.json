@@ -1,18 +1,5 @@
 [
   {
-    "player1": "inisot",
-    "player2": "Buying Machine",
-    "world": "VIT",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-04T03:02:02.554Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zhakyCB",
     "world": "OUTFIT",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-10-04T03:05:35.310Z"
+  },
+  {
+    "player1": "inisot",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-04T03:06:03.404Z"
   }
 ]
