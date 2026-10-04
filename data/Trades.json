@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MTK",
-    "player2": "Buying Machine",
-    "world": "MIKEBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1280,
-    "price_wl": 1280,
-    "traded_with": null,
-    "timestamp": "2026-10-04T03:54:20.712Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Terminatoe",
     "world": "DONGKAP",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-04T03:58:48.854Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Terminatoe",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Holographic Sign",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-04T03:59:25.930Z"
   }
 ]
