@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "GiiBee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:20:15.055Z"
-  },
-  {
-    "player1": "leopaw",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:20:15.080Z"
-  },
-  {
     "player1": "zaaya",
     "player2": "Renting Station",
     "world": "BFGSPK",
@@ -128,5 +102,31 @@
     "price_wl": 55000,
     "traded_with": null,
     "timestamp": "2026-10-04T14:21:15.033Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "answer",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:21:18.950Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Muadzay",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 27600,
+    "price_wl": 27600,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:21:46.174Z"
   }
 ]
