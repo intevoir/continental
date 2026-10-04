@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ExTrade",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-04T17:44:47.342Z"
-  },
-  {
-    "player1": "YSLY",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-04T17:45:14.116Z"
-  },
-  {
     "player1": "TBagwell",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-04T17:46:38.507Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SirCringe",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-04T17:47:30.306Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kyoruuu",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 85,
+    "p_name": "World Locks",
+    "p_count": 340,
+    "price_wl": 340,
+    "traded_with": null,
+    "timestamp": "2026-10-04T17:47:42.475Z"
   }
 ]
