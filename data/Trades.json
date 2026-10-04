@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZNOXX",
-    "world": "BUYMOONCAKE",
-    "action": "BUY",
-    "item_name": "E-Z Cook Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-04T22:40:13.685Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kuupu",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-04T22:42:53.160Z"
+  },
+  {
+    "player1": "SwillHouse []",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 85,
+    "price_wl": 85,
+    "traded_with": null,
+    "timestamp": "2026-10-04T22:44:07.863Z"
   }
 ]
