@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:56:02.058Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SkieeRto",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-04T14:56:30.937Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Velmora",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2100,
     "traded_with": null,
     "timestamp": "2026-10-04T14:57:35.472Z"
+  },
+  {
+    "player1": "KASILAS",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:58:06.660Z"
+  },
+  {
+    "player1": "Kkcou",
+    "player2": "Buying Machine",
+    "world": "FREEBFGDNASU",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:58:33.629Z"
   }
 ]
