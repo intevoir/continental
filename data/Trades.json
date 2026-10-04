@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RyueStrong",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:47:17.097Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RyueStrong",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "Galactic Destructor - Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:47:25.961Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "hetaosz",
     "world": "TOKOC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-10-04T05:50:17.629Z"
+  },
+  {
+    "player1": "pipell",
+    "player2": "Buying Machine",
+    "world": "ETULS123",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:50:53.932Z"
+  },
+  {
+    "player1": "pipell",
+    "player2": "Buying Machine",
+    "world": "ETULS123",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:51:17.781Z"
   }
 ]
