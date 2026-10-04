@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Leopaw",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDANA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 108,
-    "price_wl": 108,
-    "traded_with": null,
-    "timestamp": "2026-10-04T13:41:24.270Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nou",
     "world": "SHOPL",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-04T13:42:28.748Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZNOXX",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Neptune's Trident",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-04T13:43:10.932Z"
   }
 ]
