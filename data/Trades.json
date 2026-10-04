@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lumna",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-04T13:55:20.914Z"
-  },
-  {
     "player1": "damarzyz",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 4760,
     "traded_with": null,
     "timestamp": "2026-10-04T13:57:06.833Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lumna",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-10-04T13:57:22.862Z"
   }
 ]
