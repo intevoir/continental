@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Jate",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 110000,
-    "price_wl": 110000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T16:38:08.735Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "tadung46",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Farmer Slave",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-04T16:38:23.888Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RavenA",
     "world": "BUYCSN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 22925,
     "traded_with": null,
     "timestamp": "2026-10-04T16:39:29.480Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZemahStore",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-04T16:40:10.109Z"
+  },
+  {
+    "player1": "DrixGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 57,
+    "p_name": "World Locks",
+    "p_count": 35340,
+    "price_wl": 35340,
+    "traded_with": null,
+    "timestamp": "2026-10-04T16:40:10.128Z"
   }
 ]
