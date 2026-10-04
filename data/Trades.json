@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DarTws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 64,
-    "p_name": "World Locks",
-    "p_count": 2240,
-    "price_wl": 2240,
-    "traded_with": null,
-    "timestamp": "2026-10-04T23:47:14.244Z"
-  },
-  {
-    "player1": "DarTws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 92,
-    "p_name": "World Locks",
-    "p_count": 2760,
-    "price_wl": 2760,
-    "traded_with": null,
-    "timestamp": "2026-10-04T23:47:40.456Z"
-  },
-  {
     "player1": "DRYRTOMRAY",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-04T23:51:12.436Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DRYRTOMRAY",
+    "world": "BUYDTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-04T23:51:49.175Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GEONKENNEDY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 42000,
+    "price_wl": 42000,
+    "traded_with": null,
+    "timestamp": "2026-10-04T23:52:11.544Z"
   }
 ]
