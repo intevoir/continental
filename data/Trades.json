@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZNOXX",
-    "world": "BUYPICKAXE",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T20:41:38.030Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lumna",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Builder's Lock",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-04T20:41:41.397Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lumna",
     "world": "VENDSHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 19040,
     "traded_with": null,
     "timestamp": "2026-10-04T20:43:50.918Z"
+  },
+  {
+    "player1": "RappWasHere",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-04T20:44:24.271Z"
+  },
+  {
+    "player1": "RappWasHere",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Antagon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-04T20:44:45.178Z"
   }
 ]
