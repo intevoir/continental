@@ -4,19 +4,6 @@
     "player2": "PiaaBav",
     "world": "RAJABFG",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-10-04T13:31:53.232Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PiaaBav",
-    "world": "RAJABFG",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-10-04T13:32:57.529Z"
+  },
+  {
+    "player1": "Leopaw",
+    "player2": "Buying Machine",
+    "world": "DANBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 42,
+    "price_wl": 42,
+    "traded_with": null,
+    "timestamp": "2026-10-04T13:34:19.173Z"
   }
 ]
