@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Seist",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-04T15:46:43.142Z"
-  },
-  {
     "player1": "BurJiro",
     "player2": "Renting Station",
     "world": "INTERN",
@@ -128,5 +115,18 @@
     "price_wl": 528,
     "traded_with": null,
     "timestamp": "2026-10-04T15:50:28.759Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ONDO []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 432,
+    "price_wl": 432,
+    "traded_with": null,
+    "timestamp": "2026-10-04T15:50:55.065Z"
   }
 ]
