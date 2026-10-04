@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Crichton",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-04T19:33:57.165Z"
-  },
-  {
-    "player1": "tadung46",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 620,
-    "price_wl": 620,
-    "traded_with": null,
-    "timestamp": "2026-10-04T19:35:19.045Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Yeve",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-10-04T19:47:17.803Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tadung46",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-04T19:47:59.848Z"
+  },
+  {
+    "player1": "tadung46",
+    "player2": "Buying Machine",
+    "world": "DUNI",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 205,
+    "p_name": "World Locks",
+    "p_count": 820,
+    "price_wl": 820,
+    "traded_with": null,
+    "timestamp": "2026-10-04T19:48:20.464Z"
   }
 ]
