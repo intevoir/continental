@@ -1,31 +1,5 @@
 [
   {
-    "player1": "miserypath",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-04T13:08:47.365Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "QEMEKU",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 480,
-    "price_wl": 480,
-    "traded_with": null,
-    "timestamp": "2026-10-04T13:08:47.379Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zdee",
     "world": "BFGP",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-04T13:11:12.840Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZNOXX",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-04T13:11:44.683Z"
+  },
+  {
+    "player1": "Zdee",
+    "player2": "Buying Machine",
+    "world": "BFGP",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 121,
+    "p_name": "World Locks",
+    "p_count": 726,
+    "price_wl": 726,
+    "traded_with": null,
+    "timestamp": "2026-10-04T13:11:44.694Z"
   }
 ]
