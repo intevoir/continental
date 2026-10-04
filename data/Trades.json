@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dixxly",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 2600,
-    "price_wl": 2600,
-    "traded_with": null,
-    "timestamp": "2026-10-04T22:10:39.029Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wawannnn",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-04T22:11:54.629Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "wawannnn",
     "world": "FREEBFGBOS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-10-04T22:16:55.450Z"
+  },
+  {
+    "player1": "Elpis",
+    "player2": "Buying Machine",
+    "world": "VENDIIN",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 570,
+    "price_wl": 570,
+    "traded_with": null,
+    "timestamp": "2026-10-04T22:19:51.378Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lumna",
+    "world": "MOM",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-04T22:20:02.533Z"
   }
 ]
