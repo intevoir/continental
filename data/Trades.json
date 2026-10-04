@@ -1,18 +1,5 @@
 [
   {
-    "player1": "stns",
-    "player2": "Lunnnnnnn of Legend",
-    "world": "INTERN",
-    "action": "TRADE",
-    "item_name": "Black ATM Machine",
-    "item_count": 5,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Lunnnnnnn of Legend",
-    "timestamp": "2026-10-04T14:34:21.986Z"
-  },
-  {
     "player1": "Lunnnnnnn of Legend",
     "player2": "stns",
     "world": "INTERN",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-04T14:35:33.670Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yudisium",
+    "world": "BUYRED",
+    "action": "BUY",
+    "item_name": "Firehouse",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-04T14:36:21.843Z"
   }
 ]
