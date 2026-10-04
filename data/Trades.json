@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-04T01:12:33.549Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XbagiX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-04T01:12:36.747Z"
-  },
-  {
     "player1": "WILDANPAA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "TukangGeiger",
     "timestamp": "2026-10-04T01:14:46.709Z"
+  },
+  {
+    "player1": "PallangRS",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-10-04T01:15:39.044Z"
+  },
+  {
+    "player1": "PallangRS",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-04T01:15:46.241Z"
   }
 ]
