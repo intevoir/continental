@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TukangRamal",
-    "world": "STOREC",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:19:20.351Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ibnuxhk",
-    "world": "SHOPPING",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:19:27.723Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bangnix",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-04T05:21:08.974Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ibnuxhk",
+    "world": "SHOPPING",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:21:15.944Z"
+  },
+  {
+    "player1": "Aoii",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:21:38.345Z"
   }
 ]
