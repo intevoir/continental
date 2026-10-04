@@ -2,32 +2,6 @@
   {
     "player1": "pipell",
     "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 540,
-    "price_wl": 540,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:51:49.967Z"
-  },
-  {
-    "player1": "pipell",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-04T05:52:18.525Z"
-  },
-  {
-    "player1": "pipell",
-    "player2": "Buying Machine",
     "world": "GEIGERO",
     "action": "SELL",
     "item_name": "Dead Geiger Counter",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-04T05:56:19.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "amilys",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:57:30.792Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDUPPING",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-04T05:57:42.374Z"
   }
 ]
