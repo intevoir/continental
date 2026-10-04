@@ -1,18 +1,5 @@
 [
   {
-    "player1": "lowiss",
-    "player2": "Buying Machine",
-    "world": "LOWIES",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 101,
-    "p_name": "World Locks",
-    "p_count": 101,
-    "price_wl": 101,
-    "traded_with": null,
-    "timestamp": "2026-10-04T02:40:15.185Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FungpaoCPS",
     "world": "AMAZON",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-04T02:42:18.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nuansa",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 680,
+    "price_wl": 680,
+    "traded_with": null,
+    "timestamp": "2026-10-04T02:43:09.372Z"
   }
 ]
