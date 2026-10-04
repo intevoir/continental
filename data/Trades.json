@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JustRaden",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-04T19:43:07.144Z"
-  },
-  {
     "player1": "PRABOWO",
     "player2": "Buying Machine",
     "world": "BFGNOT",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-04T19:49:22.652Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JustRaden",
+    "world": "CROT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-04T19:50:00.177Z"
   }
 ]
