@@ -1,18 +1,5 @@
 [
   {
-    "player1": "tadung46",
-    "player2": "Buying Machine",
-    "world": "DUNI",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 205,
-    "p_name": "World Locks",
-    "p_count": 820,
-    "price_wl": 820,
-    "traded_with": null,
-    "timestamp": "2026-10-04T19:48:20.464Z"
-  },
-  {
     "player1": "JustRaden",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-04T19:51:28.611Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "tadung46",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-04T19:52:25.854Z"
   }
 ]
