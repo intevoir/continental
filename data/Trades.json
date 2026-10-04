@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kyoruuu",
-    "world": "STORE18",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-04T17:03:52.609Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wawannnn",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-10-04T17:04:45.752Z"
-  },
-  {
     "player1": "DrEdenn",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-04T17:06:20.752Z"
+  },
+  {
+    "player1": "udine",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-04T17:06:32.860Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Okatt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-04T17:06:48.839Z"
   }
 ]
