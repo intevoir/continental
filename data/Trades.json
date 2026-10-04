@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "pipell",
-    "world": "GEIGERO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-04T02:11:53.286Z"
-  },
-  {
-    "player1": "Kinema",
-    "player2": "Renting Station",
-    "world": "7U",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15113,
-    "price_wl": 15113,
-    "traded_with": null,
-    "timestamp": "2026-10-04T02:11:53.308Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Azoid",
     "world": "JCJD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15113,
     "traded_with": null,
     "timestamp": "2026-10-04T02:14:31.895Z"
+  },
+  {
+    "player1": "ExTrade",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-04T02:15:23.640Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FALKERI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-04T02:15:37.591Z"
   }
 ]
