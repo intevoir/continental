@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BallXy2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-05T19:16:14.658Z"
-  },
-  {
     "player1": "demonzps",
     "player2": "Renting Station",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-05T19:24:55.620Z"
+  },
+  {
+    "player1": "@Jate",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 100800,
+    "price_wl": 100800,
+    "traded_with": null,
+    "timestamp": "2026-10-05T19:30:58.822Z"
   }
 ]
