@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JerryTakamora",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Neptune's Weather Machine - Atlantis",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-05T13:11:23.868Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JerryTakamora",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Fossil Brush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T13:11:57.348Z"
-  },
-  {
     "player1": "Citraku",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-05T13:23:01.137Z"
+  },
+  {
+    "player1": "shopw",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:23:25.503Z"
+  },
+  {
+    "player1": "shopw",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:23:39.912Z"
   }
 ]
