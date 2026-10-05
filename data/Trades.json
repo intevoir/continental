@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "iglp",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-05T18:33:41.137Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "naizceng",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-05T18:34:55.865Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "naizceng",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-05T18:38:01.499Z"
+  },
+  {
+    "player1": "Okattt",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T18:38:39.887Z"
+  },
+  {
+    "player1": "Tyroxx",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-05T18:38:39.903Z"
   }
 ]
