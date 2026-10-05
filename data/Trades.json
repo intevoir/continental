@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Siotan",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-05T15:15:17.396Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vernoidx",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 46900,
-    "price_wl": 46900,
-    "traded_with": null,
-    "timestamp": "2026-10-05T15:15:58.969Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vernoidx",
     "world": "CUAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-05T15:22:01.905Z"
+  },
+  {
+    "player1": "FreeFlre",
+    "player2": "Kainyx",
+    "world": "VO7",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 53,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kainyx",
+    "timestamp": "2026-10-05T15:22:57.827Z"
+  },
+  {
+    "player1": "Kainyx",
+    "player2": "FreeFlre",
+    "world": "VO7",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "FreeFlre",
+    "timestamp": "2026-10-05T15:22:57.829Z"
   }
 ]
