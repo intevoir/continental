@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOPX",
-    "action": "BUY",
-    "item_name": "Royal Nocturnal Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T07:36:06.831Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Slipnier",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Thingamajig",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-05T07:36:37.288Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DRYRTOMRAY",
     "world": "BUYDTA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 465,
     "traded_with": null,
     "timestamp": "2026-10-05T07:41:23.668Z"
+  },
+  {
+    "player1": "DRYRTOMRAY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-05T07:42:23.647Z"
+  },
+  {
+    "player1": "DRYRTOMRAY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-05T07:42:23.651Z"
   }
 ]
