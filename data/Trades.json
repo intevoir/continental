@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZNOXX",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Beowulf's Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:06:38.986Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Notherns",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-10-05T21:11:40.456Z"
+  },
+  {
+    "player1": "WDYZ",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:12:08.865Z"
   }
 ]
