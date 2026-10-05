@@ -4,19 +4,6 @@
     "player2": "VEDDSHOP",
     "world": "SHOP1",
     "action": "BUY",
-    "item_name": "Athar's Warrior Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:34:51.783Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP1",
-    "action": "BUY",
     "item_name": "Neon Wings Shirt",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-05T21:41:57.026Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 3450,
+    "price_wl": 3450,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:45:17.833Z"
   }
 ]
