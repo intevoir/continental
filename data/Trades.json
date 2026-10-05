@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FebFavBoy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-05T06:53:29.933Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PawKing",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 140,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-05T06:53:40.760Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PawKing",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-05T06:57:39.064Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "N4",
+    "action": "BUY",
+    "item_name": "Possessing Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 19,
+    "price_wl": 19,
+    "traded_with": null,
+    "timestamp": "2026-10-05T06:58:20.685Z"
+  },
+  {
+    "player1": "FalardFive",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-05T06:58:49.349Z"
   }
 ]
