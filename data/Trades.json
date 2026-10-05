@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "ZNOXX",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 180,
-    "p_name": "World Locks",
-    "p_count": 1800,
-    "price_wl": 1800,
-    "traded_with": null,
-    "timestamp": "2026-10-05T20:41:28.901Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZNOXX",
     "world": "PLAZA",
     "action": "BUY",
     "item_name": "Space Rabbit",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-05T20:48:38.972Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZNOXX",
+    "world": "SELLALIEN",
+    "action": "BUY",
+    "item_name": "Space Mouse",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-05T20:50:43.445Z"
   }
 ]
