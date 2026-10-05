@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RealB2 [GACOR]",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heart Shirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-05T01:03:15.241Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kailyynn",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-05T01:06:17.396Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrYunShan",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-05T01:07:09.110Z"
   }
 ]
