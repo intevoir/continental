@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "QueenGirl",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Baby Bunny",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:56:51.273Z"
-  },
-  {
     "player1": "QueenGirl",
     "player2": "Renting Station",
     "world": "BFGFIX",
@@ -128,5 +115,18 @@
     "price_wl": 434,
     "traded_with": null,
     "timestamp": "2026-10-05T13:00:30.928Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MantaV",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:00:52.889Z"
   }
 ]
