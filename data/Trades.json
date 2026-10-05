@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BobMarlay [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Galaxy Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T22:56:47.802Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NNBC",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-10-05T22:58:26.279Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NNBC",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-10-05T23:10:31.582Z"
+  },
+  {
+    "player1": "MTK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 5850,
+    "price_wl": 5850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T23:11:32.253Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BobMarlay [ELITE]",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T23:11:32.268Z"
   }
 ]
