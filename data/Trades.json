@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Snoozly",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:13:49.330Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "iglp",
     "world": "CROT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-05T12:17:47.928Z"
+  },
+  {
+    "player1": "shopw",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Super Fireworks",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:17:54.985Z"
   }
 ]
