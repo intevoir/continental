@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBaratts",
-    "player2": "Buying Machine",
-    "world": "FREEBFG0",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-10-05T10:29:08.208Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "amilys",
     "world": "TOKOC",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-05T10:38:42.123Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "habs",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T10:39:23.416Z"
   }
 ]
