@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kevvio",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-05T02:05:26.733Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Snoozly",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-05T02:10:20.587Z"
+  },
+  {
+    "player1": "NessFX",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Kittys Hell Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-05T02:11:31.443Z"
   }
 ]
