@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-05T09:12:29.926Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrixGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T09:12:33.524Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrixGT",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-05T09:14:30.539Z"
+  },
+  {
+    "player1": "alenx969",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T09:15:32.049Z"
+  },
+  {
+    "player1": "Rexy24",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T09:15:32.064Z"
   }
 ]
