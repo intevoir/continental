@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Sakuch1",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-10-05T16:04:27.950Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BalikpapanUtara",
     "world": "DOOR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-05T16:07:41.989Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VSH",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-05T16:09:54.465Z"
   }
 ]
