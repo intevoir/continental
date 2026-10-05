@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ibull",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-05T01:37:22.003Z"
-  },
-  {
-    "player1": "PallangRS",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-05T01:37:51.751Z"
-  },
-  {
     "player1": "PallangRS",
     "player2": "Renting Station",
     "world": "NEPTUNERENT",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-05T01:41:23.475Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Liim",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-05T01:42:23.479Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Liim",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T01:42:34.241Z"
   }
 ]
