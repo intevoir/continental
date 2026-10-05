@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMoige",
-    "world": "PAS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 5940,
-    "price_wl": 5940,
-    "traded_with": null,
-    "timestamp": "2026-10-05T04:08:14.058Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "wawax",
     "world": "FREE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-05T04:13:36.199Z"
+  },
+  {
+    "player1": "DrToyaSkuy",
+    "player2": "Buying Machine",
+    "world": "B1S",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350000,
+    "price_wl": 350000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T04:16:23.993Z"
   }
 ]
