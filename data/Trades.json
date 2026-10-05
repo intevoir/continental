@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "TesakitiOlehMu",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 18000,
-    "price_wl": 18000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T16:35:34.129Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTankers",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-05T16:36:33.010Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Hollycps",
     "world": "SELLVENDS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-10-05T16:39:24.812Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hollycps",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T16:39:40.940Z"
+  },
+  {
+    "player1": "DARS",
+    "player2": "Renting Station",
+    "world": "8X8",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T16:39:44.241Z"
   }
 ]
