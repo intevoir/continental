@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZNOXX",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lembuswana Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:16:43.269Z"
-  },
-  {
     "player1": "VEDDSHOP",
     "player2": "Buying Machine",
     "world": "FREEBFGDANA",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-05T21:19:58.723Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZNOXX",
+    "world": "CHEAP",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:20:45.589Z"
   }
 ]
