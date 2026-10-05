@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Gaskan",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-05T10:46:32.730Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wawax",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-05T10:46:32.746Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "wawax",
     "world": "BFGNOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-10-05T10:47:16.520Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gaskan",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Alaskan King Crab Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-05T10:47:19.947Z"
+  },
+  {
+    "player1": "Dwii",
+    "player2": "Renting Station",
+    "world": "SONG1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-10-05T10:47:31.326Z"
   }
 ]
