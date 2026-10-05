@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ElpijiNoJudi",
-    "world": "CHEAPES",
-    "action": "BUY",
-    "item_name": "Dice Block",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T09:11:28.977Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Becker",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 460,
     "traded_with": null,
     "timestamp": "2026-10-05T09:14:04.402Z"
+  },
+  {
+    "player1": "MOJUNG",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T09:14:30.539Z"
   }
 ]
