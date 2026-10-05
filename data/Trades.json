@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jh4n",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Tea",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-05T11:56:37.861Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vlaz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-05T11:56:37.872Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArrangGT",
     "world": "GVEZ",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-05T11:57:05.376Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vlaz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T11:57:39.186Z"
+  },
+  {
+    "player1": "DrSanzzU",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Diamondboy's King Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-05T11:57:54.306Z"
   }
 ]
