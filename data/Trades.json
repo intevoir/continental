@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 84,
-    "p_name": "World Locks",
-    "p_count": 420,
-    "price_wl": 420,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:57:15.367Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 96,
-    "p_name": "World Locks",
-    "p_count": 3840,
-    "price_wl": 3840,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:57:22.717Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ElpijiNoJudi",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 1450,
     "traded_with": null,
     "timestamp": "2026-10-05T13:01:15.215Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCarlots",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:03:54.678Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NFT",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:04:23.287Z"
   }
 ]
