@@ -1,18 +1,5 @@
 [
   {
-    "player1": "QueenGirl",
-    "player2": "Renting Station",
-    "world": "BFGFIX",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 71,
-    "price_wl": 71,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:57:05.071Z"
-  },
-  {
     "player1": "BoxHoldings",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +115,18 @@
     "price_wl": 2400,
     "traded_with": null,
     "timestamp": "2026-10-05T13:00:52.889Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 145,
+    "p_name": "World Locks",
+    "p_count": 1450,
+    "price_wl": 1450,
+    "traded_with": null,
+    "timestamp": "2026-10-05T13:01:15.215Z"
   }
 ]
