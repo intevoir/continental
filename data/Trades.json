@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BAWOK []",
-    "world": "SGM",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-05T15:03:50.931Z"
-  },
-  {
     "player1": "MasCux",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-10-05T15:05:01.810Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gaskan",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-05T15:06:52.293Z"
   }
 ]
