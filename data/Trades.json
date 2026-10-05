@@ -4,32 +4,6 @@
     "player2": "VEDDSHOP",
     "world": "SHOP1",
     "action": "BUY",
-    "item_name": "Pearl Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:34:51.806Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP1",
-    "action": "BUY",
-    "item_name": "Royal Lightning Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:34:55.122Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP1",
-    "action": "BUY",
     "item_name": "Easter Witches Cape",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-05T21:47:30.973Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Soulforge Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7500,
+    "price_wl": 7500,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:57:03.655Z"
+  },
+  {
+    "player1": "Flsch",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:57:29.640Z"
   }
 ]
