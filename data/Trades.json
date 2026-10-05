@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "QueenGirl",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:38:06.179Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@thelasthuman [PRO ]",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-05T12:40:59.802Z"
+  },
+  {
+    "player1": "Zress",
+    "player2": "Buying Machine",
+    "world": "FREEBFG0",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 540,
+    "price_wl": 540,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:42:11.142Z"
   }
 ]
