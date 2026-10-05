@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DIRRS",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-05T11:56:37.917Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bading",
     "world": "SELLSTUFF",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-05T11:58:43.536Z"
+  },
+  {
+    "player1": "lanciaugt",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-05T11:59:15.084Z"
   }
 ]
