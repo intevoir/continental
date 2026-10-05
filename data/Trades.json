@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Velmora",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T11:19:24.296Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drtangankanan",
     "world": "EEL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 60000,
     "traded_with": null,
     "timestamp": "2026-10-05T11:20:28.086Z"
+  },
+  {
+    "player1": "ONDO",
+    "player2": "Buying Machine",
+    "world": "CHEAPKU",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T11:20:55.665Z"
   }
 ]
