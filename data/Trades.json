@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BELAH",
-    "world": "BFGSPK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-05T02:00:48.446Z"
-  },
-  {
     "player1": "Hisazu",
     "player2": "Renting Station",
     "world": "AULA",
@@ -128,5 +115,18 @@
     "price_wl": 31500,
     "traded_with": null,
     "timestamp": "2026-10-05T02:05:26.757Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-05T02:06:20.419Z"
   }
 ]
