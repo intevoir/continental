@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Athcps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-05T00:47:00.362Z"
-  },
-  {
-    "player1": "DRYRTOMRAY",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-10-05T00:47:19.774Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mikeyjen",
     "world": "BFGSANCA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-05T00:48:29.457Z"
+  },
+  {
+    "player1": "@Mamamneri",
+    "player2": "@RIP [] [] [] [SHADOWxMYTHICAL]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@RIP [] [] [] [SHADOWxMYTHICAL]",
+    "timestamp": "2026-10-05T00:48:33.211Z"
+  },
+  {
+    "player1": "@RIP [] [] [] [SHADOWxMYTHICAL]",
+    "player2": "@Mamamneri",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 6,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Mamamneri",
+    "timestamp": "2026-10-05T00:48:33.211Z"
   }
 ]
