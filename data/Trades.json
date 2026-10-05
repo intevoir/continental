@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PallangRS",
-    "world": "PAPUA",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:08:54.522Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ElpijiNoJudi",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:08:59.397Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KINGAGEN1",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-05T12:10:10.880Z"
+  },
+  {
+    "player1": "shopw",
+    "player2": "Buying Machine",
+    "world": "CHEAPKU",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:11:58.484Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Azoid",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1880,
+    "price_wl": 1880,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:12:01.886Z"
   }
 ]
