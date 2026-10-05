@@ -1,18 +1,5 @@
 [
   {
-    "player1": "shdfy",
-    "player2": "Buying Machine",
-    "world": "LMSK",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-10-05T02:53:41.348Z"
-  },
-  {
     "player1": "Hisazu",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-10-05T03:06:45.581Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TheAdit",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 230,
+    "p_name": "World Locks",
+    "p_count": 2300,
+    "price_wl": 2300,
+    "traded_with": null,
+    "timestamp": "2026-10-05T03:08:08.271Z"
   }
 ]
