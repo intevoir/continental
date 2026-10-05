@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "BELAH",
-    "world": "BFGSPK",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-05T05:58:25.601Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BELAH",
     "world": "RAJABFG",
     "action": "BUY",
     "item_name": "Lucky Clover",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-05T06:05:58.809Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Noiru",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-05T06:07:08.868Z"
   }
 ]
