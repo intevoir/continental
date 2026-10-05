@@ -1,44 +1,5 @@
 [
   {
-    "player1": "shopw",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Summer Surprise",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:55:20.137Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:55:24.305Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-05T12:55:51.615Z"
-  },
-  {
     "player1": "BoxHoldings",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-05T12:56:26.333Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QueenGirl",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Cranial Lagomorph",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:56:51.242Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "GEIGERPAP",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 132,
+    "p_name": "World Locks",
+    "p_count": 23760,
+    "price_wl": 23760,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:56:51.261Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QueenGirl",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Baby Bunny",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-05T12:56:51.273Z"
   }
 ]
