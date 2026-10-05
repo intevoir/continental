@@ -1,31 +1,5 @@
 [
   {
-    "player1": "VEDDSHOP",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDANA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 132,
-    "price_wl": 132,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:16:43.285Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZNOXX",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Dal's Phasers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-05T21:17:44.123Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Hollycps",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-05T21:20:45.589Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lunatric",
+    "world": "CUAN",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:21:47.287Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZNOXX",
+    "world": "CHEAP",
+    "action": "BUY",
+    "item_name": "Ultraviolet Charm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-05T21:21:47.302Z"
   }
 ]
