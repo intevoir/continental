@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "XiaoShan",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-05T00:36:09.504Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "arkanxSEOUL",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3600,
     "traded_with": null,
     "timestamp": "2026-10-05T00:38:08.779Z"
+  },
+  {
+    "player1": "Laufeyson",
+    "player2": "Renting Station",
+    "world": "BFGNOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-05T00:39:13.082Z"
   }
 ]
