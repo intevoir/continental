@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HanLost",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Crystal Infused Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-06T10:03:38.102Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CloverSky",
     "world": "ZB",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5950,
     "traded_with": null,
     "timestamp": "2026-10-06T10:05:37.602Z"
+  },
+  {
+    "player1": "Sicklet",
+    "player2": "Buying Machine",
+    "world": "JYZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 26000,
+    "price_wl": 26000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T10:06:14.927Z"
   }
 ]
