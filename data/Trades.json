@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "FGEIGER",
     "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-06T05:04:50.783Z"
-  },
-  {
-    "player1": "JAWIR999",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "The King's Secret Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-06T05:05:31.918Z"
-  },
-  {
-    "player1": "SirRey",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
     "item_name": "Red Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-06T05:06:33.594Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IKELY",
+    "world": "GEIGERZ",
+    "action": "BUY",
+    "item_name": "Grip Tape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T05:07:04.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "SABER",
+    "action": "BUY",
+    "item_name": "Giantify",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100000,
+    "price_wl": 100000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T05:07:08.738Z"
   }
 ]
