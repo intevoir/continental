@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "whenyaya",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-06T07:34:27.166Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Laufeyson",
-    "world": "BFGB",
-    "action": "BUY",
-    "item_name": "Golden Ticket",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-06T07:35:28.582Z"
-  },
-  {
     "player1": "MrTiger",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-06T07:39:57.826Z"
+  },
+  {
+    "player1": "Danel",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-06T07:40:30.189Z"
+  },
+  {
+    "player1": "yuyup",
+    "player2": "Buying Machine",
+    "world": "BST",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 31,
+    "p_name": "World Locks",
+    "p_count": 31,
+    "price_wl": 31,
+    "traded_with": null,
+    "timestamp": "2026-10-06T07:40:34.313Z"
   }
 ]
