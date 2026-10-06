@@ -1,18 +1,5 @@
 [
   {
-    "player1": "iglp",
-    "player2": "Renting Station",
-    "world": "ANO",
-    "action": "RENT",
-    "item_name": "Kontol Gun",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:39:22.099Z"
-  },
-  {
     "player1": "GilangSatya",
     "player2": "Buying Machine",
     "world": "UNTRI",
@@ -128,5 +115,18 @@
     "price_wl": 42,
     "traded_with": null,
     "timestamp": "2026-10-06T08:41:39.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PalPadhil",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 495,
+    "price_wl": 495,
+    "traded_with": null,
+    "timestamp": "2026-10-06T08:42:18.927Z"
   }
 ]
