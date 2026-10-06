@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sembronoo",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Lightning Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:17:21.354Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Veldric",
     "world": "PG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "SkyVieth",
     "timestamp": "2026-10-06T08:19:28.608Z"
+  },
+  {
+    "player1": "cicikozu",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-06T08:19:38.507Z"
   }
 ]
