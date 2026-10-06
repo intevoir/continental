@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BOOD",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-06T03:51:25.410Z"
-  },
-  {
-    "player1": "AKH",
-    "player2": "Buying Machine",
-    "world": "BOOD",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-06T03:54:26.851Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrALi",
+    "world": "BIRU",
+    "action": "BUY",
+    "item_name": "Dumb Star Captain",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T03:54:46.516Z"
   }
 ]
