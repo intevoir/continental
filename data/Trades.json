@@ -1,18 +1,5 @@
 [
   {
-    "player1": "UPCS",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-06T15:01:30.180Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "UPCS",
     "world": "CROT",
@@ -128,5 +115,18 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-10-06T15:02:36.790Z"
+  },
+  {
+    "player1": "Veldric",
+    "player2": "Buying Machine",
+    "world": "BFGSINI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 5400,
+    "price_wl": 5400,
+    "traded_with": null,
+    "timestamp": "2026-10-06T15:03:15.143Z"
   }
 ]
