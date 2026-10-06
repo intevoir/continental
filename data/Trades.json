@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CloverSky",
-    "world": "ZB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-06T10:03:38.112Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HanLost",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Kiwi Bussin' Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-06T10:03:45.015Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HanLost",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 26000,
     "traded_with": null,
     "timestamp": "2026-10-06T10:06:14.927Z"
+  },
+  {
+    "player1": "Lumna",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Cloak",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-06T10:07:29.214Z"
+  },
+  {
+    "player1": "Rdooh",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-06T10:07:43.285Z"
   }
 ]
