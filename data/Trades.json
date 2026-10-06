@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PalPadhil",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:42:27.246Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PalPadhil",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:42:39.445Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IniAlmer_407",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:43:23.977Z"
-  },
-  {
-    "player1": "QEMEKU",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:43:31.426Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ErlanSky",
     "world": "TOKO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 90000,
     "traded_with": null,
     "timestamp": "2026-10-06T08:46:20.492Z"
+  },
+  {
+    "player1": "@Far5",
+    "player2": "DrMatt",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 20,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMatt",
+    "timestamp": "2026-10-06T08:47:20.579Z"
+  },
+  {
+    "player1": "@Far5",
+    "player2": "DrMatt",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMatt",
+    "timestamp": "2026-10-06T08:47:20.585Z"
+  },
+  {
+    "player1": "DrMatt",
+    "player2": "@Far5",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Black Gems (Black Gem Transfer)",
+    "item_count": 500000,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Far5",
+    "timestamp": "2026-10-06T08:47:20.585Z"
+  },
+  {
+    "player1": "cicikozu",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6700,
+    "price_wl": 6700,
+    "traded_with": null,
+    "timestamp": "2026-10-06T08:47:40.728Z"
   }
 ]
