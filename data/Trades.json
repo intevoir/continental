@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Jasson",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-06T02:31:48.028Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Suw",
     "world": "GEMSKU",
@@ -128,5 +115,18 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-06T02:33:20.423Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-06T02:34:55.054Z"
   }
 ]
