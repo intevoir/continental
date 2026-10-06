@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-06T22:43:29.205Z"
-  },
-  {
-    "player1": "IKELY",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-10-06T22:43:33.886Z"
-  },
-  {
-    "player1": "IKELY",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-06T22:56:02.607Z"
+  },
+  {
+    "player1": "DrAziok",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-06T22:57:41.281Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lubas",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 9600,
+    "price_wl": 9600,
+    "traded_with": null,
+    "timestamp": "2026-10-06T22:57:51.426Z"
   }
 ]
