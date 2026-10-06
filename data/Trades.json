@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RealB2 [GACOR]",
-    "world": "BUYBUNNYSLIPPER",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-06T22:42:29.156Z"
-  },
-  {
     "player1": "IKELY",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-06T22:54:54.265Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MOJUNG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T22:56:02.607Z"
   }
 ]
