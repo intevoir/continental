@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SirRey",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-06T07:25:55.961Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ITiara",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-06T07:34:27.166Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Laufeyson",
+    "world": "BFGB",
+    "action": "BUY",
+    "item_name": "Golden Ticket",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-06T07:35:28.582Z"
   }
 ]
