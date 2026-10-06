@@ -1,31 +1,5 @@
 [
   {
-    "player1": "",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-06T09:09:12.429Z"
-  },
-  {
-    "player1": "Doyoks",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-06T09:09:51.417Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-06T09:10:51.508Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrESKONEI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T09:11:02.949Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "UraiDhy",
+    "world": "BFGBUB",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 37500,
+    "price_wl": 37500,
+    "traded_with": null,
+    "timestamp": "2026-10-06T09:11:14.955Z"
   }
 ]
