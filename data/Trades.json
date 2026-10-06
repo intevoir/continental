@@ -1,18 +1,5 @@
 [
   {
-    "player1": "EdoSTARBOY",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Emerald Spear",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-10-06T03:52:49.426Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "AnakTelkom",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-06T03:55:39.600Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OppanAja",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T03:56:53.705Z"
   }
 ]
