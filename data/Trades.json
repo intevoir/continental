@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "reyuu2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-06T01:42:41.658Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "reyuu2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-06T01:42:47.188Z"
-  },
-  {
     "player1": "GAIS",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +102,31 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-06T01:44:46.209Z"
+  },
+  {
+    "player1": "Citraku",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T01:45:24.956Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KkpetCPS",
+    "world": "ARROZKRO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-06T01:45:33.057Z"
   }
 ]
