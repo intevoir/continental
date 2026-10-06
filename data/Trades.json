@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PolanCPS",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-06T08:55:10.209Z"
-  },
-  {
     "player1": "chezeku",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-06T08:58:47.116Z"
+  },
+  {
+    "player1": "whenyaya",
+    "player2": "Buying Machine",
+    "world": "BFGLUMNA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 78,
+    "price_wl": 78,
+    "traded_with": null,
+    "timestamp": "2026-10-06T08:58:59.049Z"
   }
 ]
