@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Gebo",
-    "world": "HUL",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-06T06:05:21.167Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ManyolL",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-06T06:07:52.371Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Charger",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 12600,
+    "price_wl": 12600,
+    "traded_with": null,
+    "timestamp": "2026-10-06T06:09:08.056Z"
   }
 ]
