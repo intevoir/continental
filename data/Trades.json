@@ -2,19 +2,6 @@
   {
     "player1": "kaiituru1",
     "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 950,
-    "price_wl": 950,
-    "traded_with": null,
-    "timestamp": "2026-10-06T00:40:07.220Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
     "world": "GEIGERPAP",
     "action": "SELL",
     "item_name": "Blue Crystal",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-06T00:47:10.448Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GAIS",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 192,
+    "price_wl": 192,
+    "traded_with": null,
+    "timestamp": "2026-10-06T00:47:14.039Z"
   }
 ]
