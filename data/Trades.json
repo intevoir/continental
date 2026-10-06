@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "asep012",
-    "world": "ANDARILHO",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-06T05:52:00.196Z"
-  },
-  {
-    "player1": "Hollycps []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 13000,
-    "price_wl": 13000,
-    "traded_with": null,
-    "timestamp": "2026-10-06T05:53:19.357Z"
-  },
-  {
     "player1": "Veldric",
     "player2": "Buying Machine",
     "world": "BFGSINI",
@@ -128,5 +102,31 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-10-06T05:57:54.647Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Laufeyson",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-06T05:58:15.345Z"
+  },
+  {
+    "player1": "Laufeyson",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-10-06T05:58:26.150Z"
   }
 ]
