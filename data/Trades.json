@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@AAL [PRO ]",
-    "world": "BUYVISOR",
-    "action": "BUY",
-    "item_name": "Techno Visor",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-06T00:19:34.268Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ron4ld",
     "world": "SELLSTUFF",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-10-06T00:26:27.264Z"
+  },
+  {
+    "player1": "HeroidStoreV2",
+    "player2": "Renting Station",
+    "world": "BFGNOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-06T00:29:02.586Z"
   }
 ]
