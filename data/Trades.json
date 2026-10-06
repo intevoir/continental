@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "stns",
-    "world": "FREEBFG0",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-10-06T11:08:48.431Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@VoraxStore",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 151,
-    "p_name": "World Locks",
-    "p_count": 302,
-    "price_wl": 302,
-    "traded_with": null,
-    "timestamp": "2026-10-06T11:08:51.921Z"
-  },
-  {
     "player1": "pipell []",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +102,31 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-10-06T11:09:34.741Z"
+  },
+  {
+    "player1": "pipell []",
+    "player2": "Buying Machine",
+    "world": "ETULS123",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-10-06T11:10:39.399Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Papiyam",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-06T11:10:39.414Z"
   }
 ]
