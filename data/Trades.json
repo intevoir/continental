@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DanielAnakBaik",
-    "world": "JSHOP",
-    "action": "BUY",
-    "item_name": "Safe Vault",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-06T22:51:43.581Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanielAnakBaik",
-    "world": "JSHOP",
-    "action": "BUY",
-    "item_name": "Storage Box Xtreme - Level 3",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-06T22:51:54.447Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MOJUNG",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-06T23:00:56.453Z"
+  },
+  {
+    "player1": "IKELY",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-06T23:01:38.149Z"
+  },
+  {
+    "player1": "Luksuriii",
+    "player2": "Buying Machine",
+    "world": "XURYY",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-06T23:01:38.163Z"
   }
 ]
