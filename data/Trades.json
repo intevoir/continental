@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ManyolL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 42000,
-    "price_wl": 42000,
-    "traded_with": null,
-    "timestamp": "2026-10-06T02:47:13.521Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Asakin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-06T02:47:57.761Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Asakin",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-06T02:51:54.291Z"
+  },
+  {
+    "player1": "vanowss []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-06T02:52:54.101Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Charger",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-10-06T02:53:24.583Z"
   }
 ]
