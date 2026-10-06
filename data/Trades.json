@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Papiyam",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-06T11:10:39.414Z"
-  },
-  {
     "player1": "HELO",
     "player2": "Renting Station",
     "world": "SELLSTUFF",
@@ -128,5 +115,18 @@
     "price_wl": 6200,
     "traded_with": null,
     "timestamp": "2026-10-06T11:12:59.463Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PawKing",
+    "world": "SELLVENDS",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-06T11:13:56.308Z"
   }
 ]
