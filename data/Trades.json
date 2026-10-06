@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xaviierr",
-    "world": "HOSPITAL",
-    "action": "BUY",
-    "item_name": "Doctor's Blingin' Cap",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-10-06T15:47:24.638Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrFuugu",
-    "world": "ARROZMARKET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 157,
-    "p_name": "World Locks",
-    "p_count": 471,
-    "price_wl": 471,
-    "traded_with": null,
-    "timestamp": "2026-10-06T15:47:32.334Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrFuugu",
     "world": "ARROZMARKET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-06T15:48:50.294Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jettcute",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-06T15:50:00.147Z"
+  },
+  {
+    "player1": "LOVEKLEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-10-06T15:50:01.301Z"
   }
 ]
