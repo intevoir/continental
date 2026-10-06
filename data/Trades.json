@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrOtongPRIME",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Space Pig",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-06T14:49:32.128Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrOtongPRIME",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Space Rabbit",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-06T14:49:39.340Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "burtyfr",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1340,
     "traded_with": null,
     "timestamp": "2026-10-06T14:52:07.616Z"
+  },
+  {
+    "player1": "DrSUPEEER",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-06T14:52:34.585Z"
+  },
+  {
+    "player1": "Lucents",
+    "player2": "Buying Machine",
+    "world": "BFGSINI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T14:52:42.438Z"
   }
 ]
