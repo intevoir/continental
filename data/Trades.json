@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Hazardous []",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Rebana's Lizard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-06T06:57:13.299Z"
-  },
-  {
     "player1": "Yudisium",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Son0fEmerald",
     "timestamp": "2026-10-06T07:00:41.796Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "UraiDhy",
+    "world": "ARROZMARKET",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-06T07:02:14.556Z"
   }
 ]
