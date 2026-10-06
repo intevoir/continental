@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LanaXGTT",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 26,
-    "price_wl": 26,
-    "traded_with": null,
-    "timestamp": "2026-10-06T15:20:42.198Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ACAQ",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-06T15:21:23.362Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "wawax",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-06T15:24:45.092Z"
+  },
+  {
+    "player1": "LanaXGTT",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-06T15:25:21.301Z"
+  },
+  {
+    "player1": "rajakecil",
+    "player2": "Buying Machine",
+    "world": "CHEAPKU",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 140000,
+    "price_wl": 140000,
+    "traded_with": null,
+    "timestamp": "2026-10-06T15:25:21.313Z"
   }
 ]
