@@ -1,18 +1,5 @@
 [
   {
-    "player1": "pipell []",
-    "player2": "Buying Machine",
-    "world": "ETULS123",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 480,
-    "price_wl": 480,
-    "traded_with": null,
-    "timestamp": "2026-10-06T11:10:39.399Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Papiyam",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-06T11:12:24.127Z"
+  },
+  {
+    "player1": "pipell []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6200,
+    "price_wl": 6200,
+    "traded_with": null,
+    "timestamp": "2026-10-06T11:12:59.463Z"
   }
 ]
