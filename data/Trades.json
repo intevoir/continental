@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDUPPING []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-06T10:22:19.446Z"
-  },
-  {
     "player1": "MRWILL",
     "player2": "Renting Station",
     "world": "TOKOC",
@@ -128,5 +115,18 @@
     "price_wl": 300000,
     "traded_with": null,
     "timestamp": "2026-10-06T10:27:24.990Z"
+  },
+  {
+    "player1": "NINOSD",
+    "player2": "Buying Machine",
+    "world": "JYZ",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-10-06T10:28:22.425Z"
   }
 ]
