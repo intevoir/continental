@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jasson",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-07T23:15:30.538Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@AMORGT",
     "world": "GEMSKU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-07T23:21:52.609Z"
+  },
+  {
+    "player1": "OraipCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 5940,
+    "price_wl": 5940,
+    "traded_with": null,
+    "timestamp": "2026-10-07T23:22:54.935Z"
   }
 ]
