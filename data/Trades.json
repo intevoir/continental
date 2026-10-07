@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Illuminati: Saber of Legend",
-    "world": "BUYGOLD",
-    "action": "BUY",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 180000,
-    "price_wl": 180000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T22:33:55.434Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lumna",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 138000,
-    "price_wl": 138000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T22:34:04.119Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GalaxyThor",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5200,
     "traded_with": null,
     "timestamp": "2026-10-07T22:36:43.606Z"
+  },
+  {
+    "player1": "Winterlane",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-10-07T22:36:47.505Z"
+  },
+  {
+    "player1": "Winterlane",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 180,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-10-07T22:37:01.180Z"
   }
 ]
