@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kmeow",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 202,
-    "p_name": "World Locks",
-    "p_count": 808,
-    "price_wl": 808,
-    "traded_with": null,
-    "timestamp": "2026-10-07T16:06:10.117Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "adiiyyy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Dreamcatcher Staff",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-07T16:06:30.790Z"
-  },
-  {
     "player1": "NIELLR",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +102,31 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-10-07T16:08:10.841Z"
+  },
+  {
+    "player1": "NIELLR",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-10-07T16:08:19.131Z"
+  },
+  {
+    "player1": "NIELLR",
+    "player2": "Buying Machine",
+    "world": "BOOD",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-07T16:08:42.080Z"
   }
 ]
