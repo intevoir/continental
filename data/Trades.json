@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 137,
-    "p_name": "World Locks",
-    "p_count": 95900,
-    "price_wl": 95900,
-    "traded_with": null,
-    "timestamp": "2026-10-07T22:54:52.322Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Snoozly",
     "world": "OUTFIT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "RealB2 [GACOR]",
     "timestamp": "2026-10-07T23:02:00.746Z"
+  },
+  {
+    "player1": "Labgu",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 37,
+    "p_name": "World Locks",
+    "p_count": 1147,
+    "price_wl": 1147,
+    "traded_with": null,
+    "timestamp": "2026-10-07T23:02:56.810Z"
   }
 ]
