@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SirMonmon",
-    "player2": "Buying Machine",
-    "world": "BFGPOLO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 5320,
-    "price_wl": 5320,
-    "traded_with": null,
-    "timestamp": "2026-10-07T02:02:41.692Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JejeLampruy",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-07T02:05:42.539Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RunDiks",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-07T02:06:42.561Z"
   }
 ]
