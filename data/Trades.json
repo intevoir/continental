@@ -1,31 +1,5 @@
 [
   {
-    "player1": "xphunted",
-    "player2": "Renting Station",
-    "world": "BFGW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19040,
-    "price_wl": 19040,
-    "traded_with": null,
-    "timestamp": "2026-10-07T17:29:19.348Z"
-  },
-  {
-    "player1": "AMORGT",
-    "player2": "Renting Station",
-    "world": "BFGWE",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-07T17:29:47.881Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SGM",
@@ -128,5 +102,31 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-07T17:33:05.505Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "SGM",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 1380,
+    "price_wl": 1380,
+    "traded_with": null,
+    "timestamp": "2026-10-07T17:33:55.458Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "SGM",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 460,
+    "price_wl": 460,
+    "traded_with": null,
+    "timestamp": "2026-10-07T17:34:16.109Z"
   }
 ]
