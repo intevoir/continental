@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bugg",
-    "world": "EEL",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-07T15:59:08.497Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DAVz5",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-07T16:03:09.289Z"
+  },
+  {
+    "player1": "Mbalelo",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-07T16:03:25.437Z"
   }
 ]
