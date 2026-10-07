@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KRYX []",
-    "player2": "Buying Machine",
-    "world": "55",
-    "action": "SELL",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T00:38:52.200Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "GEIGER1",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-07T00:45:13.730Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Lightning Horns",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-07T00:46:02.317Z"
   }
 ]
