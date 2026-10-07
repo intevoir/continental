@@ -4,19 +4,6 @@
     "player2": "@MESA",
     "world": "GGG",
     "action": "BUY",
-    "item_name": "Doom Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T09:54:30.183Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "GGG",
-    "action": "BUY",
     "item_name": "Shadow Spirit of the Underworld",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-10-07T09:55:47.346Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zdee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-07T09:56:42.036Z"
   }
 ]
