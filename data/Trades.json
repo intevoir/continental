@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CloverSky",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-07T19:59:21.597Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BalikpapanUtara",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-07T20:09:18.961Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BalikpapanUtara",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-07T20:10:15.603Z"
   }
 ]
