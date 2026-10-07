@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:08:07.212Z"
-  },
-  {
-    "player1": "Kyuuuto",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:09:23.716Z"
-  },
-  {
-    "player1": "Kyuuuto",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
     "item_name": "D Battery",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 186,
     "traded_with": null,
     "timestamp": "2026-10-07T18:13:03.752Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Difta",
+    "world": "BUYS",
+    "action": "BUY",
+    "item_name": "Guardian Pineapple",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:15:30.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Difta",
+    "world": "BUYS",
+    "action": "BUY",
+    "item_name": "Ghost Charm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:15:33.791Z"
   }
 ]
