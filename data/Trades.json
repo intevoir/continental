@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ssavix",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Scarfy-Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:02:00.506Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "majnonk",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17000,
     "traded_with": null,
     "timestamp": "2026-10-07T18:05:07.514Z"
+  },
+  {
+    "player1": "IniAlmer",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:06:05.272Z"
   }
 ]
