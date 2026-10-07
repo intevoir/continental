@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ManyolL",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-07T11:58:58.404Z"
-  },
-  {
     "player1": "ZOHOR",
     "player2": "Renting Station",
     "world": "CHEAPKU",
@@ -128,5 +115,18 @@
     "price_wl": 650,
     "traded_with": null,
     "timestamp": "2026-10-07T12:01:11.140Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLolly",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-07T12:01:32.400Z"
   }
 ]
