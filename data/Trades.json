@@ -4,32 +4,6 @@
     "player2": "BalikpapanUtara",
     "world": "BTKKUS",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-07T20:07:49.235Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BalikpapanUtara",
-    "world": "BTKKUS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-07T20:08:10.285Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BalikpapanUtara",
-    "world": "BTKKUS",
-    "action": "BUY",
     "item_name": "Songpyeon",
     "item_count": 50,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-07T20:29:19.362Z"
+  },
+  {
+    "player1": "Kyuuuto",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 510,
+    "price_wl": 510,
+    "traded_with": null,
+    "timestamp": "2026-10-07T20:29:41.841Z"
+  },
+  {
+    "player1": "Kyuuuto",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 280,
+    "price_wl": 280,
+    "traded_with": null,
+    "timestamp": "2026-10-07T20:29:55.939Z"
   }
 ]
