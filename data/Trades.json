@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "xyprr",
-    "world": "BFGDAN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-07T10:01:40.730Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "GLUE3",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-10-07T10:06:31.748Z"
+  },
+  {
+    "player1": "Reeni",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Saeed's Nightmare Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-07T10:06:47.775Z"
   }
 ]
