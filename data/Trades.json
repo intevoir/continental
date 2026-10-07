@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "GGG",
-    "action": "BUY",
-    "item_name": "Astro Shades - Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-07T09:55:26.345Z"
-  },
-  {
     "player1": "@DIRRSIKAT",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-07T09:57:53.436Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "McTominay",
+    "world": "GLUE3",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-10-07T09:58:35.386Z"
   }
 ]
