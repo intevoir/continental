@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ampetamin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2300,
-    "price_wl": 2300,
-    "traded_with": null,
-    "timestamp": "2026-10-07T16:13:51.783Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LOVEKLEE",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-07T16:16:15.701Z"
+  },
+  {
+    "player1": "Litejoy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6200,
+    "price_wl": 6200,
+    "traded_with": null,
+    "timestamp": "2026-10-07T16:17:46.895Z"
   }
 ]
