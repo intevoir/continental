@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:08:03.922Z"
-  },
-  {
-    "player1": "Kyuuuto",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 9,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 230,
     "traded_with": null,
     "timestamp": "2026-10-07T18:11:16.225Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Difta",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Gaia's Beacon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:12:03.867Z"
   }
 ]
