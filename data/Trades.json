@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drtangankanan",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 99,
-    "p_name": "World Locks",
-    "p_count": 396,
-    "price_wl": 396,
-    "traded_with": null,
-    "timestamp": "2026-10-07T00:16:42.355Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "WiggleNice",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-07T00:16:42.371Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Suw",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1785,
     "traded_with": null,
     "timestamp": "2026-10-07T00:30:03.439Z"
+  },
+  {
+    "player1": "CINAGANTENG",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-10-07T00:32:48.411Z"
+  },
+  {
+    "player1": "CINAGANTENG",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1950,
+    "price_wl": 1950,
+    "traded_with": null,
+    "timestamp": "2026-10-07T00:32:53.412Z"
   }
 ]
