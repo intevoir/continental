@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrFlatscreen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-07T21:41:10.513Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nou",
     "world": "SEEDS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 25840,
     "traded_with": null,
     "timestamp": "2026-10-07T21:47:34.364Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nou",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-07T21:47:48.628Z"
   }
 ]
