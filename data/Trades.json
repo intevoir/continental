@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MORGANWIBU",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-07T08:33:43.342Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ingsu",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-07T08:34:43.215Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ingsu",
     "world": "CROT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-07T08:36:44.776Z"
+  },
+  {
+    "player1": "Aviozer",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-07T08:37:53.041Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CloverSky",
+    "world": "SEEDS",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-07T08:37:56.532Z"
   }
 ]
