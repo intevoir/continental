@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "YanzToBgl",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T22:14:29.076Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nou",
     "world": "SEEDS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-07T22:25:38.348Z"
+  },
+  {
+    "player1": "Snoozly",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3250,
+    "price_wl": 3250,
+    "traded_with": null,
+    "timestamp": "2026-10-07T22:26:58.512Z"
   }
 ]
