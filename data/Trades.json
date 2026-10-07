@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BOOD",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 135,
-    "price_wl": 135,
-    "traded_with": null,
-    "timestamp": "2026-10-07T22:36:01.455Z"
-  },
-  {
-    "player1": "Winterlane",
-    "player2": "Buying Machine",
-    "world": "BOOD",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 13,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-07T22:38:44.793Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFlatscreen",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-07T22:39:49.457Z"
   }
 ]
