@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kaii312213",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-07T01:19:59.610Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CSN",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T01:22:17.181Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bwsuite",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-07T01:34:35.983Z"
+  },
+  {
+    "player1": "Bobgti",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-10-07T01:34:42.868Z"
+  },
+  {
+    "player1": "Bobgti",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-07T01:35:07.967Z"
   }
 ]
