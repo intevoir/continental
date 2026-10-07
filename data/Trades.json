@@ -1,32 +1,6 @@
 [
   {
     "player1": "IniAlmer",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:04:01.872Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mamaneri []",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 17000,
-    "price_wl": 17000,
-    "traded_with": null,
-    "timestamp": "2026-10-07T18:05:07.514Z"
-  },
-  {
-    "player1": "IniAlmer",
     "player2": "Renting Station",
     "world": "SAW",
     "action": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-07T18:09:24.115Z"
+  },
+  {
+    "player1": "Kyuuuto",
+    "player2": "Buying Machine",
+    "world": "LMSK",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:10:03.990Z"
+  },
+  {
+    "player1": "ShinyKnuck_240",
+    "player2": "Renting Station",
+    "world": "55",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-07T18:10:29.667Z"
   }
 ]
