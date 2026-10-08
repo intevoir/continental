@@ -4,19 +4,6 @@
     "player2": "@MESA",
     "world": "GGG",
     "action": "BUY",
-    "item_name": "Hovernator Drone - Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T03:00:10.812Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@MESA",
-    "world": "GGG",
-    "action": "BUY",
     "item_name": "Hovernator Drone - Black",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-08T03:04:32.678Z"
+  },
+  {
+    "player1": "Anwar",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-08T03:05:23.688Z"
   }
 ]
