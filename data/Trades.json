@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kenndeym",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:29:13.517Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kenndeym",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Donation Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:29:53.624Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XXX",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:30:15.186Z"
-  },
-  {
-    "player1": "ZemahStore [ELITE]",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Diamond Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:30:56.029Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "haktan",
     "world": "REVIOSATM",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-08T17:35:50.361Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Zyp",
+    "world": "PWOOO",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Zyp",
+    "timestamp": "2026-10-08T17:36:43.211Z"
+  },
+  {
+    "player1": "Zyp",
+    "player2": "SHYSS",
+    "world": "PWOOO",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 15,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SHYSS",
+    "timestamp": "2026-10-08T17:36:43.215Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kinnrear",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:37:09.675Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "haktan",
+    "world": "REVIOSATM",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:37:09.690Z"
   }
 ]
