@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrLowies",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2070,
-    "price_wl": 2070,
-    "traded_with": null,
-    "timestamp": "2026-10-08T10:27:02.847Z"
-  },
-  {
     "player1": "DrLowies",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-08T10:29:04.528Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "HUL",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-08T10:29:40.348Z"
   }
 ]
