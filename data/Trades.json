@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Phoxent",
-    "world": "KRNB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:24:53.447Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Blayy",
-    "world": "HUL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:25:14.408Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Blayy",
     "world": "HUL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-10-08T20:27:39.437Z"
+  },
+  {
+    "player1": "geferral4",
+    "player2": "Renting Station",
+    "world": "BFGKERTA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:28:41.114Z"
+  },
+  {
+    "player1": "Phoxent",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:28:41.125Z"
   }
 ]
