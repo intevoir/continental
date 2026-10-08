@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Leopaw",
-    "world": "PG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-08T06:28:11.056Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Leopaw",
-    "world": "PG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-08T06:28:14.276Z"
-  },
-  {
     "player1": "DrZress",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-08T06:33:18.418Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BFGVA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-08T06:33:54.998Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T06:33:55.024Z"
   }
 ]
