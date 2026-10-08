@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ranger22",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 39,
-    "p_name": "World Locks",
-    "p_count": 195,
-    "price_wl": 195,
-    "traded_with": null,
-    "timestamp": "2026-10-08T22:15:05.814Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Duta",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Open Sign",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-08T22:16:00.012Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Duta",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-08T22:21:30.967Z"
+  },
+  {
+    "player1": "Bapakee",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 246,
+    "price_wl": 246,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:22:19.867Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@CnmBenim",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:22:23.638Z"
   }
 ]
