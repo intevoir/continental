@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xyphr",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T23:46:49.992Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xyphr",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T23:46:54.823Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Morpi []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-08T23:52:52.251Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Morpi []",
+    "world": "GROWMART",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-08T23:54:52.289Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@fhira",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-10-08T23:55:16.696Z"
   }
 ]
