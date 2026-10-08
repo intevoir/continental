@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HpMinis01",
-    "player2": "Buying Machine",
-    "world": "GEIGERPAP",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-08T22:58:27.414Z"
-  },
-  {
     "player1": "ranger22",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-08T23:02:04.568Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DzulCPS",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-08T23:05:31.235Z"
   }
 ]
