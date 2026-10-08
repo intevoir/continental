@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Skyskuuy",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:04:36.145Z"
-  },
-  {
     "player1": "RanY []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-08T04:06:58.346Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zdee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:08:01.008Z"
   }
 ]
