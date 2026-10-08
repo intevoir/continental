@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "FACE",
-    "action": "BUY",
-    "item_name": "Winter Turtleneck",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T14:58:09.636Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Motobe",
     "world": "BUYT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-08T14:59:10.783Z"
+  },
+  {
+    "player1": "Chimura",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-08T14:59:31.929Z"
   }
 ]
