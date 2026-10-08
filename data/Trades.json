@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Hazardous []",
-    "player2": "Buying Machine",
-    "world": "BFGPED",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T08:09:32.769Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "adelaTITUT",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-08T08:17:03.465Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrElc",
+    "world": "7KJ",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 246,
+    "p_name": "World Locks",
+    "p_count": 41,
+    "price_wl": 41,
+    "traded_with": null,
+    "timestamp": "2026-10-08T08:18:35.081Z"
   }
 ]
