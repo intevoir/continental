@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DOM of Legend",
-    "player2": "Renting Station",
-    "world": "56",
-    "action": "RENT",
-    "item_name": "Legendary Golden Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T13:04:39.522Z"
-  },
-  {
-    "player1": "Dzakiyasomthink of Legend []",
-    "player2": "Renting Station",
-    "world": "SHN",
-    "action": "RENT",
-    "item_name": "Elite Item: Bomber Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-08T13:04:39.553Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kainyx",
-    "world": "OIS",
-    "action": "BUY",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3900000,
-    "price_wl": 3900000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T13:05:51.071Z"
-  },
-  {
-    "player1": "Listens",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12200,
-    "price_wl": 12200,
-    "traded_with": null,
-    "timestamp": "2026-10-08T13:06:41.089Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrDavicahyaV2",
     "world": "MIKEBFG",
@@ -128,5 +76,57 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-08T13:10:42.631Z"
+  },
+  {
+    "player1": "Glindd",
+    "player2": "SHYSS",
+    "world": "BFGREYN",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SHYSS",
+    "timestamp": "2026-10-08T13:10:47.371Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Glindd",
+    "world": "BFGREYN",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Glindd",
+    "timestamp": "2026-10-08T13:10:47.374Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Glindd",
+    "world": "BFGREYN",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Glindd",
+    "timestamp": "2026-10-08T13:10:47.374Z"
+  },
+  {
+    "player1": "Yudisium",
+    "player2": "Buying Machine",
+    "world": "CBR",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1360,
+    "price_wl": 1360,
+    "traded_with": null,
+    "timestamp": "2026-10-08T13:11:12.946Z"
   }
 ]
