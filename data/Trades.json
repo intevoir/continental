@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YouShiny_256",
-    "player2": "Buying Machine",
-    "world": "RAJABFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:57:50.718Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JAWIR999",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-08T18:04:56.518Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FungpaoCPS",
+    "world": "LLL",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-08T18:05:20.333Z"
   }
 ]
