@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-08T09:46:53.984Z"
-  },
-  {
-    "player1": "11B4",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Haunted Chemical",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 2250,
     "traded_with": null,
     "timestamp": "2026-10-08T09:48:15.386Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDetac",
+    "world": "WORDKU",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2250,
+    "price_wl": 2250,
+    "traded_with": null,
+    "timestamp": "2026-10-08T09:48:46.162Z"
   }
 ]
