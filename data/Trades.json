@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "YayaImut []",
-    "world": "CLOVE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:53:27.649Z"
-  },
-  {
     "player1": "Ritsma",
     "player2": "Buying Machine",
     "world": "BOOD",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-08T04:55:26.481Z"
+  },
+  {
+    "player1": "kakaroto",
+    "player2": "Buying Machine",
+    "world": "BFGPED",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:57:28.960Z"
   }
 ]
