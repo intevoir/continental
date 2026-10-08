@@ -1,31 +1,5 @@
 [
   {
-    "player1": "miiiu7",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-08T14:49:31.240Z"
-  },
-  {
-    "player1": "Hmo",
-    "player2": "Renting Station",
-    "world": "KAISJE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-08T14:49:31.257Z"
-  },
-  {
     "player1": "SOUJE",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-08T14:51:05.838Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BalikpapanUtara",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Mini-Mod",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-08T14:52:06.537Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SOUJE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T14:52:36.650Z"
   }
 ]
