@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RoZzenih",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Shady Bangs",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:04:30.393Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RoZzenih",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Pinball Bumper",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:05:46.522Z"
-  },
-  {
     "player1": "Lucents",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-08T17:07:36.426Z"
+  },
+  {
+    "player1": "Tsuwa",
+    "player2": "Buying Machine",
+    "world": "GEIGERPAP",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:07:39.788Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Arsazy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:07:52.112Z"
   }
 ]
