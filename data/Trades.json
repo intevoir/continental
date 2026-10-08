@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 264,
-    "price_wl": 264,
-    "traded_with": null,
-    "timestamp": "2026-10-08T12:42:32.729Z"
-  },
-  {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 31,
-    "price_wl": 31,
-    "traded_with": null,
-    "timestamp": "2026-10-08T12:42:32.739Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MUSTANICE",
     "world": "FREEBFGDNAYA",
@@ -128,5 +102,31 @@
     "price_wl": 7200,
     "traded_with": null,
     "timestamp": "2026-10-08T12:45:53.732Z"
+  },
+  {
+    "player1": "Kkcou",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-08T12:46:50.743Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 27500,
+    "price_wl": 27500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T12:47:01.731Z"
   }
 ]
