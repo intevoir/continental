@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "haktan",
-    "world": "REVIOSATM",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:27:56.939Z"
-  },
-  {
-    "player1": "senatun",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Saeed's Nightmare Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:28:42.066Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NewDraa",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 360,
     "traded_with": null,
     "timestamp": "2026-10-08T17:33:54.388Z"
+  },
+  {
+    "player1": "Jettcute",
+    "player2": "Renting Station",
+    "world": "BEDROCK",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:35:07.109Z"
+  },
+  {
+    "player1": "ZannCape",
+    "player2": "Renting Station",
+    "world": "PG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:35:10.639Z"
   }
 ]
