@@ -1,31 +1,5 @@
 [
   {
-    "player1": "bbe0 []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T21:21:39.471Z"
-  },
-  {
-    "player1": "BELLLA",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-08T21:22:33.132Z"
-  },
-  {
     "player1": "boxboxbox",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 10650,
     "traded_with": null,
     "timestamp": "2026-10-08T21:30:31.940Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArenGT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T21:31:36.456Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Duta",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-08T21:32:02.554Z"
   }
 ]
