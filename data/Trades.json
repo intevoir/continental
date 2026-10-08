@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrDetac",
-    "world": "WORDKU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-10-08T09:47:57.919Z"
-  },
-  {
     "player1": "11B4",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 198,
     "traded_with": null,
     "timestamp": "2026-10-08T09:50:54.575Z"
+  },
+  {
+    "player1": "Litejoy",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13400,
+    "price_wl": 13400,
+    "traded_with": null,
+    "timestamp": "2026-10-08T09:51:46.913Z"
   }
 ]
