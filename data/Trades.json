@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@milong [] [BLOCKMO]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 26,
-    "p_name": "World Locks",
-    "p_count": 5850,
-    "price_wl": 5850,
-    "traded_with": null,
-    "timestamp": "2026-10-08T03:54:59.448Z"
-  },
-  {
-    "player1": "DrYunShan",
-    "player2": "Renting Station",
-    "world": "55",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-08T03:56:33.488Z"
-  },
-  {
     "player1": "fzal",
     "player2": "XianCheng",
     "world": "BFGOKII",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-10-08T04:03:03.487Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "XianCheng",
+    "world": "BFGLIA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "XianCheng",
+    "timestamp": "2026-10-08T04:03:52.531Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "fzal",
+    "world": "BFGLIA",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "fzal",
+    "timestamp": "2026-10-08T04:03:52.532Z"
   }
 ]
