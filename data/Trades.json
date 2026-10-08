@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zdee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:08:01.008Z"
-  },
-  {
     "player1": "Hanzbot",
     "player2": "Renting Station",
     "world": "BFGIYA",
@@ -128,5 +115,18 @@
     "price_wl": 8050,
     "traded_with": null,
     "timestamp": "2026-10-08T04:11:48.990Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:13:12.191Z"
   }
 ]
