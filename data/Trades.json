@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Phoxent",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 14700,
-    "price_wl": 14700,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:44:47.532Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Phoxent",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 20300,
-    "price_wl": 20300,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:44:47.547Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LedgerX",
     "world": "BUYDAVINCI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-10-08T20:51:49.962Z"
+  },
+  {
+    "player1": "ArenGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8500,
+    "price_wl": 8500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:51:54.327Z"
+  },
+  {
+    "player1": "ArenGT",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:52:15.164Z"
   }
 ]
