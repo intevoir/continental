@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "FACE",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T14:58:39.213Z"
-  },
-  {
     "player1": "DrOcaw",
     "player2": "Buying Machine",
     "world": "KPC",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-08T15:00:16.018Z"
+  },
+  {
+    "player1": "AntiSuki",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-08T15:01:23.701Z"
   }
 ]
