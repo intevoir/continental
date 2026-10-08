@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DirectZ",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:33:16.897Z"
-  },
-  {
-    "player1": "Slovakia []",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 62,
-    "price_wl": 62,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:33:49.894Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Anwar",
     "world": "SELLSTUFF",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-08T05:38:19.772Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "SELLSTUFF",
+    "action": "BUY",
+    "item_name": "Purple Stuff",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:38:24.065Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrR34",
+    "world": "GROWMART",
+    "action": "BUY",
+    "item_name": "Purple Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:38:38.383Z"
   }
 ]
