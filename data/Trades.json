@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "UltraKopi",
-    "world": "BFGEXA",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-08T16:51:56.487Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "UltraKopi",
-    "world": "BFGEXA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-08T16:52:24.910Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Drdoang",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-10-08T16:52:32.067Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DriFAX",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T16:54:35.853Z"
+  },
+  {
+    "player1": "TIDAR",
+    "player2": "Buying Machine",
+    "world": "PG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 8710,
+    "price_wl": 8710,
+    "traded_with": null,
+    "timestamp": "2026-10-08T16:54:35.876Z"
   }
 ]
