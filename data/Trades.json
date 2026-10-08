@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RanY []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:04:36.166Z"
-  },
-  {
     "player1": "RaigorX",
     "player2": "Buying Machine",
     "world": "IYA",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-08T04:08:01.008Z"
+  },
+  {
+    "player1": "Hanzbot",
+    "player2": "Renting Station",
+    "world": "BFGIYA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:08:43.034Z"
   }
 ]
