@@ -4,19 +4,6 @@
     "player2": "Anwar",
     "world": "CLOVE",
     "action": "BUY",
-    "item_name": "Radioactive Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 110,
-    "price_wl": 110,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:22:13.139Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "CLOVE",
-    "action": "BUY",
     "item_name": "Haunted Chemical",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-08T05:26:14.076Z"
+  },
+  {
+    "player1": "Cimins",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:28:14.636Z"
   }
 ]
