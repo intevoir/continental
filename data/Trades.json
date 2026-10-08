@@ -4,19 +4,6 @@
     "player2": "Anwar",
     "world": "SELLSTUFF",
     "action": "BUY",
-    "item_name": "Orange Stuff",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:36:27.580Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SELLSTUFF",
-    "action": "BUY",
     "item_name": "Black Stuff",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-08T05:38:38.383Z"
+  },
+  {
+    "player1": "DrMRSTARK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:40:19.055Z"
   }
 ]
