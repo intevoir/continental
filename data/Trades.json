@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Duta",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T22:13:50.129Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@kinggwaes",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 195,
     "traded_with": null,
     "timestamp": "2026-10-08T22:15:05.814Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Duta",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Open Sign",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:16:00.012Z"
   }
 ]
