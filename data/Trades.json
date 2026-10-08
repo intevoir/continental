@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "REVIOS",
-    "world": "ARIITEM",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:19:44.871Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Apiii",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:20:42.377Z"
-  },
-  {
     "player1": "Sicklet",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-10-08T17:23:39.460Z"
+  },
+  {
+    "player1": "@Guwon [ELITE] [MAXWIN]",
+    "player2": "@Veewil",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Veewil",
+    "timestamp": "2026-10-08T17:23:51.463Z"
+  },
+  {
+    "player1": "@Veewil",
+    "player2": "@Guwon [ELITE] [MAXWIN]",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Hellfire Horns - Orange",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Guwon [ELITE] [MAXWIN]",
+    "timestamp": "2026-10-08T17:23:51.465Z"
   }
 ]
