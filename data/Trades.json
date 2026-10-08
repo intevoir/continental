@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "FACE",
-    "action": "BUY",
-    "item_name": "Jujutsu Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T14:59:10.773Z"
-  },
-  {
     "player1": "Chimura",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-10-08T15:03:12.448Z"
+  },
+  {
+    "player1": "BURUHTANII",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 118,
+    "p_name": "World Locks",
+    "p_count": 76700,
+    "price_wl": 76700,
+    "traded_with": null,
+    "timestamp": "2026-10-08T15:03:39.596Z"
   }
 ]
