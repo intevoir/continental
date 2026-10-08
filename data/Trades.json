@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "BOOD",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:44:51.380Z"
-  },
-  {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:45:22.047Z"
-  },
-  {
-    "player1": "KkpetCPS",
-    "player2": "Zyp",
-    "world": "FARMJAK",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Zyp",
-    "timestamp": "2026-10-08T05:45:22.076Z"
-  },
-  {
-    "player1": "KkpetCPS",
-    "player2": "Zyp",
-    "world": "FARMJAK",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 60,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Zyp",
-    "timestamp": "2026-10-08T05:45:22.078Z"
-  },
-  {
     "player1": "Zyp",
     "player2": "KkpetCPS",
     "world": "FARMJAK",
@@ -128,5 +76,57 @@
     "price_wl": 4664,
     "traded_with": null,
     "timestamp": "2026-10-08T05:47:42.783Z"
+  },
+  {
+    "player1": "KkpetCPS",
+    "player2": "fzal",
+    "world": "JGKS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "fzal",
+    "timestamp": "2026-10-08T05:47:56.767Z"
+  },
+  {
+    "player1": "KkpetCPS",
+    "player2": "fzal",
+    "world": "JGKS",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 40,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "fzal",
+    "timestamp": "2026-10-08T05:47:56.767Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "KkpetCPS",
+    "world": "JGKS",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KkpetCPS",
+    "timestamp": "2026-10-08T05:47:56.767Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xing",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35000,
+    "price_wl": 35000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:48:22.840Z"
   }
 ]
