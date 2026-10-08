@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kaiituru1",
-    "world": "RENTCOOL",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 105,
-    "p_name": "World Locks",
-    "p_count": 420,
-    "price_wl": 420,
-    "traded_with": null,
-    "timestamp": "2026-10-08T00:36:57.167Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "febri1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 95,
-    "p_name": "World Locks",
-    "p_count": 66500,
-    "price_wl": 66500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T00:37:04.091Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "febri1",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-08T00:44:35.488Z"
+  },
+  {
+    "player1": "@lanapro66",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-10-08T00:45:15.730Z"
+  },
+  {
+    "player1": "Godss of Legend [] []",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 135,
+    "p_name": "World Locks",
+    "p_count": 135,
+    "price_wl": 135,
+    "traded_with": null,
+    "timestamp": "2026-10-08T00:45:19.638Z"
   }
 ]
