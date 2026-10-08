@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JadenMan",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T16:37:22.859Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "cengir",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-08T16:37:53.093Z"
-  },
-  {
     "player1": "Reeni",
     "player2": "Renting Station",
     "world": "MESA",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-08T16:40:24.113Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "senatun",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-08T16:40:53.394Z"
+  },
+  {
+    "player1": "Arsazy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6100,
+    "price_wl": 6100,
+    "traded_with": null,
+    "timestamp": "2026-10-08T16:40:53.409Z"
   }
 ]
