@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrAziok",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Black ATM Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 620,
-    "price_wl": 620,
-    "traded_with": null,
-    "timestamp": "2026-10-08T23:07:01.765Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrAziok",
     "world": "SELLCOOK",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-08T23:14:35.661Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "UraiDhy",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 12600,
+    "price_wl": 12600,
+    "traded_with": null,
+    "timestamp": "2026-10-08T23:15:50.406Z"
   }
 ]
