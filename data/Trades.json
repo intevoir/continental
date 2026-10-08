@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zyenno",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:06:07.532Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Non La",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:06:11.082Z"
-  },
-  {
     "player1": "XianCheng",
     "player2": "Buying Machine",
     "world": "BFGNOT",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-08T05:11:19.457Z"
+  },
+  {
+    "player1": "AkuSiBODOH",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Infinity Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:12:09.773Z"
+  },
+  {
+    "player1": "AkuSiBODOH",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Rebana's Lizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:12:32.060Z"
   }
 ]
