@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GarTooth_215",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-08T10:13:29.090Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KNOW",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-08T10:16:33.081Z"
+  },
+  {
+    "player1": "Exponent",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-08T10:19:10.248Z"
   }
 ]
