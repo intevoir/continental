@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Grocks",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T06:59:18.849Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Grocks",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-08T06:59:30.333Z"
-  },
-  {
     "player1": "Danel",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-08T07:02:32.477Z"
+  },
+  {
+    "player1": "DrKaylen []",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-08T07:03:13.093Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DirectZ",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Nightmare Devil Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-08T07:03:21.544Z"
   }
 ]
