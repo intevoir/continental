@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrMozartz",
-    "world": "RENTJAK",
-    "action": "BUY",
-    "item_name": "Orange Portal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 70000,
-    "price_wl": 70000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T10:15:00.616Z"
-  },
-  {
     "player1": "@Garmin",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-10-08T10:21:04.376Z"
+  },
+  {
+    "player1": "lowiss",
+    "player2": "Buying Machine",
+    "world": "LOWIES",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-08T10:22:00.548Z"
   }
 ]
