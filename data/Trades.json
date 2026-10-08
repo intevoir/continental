@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Duta",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T21:48:11.635Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Duta",
-    "world": "CBR",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 44,
-    "price_wl": 44,
-    "traded_with": null,
-    "timestamp": "2026-10-08T21:51:41.021Z"
-  },
-  {
-    "player1": "ranger22",
-    "player2": "Renting Station",
-    "world": "HYBAR",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-08T21:52:41.489Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@EZEE",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 11900,
     "traded_with": null,
     "timestamp": "2026-10-08T22:00:45.597Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Duta",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Portrait",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:01:50.099Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Duta",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:01:58.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ranger22",
+    "world": "RENTCOOL",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-08T22:02:01.756Z"
   }
 ]
