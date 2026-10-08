@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iyan of Legend",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:45:37.204Z"
-  },
-  {
     "player1": "DrMRSTARK",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-08T05:50:43.771Z"
+  },
+  {
+    "player1": "DrVega5",
+    "player2": "Renting Station",
+    "world": "SELLSTUFF",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:52:54.512Z"
   }
 ]
