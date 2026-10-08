@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrCarlots",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Chicken Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-08T02:15:01.113Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Arsazy",
     "world": "BFGLUMNA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 17850,
     "traded_with": null,
     "timestamp": "2026-10-08T02:25:10.322Z"
+  },
+  {
+    "player1": "@fhira",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 65000,
+    "price_wl": 65000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T02:25:48.404Z"
   }
 ]
