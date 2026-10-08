@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Vanimek",
-    "world": "OIS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 132,
-    "p_name": "World Locks",
-    "p_count": 92400,
-    "price_wl": 92400,
-    "traded_with": null,
-    "timestamp": "2026-10-08T12:59:15.488Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XiaoBakut",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "SHYSS",
     "timestamp": "2026-10-08T13:00:46.504Z"
+  },
+  {
+    "player1": "SHYSS",
+    "player2": "Buying Machine",
+    "world": "BFGPED",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 59,
+    "p_name": "World Locks",
+    "p_count": 9440,
+    "price_wl": 9440,
+    "traded_with": null,
+    "timestamp": "2026-10-08T13:01:39.223Z"
   }
 ]
