@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZemahStore [ELITE]",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Black Hair Dye",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-08T19:57:30.637Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GripSickle",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 242,
-    "p_name": "World Locks",
-    "p_count": 121,
-    "price_wl": 121,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:03:37.518Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GripSickle",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 242,
-    "p_name": "World Locks",
-    "p_count": 1210,
-    "price_wl": 1210,
-    "traded_with": null,
-    "timestamp": "2026-10-08T20:03:45.287Z"
-  },
-  {
     "player1": "@EZEE",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 650,
     "traded_with": null,
     "timestamp": "2026-10-08T20:12:31.140Z"
+  },
+  {
+    "player1": "@EZEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black ATM Machine",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1860,
+    "price_wl": 1860,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:13:31.841Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "boostbro",
+    "world": "BFGU",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:13:47.492Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "boostbro",
+    "world": "BFGU",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-10-08T20:14:02.233Z"
   }
 ]
