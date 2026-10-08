@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Ritsma",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:51:21.369Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Spirit Guide",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:51:21.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Undead Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:52:57.869Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "YayaImut []",
-    "world": "CLOVE",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:53:05.621Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "YayaImut []",
     "world": "CLOVE",
@@ -128,5 +76,57 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-08T04:53:27.649Z"
+  },
+  {
+    "player1": "Ritsma",
+    "player2": "Buying Machine",
+    "world": "BOOD",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:53:31.198Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YayaImut []",
+    "world": "CLOVE",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:53:31.203Z"
+  },
+  {
+    "player1": "Ritsma",
+    "player2": "Buying Machine",
+    "world": "BOOD",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:53:59.150Z"
+  },
+  {
+    "player1": "Ritsma",
+    "player2": "Buying Machine",
+    "world": "BOOD",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-08T04:53:59.163Z"
   }
 ]
