@@ -1,18 +1,5 @@
 [
   {
-    "player1": "iyhh",
-    "player2": "Buying Machine",
-    "world": "BFGOF",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2600,
-    "price_wl": 2600,
-    "traded_with": null,
-    "timestamp": "2026-10-08T06:26:03.932Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Arsazy",
     "world": "BFGU",
@@ -128,5 +115,18 @@
     "price_wl": 2249,
     "traded_with": null,
     "timestamp": "2026-10-08T06:32:08.137Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BFGVA",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-08T06:32:26.038Z"
   }
 ]
