@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Walid of Legend",
-    "player2": "@Vinias",
-    "world": "BLOCKMO",
-    "action": "TRADE",
-    "item_name": "Benzyl's Void Reaver",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Vinias",
-    "timestamp": "2026-10-08T05:25:29.518Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nety",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Strange Eddie Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:26:14.076Z"
-  },
-  {
     "player1": "Cimins",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 62,
     "traded_with": null,
     "timestamp": "2026-10-08T05:33:49.894Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "SELLSTUFF",
+    "action": "BUY",
+    "item_name": "Orange Stuff",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:36:27.580Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "SELLSTUFF",
+    "action": "BUY",
+    "item_name": "Black Stuff",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:36:34.337Z"
   }
 ]
