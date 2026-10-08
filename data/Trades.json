@@ -4,32 +4,6 @@
     "player2": "103C",
     "world": "MIKEBFG",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:55:12.601Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "103C",
-    "world": "MIKEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-08T04:55:16.330Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "103C",
-    "world": "MIKEBFG",
-    "action": "BUY",
     "item_name": "Buddy's Block Head",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 836,
     "traded_with": null,
     "timestamp": "2026-10-08T05:00:33.508Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "Buying Machine",
+    "world": "IYA",
+    "action": "SELL",
+    "item_name": "GrowScan 9000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:01:05.008Z"
+  },
+  {
+    "player1": "ElDemprot",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1785,
+    "price_wl": 1785,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:01:24.017Z"
   }
 ]
