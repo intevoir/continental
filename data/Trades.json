@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drtangankanan",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 19000,
-    "price_wl": 19000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T00:04:49.900Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AAL [ELITE] [PRO ]",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80000,
-    "price_wl": 80000,
-    "traded_with": null,
-    "timestamp": "2026-10-08T00:09:50.878Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@AAL [ELITE] [PRO ]",
     "world": "BFGNOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-08T00:15:22.003Z"
+  },
+  {
+    "player1": "SirMecx",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-10-08T00:15:47.178Z"
+  },
+  {
+    "player1": "Kenzs",
+    "player2": "Buying Machine",
+    "world": "UNTRI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 3900,
+    "price_wl": 3900,
+    "traded_with": null,
+    "timestamp": "2026-10-08T00:16:06.487Z"
   }
 ]
