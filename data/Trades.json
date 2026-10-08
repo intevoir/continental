@@ -1,32 +1,6 @@
 [
   {
     "player1": "Hourbour",
-    "player2": "Buying Machine",
-    "world": "BFGSINI",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 4800,
-    "price_wl": 4800,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:12:49.966Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "wews",
-    "world": "NEUI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 238,
-    "p_name": "World Locks",
-    "p_count": 164220,
-    "price_wl": 164220,
-    "traded_with": null,
-    "timestamp": "2026-10-08T17:13:07.073Z"
-  },
-  {
-    "player1": "Hourbour",
     "player2": "Renting Station",
     "world": "END",
     "action": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 60000,
     "traded_with": null,
     "timestamp": "2026-10-08T17:19:44.871Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Apiii",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Hedge",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:20:42.377Z"
+  },
+  {
+    "player1": "Sicklet",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-08T17:21:07.129Z"
   }
 ]
