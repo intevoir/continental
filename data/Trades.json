@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SELLSTUFF",
-    "action": "BUY",
-    "item_name": "Black Stuff",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:36:34.337Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RoZzenih",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-08T05:37:18.270Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sicklet",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-08T05:40:19.055Z"
+  },
+  {
+    "player1": "DrMRSTARK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:41:19.940Z"
+  },
+  {
+    "player1": "fhhf",
+    "player2": "Renting Station",
+    "world": "BFGID",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-08T05:41:19.954Z"
   }
 ]
