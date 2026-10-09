@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HOLDX",
-    "player2": "Buying Machine",
-    "world": "RAJABFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 84,
-    "price_wl": 84,
-    "traded_with": null,
-    "timestamp": "2026-10-09T01:37:36.321Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Gebo",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 360,
     "traded_with": null,
     "timestamp": "2026-10-09T01:42:38.386Z"
+  },
+  {
+    "player1": "Gebo",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-09T01:43:08.827Z"
   }
 ]
