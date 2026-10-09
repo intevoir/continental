@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dr9x3",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-10-09T00:30:06.012Z"
-  },
-  {
     "player1": "Biu",
     "player2": "Renting Station",
     "world": "NEPTUNERENT",
@@ -128,5 +115,18 @@
     "price_wl": 48000,
     "traded_with": null,
     "timestamp": "2026-10-09T00:36:07.443Z"
+  },
+  {
+    "player1": "vanilass",
+    "player2": "Buying Machine",
+    "world": "PG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 4690,
+    "price_wl": 4690,
+    "traded_with": null,
+    "timestamp": "2026-10-09T00:36:30.501Z"
   }
 ]
