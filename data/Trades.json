@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "BUYBLUEPORTALS",
-    "action": "BUY",
-    "item_name": "Blue Portal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-09T02:22:06.154Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Anjk",
     "world": "CUAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 45000,
     "traded_with": null,
     "timestamp": "2026-10-09T02:25:45.563Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "VENDBO",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-09T02:27:38.645Z"
   }
 ]
