@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Jasson",
-    "player2": "Buying Machine",
-    "world": "EWEAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 31200,
-    "price_wl": 31200,
-    "traded_with": null,
-    "timestamp": "2026-10-09T05:16:57.494Z"
-  },
-  {
     "player1": "orbreng",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-09T05:21:03.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VVVO",
+    "world": "BUYSLIPPERS",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-09T05:21:40.762Z"
   }
 ]
