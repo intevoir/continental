@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Gebo",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "D Battery",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-09T02:11:22.504Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CXFRENZY",
     "world": "BIRU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 95810,
     "traded_with": null,
     "timestamp": "2026-10-09T02:16:41.764Z"
+  },
+  {
+    "player1": "coffein",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 185,
+    "p_name": "World Locks",
+    "p_count": 1480,
+    "price_wl": 1480,
+    "traded_with": null,
+    "timestamp": "2026-10-09T02:17:01.206Z"
   }
 ]
