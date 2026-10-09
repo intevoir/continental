@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@fhira",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 925,
-    "price_wl": 925,
-    "traded_with": null,
-    "timestamp": "2026-10-09T15:53:33.917Z"
-  },
-  {
-    "player1": "FxD",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Royal Storm Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-10-09T15:53:33.931Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "jamalgokil",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 95000,
     "traded_with": null,
     "timestamp": "2026-10-09T15:54:34.997Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VirgiL of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14600,
+    "price_wl": 14600,
+    "traded_with": null,
+    "timestamp": "2026-10-09T15:55:11.984Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLetuce",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Boots of Deepest Winter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-09T15:55:11.996Z"
   }
 ]
