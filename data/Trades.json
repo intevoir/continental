@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Mischaaaa",
-    "world": "LISTREPAL",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 85,
-    "p_name": "World Locks",
-    "p_count": 510,
-    "price_wl": 510,
-    "traded_with": null,
-    "timestamp": "2026-10-09T03:56:29.187Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 23100,
-    "price_wl": 23100,
-    "traded_with": null,
-    "timestamp": "2026-10-09T03:56:50.259Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mischaaaa",
     "world": "BFGNUM11",
     "action": "BUY",
     "item_name": "Songpyeon",
@@ -128,5 +102,31 @@
     "price_wl": 153300,
     "traded_with": null,
     "timestamp": "2026-10-09T04:02:43.885Z"
+  },
+  {
+    "player1": "Sicklet",
+    "player2": "Buying Machine",
+    "world": "CUAN",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7050,
+    "price_wl": 7050,
+    "traded_with": null,
+    "timestamp": "2026-10-09T04:03:25.740Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sicklet",
+    "world": "CUAN",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-09T04:03:39.514Z"
   }
 ]
