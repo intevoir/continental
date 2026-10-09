@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Anwar",
-    "world": "BUYBLUEPORTALS",
-    "action": "BUY",
-    "item_name": "Blue Portal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-09T02:19:36.359Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
     "world": "VENDBO",
     "action": "BUY",
     "item_name": "Painting Easel",
@@ -128,5 +115,18 @@
     "price_wl": 370000,
     "traded_with": null,
     "timestamp": "2026-10-09T02:22:06.235Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SellBuy",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Pirate Bandana - Black",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-09T02:22:48.202Z"
   }
 ]
