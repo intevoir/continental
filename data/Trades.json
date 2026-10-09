@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "BFGNUM11",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 86,
-    "p_name": "World Locks",
-    "p_count": 473000,
-    "price_wl": 473000,
-    "traded_with": null,
-    "timestamp": "2026-10-09T04:07:45.173Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Clarishaa",
-    "world": "MUR",
-    "action": "BUY",
-    "item_name": "Islands Blast",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 2475,
-    "price_wl": 2475,
-    "traded_with": null,
-    "timestamp": "2026-10-09T04:08:23.172Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Clarishaa",
     "world": "MUR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "buitenzorg",
     "timestamp": "2026-10-09T04:12:56.476Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "miiiu7",
+    "world": "SELLDIGIVEND",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-09T04:15:30.783Z"
+  },
+  {
+    "player1": "RKMzzSTORE",
+    "player2": "Renting Station",
+    "world": "FREEBFGBOS",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-09T04:15:34.120Z"
   }
 ]
