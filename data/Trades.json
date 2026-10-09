@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ChanZunZhe",
-    "world": "BUYPRINCESS",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-09T01:42:38.372Z"
-  },
-  {
     "player1": "Gebo",
     "player2": "Buying Machine",
     "world": "GEIGERPAP",
@@ -128,5 +115,18 @@
     "price_wl": 35250,
     "traded_with": null,
     "timestamp": "2026-10-09T01:43:54.037Z"
+  },
+  {
+    "player1": "Godss of Legend [] []",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-09T01:44:18.351Z"
   }
 ]
