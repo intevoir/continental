@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DirectZ",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-09T00:37:08.170Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KyoQ",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-09T00:37:12.626Z"
-  },
-  {
     "player1": "Phoxent",
     "player2": "Buying Machine",
     "world": "SYMMETRICBFG",
@@ -128,5 +102,31 @@
     "price_wl": 312,
     "traded_with": null,
     "timestamp": "2026-10-09T00:46:14.284Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phoxent",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 35100,
+    "price_wl": 35100,
+    "traded_with": null,
+    "timestamp": "2026-10-09T00:47:17.388Z"
+  },
+  {
+    "player1": "MidnightBoy",
+    "player2": "Renting Station",
+    "world": "BFGNOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-09T00:47:25.796Z"
   }
 ]
