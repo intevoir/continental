@@ -1,18 +1,5 @@
 [
   {
-    "player1": "itsrara",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-09T04:55:05.531Z"
-  },
-  {
     "player1": "sokl",
     "player2": "Renting Station",
     "world": "EDWARDO",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-09T05:01:59.967Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Reyuu1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-09T05:02:42.766Z"
   }
 ]
