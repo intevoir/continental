@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrBonsV",
-    "world": "RCTI",
-    "action": "BUY",
-    "item_name": "Haunted Chemical",
-    "item_count": 31,
-    "p_name": "World Locks",
-    "p_count": 248,
-    "price_wl": 248,
-    "traded_with": null,
-    "timestamp": "2026-10-09T02:44:11.601Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MUSTANICE",
-    "world": "FREEBFGDNAYA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-09T02:44:45.517Z"
-  },
-  {
     "player1": "Sicklet",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrSELEB",
     "timestamp": "2026-10-09T02:48:54.705Z"
+  },
+  {
+    "player1": "DrYrbae",
+    "player2": "DrToyaSkuy",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrToyaSkuy",
+    "timestamp": "2026-10-09T02:49:57.343Z"
+  },
+  {
+    "player1": "DrToyaSkuy",
+    "player2": "DrYrbae",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 39,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrYrbae",
+    "timestamp": "2026-10-09T02:49:57.343Z"
   }
 ]
