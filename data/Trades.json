@@ -1,19 +1,6 @@
 [
   {
     "player1": "ONDO",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-09T01:19:29.281Z"
-  },
-  {
-    "player1": "ONDO",
     "player2": "Renting Station",
     "world": "SEWA",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-09T01:24:35.109Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Luksuriii",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-09T01:25:58.210Z"
   }
 ]
