@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Skyxi",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Mystic Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-10T18:20:56.336Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "D1MO",
     "world": "PASARAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-10T18:25:46.443Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rarawr",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-10T18:26:58.068Z"
   }
 ]
