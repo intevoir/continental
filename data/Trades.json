@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PRIXE",
-    "world": "OPEN",
-    "action": "BUY",
-    "item_name": "Dark Purple Wallpaper",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-10T10:24:49.663Z"
-  },
-  {
-    "player1": "JetpackV2",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-10T10:25:14.086Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrJU11",
     "world": "TOKOC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 460,
     "traded_with": null,
     "timestamp": "2026-10-10T10:27:16.540Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora [ELITE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T10:27:51.009Z"
+  },
+  {
+    "player1": "DrUsefull",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-10T10:27:54.949Z"
   }
 ]
