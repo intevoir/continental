@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Conexion",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-10-10T20:10:37.498Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TheLastperson",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-10-10T20:10:37.522Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KayMpruy",
     "world": "RAJABFG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-10T20:13:43.484Z"
+  },
+  {
+    "player1": "Dheys",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 330000,
+    "price_wl": 330000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T20:14:11.533Z"
+  },
+  {
+    "player1": "KiramaZenkai",
+    "player2": "Renting Station",
+    "world": "BFGNOT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-10T20:14:39.999Z"
   }
 ]
