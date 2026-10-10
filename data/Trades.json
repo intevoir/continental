@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Skyws",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:12:16.077Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Skyws",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:14:15.327Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Skyws",
     "world": "SHOPK",
     "action": "BUY",
     "item_name": "Salt",
@@ -128,5 +102,31 @@
     "price_wl": 4080,
     "traded_with": null,
     "timestamp": "2026-10-10T23:17:17.122Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyp",
+    "world": "CBR",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:18:48.077Z"
+  },
+  {
+    "player1": "XOTOY",
+    "player2": "Buying Machine",
+    "world": "1I",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 252,
+    "price_wl": 252,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:18:55.233Z"
   }
 ]
