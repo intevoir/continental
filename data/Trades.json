@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BalikpapanUtara",
-    "world": "INDOSIAR",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-10T09:20:54.914Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CO0",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 235,
-    "price_wl": 235,
-    "traded_with": null,
-    "timestamp": "2026-10-10T09:21:12.559Z"
-  },
-  {
     "player1": "MTK",
     "player2": "Renting Station",
     "world": "BFGSTREAK",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-10T09:25:15.872Z"
+  },
+  {
+    "player1": "DrLevaza",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 160,
+    "p_name": "World Locks",
+    "p_count": 110400,
+    "price_wl": 110400,
+    "traded_with": null,
+    "timestamp": "2026-10-10T09:25:49.797Z"
+  },
+  {
+    "player1": "DrVyte",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 1025,
+    "price_wl": 1025,
+    "traded_with": null,
+    "timestamp": "2026-10-10T09:25:49.811Z"
   }
 ]
