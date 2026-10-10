@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BRGN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 195,
-    "p_name": "World Locks",
-    "p_count": 8580,
-    "price_wl": 8580,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:20:33.589Z"
-  },
-  {
-    "player1": "NNBC",
-    "player2": "Buying Machine",
-    "world": "CYNOBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1300,
-    "price_wl": 1300,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:21:29.902Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NNBC",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 850,
     "traded_with": null,
     "timestamp": "2026-10-10T02:23:43.437Z"
+  },
+  {
+    "player1": "NNBA",
+    "player2": "Buying Machine",
+    "world": "CYNOBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:25:32.327Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dheys",
+    "world": "PG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:25:32.342Z"
   }
 ]
