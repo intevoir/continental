@@ -1,18 +1,5 @@
 [
   {
-    "player1": "pabloncok",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "TXMom's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-10T05:37:58.408Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zdee",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-10-10T05:41:59.858Z"
+  },
+  {
+    "player1": "Aztecs",
+    "player2": "Buying Machine",
+    "world": "BA",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 4680,
+    "price_wl": 4680,
+    "traded_with": null,
+    "timestamp": "2026-10-10T05:45:01.403Z"
   }
 ]
