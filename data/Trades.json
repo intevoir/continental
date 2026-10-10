@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@GANG [] [BLOCKMO]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 110,
-    "price_wl": 110,
-    "traded_with": null,
-    "timestamp": "2026-10-10T16:01:04.253Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zakir",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Weather Machine - Autumn",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T16:01:06.810Z"
-  },
-  {
     "player1": "siArhanP",
     "player2": "Buying Machine",
     "world": "FREEBFGDNASU",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-10T16:02:12.250Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bototob",
+    "world": "B1S",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5900,
+    "price_wl": 5900,
+    "traded_with": null,
+    "timestamp": "2026-10-10T16:02:42.203Z"
+  },
+  {
+    "player1": "@EZEE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1340,
+    "price_wl": 1340,
+    "traded_with": null,
+    "timestamp": "2026-10-10T16:02:42.233Z"
   }
 ]
