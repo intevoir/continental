@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Levazaa",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 235,
-    "price_wl": 235,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:59:55.473Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bacang",
-    "world": "BFGEVI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 42000,
-    "price_wl": 42000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:59:59.981Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "yayakk",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-10T07:03:12.310Z"
+  },
+  {
+    "player1": "valwik",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-10T07:03:56.948Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 225,
+    "price_wl": 225,
+    "traded_with": null,
+    "timestamp": "2026-10-10T07:04:01.165Z"
   }
 ]
