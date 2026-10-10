@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Shovia",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Autumn Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-10T22:36:08.543Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Shovia",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-10T22:37:00.791Z"
-  },
-  {
     "player1": "boxboxbox",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-10T22:45:03.406Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BalPartOfYou",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Typhoon Gate",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-10-10T22:47:23.543Z"
+  },
+  {
+    "player1": "Aztecs",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-10-10T22:47:28.345Z"
   }
 ]
