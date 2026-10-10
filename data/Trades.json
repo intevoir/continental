@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrCarlots",
-    "player2": "@Mbox [ELITE]",
-    "world": "MBOXIOTM",
-    "action": "TRADE",
-    "item_name": "Monarch Butterfly Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Mbox [ELITE]",
-    "timestamp": "2026-10-10T13:57:23.664Z"
-  },
-  {
-    "player1": "@Mbox [ELITE]",
-    "player2": "DrCarlots",
-    "world": "MBOXIOTM",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 40,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrCarlots",
-    "timestamp": "2026-10-10T13:57:23.664Z"
-  },
-  {
     "player1": "ZOHOR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 636,
     "traded_with": null,
     "timestamp": "2026-10-10T13:58:43.406Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Royalthy",
+    "world": "OWE",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 175000,
+    "price_wl": 175000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T13:59:13.169Z"
+  },
+  {
+    "player1": "Kkcou",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 190,
+    "p_name": "World Locks",
+    "p_count": 190,
+    "price_wl": 190,
+    "traded_with": null,
+    "timestamp": "2026-10-10T13:59:22.619Z"
   }
 ]
