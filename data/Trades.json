@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "wanSG",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:25:20.006Z"
-  },
-  {
     "player1": "Atre",
     "player2": "Renting Station",
     "world": "ZFIRE",
@@ -128,5 +115,18 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-10-10T06:26:52.529Z"
+  },
+  {
+    "player1": "Jasson",
+    "player2": "Buying Machine",
+    "world": "EWEAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3250,
+    "price_wl": 3250,
+    "traded_with": null,
+    "timestamp": "2026-10-10T06:27:41.867Z"
   }
 ]
