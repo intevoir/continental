@@ -4,19 +4,6 @@
     "player2": "Renting Station",
     "world": "SET",
     "action": "RENT",
-    "item_name": "REME Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-10-10T20:35:08.551Z"
-  },
-  {
-    "player1": "Countrack",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
     "item_name": "Astral Aura - Black Cat",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-10T20:38:51.378Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nou",
+    "world": "MCD",
+    "action": "BUY",
+    "item_name": "Kerjigger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-10T20:39:07.460Z"
   }
 ]
