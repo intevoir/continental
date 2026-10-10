@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JetpackV2",
-    "player2": "Renting Station",
-    "world": "BFGKAKA",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-10T17:27:34.723Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Skyxi",
     "world": "DISPLAY",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-10T17:30:33.865Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Mbox [ELITE]",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-10T17:32:46.306Z"
   }
 ]
