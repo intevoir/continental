@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ExTunder",
-    "world": "REBUS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 1736,
-    "price_wl": 1736,
-    "traded_with": null,
-    "timestamp": "2026-10-10T08:36:11.601Z"
-  },
-  {
     "player1": "Morpi",
     "player2": "Buying Machine",
     "world": "VENDIIN",
@@ -128,5 +115,18 @@
     "price_wl": 1170,
     "traded_with": null,
     "timestamp": "2026-10-10T08:38:10.907Z"
+  },
+  {
+    "player1": "Morpi",
+    "player2": "Buying Machine",
+    "world": "VENDIIN",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-10T08:38:14.770Z"
   }
 ]
