@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Skyws",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Orb of Time",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3500,
-    "price_wl": 3500,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:52:31.791Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JoSeriesMray2",
-    "world": "PNB",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:52:35.593Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JoSeriesMray2",
     "world": "PNB",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1850,
     "traded_with": null,
     "timestamp": "2026-10-10T06:56:53.160Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyws",
+    "world": "SELLHAIR",
+    "action": "BUY",
+    "item_name": "Malevolent Hair",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-10T06:57:27.047Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RexxxT",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T06:57:54.050Z"
   }
 ]
