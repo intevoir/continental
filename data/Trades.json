@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Yudisium",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 650,
-    "price_wl": 650,
-    "traded_with": null,
-    "timestamp": "2026-10-10T11:10:45.816Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "R4F",
     "world": "WES",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-10T11:13:16.786Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "WES",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-10-10T11:13:48.073Z"
   }
 ]
