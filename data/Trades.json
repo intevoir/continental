@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "BFGRJD",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-10T04:53:46.493Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MUSTANICE",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-10T04:53:56.796Z"
-  },
-  {
     "player1": "ariws",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-10T04:55:01.474Z"
+  },
+  {
+    "player1": "ariws",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 235,
+    "p_name": "World Locks",
+    "p_count": 235,
+    "price_wl": 235,
+    "traded_with": null,
+    "timestamp": "2026-10-10T04:55:44.002Z"
+  },
+  {
+    "player1": "Jejeeeeeeee",
+    "player2": "Renting Station",
+    "world": "EDWARDO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-10T04:55:44.017Z"
   }
 ]
