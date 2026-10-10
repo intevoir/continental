@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Skyws",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:16:16.698Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Skyws",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:16:16.725Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TolakMBG",
     "world": "LCMD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-10T23:20:43.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XianCheng",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:21:18.244Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leopaw",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:21:46.328Z"
   }
 ]
