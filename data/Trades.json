@@ -1,18 +1,5 @@
 [
   {
-    "player1": "UltraKopi",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-10-10T09:24:49.778Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "TrueKing",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 2010,
     "traded_with": null,
     "timestamp": "2026-10-10T09:28:42.573Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrtToMray",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-10T09:29:17.755Z"
   }
 ]
