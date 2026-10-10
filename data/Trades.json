@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CCPC",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-10T03:01:14.443Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrDDN [ELITE]",
     "world": "SELLSPIKE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 22080,
     "traded_with": null,
     "timestamp": "2026-10-10T03:07:04.674Z"
+  },
+  {
+    "player1": "AnakHutan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T03:08:01.767Z"
   }
 ]
