@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PAPILIV",
-    "world": "BFGU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:14:58.798Z"
-  },
-  {
-    "player1": "NOIRTO",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:15:27.636Z"
-  },
-  {
-    "player1": "BRGN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:15:27.662Z"
-  },
-  {
     "player1": "BRGN",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 102,
     "traded_with": null,
     "timestamp": "2026-10-10T02:17:55.721Z"
+  },
+  {
+    "player1": "BRGN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:18:29.108Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SukaSempak",
+    "world": "IYA",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 18000,
+    "price_wl": 18000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:18:29.120Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NOIRTO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Thermonuclear Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:18:52.701Z"
   }
 ]
