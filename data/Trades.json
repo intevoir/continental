@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HudaRedfield",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:54:59.216Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nozferatuu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 144,
-    "price_wl": 144,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:55:07.827Z"
-  },
-  {
     "player1": "HudaRedfield",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +102,31 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-10-10T23:56:59.912Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "purukuda",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:57:31.075Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "purukuda",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:57:31.094Z"
   }
 ]
