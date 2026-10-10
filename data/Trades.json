@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "adelaTITUT",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Possessing Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-10T01:59:28.398Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "adelaTITUT",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Mochi Twintails Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-10T01:59:31.769Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "gizta",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-10T02:05:58.411Z"
+  },
+  {
+    "player1": "LuluCKP",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:06:23.844Z"
+  },
+  {
+    "player1": "LuluCKP",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:06:23.861Z"
   }
 ]
