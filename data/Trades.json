@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:26:51.293Z"
-  },
-  {
-    "player1": "ryvhen",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 82,
-    "p_name": "World Locks",
-    "p_count": 3608,
-    "price_wl": 3608,
-    "traded_with": null,
-    "timestamp": "2026-10-10T02:27:33.641Z"
-  },
-  {
     "player1": "ryvhen",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-10-10T02:29:41.876Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PAPILIV",
+    "world": "BFGU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:32:38.082Z"
+  },
+  {
+    "player1": "@Nbbb",
+    "player2": "Renting Station",
+    "world": "CROT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:32:48.833Z"
   }
 ]
