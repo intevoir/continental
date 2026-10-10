@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Skyws",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:09:24.737Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "boostbro",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:09:35.276Z"
-  },
-  {
     "player1": "Jembuttasya",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-10-10T23:12:16.077Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyws",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Chicken Meat",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:14:15.327Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyws",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:14:15.353Z"
   }
 ]
