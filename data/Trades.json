@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DiujungTanduk",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-10-10T17:41:26.229Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Udilll",
     "world": "MARKET",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-10T17:45:46.790Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CO0",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Duct Tape",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T17:46:49.810Z"
   }
 ]
