@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kyhanzzz",
-    "world": "TEMBAK",
-    "action": "BUY",
-    "item_name": "Neptune's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-10T03:16:35.171Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LeonCPS",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-10T03:21:06.788Z"
+  },
+  {
+    "player1": "@AMORGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-10T03:21:24.877Z"
   }
 ]
