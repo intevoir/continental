@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ariws",
-    "world": "BFGRJD",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-10T04:54:43.279Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TwoSecond",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-10T04:54:43.372Z"
-  },
-  {
     "player1": "ariws",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-10T04:57:44.944Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nosferatuu",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ultra Summer Blaster Pants",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-10T04:57:55.290Z"
+  },
+  {
+    "player1": "Frexxi []",
+    "player2": "Buying Machine",
+    "world": "BFGSPK",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 11700,
+    "price_wl": 11700,
+    "traded_with": null,
+    "timestamp": "2026-10-10T04:58:07.729Z"
   }
 ]
