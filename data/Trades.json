@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-10T11:21:52.630Z"
-  },
-  {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-10T11:21:52.642Z"
-  },
-  {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Golden Heartthrob Helm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-10T11:21:52.650Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kudaprut",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 360,
-    "price_wl": 360,
-    "traded_with": null,
-    "timestamp": "2026-10-10T11:21:52.659Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fahrimanu",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 37500,
     "traded_with": null,
     "timestamp": "2026-10-10T11:22:26.037Z"
+  },
+  {
+    "player1": "GAIKUTAN",
+    "player2": "DrDDN [ELITE]",
+    "world": "BFGTOPU",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 6,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrDDN [ELITE]",
+    "timestamp": "2026-10-10T11:23:53.888Z"
+  },
+  {
+    "player1": "DrDDN [ELITE]",
+    "player2": "GAIKUTAN",
+    "world": "BFGTOPU",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "GAIKUTAN",
+    "timestamp": "2026-10-10T11:23:53.888Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fahrimanu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-10T11:23:53.889Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fahrimanu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-10T11:23:53.899Z"
   }
 ]
