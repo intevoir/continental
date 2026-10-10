@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "TONGTING",
-    "world": "FREEBFGDNASU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T06:08:12.128Z"
-  },
-  {
     "player1": "richclover",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-10T06:10:33.390Z"
+  },
+  {
+    "player1": "BaliPeople",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-10T06:11:14.418Z"
   }
 ]
