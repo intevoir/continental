@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "mlx5",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-10T16:35:02.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "mlx5",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 280,
-    "price_wl": 280,
-    "traded_with": null,
-    "timestamp": "2026-10-10T16:35:22.077Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Udilll",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-10T16:36:56.663Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 26,
+    "price_wl": 26,
+    "traded_with": null,
+    "timestamp": "2026-10-10T16:37:57.309Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 89,
+    "p_name": "World Locks",
+    "p_count": 89,
+    "price_wl": 89,
+    "traded_with": null,
+    "timestamp": "2026-10-10T16:38:24.100Z"
   }
 ]
