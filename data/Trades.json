@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kiel01",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Extractor Dynamo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-10T01:55:35.260Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dwinilek",
     "world": "BUYCHAND",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-10T01:59:31.769Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gizta",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Security Camera",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-10T02:00:40.691Z"
   }
 ]
