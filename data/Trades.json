@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Hutabarat",
-    "world": "MIKEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 738,
-    "price_wl": 738,
-    "traded_with": null,
-    "timestamp": "2026-10-10T20:25:44.410Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "QEMEKU",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T20:26:06.990Z"
-  },
-  {
     "player1": "ZemahStore",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-10-10T20:30:08.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZOHOR",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 48,
+    "price_wl": 48,
+    "traded_with": null,
+    "timestamp": "2026-10-10T20:30:48.123Z"
+  },
+  {
+    "player1": "Danel",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 7200,
+    "price_wl": 7200,
+    "traded_with": null,
+    "timestamp": "2026-10-10T20:30:48.139Z"
   }
 ]
