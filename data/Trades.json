@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "valwik",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-10T10:58:41.958Z"
-  },
-  {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-10T10:58:41.971Z"
-  },
-  {
     "player1": "Kkcou",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-10T10:59:08.281Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ManyolL",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 46,
+    "price_wl": 46,
+    "traded_with": null,
+    "timestamp": "2026-10-10T10:59:50.356Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BloodLine",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-10T11:00:14.123Z"
   }
 ]
