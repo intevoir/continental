@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "habs",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-10T19:45:58.553Z"
-  },
-  {
-    "player1": "D1MO",
-    "player2": "Buying Machine",
-    "world": "55",
-    "action": "SELL",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-10T19:46:26.978Z"
-  },
-  {
     "player1": "Arken",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-10T19:54:05.249Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SCHUETT",
+    "world": "SGM",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 51,
+    "p_name": "World Locks",
+    "p_count": 1530,
+    "price_wl": 1530,
+    "traded_with": null,
+    "timestamp": "2026-10-10T19:55:31.578Z"
+  },
+  {
+    "player1": "SCHUETT",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 51,
+    "p_name": "World Locks",
+    "p_count": 2040,
+    "price_wl": 2040,
+    "traded_with": null,
+    "timestamp": "2026-10-10T19:55:31.605Z"
   }
 ]
