@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EDOGTPSS",
-    "world": "TOKOZ",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-10T03:23:07.683Z"
-  },
-  {
-    "player1": "@AMORGT",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-10T03:23:21.074Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kazuusz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-10T03:25:41.038Z"
+  },
+  {
+    "player1": "@AMORGT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-10T03:26:09.123Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Morpi",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Chemical G",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-10T03:26:09.139Z"
   }
 ]
