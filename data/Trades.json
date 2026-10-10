@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Aztecs",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-10-10T22:47:28.345Z"
-  },
-  {
-    "player1": "AkuSukaHencet",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-10T22:49:05.397Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrHawky",
     "world": "MIKEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 60000,
     "traded_with": null,
     "timestamp": "2026-10-10T22:53:36.002Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 164,
+    "p_name": "World Locks",
+    "p_count": 820,
+    "price_wl": 820,
+    "traded_with": null,
+    "timestamp": "2026-10-10T22:54:07.634Z"
+  },
+  {
+    "player1": "MattShadow",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-10T22:54:07.651Z"
   }
 ]
