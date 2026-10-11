@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nozferatuu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:55:38.342Z"
-  },
-  {
     "player1": "Nozferatuu",
     "player2": "Buying Machine",
     "world": "BFGU",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-10T23:59:31.832Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrToyaSkuy",
+    "world": "KWN",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:01:33.025Z"
   }
 ]
