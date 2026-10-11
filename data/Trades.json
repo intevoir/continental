@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Morpi",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-11T10:18:07.559Z"
-  },
-  {
     "player1": "tadung46",
     "player2": "Buying Machine",
     "world": "IYA",
@@ -128,5 +115,18 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-11T10:20:08.550Z"
+  },
+  {
+    "player1": "DwAngga",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-11T10:23:13.562Z"
   }
 ]
