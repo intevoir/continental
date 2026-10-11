@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "miraclemaura",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-11T16:59:51.317Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 270,
-    "price_wl": 270,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:00:03.842Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 520,
-    "price_wl": 520,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:00:12.043Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:00:16.600Z"
-  },
-  {
     "player1": "KASILAS",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 35,
     "traded_with": null,
     "timestamp": "2026-10-11T17:00:51.467Z"
+  },
+  {
+    "player1": "OrangeC",
+    "player2": "Buying Machine",
+    "world": "RENTCOOL",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:00:55.823Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyxi",
+    "world": "TOKOM",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:00:59.684Z"
+  },
+  {
+    "player1": "OrangeC",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:01:11.305Z"
+  },
+  {
+    "player1": "OrangeC",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:01:19.339Z"
   }
 ]
