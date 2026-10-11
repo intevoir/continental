@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Arken []",
-    "player2": "Buying Machine",
-    "world": "SYMMETRICBFG",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 70,
-    "p_name": "World Locks",
-    "p_count": 12600,
-    "price_wl": 12600,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:56:38.265Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "SHOPKIP",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:58:06.240Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BillMasihPemula",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-11T01:01:37.390Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Change of Address",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:02:19.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:02:40.530Z"
   }
 ]
