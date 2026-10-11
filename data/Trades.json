@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "QEMEKU",
-    "world": "ISPOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 2280,
-    "price_wl": 2280,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:11:21.200Z"
-  },
-  {
     "player1": "QEMEKU",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-11T08:13:21.204Z"
+  },
+  {
+    "player1": "QEMEKU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 3450,
+    "price_wl": 3450,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:13:36.548Z"
   }
 ]
