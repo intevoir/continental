@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZIDAN0911",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Harvester Of Sorrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-11T16:26:59.743Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZIDAN0911",
-    "world": "JUAL",
-    "action": "BUY",
-    "item_name": "Chicken Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-11T16:27:08.030Z"
-  },
-  {
     "player1": "@Ustad",
     "player2": "Renting Station",
     "world": "I",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-11T16:29:41.361Z"
+  },
+  {
+    "player1": "OrangeC",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-11T16:29:44.954Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OrangeC",
+    "world": "BUYDTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-10-11T16:30:09.720Z"
   }
 ]
