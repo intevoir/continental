@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "amilys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 26,
-    "p_name": "World Locks",
-    "p_count": 78,
-    "price_wl": 78,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:30:29.225Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Chanami",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-11T20:34:17.033Z"
+  },
+  {
+    "player1": "Snoozly",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "JUDI Legendary Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:37:25.959Z"
   }
 ]
