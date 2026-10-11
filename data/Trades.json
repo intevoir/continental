@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Leopaw",
-    "player2": "Buying Machine",
-    "world": "FREEBFGDNASU",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:34:54.979Z"
-  },
-  {
-    "player1": "Leopaw",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 690,
-    "price_wl": 690,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:35:55.072Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "penyimpanwolrd",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-11T00:41:08.614Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NothingCut",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:41:58.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wildy",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "Chandelier",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:42:01.467Z"
   }
 ]
