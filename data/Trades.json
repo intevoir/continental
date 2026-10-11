@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "IniAlmer",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T21:56:53.384Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "UPDATE_STORE",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-11T21:57:59.856Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sihilisko",
     "world": "HSHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2300,
     "traded_with": null,
     "timestamp": "2026-10-11T22:02:42.908Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TBagwell",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 144,
+    "price_wl": 144,
+    "traded_with": null,
+    "timestamp": "2026-10-11T22:03:43.217Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TBagwell",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-10-11T22:03:46.709Z"
   }
 ]
