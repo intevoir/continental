@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "FGEIGER",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-11T03:57:40.464Z"
-  },
-  {
-    "player1": "ONDO",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-11T03:57:57.912Z"
-  },
-  {
-    "player1": "NIELLR",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
     "item_name": "Dead Geiger Counter",
     "item_count": 111,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-11T04:00:27.113Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kainyx",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 490,
+    "price_wl": 490,
+    "traded_with": null,
+    "timestamp": "2026-10-11T04:00:47.609Z"
+  },
+  {
+    "player1": "@ExsorsCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 96,
+    "p_name": "World Locks",
+    "p_count": 9600,
+    "price_wl": 9600,
+    "traded_with": null,
+    "timestamp": "2026-10-11T04:00:58.751Z"
   }
 ]
