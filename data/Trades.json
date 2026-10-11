@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "D1MO",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-10-11T18:04:31.047Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tomoyo",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 21780,
     "traded_with": null,
     "timestamp": "2026-10-11T18:08:15.217Z"
+  },
+  {
+    "player1": "Tomoyo",
+    "player2": "Buying Machine",
+    "world": "IYA",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 5850,
+    "price_wl": 5850,
+    "traded_with": null,
+    "timestamp": "2026-10-11T18:08:42.067Z"
   }
 ]
