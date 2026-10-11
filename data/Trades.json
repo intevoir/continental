@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-11T23:36:42.169Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-11T23:36:42.182Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Devando",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-11T23:42:46.975Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lawzon",
+    "world": "ARES",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-11T23:42:52.361Z"
+  },
+  {
+    "player1": "ndemit",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 186,
+    "p_name": "World Locks",
+    "p_count": 32550,
+    "price_wl": 32550,
+    "traded_with": null,
+    "timestamp": "2026-10-11T23:43:02.884Z"
   }
 ]
