@@ -1,31 +1,5 @@
 [
   {
-    "player1": "SCHUETT",
-    "player2": "DrDinghy",
-    "world": "BFG3U",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrDinghy",
-    "timestamp": "2026-10-11T07:30:18.010Z"
-  },
-  {
-    "player1": "DrDinghy",
-    "player2": "SCHUETT",
-    "world": "BFG3U",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "SCHUETT",
-    "timestamp": "2026-10-11T07:30:18.010Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BobMarlay [ELITE]",
     "world": "VENDW",
@@ -128,5 +102,31 @@
     "price_wl": 22,
     "traded_with": null,
     "timestamp": "2026-10-11T07:31:36.199Z"
+  },
+  {
+    "player1": "NIELLR",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 665,
+    "price_wl": 665,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:32:15.497Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PinkZero",
+    "world": "LAD",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:32:27.149Z"
   }
 ]
