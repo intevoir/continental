@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "amilys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:54:11.194Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 495,
-    "price_wl": 495,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:55:12.017Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sihilisko",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-11T20:56:37.361Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Keia1",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:56:48.188Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "amilys",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:57:12.121Z"
   }
 ]
