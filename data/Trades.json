@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZannCape",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Moon Lamp",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:59:35.087Z"
-  },
-  {
     "player1": "RNF12",
     "player2": "Renting Station",
     "world": "FREEBFGBOS",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-11T08:00:38.145Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "0BBA",
+    "world": "WATERW",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:02:13.085Z"
   }
 ]
