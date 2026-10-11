@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SCHUETT",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:08:50.619Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kdp",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:09:06.165Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fiura",
     "world": "WATERW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-11T07:10:21.835Z"
+  },
+  {
+    "player1": "jojokod",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:10:51.881Z"
+  },
+  {
+    "player1": "ANZEEL141",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:10:57.616Z"
   }
 ]
