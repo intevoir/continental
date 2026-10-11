@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MARTABAKASIN",
-    "world": "BFGU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-11T16:14:38.877Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SiWowok",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4165,
     "traded_with": null,
     "timestamp": "2026-10-11T16:17:37.663Z"
+  },
+  {
+    "player1": "Kartly",
+    "player2": "Renting Station",
+    "world": "PROFIT",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119000,
+    "price_wl": 119000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T16:18:00.714Z"
   }
 ]
