@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrXenita",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:11:52.449Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrXenita",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:11:56.132Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jetpacks",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:12:03.059Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jetpacks",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-11T00:12:06.190Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sibalk",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 115000,
     "traded_with": null,
     "timestamp": "2026-10-11T00:14:12.214Z"
+  },
+  {
+    "player1": "iFlash",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:15:38.505Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MESA [ELITE]",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 322,
+    "price_wl": 322,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:15:49.728Z"
+  },
+  {
+    "player1": "DrSeime",
+    "player2": "Renting Station",
+    "world": "SEE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:15:53.876Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@MESA [ELITE]",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 243,
+    "p_name": "World Locks",
+    "p_count": 11178,
+    "price_wl": 11178,
+    "traded_with": null,
+    "timestamp": "2026-10-11T00:16:04.432Z"
   }
 ]
