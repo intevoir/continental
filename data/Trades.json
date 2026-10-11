@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "FGEIGER",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-11T23:35:42.258Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 13,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-11T23:38:43.679Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-11T23:39:44.428Z"
   }
 ]
