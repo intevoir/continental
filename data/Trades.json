@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "666x",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-11T22:29:14.343Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KingTEMBAK",
     "world": "BUYPICKAXE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-11T22:50:23.443Z"
+  },
+  {
+    "player1": "Mufeed",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T22:52:38.708Z"
   }
 ]
