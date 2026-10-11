@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "RCTI",
-    "action": "BUY",
-    "item_name": "Dapa's Moonlight Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-11T02:52:39.877Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "RCTI",
-    "action": "BUY",
-    "item_name": "Cursed Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-11T02:53:10.848Z"
-  },
-  {
     "player1": "Kkcou",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-11T02:54:11.542Z"
+  },
+  {
+    "player1": "Kkcou",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-11T02:54:19.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kkcou",
+    "world": "COINPRICE",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 78,
+    "price_wl": 78,
+    "traded_with": null,
+    "timestamp": "2026-10-11T02:54:38.819Z"
   }
 ]
