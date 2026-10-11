@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Okatt",
-    "player2": "Buying Machine",
-    "world": "COINPRICE",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 47,
-    "p_name": "World Locks",
-    "p_count": 94,
-    "price_wl": 94,
-    "traded_with": null,
-    "timestamp": "2026-10-11T04:23:55.096Z"
-  },
-  {
     "player1": "7100",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-11T04:27:39.593Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "CHEAPVISOR",
+    "action": "BUY",
+    "item_name": "Cyclopean Visor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-11T04:28:04.319Z"
   }
 ]
