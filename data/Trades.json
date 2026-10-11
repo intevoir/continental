@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@G4A",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 6750,
-    "price_wl": 6750,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:34:05.267Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Skyxi",
-    "world": "TOKON",
-    "action": "BUY",
-    "item_name": "Weather Machine - Snowy Night",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:34:20.950Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kevvio",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 72,
     "traded_with": null,
     "timestamp": "2026-10-11T17:39:02.006Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4100,
+    "price_wl": 4100,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:39:14.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ucengz",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:39:30.032Z"
   }
 ]
