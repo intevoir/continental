@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:01:19.339Z"
-  },
-  {
     "player1": "xDarkS",
     "player2": "Renting Station",
     "world": "SONG1",
@@ -128,5 +115,18 @@
     "price_wl": 17255,
     "traded_with": null,
     "timestamp": "2026-10-11T17:03:59.388Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "WiggleNice",
+    "world": "BFGGYM",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:04:51.518Z"
   }
 ]
