@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Drzatsupermen",
-    "player2": "Buying Machine",
-    "world": "BFG2X",
-    "action": "SELL",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 280000,
-    "price_wl": 280000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T09:00:56.980Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "999",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-11T09:04:45.376Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Citraku",
+    "world": "JK",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T09:05:09.936Z"
   }
 ]
