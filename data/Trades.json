@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Arken",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 1056,
-    "price_wl": 1056,
-    "traded_with": null,
-    "timestamp": "2026-10-11T02:10:55.614Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SkyVieth",
     "world": "MIKEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 5300,
     "traded_with": null,
     "timestamp": "2026-10-11T02:16:20.549Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gelooo",
+    "world": "IEBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T02:17:28.012Z"
   }
 ]
