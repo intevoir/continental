@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "sihilisko",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "UPDATE_STORE",
-    "item_count": 98,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-10-11T21:58:13.474Z"
-  },
-  {
-    "player1": "Phoxent",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-11T21:58:59.447Z"
-  },
-  {
     "player1": "IniAlmer",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-11T22:03:46.709Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Blue",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-11T22:04:51.716Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "GEMSKU",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 460,
+    "price_wl": 460,
+    "traded_with": null,
+    "timestamp": "2026-10-11T22:05:17.601Z"
   }
 ]
