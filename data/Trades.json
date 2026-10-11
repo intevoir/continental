@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-11T13:37:02.464Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Yazz123",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T13:37:02.473Z"
-  },
-  {
-    "player1": "Kkcou",
-    "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-11T13:37:38.604Z"
-  },
-  {
     "player1": "Nou",
     "player2": "Sakuchi",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "Snoozly",
     "timestamp": "2026-10-11T13:38:48.414Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nou",
+    "world": "KAISJE",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-11T13:39:36.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OP57",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T13:39:36.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Galaxy Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T13:40:03.915Z"
   }
 ]
