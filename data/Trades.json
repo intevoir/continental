@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrMaishau",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 288,
-    "price_wl": 288,
-    "traded_with": null,
-    "timestamp": "2026-10-11T01:12:49.547Z"
-  },
-  {
-    "player1": "DrMaishau",
-    "player2": "Buying Machine",
-    "world": "BFGNOT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 155,
-    "price_wl": 155,
-    "traded_with": null,
-    "timestamp": "2026-10-11T01:12:49.554Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OP57",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 85,
-    "p_name": "World Locks",
-    "p_count": 17,
-    "price_wl": 17,
-    "traded_with": null,
-    "timestamp": "2026-10-11T01:16:02.859Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OP57",
     "world": "SHOPK",
@@ -128,5 +89,44 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-11T01:22:02.355Z"
+  },
+  {
+    "player1": "Zyenno",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 10050,
+    "price_wl": 10050,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:23:26.796Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Digital Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:23:55.655Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "BlueMan's Crystal Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:23:55.686Z"
   }
 ]
