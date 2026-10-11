@@ -1,31 +1,5 @@
 [
   {
-    "player1": "habs",
-    "player2": "Buying Machine",
-    "world": "SYMMETRICBFG",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:42:33.030Z"
-  },
-  {
-    "player1": "BoxHoldings",
-    "player2": "Buying Machine",
-    "world": "SGEIGER",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 280,
-    "price_wl": 280,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:42:33.037Z"
-  },
-  {
     "player1": "BoxHoldings",
     "player2": "Buying Machine",
     "world": "SGEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-11T08:42:57.755Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TorDeath_185",
+    "world": "BFGGYM",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:43:05.920Z"
+  },
+  {
+    "player1": "Azoid",
+    "player2": "Renting Station",
+    "world": "SENKO",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:43:05.929Z"
   }
 ]
