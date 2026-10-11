@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "RENTCOOL",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:00:51.421Z"
-  },
-  {
-    "player1": "OrangeC",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-11T17:02:12.955Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OrangeC",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:02:24.401Z"
   }
 ]
