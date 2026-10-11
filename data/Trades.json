@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ngumpul",
-    "world": "RUMAH",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-11T11:15:55.505Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "habs",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-11T11:17:44.092Z"
+  },
+  {
+    "player1": "KNOX99",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Golden Heart Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-11T11:17:55.722Z"
   }
 ]
