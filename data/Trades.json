@@ -2,32 +2,6 @@
   {
     "player1": "Tomoyo",
     "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 570,
-    "price_wl": 570,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:51:15.434Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-11T17:51:23.705Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "Buying Machine",
     "world": "XD",
     "action": "SELL",
     "item_name": "Geiger Charger",
@@ -128,5 +102,31 @@
     "price_wl": 160,
     "traded_with": null,
     "timestamp": "2026-10-11T17:54:09.461Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SCHUETT",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Ghost Charm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:55:31.022Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SCHUETT",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Balloon Jammer",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-11T17:55:39.153Z"
   }
 ]
