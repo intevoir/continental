@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Snoozly",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 62,
-    "price_wl": 62,
-    "traded_with": null,
-    "timestamp": "2026-10-11T23:39:44.428Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lawzon",
-    "world": "ARES",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-11T23:42:03.605Z"
-  },
-  {
     "player1": "ndemit",
     "player2": "Buying Machine",
     "world": "UNTRI",
@@ -128,5 +102,31 @@
     "price_wl": 13,
     "traded_with": null,
     "timestamp": "2026-10-11T23:43:57.152Z"
+  },
+  {
+    "player1": "ndemit",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T23:44:47.560Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingTEMBAK",
+    "world": "CORAL",
+    "action": "BUY",
+    "item_name": "Coral",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T23:45:12.165Z"
   }
 ]
