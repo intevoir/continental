@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Wvv",
-    "player2": "Buying Machine",
-    "world": "TOKO",
-    "action": "SELL",
-    "item_name": "Builder's Lock",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-11T13:25:49.248Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kudabohay",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 27200,
     "traded_with": null,
     "timestamp": "2026-10-11T13:29:35.286Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "M4MANDA",
+    "world": "COINPRICE",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-11T13:30:03.715Z"
   }
 ]
