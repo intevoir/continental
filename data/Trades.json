@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CIPAL",
-    "world": "BFGUKIR",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-11T01:22:02.355Z"
-  },
-  {
-    "player1": "Zyenno",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 10050,
-    "price_wl": 10050,
-    "traded_with": null,
-    "timestamp": "2026-10-11T01:23:26.796Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JucnAnalog",
     "world": "SHOPS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1069,
     "traded_with": null,
     "timestamp": "2026-10-11T01:28:08.955Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ElFish",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:29:58.735Z"
+  },
+  {
+    "player1": "NothingCut",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-10-11T01:30:18.299Z"
   }
 ]
