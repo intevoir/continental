@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LikRTO",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 102,
-    "p_name": "World Locks",
-    "p_count": 408,
-    "price_wl": 408,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:25:21.308Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Chanami",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-11T20:27:24.106Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Chanami",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Streetlamp",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:28:27.089Z"
   }
 ]
