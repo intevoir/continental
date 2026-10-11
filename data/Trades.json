@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JoSeriesMray2",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:16:56.694Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Open Sign",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:16:56.720Z"
-  },
-  {
     "player1": "@Kaylen []",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-11T07:19:29.276Z"
+  },
+  {
+    "player1": "jiksh",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:20:21.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JKHunter",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Wind Essence",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:20:26.258Z"
   }
 ]
