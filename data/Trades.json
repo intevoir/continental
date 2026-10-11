@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Liim",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-11T07:46:41.770Z"
-  },
-  {
     "player1": "@Jate",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 49,
     "traded_with": null,
     "timestamp": "2026-10-11T07:48:09.325Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DIKI9",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Blue Wallpaper",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-11T07:48:23.100Z"
   }
 ]
