@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BalikpapanUtara",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 23000,
-    "price_wl": 23000,
-    "traded_with": null,
-    "timestamp": "2026-10-11T15:52:25.564Z"
-  },
-  {
-    "player1": "KayzuDX",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-11T15:52:25.586Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KayzuDX",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 23500,
     "traded_with": null,
     "timestamp": "2026-10-11T15:54:53.375Z"
+  },
+  {
+    "player1": "senatun",
+    "player2": "Renting Station",
+    "world": "IYAN",
+    "action": "RENT",
+    "item_name": "Troll Face #1",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-10-11T15:55:36.221Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakuchi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 23500,
+    "price_wl": 23500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T15:55:50.376Z"
   }
 ]
