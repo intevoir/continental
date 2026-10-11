@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "amilys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:34:17.033Z"
-  },
-  {
-    "player1": "Snoozly",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "JUDI Legendary Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-11T20:37:25.959Z"
-  },
-  {
     "player1": "fendi270903",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +102,31 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-10-11T20:41:14.035Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "amilys",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Frangipani",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:42:06.152Z"
+  },
+  {
+    "player1": "Chanami",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Super Fireworks",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-11T20:42:33.903Z"
   }
 ]
