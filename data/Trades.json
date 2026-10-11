@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RNF",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 27,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:03:35.629Z"
-  },
-  {
-    "player1": "mariones",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:04:37.473Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "cicikozu",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2250,
     "traded_with": null,
     "timestamp": "2026-10-11T08:10:51.695Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "QEMEKU",
+    "world": "ISPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 2280,
+    "price_wl": 2280,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:11:21.200Z"
+  },
+  {
+    "player1": "QEMEKU",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 2850,
+    "price_wl": 2850,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:11:26.845Z"
   }
 ]
