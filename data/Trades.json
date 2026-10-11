@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HudaRedfield",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-10T23:55:30.361Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nozferatuu",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-10T23:57:31.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Shovia",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-10T23:59:31.832Z"
   }
 ]
