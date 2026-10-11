@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "0BBA",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-11T05:09:18.104Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HannnXX",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-11T05:09:18.112Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BosPlenger",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Yudisium",
     "timestamp": "2026-10-11T05:11:03.168Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-11T05:11:31.671Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zdee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2750,
+    "price_wl": 2750,
+    "traded_with": null,
+    "timestamp": "2026-10-11T05:11:59.217Z"
   }
 ]
