@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Becker",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-11T04:18:39.556Z"
-  },
-  {
-    "player1": "Okatt",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Black ATM Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 620,
-    "price_wl": 620,
-    "traded_with": null,
-    "timestamp": "2026-10-11T04:18:42.762Z"
-  },
-  {
     "player1": "ChanZunZhe",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-10-11T04:20:08.182Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRolexx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T04:21:39.198Z"
+  },
+  {
+    "player1": "DrYannzi",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-11T04:21:59.959Z"
   }
 ]
