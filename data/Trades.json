@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrCarlots",
-    "player2": "Buying Machine",
-    "world": "VQM",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 6480,
-    "price_wl": 6480,
-    "traded_with": null,
-    "timestamp": "2026-10-11T03:01:40.938Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "OXUB",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1360,
-    "price_wl": 1360,
-    "traded_with": null,
-    "timestamp": "2026-10-11T03:02:14.485Z"
-  },
-  {
     "player1": "DrTipsky",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-11T03:04:15.976Z"
+  },
+  {
+    "player1": "DrCarlots",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-11T03:05:03.978Z"
+  },
+  {
+    "player1": "Arkenn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 3900,
+    "price_wl": 3900,
+    "traded_with": null,
+    "timestamp": "2026-10-11T03:05:03.994Z"
   }
 ]
