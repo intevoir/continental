@@ -1,57 +1,5 @@
 [
   {
-    "player1": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:38:00.853Z"
-  },
-  {
-    "player1": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Angel Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:38:42.299Z"
-  },
-  {
-    "player1": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Kembar's Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4165,
-    "price_wl": 4165,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:39:31.274Z"
-  },
-  {
-    "player1": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Kembar's King Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-11T08:39:52.129Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "REVIOS",
     "world": "FREEXDNA",
@@ -128,5 +76,57 @@
     "price_wl": 11,
     "traded_with": null,
     "timestamp": "2026-10-11T08:41:32.412Z"
+  },
+  {
+    "player1": "DUREX",
+    "player2": "Flsch",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Flsch",
+    "timestamp": "2026-10-11T08:41:39.447Z"
+  },
+  {
+    "player1": "Flsch",
+    "player2": "DUREX",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 38,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DUREX",
+    "timestamp": "2026-10-11T08:41:39.448Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "SGEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:41:58.744Z"
+  },
+  {
+    "player1": "habs",
+    "player2": "Buying Machine",
+    "world": "SYMMETRICBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 680,
+    "price_wl": 680,
+    "traded_with": null,
+    "timestamp": "2026-10-11T08:42:03.206Z"
   }
 ]
