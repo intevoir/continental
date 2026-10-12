@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "busunghomeless",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-12T14:45:54.160Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrRolexx",
-    "world": "KINGSENO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-10-12T14:45:54.170Z"
-  },
-  {
-    "player1": "DrLicorize",
-    "player2": "Buying Machine",
-    "world": "RENTCOOL",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-10-12T14:46:21.571Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrRolexx",
     "world": "KINGSENO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-10-12T14:47:41.221Z"
+  },
+  {
+    "player1": "dedimulyadi",
+    "player2": "MassDerr",
+    "world": "GFS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 26,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MassDerr",
+    "timestamp": "2026-10-12T14:48:40.679Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "dedimulyadi",
+    "world": "GFS",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "dedimulyadi",
+    "timestamp": "2026-10-12T14:48:40.680Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLetuzawa []",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-12T14:48:51.035Z"
   }
 ]
