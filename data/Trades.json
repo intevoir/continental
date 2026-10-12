@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@GANG [] [BLOCKMO]",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-12T10:52:09.936Z"
-  },
-  {
-    "player1": "@GANG [] [BLOCKMO]",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-12T10:52:29.725Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrtToMray",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-12T10:53:20.168Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ofndd",
+    "world": "KULINER",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-12T10:55:02.513Z"
+  },
+  {
+    "player1": "Kailyynn",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-10-12T10:55:02.536Z"
   }
 ]
