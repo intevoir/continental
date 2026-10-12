@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KiramaZenkai",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-12T11:27:17.506Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CO0",
     "world": "KWN",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@Accounts [ELITE]",
     "timestamp": "2026-10-12T11:29:42.577Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aoii",
+    "world": "BRA",
+    "action": "BUY",
+    "item_name": "Diamond Horn",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 550,
+    "price_wl": 550,
+    "traded_with": null,
+    "timestamp": "2026-10-12T11:30:27.172Z"
   }
 ]
