@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kudabohay",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4600,
-    "price_wl": 4600,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:41:38.725Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JucnAnalog",
     "world": "CLOTHES",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 220,
     "traded_with": null,
     "timestamp": "2026-10-12T08:45:42.318Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Bunny Slippers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:46:16.637Z"
   }
 ]
