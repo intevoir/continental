@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Horns of Infinity",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:41:42.011Z"
-  },
-  {
-    "player1": "Keia1",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:43:42.791Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Keia1",
     "world": "VENDIIN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 672,
     "traded_with": null,
     "timestamp": "2026-10-12T08:47:11.258Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Celestial Lance",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:47:40.780Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "",
+    "world": "LOCKER",
+    "action": "BUY",
+    "item_name": "Creative Coin",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 160000,
+    "price_wl": 160000,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:48:08.817Z"
   }
 ]
