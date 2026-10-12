@@ -1,18 +1,5 @@
 [
   {
-    "player1": "pablowr",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:06:37.522Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JucnAnalog",
     "world": "BUTIK",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-12T09:08:02.601Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "SHIRT",
+    "action": "BUY",
+    "item_name": "Chaos Corruption",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-12T09:08:48.084Z"
   }
 ]
