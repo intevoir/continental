@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-12T15:42:42.047Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-12T15:42:42.098Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mirazaki [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16000,
-    "price_wl": 16000,
-    "traded_with": null,
-    "timestamp": "2026-10-12T15:43:03.022Z"
-  },
-  {
     "player1": "DrPriceStore []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-12T15:47:11.598Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drkeicc",
+    "world": "STORENYIL",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-12T15:48:43.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drkeicc",
+    "world": "STORENYIL",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-12T15:48:43.645Z"
+  },
+  {
+    "player1": "AkuSukaHencet",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-12T15:48:43.662Z"
   }
 ]
