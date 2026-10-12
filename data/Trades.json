@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Keia1",
-    "world": "VENDIIN",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:44:10.884Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JucnAnalog",
     "world": "DISPLAY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 160000,
     "traded_with": null,
     "timestamp": "2026-10-12T08:48:08.817Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Cat Eyes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 440,
+    "price_wl": 440,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:48:48.848Z"
   }
 ]
