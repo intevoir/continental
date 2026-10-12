@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RtoSwap",
-    "player2": "Buying Machine",
-    "world": "NUAY",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 112050,
-    "price_wl": 112050,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:28:26.454Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FlameDuck_185",
     "world": "PG",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "amilys",
     "timestamp": "2026-10-12T08:32:29.632Z"
+  },
+  {
+    "player1": "WorkMem",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Shop's Golden Mummy Mask",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:32:52.461Z"
   }
 ]
