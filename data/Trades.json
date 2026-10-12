@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BorjongKau",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-12T12:01:34.069Z"
-  },
-  {
     "player1": "VIGHW",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-10-12T12:01:42.198Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Skyws",
+    "world": "BUYPORTALS",
+    "action": "BUY",
+    "item_name": "Time-Space Rupture",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-12T12:02:42.342Z"
   }
 ]
