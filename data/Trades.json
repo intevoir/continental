@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BOCHIL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-12T13:24:06.021Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZIDAN0911",
-    "world": "KWN",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-12T13:24:34.891Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZIDAN0911",
     "world": "KWN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-12T13:28:37.370Z"
+  },
+  {
+    "player1": "Asakin",
+    "player2": "Buying Machine",
+    "world": "BFGIBU",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 147,
+    "p_name": "World Locks",
+    "p_count": 102900,
+    "price_wl": 102900,
+    "traded_with": null,
+    "timestamp": "2026-10-12T13:29:09.081Z"
+  },
+  {
+    "player1": "TorHack_185",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-12T13:29:09.091Z"
   }
 ]
