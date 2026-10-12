@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CipaiMin",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 960,
-    "price_wl": 960,
-    "traded_with": null,
-    "timestamp": "2026-10-12T11:42:36.354Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Acakkk",
-    "world": "TEMBAK",
-    "action": "BUY",
-    "item_name": "Poseidon's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-12T11:42:36.366Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SCHUETT",
     "world": "HEMAT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-12T11:44:33.612Z"
+  },
+  {
+    "player1": "SHAW",
+    "player2": "Renting Station",
+    "world": "CUAN",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-12T11:45:34.395Z"
+  },
+  {
+    "player1": "SkyVieth",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-12T11:45:41.389Z"
   }
 ]
