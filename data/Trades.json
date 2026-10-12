@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MandorBFG",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:48:35.240Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MandorBFG",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:48:38.653Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MandorBFG",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:48:42.741Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrTAMBOL",
-    "world": "AEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 2490,
-    "price_wl": 2490,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:49:47.165Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrTAMBOL",
     "world": "AEBFG",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 576,
     "traded_with": null,
     "timestamp": "2026-10-12T09:56:57.627Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrAziok",
+    "world": "55",
+    "action": "BUY",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100000,
+    "price_wl": 100000,
+    "traded_with": null,
+    "timestamp": "2026-10-12T09:57:43.207Z"
+  },
+  {
+    "player1": "DyFox",
+    "player2": "@Xiiing",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Xiiing",
+    "timestamp": "2026-10-12T09:57:56.870Z"
+  },
+  {
+    "player1": "@Xiiing",
+    "player2": "DyFox",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 50,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DyFox",
+    "timestamp": "2026-10-12T09:57:56.874Z"
+  },
+  {
+    "player1": "@Xiiing",
+    "player2": "DyFox",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 7,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DyFox",
+    "timestamp": "2026-10-12T09:57:56.874Z"
   }
 ]
