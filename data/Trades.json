@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "CLOTHES",
-    "action": "BUY",
-    "item_name": "Royal World Owner Blingin' Chain",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-12T08:39:45.636Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrtToMray",
     "world": "ARES",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-12T08:41:42.011Z"
+  },
+  {
+    "player1": "Keia1",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-12T08:43:42.791Z"
   }
 ]
