@@ -5,32 +5,6 @@
     "world": "VENDSPOT",
     "action": "BUY",
     "item_name": "Lucky Clover",
-    "item_count": 23,
-    "p_name": "World Locks",
-    "p_count": 230,
-    "price_wl": 230,
-    "traded_with": null,
-    "timestamp": "2026-10-12T15:37:55.077Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "killcepl",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-12T15:37:58.563Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "killcepl",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
     "item_count": 2,
     "p_name": "World Locks",
     "p_count": 20,
@@ -128,5 +102,31 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-10-12T15:39:49.717Z"
+  },
+  {
+    "player1": "Fernnia",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-12T15:40:45.050Z"
+  },
+  {
+    "player1": "Fernnia",
+    "player2": "Renting Station",
+    "world": "PLR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-12T15:41:06.848Z"
   }
 ]
