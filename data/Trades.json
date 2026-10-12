@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SCHUETT",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-12T13:09:15.652Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Sakuch1",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-12T13:09:29.927Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sakuch1",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 21000,
     "traded_with": null,
     "timestamp": "2026-10-12T13:11:24.463Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JuraganJanda",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 198,
+    "price_wl": 198,
+    "traded_with": null,
+    "timestamp": "2026-10-12T13:12:02.461Z"
+  },
+  {
+    "player1": "Sakuch1",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-12T13:12:13.455Z"
   }
 ]
