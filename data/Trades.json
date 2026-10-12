@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "HANDS",
-    "action": "BUY",
-    "item_name": "Watermelon Bussin' Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:40:46.065Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMQRC",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 238,
     "traded_with": null,
     "timestamp": "2026-10-12T09:44:04.789Z"
+  },
+  {
+    "player1": "REMEEUW",
+    "player2": "Renting Station",
+    "world": "NEPTUNERENT",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-12T09:44:18.601Z"
   }
 ]
