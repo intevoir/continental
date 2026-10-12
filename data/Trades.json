@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YouShiny_252",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-12T10:07:55.618Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HearYou",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-12T10:12:52.165Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JucnAnalog",
+    "world": "VENDSA1",
+    "action": "BUY",
+    "item_name": "Hover Platform",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-12T10:13:55.849Z"
   }
 ]
