@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HearYou",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 26,
-    "p_name": "World Locks",
-    "p_count": 286,
-    "price_wl": 286,
-    "traded_with": null,
-    "timestamp": "2026-10-12T10:07:58.805Z"
-  },
-  {
     "player1": "SP4D3",
     "player2": "Buying Machine",
     "world": "BFGIBUL",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-12T10:13:55.849Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 73,
+    "p_name": "World Locks",
+    "p_count": 12775,
+    "price_wl": 12775,
+    "traded_with": null,
+    "timestamp": "2026-10-12T10:15:45.000Z"
   }
 ]
