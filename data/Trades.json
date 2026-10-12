@@ -4,32 +4,6 @@
     "player2": "JucnAnalog",
     "world": "SHIRT",
     "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:12:38.495Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "SHIRT",
-    "action": "BUY",
-    "item_name": "Safe Vault",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-12T09:12:43.611Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JucnAnalog",
-    "world": "SHIRT",
-    "action": "BUY",
     "item_name": "Blue Royal Wallpaper",
     "item_count": 20,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-12T09:17:56.345Z"
+  },
+  {
+    "player1": "muffen",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-12T09:19:03.167Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kudabohay",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-12T09:19:13.391Z"
   }
 ]
