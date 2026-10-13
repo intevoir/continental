@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Stevenlai10",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:25:57.288Z"
-  },
-  {
     "player1": "idkkes",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-13T09:29:31.837Z"
+  },
+  {
+    "player1": "Skycold",
+    "player2": "Buying Machine",
+    "world": "E4T",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:34:03.841Z"
   }
 ]
