@@ -4,19 +4,6 @@
     "player2": "ArenGT",
     "world": "BFGNOT",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-13T20:40:03.925Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ArenGT",
-    "world": "BFGNOT",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-13T20:47:54.908Z"
+  },
+  {
+    "player1": "PawKing",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-10-13T20:49:24.169Z"
   }
 ]
