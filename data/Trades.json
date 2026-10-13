@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Aezuuu",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-13T17:07:39.831Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Aezuuu",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-13T17:07:39.838Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
     "world": "BYPAC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-13T17:09:10.611Z"
+  },
+  {
+    "player1": "kana999",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-13T17:09:41.479Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kana999",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T17:09:41.483Z"
   }
 ]
