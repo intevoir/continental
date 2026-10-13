@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jackez",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-13T00:01:23.280Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Scywin [ELITE]",
-    "world": "FREEBFGDNAYA",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T00:03:25.998Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kakaroto",
     "world": "KIFY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Zeeds",
     "timestamp": "2026-10-13T08:22:25.744Z"
+  },
+  {
+    "player1": "SelaluNT",
+    "player2": "Buying Machine",
+    "world": "E4T",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-13T08:23:22.042Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kakaroto",
+    "world": "KIFY",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-13T08:23:29.030Z"
   }
 ]
