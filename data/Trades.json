@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Volcanoo",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 220,
-    "price_wl": 220,
-    "traded_with": null,
-    "timestamp": "2026-10-13T12:05:07.804Z"
-  },
-  {
     "player1": "Drruds",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-10-13T12:11:18.351Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakuch1",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-13T12:11:41.943Z"
   }
 ]
