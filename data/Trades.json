@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MidnightBoy",
-    "player2": "Renting Station",
-    "world": "BFGNOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:29:05.834Z"
-  },
-  {
-    "player1": "ORDERs",
-    "player2": "Renting Station",
-    "world": "8X8",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:29:23.205Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Snoozly",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-10-13T15:33:27.299Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yazz123",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 48000,
+    "price_wl": 48000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:34:10.429Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PinkZero",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:34:18.557Z"
   }
 ]
