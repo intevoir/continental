@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RekiiJunnn",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Fuel Pack",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:50:12.507Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Sakuch1",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:51:24.579Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sakuch1",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-13T15:57:14.125Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MissAdit",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:58:14.091Z"
+  },
+  {
+    "player1": "RAFLIW",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:58:40.164Z"
   }
 ]
