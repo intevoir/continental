@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ItsMysa",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-13T17:26:07.038Z"
-  },
-  {
     "player1": "Dezki",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-13T17:32:56.569Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SociusBfg",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-13T17:33:53.476Z"
   }
 ]
