@@ -1,31 +1,5 @@
 [
   {
-    "player1": "kiwilkiee",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-13T11:53:39.911Z"
-  },
-  {
-    "player1": "ZemahStore",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Crown Of Madness",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-13T11:53:57.522Z"
-  },
-  {
     "player1": "Kailyynn",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-13T11:57:35.114Z"
+  },
+  {
+    "player1": "Dr9x3",
+    "player2": "CO0",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "CO0",
+    "timestamp": "2026-10-13T11:57:44.165Z"
+  },
+  {
+    "player1": "CO0",
+    "player2": "Dr9x3",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr9x3",
+    "timestamp": "2026-10-13T11:57:44.166Z"
   }
 ]
