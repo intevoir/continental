@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hatte",
-    "world": "BFGWEST",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:08:15.365Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@WIKOJR []",
     "world": "SELLCLIFFSIDE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-13T19:15:49.715Z"
+  },
+  {
+    "player1": "FungpaoCPS",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:16:18.278Z"
   }
 ]
