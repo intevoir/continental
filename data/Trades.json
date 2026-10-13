@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "unMarvel",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:05:25.489Z"
-  },
-  {
-    "player1": "Drdoang",
-    "player2": "Renting Station",
-    "world": "SGM",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:05:25.532Z"
-  },
-  {
     "player1": "BRGN",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-13T14:06:57.259Z"
+  },
+  {
+    "player1": "Mance1",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1440,
+    "price_wl": 1440,
+    "traded_with": null,
+    "timestamp": "2026-10-13T14:07:25.746Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Barragan",
+    "world": "CROT",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-10-13T14:07:52.477Z"
   }
 ]
