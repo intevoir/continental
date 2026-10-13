@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@WIKOJR []",
-    "world": "SELLCLIFFSIDE",
-    "action": "BUY",
-    "item_name": "Cliffside",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:08:15.380Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrBrianna",
     "world": "HAI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-13T19:16:18.278Z"
+  },
+  {
+    "player1": "AnotherNXN",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:20:24.001Z"
   }
 ]
