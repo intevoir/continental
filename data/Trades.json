@@ -1,31 +1,5 @@
 [
   {
-    "player1": "VEROKA",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-13T20:46:54.656Z"
-  },
-  {
-    "player1": "ZOHOR",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-13T20:47:54.908Z"
-  },
-  {
     "player1": "PawKing",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-13T20:52:04.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CCPC",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T20:52:57.816Z"
+  },
+  {
+    "player1": "Drxpii",
+    "player2": "Renting Station",
+    "world": "INTERN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-13T20:53:10.057Z"
   }
 ]
