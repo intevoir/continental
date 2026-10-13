@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kkcou",
-    "world": "ATMSHOP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Yellow",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-13T10:54:10.690Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kkcou",
-    "world": "ATMSHOP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Aqua",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-13T10:54:14.129Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cavets",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-13T10:57:25.835Z"
+  },
+  {
+    "player1": "Flsch",
+    "player2": "CO0",
+    "world": "ZEUS",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "CO0",
+    "timestamp": "2026-10-13T10:58:23.672Z"
+  },
+  {
+    "player1": "CO0",
+    "player2": "Flsch",
+    "world": "ZEUS",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 36,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Flsch",
+    "timestamp": "2026-10-13T10:58:23.673Z"
   }
 ]
