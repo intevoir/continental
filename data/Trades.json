@@ -1,31 +1,5 @@
 [
   {
-    "player1": "KOLER",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:10:57.428Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "dwinilek",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:11:26.115Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "dwinilek",
     "world": "BFGJOHN",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-13T09:12:45.900Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "dwinilek",
+    "world": "BFGJOHN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:13:38.508Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OSI",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:13:45.304Z"
   }
 ]
