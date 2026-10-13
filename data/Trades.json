@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MonsterPremium1",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-13T21:05:10.411Z"
-  },
-  {
     "player1": "VEROKA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 22620,
     "traded_with": null,
     "timestamp": "2026-10-13T21:15:28.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-13T21:19:25.572Z"
   }
 ]
