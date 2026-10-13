@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VEDDSHOP",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:12:56.884Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZeusBolt",
     "world": "IYA",
@@ -128,5 +115,18 @@
     "price_wl": 80000,
     "traded_with": null,
     "timestamp": "2026-10-13T15:14:58.201Z"
+  },
+  {
+    "player1": "NotzShop",
+    "player2": "Buying Machine",
+    "world": "LMSK",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:15:08.809Z"
   }
 ]
