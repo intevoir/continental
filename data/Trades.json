@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZeusBolt",
-    "world": "IYA",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25000,
-    "price_wl": 25000,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:13:02.000Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Barragan",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-10-13T15:15:08.809Z"
+  },
+  {
+    "player1": "Danel2",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:16:11.487Z"
   }
 ]
