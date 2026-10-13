@@ -1,18 +1,5 @@
 [
   {
-    "player1": "idkkes",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:26:42.460Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "0BBA",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-13T09:34:03.841Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakuch1",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:35:33.909Z"
   }
 ]
