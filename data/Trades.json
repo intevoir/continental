@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Trovsen",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Roughed-up Anime Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:48:26.679Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CECEPrabowo",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-13T09:52:20.372Z"
+  },
+  {
+    "player1": "Trotsky",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:52:35.643Z"
   }
 ]
