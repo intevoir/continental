@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ariws1",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 2625,
-    "price_wl": 2625,
-    "traded_with": null,
-    "timestamp": "2026-10-13T22:33:05.268Z"
-  },
-  {
     "player1": "Drhaktan",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 40000,
     "traded_with": null,
     "timestamp": "2026-10-13T22:38:13.169Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devando",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 34500,
+    "price_wl": 34500,
+    "traded_with": null,
+    "timestamp": "2026-10-13T22:38:41.318Z"
   }
 ]
