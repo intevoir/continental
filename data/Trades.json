@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NotzShop",
-    "world": "8X8",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:47:43.876Z"
-  },
-  {
     "player1": "NNBC",
     "player2": "Buying Machine",
     "world": "CYNOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-10-13T14:50:13.920Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KNOW",
+    "world": "MANDAO",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 1720,
+    "price_wl": 1720,
+    "traded_with": null,
+    "timestamp": "2026-10-13T14:51:06.542Z"
   }
 ]
