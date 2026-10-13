@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@WIKOJR []",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T18:14:57.115Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dragonbut",
     "world": "BFG2X",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-13T18:19:21.849Z"
+  },
+  {
+    "player1": "Mance",
+    "player2": "Renting Station",
+    "world": "SEANSHOP",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-13T18:19:57.934Z"
   }
 ]
