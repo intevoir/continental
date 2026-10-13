@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VEROKA",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Farmer Slave",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T21:05:14.728Z"
-  },
-  {
     "player1": "JAWIR999",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +115,18 @@
     "price_wl": 62,
     "traded_with": null,
     "timestamp": "2026-10-13T21:19:25.572Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-13T21:20:10.580Z"
   }
 ]
