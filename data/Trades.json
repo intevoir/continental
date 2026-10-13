@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@WIKOJR []",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-13T18:17:07.872Z"
-  },
-  {
     "player1": "royalsgemas",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +115,18 @@
     "price_wl": 320,
     "traded_with": null,
     "timestamp": "2026-10-13T18:22:18.715Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BalikpapanUtara",
+    "world": "SELLWEATHER",
+    "action": "BUY",
+    "item_name": "Weather Machine - Autumn",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-13T18:22:59.536Z"
   }
 ]
