@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Trovsen",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Banshee's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:00:33.251Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [] [ELITE]",
-    "world": "HYBAR",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:00:37.668Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Mbox [] [ELITE]",
     "world": "HYBAR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-13T09:01:41.741Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Trovsen",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Puppy Dog Eyes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:02:20.867Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AkuSukaHencet",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:02:32.979Z"
   }
 ]
