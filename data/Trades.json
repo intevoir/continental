@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Bypass",
-    "world": "SHOPD",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:30:42.290Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MOOZ",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:30:42.345Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MOOZ",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-10-13T19:42:29.025Z"
+  },
+  {
+    "player1": "Wildy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:45:06.828Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "BFGJOHN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:45:30.424Z"
   }
 ]
