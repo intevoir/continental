@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DERSSGT",
-    "world": "ROMZ",
-    "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:53:47.575Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HearMe",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 37500,
-    "price_wl": 37500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:53:47.594Z"
-  },
-  {
-    "player1": "MORGANWIBU",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:54:03.201Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DERSSGT",
-    "world": "ROMZ",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-13T14:54:48.329Z"
-  },
-  {
     "player1": "Devando",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +76,57 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-13T14:56:24.915Z"
+  },
+  {
+    "player1": "EAKDIPULLYA [ELITE]",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-10-13T14:57:49.806Z"
+  },
+  {
+    "player1": "DrChub",
+    "player2": "AkuNoobKauRich",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "AkuNoobKauRich",
+    "timestamp": "2026-10-13T14:57:49.816Z"
+  },
+  {
+    "player1": "AkuNoobKauRich",
+    "player2": "DrChub",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 33,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrChub",
+    "timestamp": "2026-10-13T14:57:49.819Z"
+  },
+  {
+    "player1": "NotzShop",
+    "player2": "Buying Machine",
+    "world": "AULA",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-13T14:58:13.764Z"
   }
 ]
