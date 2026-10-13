@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Barragan",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Datemaster's Heart Locket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T15:13:57.416Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "FREEBFGDANA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-13T15:16:11.487Z"
+  },
+  {
+    "player1": "Sicklet",
+    "player2": "Buying Machine",
+    "world": "CYNOBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 94,
+    "p_name": "World Locks",
+    "p_count": 65800,
+    "price_wl": 65800,
+    "traded_with": null,
+    "timestamp": "2026-10-13T15:16:58.889Z"
   }
 ]
