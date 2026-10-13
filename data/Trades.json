@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Bypass",
-    "world": "CROT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-10-13T18:22:18.715Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BalikpapanUtara",
-    "world": "SELLWEATHER",
-    "action": "BUY",
-    "item_name": "Weather Machine - Autumn",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-13T18:22:59.536Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "yayakk",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-13T18:28:59.343Z"
+  },
+  {
+    "player1": "@WIKOJR []",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-13T18:31:00.819Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aezuuu",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-13T18:31:08.315Z"
   }
 ]
