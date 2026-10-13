@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Devando",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-10-13T22:16:03.039Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Devando",
     "world": "PNB",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-13T22:27:05.019Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Devando",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 92000,
+    "price_wl": 92000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T22:28:00.966Z"
   }
 ]
