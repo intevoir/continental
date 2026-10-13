@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBrianna",
-    "world": "HAI",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:10:37.530Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Thaker",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 13500,
-    "price_wl": 13500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T19:12:16.092Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Thaker",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-13T19:22:48.258Z"
+  },
+  {
+    "player1": "amilys",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:23:21.317Z"
+  },
+  {
+    "player1": "amilys",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartstaff",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-13T19:23:21.333Z"
   }
 ]
