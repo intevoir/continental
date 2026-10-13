@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Kailyynn",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-13T11:54:33.231Z"
-  },
-  {
     "player1": "Zyenno",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Dr9x3",
     "timestamp": "2026-10-13T11:57:44.166Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iCoy",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-13T11:59:02.165Z"
   }
 ]
