@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@ChillMylife",
-    "player2": "Buying Machine",
-    "world": "BFGJOHN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-13T12:29:53.164Z"
-  },
-  {
     "player1": "Mitsuzanee",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 33,
     "traded_with": null,
     "timestamp": "2026-10-13T12:31:17.425Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Hazardous []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-13T12:32:06.592Z"
   }
 ]
