@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "dwinilek",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-13T09:12:25.198Z"
-  },
-  {
     "player1": "@KENTMAUKAYA",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 3285,
     "traded_with": null,
     "timestamp": "2026-10-13T09:15:49.617Z"
+  },
+  {
+    "player1": "Dkram",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-10-13T09:16:57.378Z"
   }
 ]
