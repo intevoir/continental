@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Seannara []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-13T13:04:22.513Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Aezuuu",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Astral Aura - Lion",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-13T13:04:29.196Z"
-  },
-  {
     "player1": "HOST",
     "player2": "Buying Machine",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 51100,
     "traded_with": null,
     "timestamp": "2026-10-13T13:06:11.342Z"
+  },
+  {
+    "player1": "XYanzy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-10-13T13:07:12.090Z"
+  },
+  {
+    "player1": "FalardFive2",
+    "player2": "Renting Station",
+    "world": "55",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 17850,
+    "price_wl": 17850,
+    "traded_with": null,
+    "timestamp": "2026-10-13T13:07:12.119Z"
   }
 ]
