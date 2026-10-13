@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RonLagiGamon",
-    "world": "BFGKDE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-13T20:37:02.087Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArenGT",
     "world": "BFGNOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-13T20:46:21.817Z"
+  },
+  {
+    "player1": "VEROKA",
+    "player2": "Buying Machine",
+    "world": "FGEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-13T20:46:54.656Z"
   }
 ]
