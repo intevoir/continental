@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "MANDAO",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-13T08:48:34.071Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "MANDAO",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-13T08:48:44.582Z"
-  },
-  {
     "player1": "Joekaz",
     "player2": "Renting Station",
     "world": "BFGL",
@@ -128,5 +102,31 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-13T08:51:46.770Z"
+  },
+  {
+    "player1": "Bapakee",
+    "player2": "Buying Machine",
+    "world": "KIFY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2880,
+    "price_wl": 2880,
+    "traded_with": null,
+    "timestamp": "2026-10-13T08:52:18.598Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OSI",
+    "world": "BUYPRINCESS",
+    "action": "BUY",
+    "item_name": "Princess",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-13T08:52:38.542Z"
   }
 ]
