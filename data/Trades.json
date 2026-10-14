@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "cerbecus",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:25:49.887Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "senatun",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Orb of Time",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1850,
-    "price_wl": 1850,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:26:20.080Z"
-  },
-  {
     "player1": "Kaseeh",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-14T15:29:22.742Z"
+  },
+  {
+    "player1": "NotzShop",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:30:56.861Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrMQRC",
+    "world": "BUYMA",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 93,
+    "p_name": "World Locks",
+    "p_count": 69750,
+    "price_wl": 69750,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:31:14.334Z"
   }
 ]
