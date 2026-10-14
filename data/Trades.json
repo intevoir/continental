@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ArenGT",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-14T18:28:33.537Z"
-  },
-  {
-    "player1": "Sickletickle_753",
-    "player2": "@Ai",
-    "world": "CESINO",
-    "action": "TRADE",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Ai",
-    "timestamp": "2026-10-14T18:29:34.278Z"
-  },
-  {
-    "player1": "@Ai",
-    "player2": "Sickletickle_753",
-    "world": "CESINO",
-    "action": "TRADE",
-    "item_name": "Main Door",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Sickletickle_753",
-    "timestamp": "2026-10-14T18:29:34.278Z"
-  },
-  {
     "player1": "Crystal of Legend [PRO ]",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +89,44 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-14T18:32:10.524Z"
+  },
+  {
+    "player1": "Olafcan",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-14T18:32:48.810Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aezuuu",
+    "world": "STORE2",
+    "action": "BUY",
+    "item_name": "Valkyrie's Helm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-14T18:32:48.823Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Olafcan",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-14T18:33:07.844Z"
   }
 ]
