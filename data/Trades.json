@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrPekerjaRajin",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Signal Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:38:51.511Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ANG",
-    "world": "BFGBP",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:38:51.612Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrPekerjaRajin",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:38:51.619Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "latips",
     "world": "SOTOL0",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-14T15:40:56.108Z"
+  },
+  {
+    "player1": "NotzShop",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:41:27.191Z"
+  },
+  {
+    "player1": "IAI",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:41:53.001Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:41:53.025Z"
   }
 ]
