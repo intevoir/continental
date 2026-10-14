@@ -1,31 +1,5 @@
 [
   {
-    "player1": "FredinRtoMray",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-14T12:05:26.322Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TwoSecond",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-14T12:05:26.332Z"
-  },
-  {
     "player1": "hdise",
     "player2": "Renting Station",
     "world": "BFGNOT",
@@ -128,5 +102,31 @@
     "price_wl": 103,
     "traded_with": null,
     "timestamp": "2026-10-14T12:07:35.435Z"
+  },
+  {
+    "player1": "DrCarlots",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Love Potion #8",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-14T12:08:27.862Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MYSA",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-14T12:08:38.169Z"
   }
 ]
