@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fortitude",
-    "world": "ACYBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 83,
-    "p_name": "World Locks",
-    "p_count": 415,
-    "price_wl": 415,
-    "traded_with": null,
-    "timestamp": "2026-10-14T09:13:34.116Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 908,
     "traded_with": null,
     "timestamp": "2026-10-14T09:15:16.242Z"
+  },
+  {
+    "player1": "Hazardouss",
+    "player2": "Buying Machine",
+    "world": "VENDIIN",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 615,
+    "price_wl": 615,
+    "traded_with": null,
+    "timestamp": "2026-10-14T09:15:45.321Z"
   }
 ]
