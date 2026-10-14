@@ -2,32 +2,6 @@
   {
     "player1": "Hazardouss",
     "player2": "Buying Machine",
-    "world": "VENDIIN",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 960,
-    "price_wl": 960,
-    "traded_with": null,
-    "timestamp": "2026-10-14T09:17:09.544Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Shovia",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Shampoo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-14T09:17:09.548Z"
-  },
-  {
-    "player1": "Hazardouss",
-    "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
     "item_name": "White Crystal",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-14T09:19:28.234Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora [ELITE]",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Black Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-14T09:22:11.640Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Malpractice",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-10-14T09:22:11.660Z"
   }
 ]
