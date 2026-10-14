@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ENALRTO",
-    "world": "GEIGERHERE",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T19:32:48.467Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArenGT",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-14T19:35:35.790Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArenGT",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Shadow Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-14T19:36:13.690Z"
   }
 ]
