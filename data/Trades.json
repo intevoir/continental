@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Morpi",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-14T14:07:51.957Z"
-  },
-  {
     "player1": "@LoveIU",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-14T14:10:53.028Z"
+  },
+  {
+    "player1": "Lucents",
+    "player2": "Buying Machine",
+    "world": "BFGSINI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 28,
+    "p_name": "World Locks",
+    "p_count": 16800,
+    "price_wl": 16800,
+    "traded_with": null,
+    "timestamp": "2026-10-14T14:11:22.390Z"
   }
 ]
