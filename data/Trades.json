@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "VENDD",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-14T19:41:17.518Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCantfly",
     "world": "USE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-14T19:52:38.986Z"
+  },
+  {
+    "player1": "amilys",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Angel Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-14T19:53:19.179Z"
   }
 ]
