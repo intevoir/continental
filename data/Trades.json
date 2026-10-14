@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Farzy",
-    "world": "GEIGERR",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T14:35:59.210Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ElDemprot",
     "world": "KIOSGEIGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 420,
     "traded_with": null,
     "timestamp": "2026-10-14T14:37:27.954Z"
+  },
+  {
+    "player1": "Aztecs",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-14T14:38:40.142Z"
   }
 ]
