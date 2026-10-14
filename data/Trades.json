@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZOHOR",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T20:51:49.878Z"
-  },
-  {
-    "player1": "kupangntt",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-14T20:51:56.838Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kupangntt",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-14T20:58:30.803Z"
+  },
+  {
+    "player1": "homersimpson",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 2450,
+    "price_wl": 2450,
+    "traded_with": null,
+    "timestamp": "2026-10-14T20:59:42.590Z"
+  },
+  {
+    "player1": "homersimpson",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-14T21:00:07.407Z"
   }
 ]
