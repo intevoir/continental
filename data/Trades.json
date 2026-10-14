@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Benzyl of Legend [PRO ] [MAXWIN] [GACOR] [$$$LUXURY$$$] [] [RAWR]",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 322,
-    "price_wl": 322,
-    "traded_with": null,
-    "timestamp": "2026-10-14T09:45:44.775Z"
-  },
-  {
-    "player1": "purukuda",
-    "player2": "Renting Station",
-    "world": "PENN",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-14T09:45:45.315Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "purukuda",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-14T09:50:15.126Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Qandaa",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-10-14T09:50:19.838Z"
+  },
+  {
+    "player1": "DailyMax",
+    "player2": "Buying Machine",
+    "world": "BFGREADY",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-14T09:50:31.028Z"
   }
 ]
