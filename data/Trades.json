@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "JuraganJanda",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 158,
-    "p_name": "World Locks",
-    "p_count": 1580,
-    "price_wl": 1580,
-    "traded_with": null,
-    "timestamp": "2026-10-14T19:48:47.478Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JuraganJanda",
     "world": "BFGIKUT",
     "action": "BUY",
     "item_name": "Arroz Con Pollo",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-14T19:58:41.693Z"
+  },
+  {
+    "player1": "ElDemprot",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-14T19:59:22.582Z"
   }
 ]
