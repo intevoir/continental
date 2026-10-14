@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T10:41:37.302Z"
-  },
-  {
     "player1": "BINLII",
     "player2": "Renting Station",
     "world": "FREEBFGSKY",
@@ -128,5 +115,18 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-10-14T10:46:41.981Z"
+  },
+  {
+    "player1": "Zdee",
+    "player2": "Buying Machine",
+    "world": "BFGHANZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 49,
+    "p_name": "World Locks",
+    "p_count": 35280,
+    "price_wl": 35280,
+    "traded_with": null,
+    "timestamp": "2026-10-14T10:46:53.469Z"
   }
 ]
