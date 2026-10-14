@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Epyc",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-14T11:55:31.062Z"
-  },
-  {
     "player1": "TaylorSwiftt",
     "player2": "Buying Machine",
     "world": "VENDIIN",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-14T11:57:56.086Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NekoRix",
+    "world": "HSHOP",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-14T11:58:37.495Z"
   }
 ]
