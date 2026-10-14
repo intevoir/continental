@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Xita",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-14T14:36:31.872Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@ZuanteZx [PRO ]",
-    "world": "BELANJA",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T14:36:48.260Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aduhbang",
     "world": "CYNOBFG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-14T14:39:55.794Z"
+  },
+  {
+    "player1": "RamaAntiGedor",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-14T14:40:29.538Z"
+  },
+  {
+    "player1": "Farzy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-10-14T14:40:29.553Z"
   }
 ]
