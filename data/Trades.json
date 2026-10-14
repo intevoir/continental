@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kepino",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T13:16:13.008Z"
-  },
-  {
     "player1": "MORGANWIBU",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15750,
     "traded_with": null,
     "timestamp": "2026-10-14T13:17:57.626Z"
+  },
+  {
+    "player1": "LeonCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-14T13:18:31.052Z"
   }
 ]
