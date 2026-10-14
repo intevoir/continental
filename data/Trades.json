@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SkyVieth",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 93,
-    "p_name": "World Locks",
-    "p_count": 74400,
-    "price_wl": 74400,
-    "traded_with": null,
-    "timestamp": "2026-10-14T21:10:00.492Z"
-  },
-  {
     "player1": "Hoppers",
     "player2": "Renting Station",
     "world": "FREE",
@@ -128,5 +115,18 @@
     "price_wl": 6500,
     "traded_with": null,
     "timestamp": "2026-10-14T21:36:09.394Z"
+  },
+  {
+    "player1": "DailyMax",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2880,
+    "price_wl": 2880,
+    "traded_with": null,
+    "timestamp": "2026-10-14T21:36:42.456Z"
   }
 ]
