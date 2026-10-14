@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Qandaa",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-14T23:27:24.943Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-14T23:37:06.821Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 5760,
+    "price_wl": 5760,
+    "traded_with": null,
+    "timestamp": "2026-10-14T23:39:06.691Z"
   }
 ]
