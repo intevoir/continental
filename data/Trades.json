@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Aloena",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 95200,
-    "price_wl": 95200,
-    "traded_with": null,
-    "timestamp": "2026-10-14T22:13:41.591Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xeesan",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-10-14T22:29:37.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEROKA",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-14T22:31:45.107Z"
   }
 ]
