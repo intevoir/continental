@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DailyMax",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-14T11:25:59.639Z"
-  },
-  {
     "player1": "Kyinn",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-14T11:32:30.062Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MONYETLO",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6400,
+    "price_wl": 6400,
+    "traded_with": null,
+    "timestamp": "2026-10-14T11:33:14.247Z"
   }
 ]
