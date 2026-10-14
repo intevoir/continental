@@ -1,18 +1,5 @@
 [
   {
-    "player1": "xyprr",
-    "player2": "Buying Machine",
-    "world": "BFGHANZ",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 17,
-    "p_name": "World Locks",
-    "p_count": 12240,
-    "price_wl": 12240,
-    "traded_with": null,
-    "timestamp": "2026-10-14T23:43:39.473Z"
-  },
-  {
     "player1": "Tyroxx",
     "player2": "Renting Station",
     "world": "INTERN",
@@ -128,5 +115,18 @@
     "price_wl": 1089,
     "traded_with": null,
     "timestamp": "2026-10-14T23:50:15.868Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "xyprr",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 29,
+    "p_name": "World Locks",
+    "p_count": 145,
+    "price_wl": 145,
+    "traded_with": null,
+    "timestamp": "2026-10-14T23:52:16.734Z"
   }
 ]
