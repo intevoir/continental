@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "reyuu2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T17:49:14.669Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Viadila",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 16800,
     "traded_with": null,
     "timestamp": "2026-10-14T17:50:45.644Z"
+  },
+  {
+    "player1": "Viadila",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-14T17:51:20.160Z"
   }
 ]
