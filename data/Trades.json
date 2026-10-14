@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ynGie",
-    "player2": "Renting Station",
-    "world": "FREEBFGBOS",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:31:51.773Z"
-  },
-  {
-    "player1": "NotzShop",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-14T15:32:18.279Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Scywins",
     "world": "ARES",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-14T15:34:16.452Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sihilisko",
+    "world": "GEIGERR",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:34:49.312Z"
+  },
+  {
+    "player1": "NotzShop",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-14T15:34:49.320Z"
   }
 ]
