@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZOHOR",
-    "world": "SPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 30000,
-    "price_wl": 30000,
-    "traded_with": null,
-    "timestamp": "2026-10-14T13:59:15.823Z"
-  },
-  {
     "player1": "JuraganJanda",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-10-14T14:03:19.215Z"
+  },
+  {
+    "player1": "Hourbour",
+    "player2": "Buying Machine",
+    "world": "BFGSINI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 15600,
+    "price_wl": 15600,
+    "traded_with": null,
+    "timestamp": "2026-10-14T14:04:18.068Z"
   }
 ]
