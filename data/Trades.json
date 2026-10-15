@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RahmatBotak",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T08:05:43.423Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MassDerr",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-15T08:05:50.873Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Meowtion",
-    "world": "USE",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-15T08:06:24.354Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Meowtion",
-    "world": "USE",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-15T08:06:28.205Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ynGie",
     "world": "IEBFG",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 42,
     "traded_with": null,
     "timestamp": "2026-10-15T08:07:53.228Z"
+  },
+  {
+    "player1": "Danel",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-15T08:08:25.217Z"
+  },
+  {
+    "player1": "Hllywd",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-15T08:08:37.487Z"
+  },
+  {
+    "player1": "UYUXU",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15410,
+    "price_wl": 15410,
+    "traded_with": null,
+    "timestamp": "2026-10-15T08:08:45.044Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RahmatBotak",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T08:08:52.314Z"
   }
 ]
