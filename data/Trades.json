@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "TANIIII",
-    "world": "PURPLE",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 197500,
-    "price_wl": 197500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T14:45:26.295Z"
-  },
-  {
     "player1": "ventraysy",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-10-15T14:47:59.827Z"
+  },
+  {
+    "player1": "ventraysy",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-15T14:48:32.884Z"
   }
 ]
