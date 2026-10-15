@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "boostbro",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T01:01:49.132Z"
-  },
-  {
     "player1": "corinese",
     "player2": "Buying Machine",
     "world": "IEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-15T01:04:50.702Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "IEBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3650,
+    "price_wl": 3650,
+    "traded_with": null,
+    "timestamp": "2026-10-15T01:04:54.754Z"
   }
 ]
