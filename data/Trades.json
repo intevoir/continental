@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Gebo",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-15T03:16:01.796Z"
-  },
-  {
     "player1": "Drzatsupermen",
     "player2": "Renting Station",
     "world": "FREEBFGBOS",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-15T03:28:50.472Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zenmui",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Starship Security Camera",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-15T03:30:51.048Z"
   }
 ]
