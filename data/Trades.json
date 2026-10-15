@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrYokk",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:43:13.804Z"
-  },
-  {
     "player1": "KiramaZenkai",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-15T07:46:40.340Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Becker",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:47:16.120Z"
   }
 ]
