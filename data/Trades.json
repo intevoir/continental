@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "klenyok2",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-15T01:02:10.155Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NekoRix",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 75000,
     "traded_with": null,
     "timestamp": "2026-10-15T01:07:07.628Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PandaCB",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-15T01:09:16.337Z"
   }
 ]
