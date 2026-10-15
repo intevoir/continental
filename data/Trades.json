@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Motobe",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-10-15T14:54:03.026Z"
-  },
-  {
-    "player1": "Cept [ELITE]",
-    "player2": "Renting Station",
-    "world": "BFGNOT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-15T14:54:03.031Z"
-  },
-  {
     "player1": "SolidDirt_376",
     "player2": "Renting Station",
     "world": "BFGNOT",
@@ -128,5 +102,31 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-10-15T14:55:26.338Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Jate",
+    "world": "SHOPV",
+    "action": "BUY",
+    "item_name": "Fishing Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-10-15T14:57:03.053Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NekoRix",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-15T14:57:03.065Z"
   }
 ]
