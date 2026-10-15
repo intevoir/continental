@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "R4F",
-    "world": "BFGTAAT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:05:38.667Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MeNoobYouRich",
-    "world": "WMW",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:05:59.978Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NekoRix",
     "world": "HSHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5474,
     "traded_with": null,
     "timestamp": "2026-10-15T13:06:29.188Z"
+  },
+  {
+    "player1": "stns",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:06:32.431Z"
+  },
+  {
+    "player1": "stns",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:06:36.732Z"
   }
 ]
