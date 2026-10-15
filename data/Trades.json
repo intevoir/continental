@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T04:57:58.097Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "GarAtre_353",
     "world": "VENDD",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-15T05:04:01.376Z"
+  },
+  {
+    "player1": "ALFRED888",
+    "player2": "Buying Machine",
+    "world": "BFGNOT",
+    "action": "SELL",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 225000,
+    "price_wl": 225000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T05:05:50.338Z"
   }
 ]
