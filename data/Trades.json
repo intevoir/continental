@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mmmpuu",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-15T15:31:18.680Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mmmpuu",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Balloon Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-15T15:31:18.690Z"
-  },
-  {
     "player1": "Lycoris",
     "player2": "Renting Station",
     "world": "BFGNOT",
@@ -128,5 +102,31 @@
     "price_wl": 1020,
     "traded_with": null,
     "timestamp": "2026-10-15T15:32:41.098Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JKHunter",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 73,
+    "p_name": "World Locks",
+    "p_count": 365,
+    "price_wl": 365,
+    "traded_with": null,
+    "timestamp": "2026-10-15T15:33:26.875Z"
+  },
+  {
+    "player1": "KiramaZenkai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 720,
+    "price_wl": 720,
+    "traded_with": null,
+    "timestamp": "2026-10-15T15:33:43.994Z"
   }
 ]
