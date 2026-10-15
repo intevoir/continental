@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MassDerr",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:50:17.529Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Antibody",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-15T07:58:20.581Z"
+  },
+  {
+    "player1": "DrYokk",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2190,
+    "price_wl": 2190,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:58:27.715Z"
   }
 ]
