@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "QBV",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "Black Ultraviolet Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-15T08:11:38.414Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "poms",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-15T08:14:47.259Z"
+  },
+  {
+    "player1": "1991",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-15T08:15:37.734Z"
   }
 ]
