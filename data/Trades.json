@@ -1,31 +1,5 @@
 [
   {
-    "player1": "NewArya",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-15T10:24:36.909Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMendes",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 2750,
-    "price_wl": 2750,
-    "traded_with": null,
-    "timestamp": "2026-10-15T10:24:36.924Z"
-  },
-  {
     "player1": "Lippiew",
     "player2": "Renting Station",
     "world": "8X8",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-15T10:29:39.416Z"
+  },
+  {
+    "player1": "DrDeboy",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 32,
+    "price_wl": 32,
+    "traded_with": null,
+    "timestamp": "2026-10-15T10:29:49.760Z"
+  },
+  {
+    "player1": "DrDeboy",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 33,
+    "price_wl": 33,
+    "traded_with": null,
+    "timestamp": "2026-10-15T10:29:56.862Z"
   }
 ]
