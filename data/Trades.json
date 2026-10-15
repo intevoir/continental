@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 51,
-    "p_name": "World Locks",
-    "p_count": 76500,
-    "price_wl": 76500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:32:47.304Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrHOLDX",
-    "world": "BUYSIGNS",
-    "action": "BUY",
-    "item_name": "Open Sign",
-    "item_count": 217,
-    "p_name": "World Locks",
-    "p_count": 1085,
-    "price_wl": 1085,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:34:10.013Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrHOLDX",
     "world": "SELLVENDS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 13090,
     "traded_with": null,
     "timestamp": "2026-10-15T07:41:27.841Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB3",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:42:13.359Z"
+  },
+  {
+    "player1": "ArenGT",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:42:13.371Z"
   }
 ]
