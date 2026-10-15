@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrKingSeno",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-15T09:28:13.109Z"
-  },
-  {
-    "player1": "DrSocius",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-15T09:28:40.964Z"
-  },
-  {
     "player1": "Sofeaa",
     "player2": "bfgfzs",
     "world": "EBSR",
@@ -128,5 +102,31 @@
     "price_wl": 64080,
     "traded_with": null,
     "timestamp": "2026-10-15T09:34:02.042Z"
+  },
+  {
+    "player1": "bfgfzs",
+    "player2": "MeNoobYouRich",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 45,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MeNoobYouRich",
+    "timestamp": "2026-10-15T09:34:20.037Z"
+  },
+  {
+    "player1": "MeNoobYouRich",
+    "player2": "bfgfzs",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "bfgfzs",
+    "timestamp": "2026-10-15T09:34:20.038Z"
   }
 ]
