@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "poms",
-    "world": "BUY",
-    "action": "BUY",
-    "item_name": "Troll Face #1",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80000,
-    "price_wl": 80000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:20:16.565Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bwff",
     "world": "BUYGEIGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3503,
     "traded_with": null,
     "timestamp": "2026-10-15T07:25:12.401Z"
+  },
+  {
+    "player1": "DrLevaza",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:26:08.819Z"
   }
 ]
