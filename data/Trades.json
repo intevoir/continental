@@ -1,18 +1,5 @@
 [
   {
-    "player1": "xJustHuman",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 235,
-    "p_name": "World Locks",
-    "p_count": 7050,
-    "price_wl": 7050,
-    "traded_with": null,
-    "timestamp": "2026-10-15T14:13:06.758Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrGvez",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-15T14:14:08.326Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "radana",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T14:14:19.152Z"
   }
 ]
