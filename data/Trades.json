@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SiAmos",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-15T01:03:53.808Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MTKxBFGNGAKAK",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-15T01:13:18.815Z"
+  },
+  {
+    "player1": "VaaInginLray",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 220,
+    "p_name": "World Locks",
+    "p_count": 10120,
+    "price_wl": 10120,
+    "traded_with": null,
+    "timestamp": "2026-10-15T01:13:50.853Z"
   }
 ]
