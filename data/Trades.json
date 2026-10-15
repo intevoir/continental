@@ -1,18 +1,5 @@
 [
   {
-    "player1": "LekLG",
-    "player2": "Buying Machine",
-    "world": "BFGID",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2160,
-    "price_wl": 2160,
-    "traded_with": null,
-    "timestamp": "2026-10-15T04:02:47.220Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OBENGcps",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-15T04:06:57.770Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MetaTrader",
+    "world": "KWN",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-10-15T04:07:58.604Z"
   }
 ]
