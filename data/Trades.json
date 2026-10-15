@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "amilys",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T07:39:19.710Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bwff",
     "world": "1",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-15T07:43:34.946Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Meowtion",
+    "world": "USE",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-15T07:44:14.610Z"
   }
 ]
