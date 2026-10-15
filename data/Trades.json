@@ -1,44 +1,5 @@
 [
   {
-    "player1": "stns",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:08:28.518Z"
-  },
-  {
-    "player1": "RonLagiGamon",
-    "player2": "@ElhanGT [PRO ] [] []",
-    "world": "TRAY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 45,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@ElhanGT [PRO ] [] []",
-    "timestamp": "2026-10-15T13:08:28.554Z"
-  },
-  {
-    "player1": "@ElhanGT [PRO ] [] []",
-    "player2": "RonLagiGamon",
-    "world": "TRAY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "RonLagiGamon",
-    "timestamp": "2026-10-15T13:08:28.554Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BRGN",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-15T13:12:42.243Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kudaprut",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:13:30.802Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kudaprut",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:13:30.808Z"
+  },
+  {
+    "player1": "Payya",
+    "player2": "Buying Machine",
+    "world": "FREEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:13:35.518Z"
   }
 ]
