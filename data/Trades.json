@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CsperLEK",
-    "world": "TAXBLOCKMO",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:49:43.906Z"
-  },
-  {
     "player1": "skybub",
     "player2": "Renting Station",
     "world": "MESA",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-15T13:51:47.764Z"
+  },
+  {
+    "player1": "DoctorChopper",
+    "player2": "Buying Machine",
+    "world": "NIME",
+    "action": "SELL",
+    "item_name": "Gemini Ring",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:52:05.088Z"
   }
 ]
