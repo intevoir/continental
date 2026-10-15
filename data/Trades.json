@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lycoris",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-10-15T15:49:49.657Z"
-  },
-  {
-    "player1": "Payya",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-15T15:50:25.448Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "sihilisko",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 390,
     "traded_with": null,
     "timestamp": "2026-10-15T15:50:49.092Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iStarz",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-15T15:50:56.910Z"
+  },
+  {
+    "player1": "BERARTI",
+    "player2": "Buying Machine",
+    "world": "SAROS",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-10-15T15:51:25.630Z"
   }
 ]
