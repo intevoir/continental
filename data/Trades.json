@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mmmpuu []",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 7500,
-    "price_wl": 7500,
-    "traded_with": null,
-    "timestamp": "2026-10-15T14:00:42.135Z"
-  },
-  {
     "player1": "DarkSysTems2",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 95000,
     "traded_with": null,
     "timestamp": "2026-10-15T14:03:41.977Z"
+  },
+  {
+    "player1": "Payya",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-15T14:04:10.063Z"
   }
 ]
