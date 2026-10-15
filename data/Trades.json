@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KRYX []",
-    "player2": "@MurrCps",
-    "world": "CSN",
-    "action": "TRADE",
-    "item_name": "Imperial Wings",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@MurrCps",
-    "timestamp": "2026-10-15T04:04:55.283Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Hazardous []",
     "world": "MESA",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-15T04:10:05.198Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VaaInginLray",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 57500,
+    "price_wl": 57500,
+    "traded_with": null,
+    "timestamp": "2026-10-15T04:10:39.923Z"
   }
 ]
