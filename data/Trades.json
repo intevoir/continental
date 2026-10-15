@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "whenyh",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T02:57:36.669Z"
-  },
-  {
-    "player1": "tibozz",
-    "player2": "Buying Machine",
-    "world": "HYBAR",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-15T02:58:08.865Z"
-  },
-  {
     "player1": "kudaprut",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 110000,
     "traded_with": null,
     "timestamp": "2026-10-15T03:07:43.512Z"
+  },
+  {
+    "player1": "bfgppw",
+    "player2": "Buying Machine",
+    "world": "GEIGERO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 241,
+    "price_wl": 241,
+    "traded_with": null,
+    "timestamp": "2026-10-15T03:08:43.729Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bfgppw",
+    "world": "GEIGERO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 964,
+    "price_wl": 964,
+    "traded_with": null,
+    "timestamp": "2026-10-15T03:08:43.744Z"
   }
 ]
