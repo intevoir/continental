@@ -2,32 +2,6 @@
   {
     "player1": "stns",
     "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:06:32.431Z"
-  },
-  {
-    "player1": "stns",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-15T13:06:36.732Z"
-  },
-  {
-    "player1": "stns",
-    "player2": "Buying Machine",
     "world": "EEL",
     "action": "SELL",
     "item_name": "Blue Crystal",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Srimpt [CHAD!]",
     "timestamp": "2026-10-15T13:10:29.336Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "torjago",
+    "world": "BFGWE",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 96,
+    "p_name": "World Locks",
+    "p_count": 672,
+    "price_wl": 672,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:12:38.735Z"
+  },
+  {
+    "player1": "Payya",
+    "player2": "Buying Machine",
+    "world": "FREEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-15T13:12:42.243Z"
   }
 ]
