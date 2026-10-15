@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OBENGcps",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Data Bedrock",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-15T04:01:27.412Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lok0719",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-15T04:01:27.437Z"
-  },
-  {
     "player1": "@Piers []",
     "player2": "Renting Station",
     "world": "INTERN",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "@MurrCps",
     "timestamp": "2026-10-15T04:04:55.283Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Hazardous []",
+    "world": "MESA",
+    "action": "BUY",
+    "item_name": "Challenge Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2900,
+    "price_wl": 2900,
+    "traded_with": null,
+    "timestamp": "2026-10-15T04:05:30.418Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Hazardous []",
+    "world": "MESA",
+    "action": "BUY",
+    "item_name": "Challenge Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2900,
+    "price_wl": 2900,
+    "traded_with": null,
+    "timestamp": "2026-10-15T04:05:56.148Z"
   }
 ]
