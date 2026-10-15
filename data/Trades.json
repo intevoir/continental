@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "vito14",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 165,
-    "price_wl": 165,
-    "traded_with": null,
-    "timestamp": "2026-10-15T12:23:26.725Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Velmora [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-15T12:23:30.304Z"
-  },
-  {
     "player1": "Jettcute",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-15T12:25:29.225Z"
+  },
+  {
+    "player1": "Jettcute",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10300,
+    "price_wl": 10300,
+    "traded_with": null,
+    "timestamp": "2026-10-15T12:26:15.601Z"
+  },
+  {
+    "player1": "Jettcute",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 93,
+    "p_name": "World Locks",
+    "p_count": 4278,
+    "price_wl": 4278,
+    "traded_with": null,
+    "timestamp": "2026-10-15T12:26:19.720Z"
   }
 ]
