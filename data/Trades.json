@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSIAGA [PRO ] []",
-    "world": "INY",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-16T19:05:36.260Z"
-  },
-  {
-    "player1": "SiWowok",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Golden Devil Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-16T19:05:39.602Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Brads",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Bouncer Shirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-16T19:06:04.891Z"
-  },
-  {
-    "player1": "DrSeime",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-16T19:06:04.910Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MONYETLO",
     "world": "TOT",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 62500,
     "traded_with": null,
     "timestamp": "2026-10-16T19:06:32.267Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MONYETLO",
+    "world": "TOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-10-16T19:06:36.072Z"
+  },
+  {
+    "player1": "MONYETLO",
+    "player2": "Buying Machine",
+    "world": "IQQ",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 62500,
+    "price_wl": 62500,
+    "traded_with": null,
+    "timestamp": "2026-10-16T19:07:04.939Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MONYETLO",
+    "world": "TOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 224,
+    "p_name": "World Locks",
+    "p_count": 44800,
+    "price_wl": 44800,
+    "traded_with": null,
+    "timestamp": "2026-10-16T19:07:04.954Z"
+  },
+  {
+    "player1": "MONYETLO",
+    "player2": "Buying Machine",
+    "world": "IQQ",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 224,
+    "p_name": "World Locks",
+    "p_count": 56000,
+    "price_wl": 56000,
+    "traded_with": null,
+    "timestamp": "2026-10-16T19:07:04.963Z"
   }
 ]
