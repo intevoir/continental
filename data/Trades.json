@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jusimen [ELITE]",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Holographic Sign",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-16T11:07:08.938Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jusimen [ELITE]",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Holographic Sign",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-16T11:07:38.822Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrHOLDX",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-16T11:10:35.346Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSFC",
+    "world": "ARROZKRO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-16T11:11:18.997Z"
+  },
+  {
+    "player1": "Crost",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Elite Item: Lamborghini",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-10-16T11:11:21.066Z"
   }
 ]
