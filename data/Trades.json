@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZEAZA",
-    "world": "FREE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-16T19:51:27.315Z"
-  },
-  {
     "player1": "TOTO88",
     "player2": "Buying Machine",
     "world": "MIKEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-16T19:58:32.992Z"
+  },
+  {
+    "player1": "DrAPAY",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 225,
+    "price_wl": 225,
+    "traded_with": null,
+    "timestamp": "2026-10-16T19:59:38.349Z"
   }
 ]
