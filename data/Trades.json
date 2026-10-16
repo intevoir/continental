@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "UAPSTOREGT",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-16T20:04:48.822Z"
-  },
-  {
     "player1": "UAPSTOREGT",
     "player2": "Renting Station",
     "world": "BFGNOT",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-16T20:10:45.613Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SCHUETT",
+    "world": "HEMAT",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-16T20:11:52.105Z"
   }
 ]
