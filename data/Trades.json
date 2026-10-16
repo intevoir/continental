@@ -4,19 +4,6 @@
     "player2": "Xilan",
     "world": "COLOR",
     "action": "BUY",
-    "item_name": "Skill Spice",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-16T16:35:06.481Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Xilan",
-    "world": "COLOR",
-    "action": "BUY",
     "item_name": "Tea",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-16T16:38:07.130Z"
+  },
+  {
+    "player1": "vanilass",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 747,
+    "price_wl": 747,
+    "traded_with": null,
+    "timestamp": "2026-10-16T16:38:26.040Z"
   }
 ]
