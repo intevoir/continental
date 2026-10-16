@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AMINGJAYA",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-16T17:48:00.913Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AMINGJAYA",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-16T17:48:00.919Z"
-  },
-  {
     "player1": "1TRI",
     "player2": "Renting Station",
     "world": "FREE",
@@ -128,5 +102,31 @@
     "price_wl": 164320,
     "traded_with": null,
     "timestamp": "2026-10-16T17:51:02.394Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PoliceMan of Legend",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Lucky Fortune Cookie",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-16T17:51:15.157Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Buying Machine",
+    "world": "MIKEBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 208,
+    "p_name": "World Locks",
+    "p_count": 166400,
+    "price_wl": 166400,
+    "traded_with": null,
+    "timestamp": "2026-10-16T17:51:31.994Z"
   }
 ]
