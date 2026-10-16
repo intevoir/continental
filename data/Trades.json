@@ -1,31 +1,5 @@
 [
   {
-    "player1": "NIELLR",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 174,
-    "p_name": "World Locks",
-    "p_count": 174,
-    "price_wl": 174,
-    "traded_with": null,
-    "timestamp": "2026-10-16T17:30:54.604Z"
-  },
-  {
-    "player1": "NIELLR",
-    "player2": "Buying Machine",
-    "world": "FGEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-10-16T17:32:17.817Z"
-  },
-  {
     "player1": "Severine",
     "player2": "Renting Station",
     "world": "BFGQOH",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-16T17:35:12.985Z"
+  },
+  {
+    "player1": "Equil",
+    "player2": "miunatsha",
+    "world": "EQUIFB",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "miunatsha",
+    "timestamp": "2026-10-16T17:35:58.383Z"
+  },
+  {
+    "player1": "miunatsha",
+    "player2": "Equil",
+    "world": "EQUIFB",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 39,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Equil",
+    "timestamp": "2026-10-16T17:35:58.383Z"
   }
 ]
