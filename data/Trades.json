@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "BFGL",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-10-16T23:16:03.796Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AlyaNur",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 220,
-    "p_name": "World Locks",
-    "p_count": 2640,
-    "price_wl": 2640,
-    "traded_with": null,
-    "timestamp": "2026-10-16T23:16:42.758Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kaszyz",
     "world": "1",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-16T23:30:15.508Z"
+  },
+  {
+    "player1": "NothingCut",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-10-16T23:31:04.284Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kuyashii_196",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-16T23:31:18.887Z"
   }
 ]
