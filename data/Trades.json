@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MeNoobYouRich",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 72,
-    "price_wl": 72,
-    "traded_with": null,
-    "timestamp": "2026-10-16T15:51:50.124Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mamaneri []",
-    "world": "BFGNOT",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35500,
-    "price_wl": 35500,
-    "traded_with": null,
-    "timestamp": "2026-10-16T15:54:51.132Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HpMinis01",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-16T15:59:17.336Z"
+  },
+  {
+    "player1": "MeNoobYouRich",
+    "player2": "BalikpapanUtara",
+    "world": "RUSBFG",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 34,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BalikpapanUtara",
+    "timestamp": "2026-10-16T16:02:59.262Z"
+  },
+  {
+    "player1": "BalikpapanUtara",
+    "player2": "MeNoobYouRich",
+    "world": "RUSBFG",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MeNoobYouRich",
+    "timestamp": "2026-10-16T16:02:59.270Z"
   }
 ]
