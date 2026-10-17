@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Yeve",
-    "world": "CHEAPKU",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 14000,
-    "price_wl": 14000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T03:47:26.258Z"
-  },
-  {
     "player1": "ZEAZA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-17T03:50:24.615Z"
+  },
+  {
+    "player1": "Yeve",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 10950,
+    "price_wl": 10950,
+    "traded_with": null,
+    "timestamp": "2026-10-17T03:50:54.309Z"
   }
 ]
