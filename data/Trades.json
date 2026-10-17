@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PEEQA",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-17T17:55:05.000Z"
-  },
-  {
-    "player1": "Awang",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-17T17:55:53.694Z"
-  },
-  {
     "player1": "Awang",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-17T17:57:21.806Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDeboy",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-17T17:57:29.809Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DEANDLES",
+    "world": "RAJABFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-17T17:57:54.473Z"
   }
 ]
