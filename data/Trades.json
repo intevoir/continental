@@ -1,44 +1,5 @@
 [
   {
-    "player1": "TopGuss",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-17T10:27:32.995Z"
-  },
-  {
-    "player1": "oloviaa",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-17T10:27:37.294Z"
-  },
-  {
-    "player1": "Tumpah",
-    "player2": "@KRYX []",
-    "world": "TEMBAK",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@KRYX []",
-    "timestamp": "2026-10-17T10:27:40.779Z"
-  },
-  {
     "player1": "@KRYX []",
     "player2": "Tumpah",
     "world": "TEMBAK",
@@ -128,5 +89,44 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-17T10:30:08.577Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LuckTor_280",
+    "world": "TEMBAK",
+    "action": "BUY",
+    "item_name": "Royal Mystic Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-17T10:30:13.267Z"
+  },
+  {
+    "player1": "@KRYX []",
+    "player2": "Lunnnnnnn of Legend",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Lunnnnnnn of Legend",
+    "timestamp": "2026-10-17T10:30:28.802Z"
+  },
+  {
+    "player1": "Lunnnnnnn of Legend",
+    "player2": "@KRYX []",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 37,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@KRYX []",
+    "timestamp": "2026-10-17T10:30:28.803Z"
   }
 ]
