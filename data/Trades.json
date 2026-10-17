@@ -1,18 +1,5 @@
 [
   {
-    "player1": "uwbsce",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-17T03:41:50.451Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Marchiano",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-17T03:47:22.986Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yeve",
+    "world": "CHEAPKU",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T03:47:26.258Z"
   }
 ]
