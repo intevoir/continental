@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NEZARY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-10-17T11:38:37.405Z"
-  },
-  {
-    "player1": "CUREN",
-    "player2": "Buying Machine",
-    "world": "PNB",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-10-17T11:38:40.677Z"
-  },
-  {
     "player1": "Sakuchi",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +102,31 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-17T11:39:43.803Z"
+  },
+  {
+    "player1": "Carasuma",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 29520,
+    "price_wl": 29520,
+    "traded_with": null,
+    "timestamp": "2026-10-17T11:40:33.568Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AsepJoy",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 200000,
+    "price_wl": 200000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T11:40:33.577Z"
   }
 ]
