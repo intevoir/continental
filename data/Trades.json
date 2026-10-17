@@ -1,31 +1,5 @@
 [
   {
-    "player1": "UCJUE",
-    "player2": "@NEPzy",
-    "world": "LISTM1",
-    "action": "TRADE",
-    "item_name": "Blood Shark Scythe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@NEPzy",
-    "timestamp": "2026-10-17T18:15:05.151Z"
-  },
-  {
-    "player1": "UCJUE",
-    "player2": "@NEPzy",
-    "world": "LISTM1",
-    "action": "TRADE",
-    "item_name": "Faber's Rift Blade",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@NEPzy",
-    "timestamp": "2026-10-17T18:15:05.152Z"
-  },
-  {
     "player1": "@NEPzy",
     "player2": "UCJUE",
     "world": "LISTM1",
@@ -128,5 +102,31 @@
     "price_wl": 64,
     "traded_with": null,
     "timestamp": "2026-10-17T18:17:01.242Z"
+  },
+  {
+    "player1": "Awang",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:17:13.216Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Emilly",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Diamond Devil Horns",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:17:28.798Z"
   }
 ]
