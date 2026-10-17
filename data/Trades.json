@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Winterlane",
-    "world": "PAKAIAN",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 196,
-    "p_name": "World Locks",
-    "p_count": 28,
-    "price_wl": 28,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:36:05.802Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Kuek [PRO ]",
-    "world": "SABER",
-    "action": "BUY",
-    "item_name": "Giantify",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100000,
-    "price_wl": 100000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:36:05.825Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aezuuu",
     "world": "IEBFG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2250,
     "traded_with": null,
     "timestamp": "2026-10-17T18:42:07.823Z"
+  },
+  {
+    "player1": "Aezuuu",
+    "player2": "Buying Machine",
+    "world": "IEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:44:08.046Z"
+  },
+  {
+    "player1": "Aezuuu",
+    "player2": "Buying Machine",
+    "world": "IEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:44:08.059Z"
   }
 ]
