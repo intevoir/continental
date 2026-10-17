@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "POJ",
-    "world": "1000BFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 246,
-    "p_name": "World Locks",
-    "p_count": 123,
-    "price_wl": 123,
-    "traded_with": null,
-    "timestamp": "2026-10-17T19:56:59.512Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "davino1",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Streetlamp",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-17T19:57:33.578Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "davino1",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-17T20:02:32.608Z"
+  },
+  {
+    "player1": "YareeYaree",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 18,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-10-17T20:03:55.875Z"
+  },
+  {
+    "player1": "YareeYaree",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-17T20:04:03.099Z"
   }
 ]
