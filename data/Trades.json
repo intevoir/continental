@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "muffen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:04:10.917Z"
-  },
-  {
     "player1": "Cynos",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-17T21:08:02.071Z"
+  },
+  {
+    "player1": "prabowo",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 640,
+    "price_wl": 640,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:08:58.607Z"
   }
 ]
