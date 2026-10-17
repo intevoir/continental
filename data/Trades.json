@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "POJ",
-    "world": "STORE6",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:55:16.145Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZOHOR",
-    "world": "STORE6",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:55:35.783Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "POJ",
-    "world": "STORE6",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:55:49.921Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "YareeYaree",
-    "world": "BFG20K",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:56:16.067Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZOHOR",
     "world": "STORE6",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1480,
     "traded_with": null,
     "timestamp": "2026-10-17T21:57:39.406Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POJ",
+    "world": "STORE6",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:58:17.603Z"
+  },
+  {
+    "player1": "ZOHOR",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:58:17.633Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POJ",
+    "world": "STORE6",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:58:40.265Z"
+  },
+  {
+    "player1": "PiqerP",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:58:48.000Z"
   }
 ]
