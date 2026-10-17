@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JejeLampruy",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Eminem's Boombox",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-17T05:22:52.919Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RTX5090",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-17T05:27:12.301Z"
+  },
+  {
+    "player1": "DrGGKN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T05:27:53.927Z"
   }
 ]
