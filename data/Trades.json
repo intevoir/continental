@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DailyMax",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1300,
-    "price_wl": 1300,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:58:44.570Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Cheessman",
     "world": "NOW",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-17T15:59:27.889Z"
+  },
+  {
+    "player1": "tarancok",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 46,
+    "price_wl": 46,
+    "traded_with": null,
+    "timestamp": "2026-10-17T15:59:43.702Z"
   }
 ]
