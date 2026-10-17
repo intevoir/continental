@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "yuyup",
-    "world": "WQ",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 130,
-    "p_name": "World Locks",
-    "p_count": 32500,
-    "price_wl": 32500,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:45:15.147Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "chandiyu",
     "world": "E4T",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@TAHUNA []",
     "timestamp": "2026-10-17T14:46:40.415Z"
+  },
+  {
+    "player1": "yuyup",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 130,
+    "p_name": "World Locks",
+    "p_count": 32890,
+    "price_wl": 32890,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:47:13.948Z"
   }
 ]
