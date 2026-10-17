@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CO0",
-    "world": "USEPLIST",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 2400,
-    "price_wl": 2400,
-    "traded_with": null,
-    "timestamp": "2026-10-17T11:22:35.688Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FreakingBeach",
-    "world": "BFGWPE",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-17T11:22:35.699Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XianCheng",
     "world": "USEPLIST",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 13,
     "traded_with": null,
     "timestamp": "2026-10-17T11:23:03.051Z"
+  },
+  {
+    "player1": "ALACCONT",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 155,
+    "p_name": "World Locks",
+    "p_count": 4650,
+    "price_wl": 4650,
+    "traded_with": null,
+    "timestamp": "2026-10-17T11:23:36.412Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FreakingBeach",
+    "world": "BFGWPE",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-17T11:23:36.421Z"
   }
 ]
