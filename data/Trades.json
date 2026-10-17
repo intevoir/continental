@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "IEBFG",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:08:15.609Z"
-  },
-  {
-    "player1": "Yazz123",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:08:15.624Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "stns",
     "world": "BFGMBOX",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 41,
     "traded_with": null,
     "timestamp": "2026-10-17T14:09:32.594Z"
+  },
+  {
+    "player1": "Yazz123",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:10:01.359Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yazz123",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Sonic Buster Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:10:01.366Z"
   }
 ]
