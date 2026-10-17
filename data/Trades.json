@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "davino1",
-    "world": "SHOPING",
-    "action": "BUY",
-    "item_name": "Fallen Pillar",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-17T19:42:55.827Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "davino1",
-    "world": "SHOPING",
-    "action": "BUY",
-    "item_name": "Jungle Pillar",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-17T19:43:00.128Z"
-  },
-  {
     "player1": "Lawzon",
     "player2": "Buying Machine",
     "world": "NKR",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-17T19:51:58.935Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "davino1",
+    "world": "STORE",
+    "action": "BUY",
+    "item_name": "Foliage",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-17T19:53:24.126Z"
+  },
+  {
+    "player1": "VinLmao",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 68,
+    "price_wl": 68,
+    "traded_with": null,
+    "timestamp": "2026-10-17T19:53:24.151Z"
   }
 ]
