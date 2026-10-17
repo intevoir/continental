@@ -1,44 +1,5 @@
 [
   {
-    "player1": "tarancok",
-    "player2": "Buying Machine",
-    "world": "GEIGERBOX",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:59:27.865Z"
-  },
-  {
-    "player1": "tarancok",
-    "player2": "Buying Machine",
-    "world": "GEIGERBOX",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:59:27.873Z"
-  },
-  {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Spear Darkness - N8",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:59:27.879Z"
-  },
-  {
     "player1": "DrOtongPRIME",
     "player2": "Renting Station",
     "world": "BIRU",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "DrSFC",
     "timestamp": "2026-10-17T16:02:44.365Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrURAIDHYxSHOPT",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:04:29.375Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JANLYNN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7250,
+    "price_wl": 7250,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:04:33.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrKingSeno",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:04:41.274Z"
   }
 ]
