@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ALNSC",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 18000,
-    "price_wl": 18000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:36:37.119Z"
-  },
-  {
     "player1": "Zelect []",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-17T07:41:09.469Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JKHunter",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:41:43.177Z"
   }
 ]
