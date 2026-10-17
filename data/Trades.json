@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Ethernal Cinder-Bane",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:59:27.884Z"
-  },
-  {
-    "player1": "DrOtongPRIME",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Yeila's Blooming Lovecore",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:59:27.889Z"
-  },
-  {
     "player1": "tarancok",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-17T16:04:41.274Z"
+  },
+  {
+    "player1": "DailyMax",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:05:34.101Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:06:02.182Z"
   }
 ]
