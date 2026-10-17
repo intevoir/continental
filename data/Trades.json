@@ -2,19 +2,6 @@
   {
     "player1": "DrEnalStore",
     "player2": "Buying Machine",
-    "world": "LMSK",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 3895,
-    "price_wl": 3895,
-    "traded_with": null,
-    "timestamp": "2026-10-17T00:02:14.683Z"
-  },
-  {
-    "player1": "DrEnalStore",
-    "player2": "Buying Machine",
     "world": "SINYAL",
     "action": "SELL",
     "item_name": "Green Crystal",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-17T00:05:39.810Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "jojokod",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-10-17T00:06:09.682Z"
   }
 ]
