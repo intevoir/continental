@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "POJ",
-    "world": "SMARKET",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:41:10.735Z"
-  },
-  {
-    "player1": "@Scywin [ELITE]",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:41:28.472Z"
-  },
-  {
     "player1": "@Scywin [ELITE]",
     "player2": "Buying Machine",
     "world": "XD",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-17T21:51:18.418Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZOHOR",
+    "world": "STORE6",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:52:14.521Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POJ",
+    "world": "STORE6",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 996,
+    "price_wl": 996,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:52:14.546Z"
   }
 ]
