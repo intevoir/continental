@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Severine",
-    "world": "IYA",
-    "action": "BUY",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 85000,
-    "price_wl": 85000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T16:07:30.999Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AppleBestFruit",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-17T16:10:00.220Z"
+  },
+  {
+    "player1": "DailyMax",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 4807,
+    "price_wl": 4807,
+    "traded_with": null,
+    "timestamp": "2026-10-17T16:10:33.112Z"
   }
 ]
