@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zelect []",
-    "world": "GEIGERBOX",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:26:50.210Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ARIODA",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:27:34.132Z"
-  },
-  {
-    "player1": "Zelect []",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:27:34.155Z"
-  },
-  {
-    "player1": "PANGERANMODOL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Nightking's Cape - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:27:34.160Z"
-  },
-  {
     "player1": "PANGERANMODOL",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 140,
     "traded_with": null,
     "timestamp": "2026-10-17T07:28:01.567Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NekoRix",
+    "world": "GEIGERB",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 110,
+    "price_wl": 110,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:28:34.885Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zasshu",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:28:34.897Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RadenWijayaGT",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:29:04.224Z"
+  },
+  {
+    "player1": "AnosSama",
+    "player2": "Buying Machine",
+    "world": "FREEBFGBOS",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 55,
+    "p_name": "World Locks",
+    "p_count": 385,
+    "price_wl": 385,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:29:04.233Z"
   }
 ]
