@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "latips",
-    "world": "PEY0",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-17T22:22:28.267Z"
-  },
-  {
     "player1": "POJ",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2100000,
     "traded_with": null,
     "timestamp": "2026-10-17T22:23:52.348Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POJ",
+    "world": "STORE6",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T22:24:28.979Z"
   }
 ]
