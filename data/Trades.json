@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "davino1",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Silver-framed Sunglasses",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-17T19:07:17.961Z"
-  },
-  {
     "player1": "MrXG",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-10-17T19:10:17.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "davino1",
+    "world": "STORE",
+    "action": "BUY",
+    "item_name": "Weather Machine - Black Hole",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-17T19:11:18.671Z"
   }
 ]
