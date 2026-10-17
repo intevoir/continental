@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "tarancok",
-    "world": "GEIGERBOX",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-17T23:34:09.191Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dheacntip",
     "world": "ROCKERLES",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-17T23:36:10.756Z"
+  },
+  {
+    "player1": "Nozferatuu",
+    "player2": "Buying Machine",
+    "world": "BFGID",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-17T23:36:14.567Z"
   }
 ]
