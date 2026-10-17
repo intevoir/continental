@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-17T06:40:30.421Z"
-  },
-  {
     "player1": "BrokenHearts",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-17T06:43:26.161Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrJayEx",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Cat Eyes",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-17T06:43:49.269Z"
   }
 ]
