@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Yeve",
-    "world": "BFGI",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-17T06:25:47.446Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NIKOPIES",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-17T06:28:20.970Z"
+  },
+  {
+    "player1": "AxxyStore",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendbot-009",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-10-17T06:28:42.728Z"
   }
 ]
