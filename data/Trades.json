@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Drasepss",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Black ATM Machine",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 48375,
-    "price_wl": 48375,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:07:04.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrElc",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1160,
-    "price_wl": 1160,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:07:21.675Z"
-  },
-  {
     "player1": "Winterlane",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-17T18:08:58.223Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Piers []",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8200,
+    "price_wl": 8200,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:10:11.803Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Srimpt",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 37,
+    "p_name": "World Locks",
+    "p_count": 33300,
+    "price_wl": 33300,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:10:20.132Z"
   }
 ]
