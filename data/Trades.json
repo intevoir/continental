@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "nothead",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Prismatic Wrench Style",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:48:16.096Z"
-  },
-  {
-    "player1": "JANLYNN",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:48:16.106Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "yuyup",
-    "world": "WQ",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 135,
-    "p_name": "World Locks",
-    "p_count": 33750,
-    "price_wl": 33750,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:48:16.117Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "dedimulyadi",
-    "world": "YIA",
-    "action": "BUY",
-    "item_name": "Creative Coin",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 960000,
-    "price_wl": 960000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:48:16.124Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "corinese",
     "world": "IEBFG",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 34155,
     "traded_with": null,
     "timestamp": "2026-10-17T14:49:14.844Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "OREB",
+    "action": "SELL",
+    "item_name": "Black ATM Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:49:22.919Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "corinese",
+    "world": "IEBFG",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:49:22.931Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "yuyup",
+    "world": "WQ",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 135,
+    "p_name": "World Locks",
+    "p_count": 33750,
+    "price_wl": 33750,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:49:26.757Z"
+  },
+  {
+    "player1": "yuyup",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 135,
+    "p_name": "World Locks",
+    "p_count": 34155,
+    "price_wl": 34155,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:49:41.077Z"
   }
 ]
