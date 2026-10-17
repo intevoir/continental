@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrOPETGARCIA",
-    "player2": "Renting Station",
-    "world": "SEAPI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-17T16:55:51.352Z"
-  },
-  {
-    "player1": "oloviaa",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 36000,
-    "price_wl": 36000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T16:57:13.971Z"
-  },
-  {
-    "player1": "corinese",
-    "player2": "Buying Machine",
-    "world": "BFGJAN",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 260,
-    "price_wl": 260,
-    "traded_with": null,
-    "timestamp": "2026-10-17T16:58:53.567Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SHOP1",
@@ -128,5 +89,44 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-17T17:00:21.373Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VEDDSHOP",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Draconic Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-17T17:00:55.034Z"
+  },
+  {
+    "player1": "Zenixa",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-17T17:00:55.052Z"
+  },
+  {
+    "player1": "Zenixa",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-17T17:00:55.062Z"
   }
 ]
