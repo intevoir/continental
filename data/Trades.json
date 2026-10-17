@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drxpii",
-    "world": "1L",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 91,
-    "price_wl": 91,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:23:03.850Z"
-  },
-  {
     "player1": "PawKing",
     "player2": "Buying Machine",
     "world": "PASARAN",
@@ -128,5 +115,18 @@
     "price_wl": 11250,
     "traded_with": null,
     "timestamp": "2026-10-17T18:24:30.797Z"
+  },
+  {
+    "player1": "PawKing",
+    "player2": "Buying Machine",
+    "world": "PASARAN",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:25:04.447Z"
   }
 ]
