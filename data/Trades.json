@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrHOLDX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 48000,
-    "price_wl": 48000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T00:55:58.109Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MITOHA",
-    "world": "SHOPDI",
-    "action": "BUY",
-    "item_name": "Jungle Pillar",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-17T00:56:27.263Z"
-  },
-  {
     "player1": "BURUHTANII",
     "player2": "Renting Station",
     "world": "PURPLE",
@@ -128,5 +102,31 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-17T00:57:29.814Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-17T00:57:32.855Z"
+  },
+  {
+    "player1": "XianCheng",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-17T00:57:50.224Z"
   }
 ]
