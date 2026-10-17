@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-17T04:16:09.028Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yeve",
     "world": "STORE4",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4680,
     "traded_with": null,
     "timestamp": "2026-10-17T04:18:35.399Z"
+  },
+  {
+    "player1": "DrREMEOM",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T04:19:10.443Z"
   }
 ]
