@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DEANDLES",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-17T17:57:54.473Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DEANDLES",
-    "world": "RAJABFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-17T17:58:01.418Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrElc",
     "world": "GEIGERHERE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1920,
     "traded_with": null,
     "timestamp": "2026-10-17T17:59:22.231Z"
+  },
+  {
+    "player1": "amilys",
+    "player2": "@Yia",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 150,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Yia",
+    "timestamp": "2026-10-17T18:01:24.378Z"
+  },
+  {
+    "player1": "@Yia",
+    "player2": "amilys",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Dragon of Luxury",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "amilys",
+    "timestamp": "2026-10-17T18:01:24.380Z"
   }
 ]
