@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "ASHOP",
-    "action": "BUY",
-    "item_name": "Checkpoint",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-17T06:56:33.035Z"
-  },
-  {
     "player1": "HeroidStore",
     "player2": "Renting Station",
     "world": "XSR",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "America of Legend [RICH]",
     "timestamp": "2026-10-17T07:02:39.974Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkyVieth",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:05:07.444Z"
   }
 ]
