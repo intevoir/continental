@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "purukuda",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:22:57.636Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ArenGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T07:23:40.837Z"
-  },
-  {
     "player1": "ObaawAuu",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-17T07:26:33.300Z"
+  },
+  {
+    "player1": "Zelect []",
+    "player2": "Buying Machine",
+    "world": "GEIGERBOX",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:26:42.715Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zelect []",
+    "world": "GEIGERBOX",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-17T07:26:50.210Z"
   }
 ]
