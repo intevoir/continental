@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "NKR",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T13:06:29.069Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Elzardfc",
     "world": "USE",
@@ -128,5 +115,18 @@
     "price_wl": 4700,
     "traded_with": null,
     "timestamp": "2026-10-17T13:12:36.480Z"
+  },
+  {
+    "player1": "Liteice",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-17T13:13:31.981Z"
   }
 ]
