@@ -1,44 +1,5 @@
 [
   {
-    "player1": "MassDerr",
-    "player2": "Zavix",
-    "world": "TGA",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Zavix",
-    "timestamp": "2026-10-17T10:41:48.116Z"
-  },
-  {
-    "player1": "Zavix",
-    "player2": "MassDerr",
-    "world": "TGA",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 45,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "MassDerr",
-    "timestamp": "2026-10-17T10:41:48.116Z"
-  },
-  {
-    "player1": "@Epyc",
-    "player2": "Buying Machine",
-    "world": "BFGL",
-    "action": "SELL",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-17T10:42:17.048Z"
-  },
-  {
     "player1": "Zasshu",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +89,44 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-17T10:44:17.621Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Soars",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 160000,
+    "price_wl": 160000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T10:44:55.312Z"
+  },
+  {
+    "player1": "RanY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-17T10:45:18.257Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Soars",
+    "world": "BFGNOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 56000,
+    "price_wl": 56000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T10:45:23.333Z"
   }
 ]
