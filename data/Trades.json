@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Andras",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Salt",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:28:27.278Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Yazz123",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:28:27.286Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Yazz123",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-17T14:28:31.660Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Yazz123",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-10-17T14:29:09.473Z"
+  },
+  {
+    "player1": "Dompa",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 287,
+    "price_wl": 287,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:29:26.407Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Yazz123",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 134,
+    "p_name": "World Locks",
+    "p_count": 67,
+    "price_wl": 67,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:29:29.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andras",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-17T14:29:37.910Z"
   }
 ]
