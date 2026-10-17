@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dragonoid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 90000,
-    "price_wl": 90000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T12:26:51.319Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dragonoid",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 32400,
-    "price_wl": 32400,
-    "traded_with": null,
-    "timestamp": "2026-10-17T12:26:51.330Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE] []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-17T12:27:09.742Z"
-  },
-  {
     "player1": "anjelogt",
     "player2": "Buying Machine",
     "world": "NOW",
@@ -128,5 +89,44 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-10-17T12:29:26.106Z"
+  },
+  {
+    "player1": "DrMumbai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 165,
+    "p_name": "World Locks",
+    "p_count": 330,
+    "price_wl": 330,
+    "traded_with": null,
+    "timestamp": "2026-10-17T12:29:51.711Z"
+  },
+  {
+    "player1": "MeNoobYouRich",
+    "player2": "DrMythicalFist [ELITE]",
+    "world": "SHOPT",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 70,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMythicalFist [ELITE]",
+    "timestamp": "2026-10-17T12:29:59.325Z"
+  },
+  {
+    "player1": "DrMythicalFist [ELITE]",
+    "player2": "MeNoobYouRich",
+    "world": "SHOPT",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MeNoobYouRich",
+    "timestamp": "2026-10-17T12:29:59.329Z"
   }
 ]
