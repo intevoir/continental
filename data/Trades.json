@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ElDemprot [ELITE]",
-    "player2": "Buying Machine",
-    "world": "IBULL",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 6160,
-    "price_wl": 6160,
-    "traded_with": null,
-    "timestamp": "2026-10-17T08:09:07.199Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "AzmiGantenk",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-17T08:10:52.928Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AzmiGantenk",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-17T08:11:52.840Z"
   }
 ]
