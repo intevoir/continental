@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "POJ",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 198,
-    "p_name": "World Locks",
-    "p_count": 66,
-    "price_wl": 66,
-    "traded_with": null,
-    "timestamp": "2026-10-17T21:03:00.276Z"
-  },
-  {
     "player1": "Hutabarat",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-17T21:06:57.253Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DinnPendiam",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-17T21:07:12.999Z"
   }
 ]
