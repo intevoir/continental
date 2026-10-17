@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Batampias",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:24:25.472Z"
-  },
-  {
-    "player1": "SwillHouse",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-17T15:24:25.484Z"
-  },
-  {
     "player1": "GoldHack_208",
     "player2": "Renting Station",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 220,
     "traded_with": null,
     "timestamp": "2026-10-17T15:25:49.565Z"
+  },
+  {
+    "player1": "Ilegals",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-10-17T15:25:58.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-17T15:26:25.917Z"
   }
 ]
