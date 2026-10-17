@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Aezuuu",
-    "world": "IEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 248,
-    "p_name": "World Locks",
-    "p_count": 992,
-    "price_wl": 992,
-    "traded_with": null,
-    "timestamp": "2026-10-17T18:36:24.565Z"
-  },
-  {
     "player1": "DrtToMray",
     "player2": "Buying Machine",
     "world": "PASARAN",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-17T18:44:08.059Z"
+  },
+  {
+    "player1": "Aezuuu",
+    "player2": "Buying Machine",
+    "world": "IEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-17T18:44:31.076Z"
   }
 ]
