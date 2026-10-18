@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HpMinis01",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:00:12.250Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ibulll",
-    "world": "USHOP",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:00:12.261Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JackIRENG",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Glowy Block",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:00:26.409Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ibulll",
     "world": "USHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-10-18T13:01:18.751Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ibulll",
+    "world": "USHOP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:01:30.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ibulll",
+    "world": "USHOP",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:02:00.798Z"
+  },
+  {
+    "player1": "MTK",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:02:00.808Z"
   }
 ]
