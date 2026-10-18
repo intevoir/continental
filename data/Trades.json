@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "dwinilek",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "Laser Light",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:28:49.422Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "zatsupermen",
-    "world": "ARBA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:29:01.660Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RNF",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "JKHunter",
     "timestamp": "2026-10-18T04:32:31.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Andras",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:33:06.359Z"
+  },
+  {
+    "player1": "KkpetCPS",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 205,
+    "p_name": "World Locks",
+    "p_count": 205,
+    "price_wl": 205,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:33:09.704Z"
   }
 ]
