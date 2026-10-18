@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DuckEinst_385",
-    "world": "TOKOCAT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:29:03.836Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sprunt",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-18T10:30:03.346Z"
+  },
+  {
+    "player1": "MP77",
+    "player2": "Renting Station",
+    "world": "SHOPT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:30:22.751Z"
   }
 ]
