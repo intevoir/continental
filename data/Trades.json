@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CleyoKW",
-    "world": "VND",
-    "action": "BUY",
-    "item_name": "Thermonuclear Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-18T06:29:41.312Z"
-  },
-  {
-    "player1": "LiongTahu",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-18T06:30:22.459Z"
-  },
-  {
-    "player1": "LiongTahu",
-    "player2": "Buying Machine",
-    "world": "SINYAL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-18T06:30:22.474Z"
-  },
-  {
     "player1": "LiongTahu",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +89,44 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-10-18T06:30:47.597Z"
+  },
+  {
+    "player1": "FREEGABRIEL",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Lightstrike Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 297,
+    "price_wl": 297,
+    "traded_with": null,
+    "timestamp": "2026-10-18T06:30:57.597Z"
+  },
+  {
+    "player1": "LiongTahu",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-10-18T06:31:22.541Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RadenWijayaGT",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-18T06:31:22.559Z"
   }
 ]
