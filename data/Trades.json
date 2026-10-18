@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "zukuuu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-18T15:05:52.067Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ancestor Mooncake",
-    "item_count": 83,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-10-18T15:05:52.088Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 560,
     "traded_with": null,
     "timestamp": "2026-10-18T15:07:54.294Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gelooo",
+    "world": "TUAN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-18T15:09:57.514Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 6875,
+    "price_wl": 6875,
+    "traded_with": null,
+    "timestamp": "2026-10-18T15:10:17.602Z"
   }
 ]
