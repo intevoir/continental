@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BananaHammer_175",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:04:45.565Z"
-  },
-  {
-    "player1": "NEZARY",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 33,
-    "p_name": "World Locks",
-    "p_count": 1551,
-    "price_wl": 1551,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:05:06.918Z"
-  },
-  {
     "player1": "NEZARY",
     "player2": "Buying Machine",
     "world": "BOSTT",
@@ -128,5 +102,31 @@
     "price_wl": 189,
     "traded_with": null,
     "timestamp": "2026-10-18T09:06:27.755Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BananaHammer_175",
+    "world": "EATDNA",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:07:28.505Z"
+  },
+  {
+    "player1": "Cookiess",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:07:32.828Z"
   }
 ]
