@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Awang",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-18T01:48:08.932Z"
-  },
-  {
     "player1": "DrEnalStore",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 7020,
     "traded_with": null,
     "timestamp": "2026-10-18T01:51:22.251Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "BFG2X",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 2410,
+    "price_wl": 2410,
+    "traded_with": null,
+    "timestamp": "2026-10-18T01:52:22.786Z"
   }
 ]
