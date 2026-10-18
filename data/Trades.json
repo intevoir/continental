@@ -1,31 +1,5 @@
 [
   {
-    "player1": "TopGuss",
-    "player2": "Buying Machine",
-    "world": "AIQ",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 151,
-    "p_name": "World Locks",
-    "p_count": 6946,
-    "price_wl": 6946,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:37:14.945Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZeusBolt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Antigravity Generator",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:37:25.503Z"
-  },
-  {
     "player1": "Shiyal",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-18T13:39:48.919Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:40:31.162Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:40:51.874Z"
   }
 ]
