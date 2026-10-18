@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMRSTARK",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 190,
-    "p_name": "World Locks",
-    "p_count": 950,
-    "price_wl": 950,
-    "traded_with": null,
-    "timestamp": "2026-10-18T12:50:08.170Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ibulll",
-    "world": "ZHEGEMS",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-18T12:50:15.949Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ibulll",
     "world": "ZHEGEMS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7144,
     "traded_with": null,
     "timestamp": "2026-10-18T12:50:56.101Z"
+  },
+  {
+    "player1": "DrtToMray",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 1700,
+    "price_wl": 1700,
+    "traded_with": null,
+    "timestamp": "2026-10-18T12:51:04.491Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JackIRENG",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-18T12:51:04.503Z"
   }
 ]
