@@ -1,44 +1,5 @@
 [
   {
-    "player1": "TwoSecond1",
-    "player2": "Buying Machine",
-    "world": "SAVESAT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 92,
-    "p_name": "World Locks",
-    "p_count": 92,
-    "price_wl": 92,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:51:45.445Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XXX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 28000,
-    "price_wl": 28000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:52:24.389Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XXX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:52:24.398Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XXX",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-10-18T10:53:49.685Z"
+  },
+  {
+    "player1": "TwoSecond",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:54:36.481Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ToothPlaya_202",
+    "world": "SUZ",
+    "action": "BUY",
+    "item_name": "Fish Tank",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:54:40.128Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "",
+    "world": "DNAJOY",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:54:51.296Z"
   }
 ]
