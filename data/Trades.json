@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Carasuma",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 1350,
-    "price_wl": 1350,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:06:23.555Z"
-  },
-  {
-    "player1": "DrMRSTARK",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11250,
-    "price_wl": 11250,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:06:23.559Z"
-  },
-  {
     "player1": "DrSHERLENE",
     "player2": "Renting Station",
     "world": "FAC",
@@ -128,5 +102,31 @@
     "price_wl": 3570,
     "traded_with": null,
     "timestamp": "2026-10-18T04:08:46.780Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RAXGenss",
+    "world": "ARROZKRO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:09:25.016Z"
+  },
+  {
+    "player1": "RKMzzSTORE",
+    "player2": "Renting Station",
+    "world": "RKMZZ",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:09:25.043Z"
   }
 ]
