@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DEADSERVER1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 28000,
-    "price_wl": 28000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T08:05:28.703Z"
-  },
-  {
-    "player1": "jmbt48",
-    "player2": "Buying Machine",
-    "world": "CERAH",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-18T08:05:37.176Z"
-  },
-  {
     "player1": "DrDetac",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-18T08:07:32.386Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCerita",
+    "world": "BUYCHEST",
+    "action": "BUY",
+    "item_name": "Blue Chest",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T08:08:35.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCerita",
+    "world": "BUYCHEST",
+    "action": "BUY",
+    "item_name": "Green Chest",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T08:08:42.864Z"
   }
 ]
