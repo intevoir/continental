@@ -1,18 +1,5 @@
 [
   {
-    "player1": "AppleBestFruit",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-18T11:56:58.982Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Sakuch1",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-18T11:57:59.972Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sakuch1",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2250,
+    "price_wl": 2250,
+    "traded_with": null,
+    "timestamp": "2026-10-18T11:58:15.913Z"
   }
 ]
