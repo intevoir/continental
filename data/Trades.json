@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jasson",
-    "world": "PAKAIAN",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:24:26.079Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna [ELITE]",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:24:26.085Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrDeboy",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:24:26.095Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrDeboy",
     "world": "SHOPT",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-18T02:25:27.698Z"
+  },
+  {
+    "player1": "@Jate",
+    "player2": "Buying Machine",
+    "world": "55",
+    "action": "SELL",
+    "item_name": "Golden Heart Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:26:34.845Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrPariwisata",
+    "world": "OFFER",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 54,
+    "p_name": "World Locks",
+    "p_count": 4050,
+    "price_wl": 4050,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:26:40.666Z"
+  },
+  {
+    "player1": "DrPariwisata",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 54,
+    "p_name": "World Locks",
+    "p_count": 5400,
+    "price_wl": 5400,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:26:48.265Z"
   }
 ]
