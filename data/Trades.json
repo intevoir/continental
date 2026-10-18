@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrTipsky",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 3600,
-    "price_wl": 3600,
-    "traded_with": null,
-    "timestamp": "2026-10-18T13:36:14.007Z"
-  },
-  {
     "player1": "TopGuss",
     "player2": "Buying Machine",
     "world": "AIQ",
@@ -128,5 +115,18 @@
     "price_wl": 4,
     "traded_with": null,
     "timestamp": "2026-10-18T13:36:35.680Z"
+  },
+  {
+    "player1": "TopGuss",
+    "player2": "Buying Machine",
+    "world": "AIQ",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 151,
+    "p_name": "World Locks",
+    "p_count": 6946,
+    "price_wl": 6946,
+    "traded_with": null,
+    "timestamp": "2026-10-18T13:37:14.945Z"
   }
 ]
