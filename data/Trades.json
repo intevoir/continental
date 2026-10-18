@@ -1,31 +1,5 @@
 [
   {
-    "player1": "YSI",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-10-18T00:34:47.781Z"
-  },
-  {
-    "player1": "YSI",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-18T00:35:36.530Z"
-  },
-  {
     "player1": "totoni",
     "player2": "Renting Station",
     "world": "SEEDS",
@@ -128,5 +102,31 @@
     "price_wl": 39000,
     "traded_with": null,
     "timestamp": "2026-10-18T00:38:58.268Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Azoid",
+    "world": "BFGW",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 37500,
+    "price_wl": 37500,
+    "traded_with": null,
+    "timestamp": "2026-10-18T00:39:38.764Z"
+  },
+  {
+    "player1": "Kenzs",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T00:39:38.781Z"
   }
 ]
