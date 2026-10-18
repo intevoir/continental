@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KingQeme",
-    "player2": "Renting Station",
-    "world": "RENTTECH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:23:37.378Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KingQeme",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Flsch",
     "timestamp": "2026-10-18T09:26:02.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NEZARY",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:26:38.250Z"
   }
 ]
