@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrElc",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 256,
-    "price_wl": 256,
-    "traded_with": null,
-    "timestamp": "2026-10-18T22:30:58.430Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrElc",
-    "world": "EEL",
-    "action": "BUY",
-    "item_name": "Radioactive Chemical",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-18T22:31:59.299Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrElc",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-18T22:38:32.921Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrElc",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Haunted Chemical",
+    "item_count": 57,
+    "p_name": "World Locks",
+    "p_count": 570,
+    "price_wl": 570,
+    "traded_with": null,
+    "timestamp": "2026-10-18T22:40:01.495Z"
+  },
+  {
+    "player1": "Azoid",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7700,
+    "price_wl": 7700,
+    "traded_with": null,
+    "timestamp": "2026-10-18T22:40:19.985Z"
   }
 ]
