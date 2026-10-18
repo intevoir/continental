@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OXJ",
-    "world": "IRM",
-    "action": "BUY",
-    "item_name": "Islands Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-18T06:55:19.636Z"
-  },
-  {
     "player1": "Trovsen",
     "player2": "Renting Station",
     "world": "USE",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-18T07:02:16.083Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Thaker",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 102000,
+    "price_wl": 102000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T07:02:49.510Z"
   }
 ]
