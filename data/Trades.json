@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dompa",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:51:40.426Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dompa",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:51:44.939Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AzureDawn_103",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-18T04:54:00.071Z"
+  },
+  {
+    "player1": "NIKOPIES",
+    "player2": "Buying Machine",
+    "world": "HEY",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:54:42.449Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SirElpis",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:54:42.462Z"
   }
 ]
