@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@SHIINASOBBER",
-    "player2": "Renting Station",
-    "world": "RENTALMURAH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-18T05:33:18.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Marchiano",
-    "world": "BFGFARM",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-18T05:33:25.510Z"
-  },
-  {
     "player1": "OlineManuel",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-18T05:34:18.225Z"
+  },
+  {
+    "player1": "DrPariwisata",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T05:35:56.051Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrPariwisata",
+    "world": "GEIGERBOX",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 2310,
+    "price_wl": 2310,
+    "traded_with": null,
+    "timestamp": "2026-10-18T05:36:26.370Z"
   }
 ]
