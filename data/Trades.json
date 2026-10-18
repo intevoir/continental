@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Kaylen []",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:01:52.014Z"
-  },
-  {
-    "player1": "@Simulet",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:01:52.023Z"
-  },
-  {
     "player1": "DriFrey",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 85000,
     "traded_with": null,
     "timestamp": "2026-10-18T10:05:21.506Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Kaylen []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:05:53.509Z"
+  },
+  {
+    "player1": "OXJ",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:05:53.530Z"
   }
 ]
