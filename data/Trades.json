@@ -1,57 +1,5 @@
 [
   {
-    "player1": "iStarz",
-    "player2": "Renting Station",
-    "world": "SHOPT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-18T03:51:23.753Z"
-  },
-  {
-    "player1": "iStarz",
-    "player2": "Renting Station",
-    "world": "SHOPT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-18T03:51:23.766Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "iyan of Legend",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 34500,
-    "price_wl": 34500,
-    "traded_with": null,
-    "timestamp": "2026-10-18T03:51:23.774Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gabisa [BLOCKMO]",
-    "world": "USHOP",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 3600,
-    "price_wl": 3600,
-    "traded_with": null,
-    "timestamp": "2026-10-18T03:51:23.780Z"
-  },
-  {
     "player1": "DrMRSTARK",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-18T03:54:52.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iStarz",
+    "world": "RAJABFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-18T03:55:19.087Z"
+  },
+  {
+    "player1": "DrMRSTARK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-10-18T03:55:19.116Z"
+  },
+  {
+    "player1": "iStarz",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-18T03:55:19.122Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iStarz",
+    "world": "RAJABFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-18T03:55:23.501Z"
   }
 ]
