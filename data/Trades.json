@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MP77",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:30:03.346Z"
-  },
-  {
     "player1": "MP77",
     "player2": "Renting Station",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-10-18T10:35:35.850Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zelbow",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:36:12.947Z"
   }
 ]
