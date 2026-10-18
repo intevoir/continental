@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "makkan",
-    "world": "SABER",
-    "action": "BUY",
-    "item_name": "Creative Coin",
-    "item_count": 43,
-    "p_name": "World Locks",
-    "p_count": 7095000,
-    "price_wl": 7095000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T20:50:59.540Z"
-  },
-  {
     "player1": "PenambangHusni",
     "player2": "Renting Station",
     "world": "LOKDNA",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-18T21:03:41.853Z"
+  },
+  {
+    "player1": "SwillHouse",
+    "player2": "Buying Machine",
+    "world": "BELI",
+    "action": "SELL",
+    "item_name": "Ghastly Robe",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:04:58.724Z"
   }
 ]
