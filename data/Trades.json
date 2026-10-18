@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Yeve",
-    "world": "0PY",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 160,
-    "p_name": "World Locks",
-    "p_count": 48000,
-    "price_wl": 48000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T05:39:10.643Z"
-  },
-  {
     "player1": "DarKAngel",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-18T05:44:00.703Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GROWBACK",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-18T05:45:18.586Z"
   }
 ]
