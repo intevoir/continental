@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Awang",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:52:07.938Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Awang",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 940,
-    "price_wl": 940,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:52:26.569Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Awang",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-18T02:55:08.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrDeboy",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:55:16.777Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@G4A",
+    "world": "BFGBINTY",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 12800,
+    "price_wl": 12800,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:55:31.433Z"
   }
 ]
