@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "acuk",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 820,
-    "price_wl": 820,
-    "traded_with": null,
-    "timestamp": "2026-10-18T06:32:22.633Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "davino1",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-18T06:33:45.593Z"
+  },
+  {
+    "player1": "Trovsen",
+    "player2": "Buying Machine",
+    "world": "TUAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 39000,
+    "price_wl": 39000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T06:35:23.997Z"
   }
 ]
