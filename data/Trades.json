@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrOcaw",
-    "world": "CBR",
-    "action": "BUY",
-    "item_name": "Wooden Platform",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-18T12:17:02.772Z"
-  },
-  {
-    "player1": "BananaHammer_175",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-18T12:17:17.087Z"
-  },
-  {
     "player1": "BananaHammer_175",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 25000,
     "traded_with": null,
     "timestamp": "2026-10-18T12:22:57.668Z"
+  },
+  {
+    "player1": "Akutansi",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 115,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-10-18T12:23:59.957Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Popular",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-18T12:24:12.200Z"
   }
 ]
