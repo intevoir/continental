@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingQeme",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:23:48.698Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RNF",
     "world": "DNAJOY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-18T09:26:38.250Z"
+  },
+  {
+    "player1": "@Kelku []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Farmer Slave",
+    "item_count": 39,
+    "p_name": "World Locks",
+    "p_count": 780,
+    "price_wl": 780,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:27:39.007Z"
   }
 ]
