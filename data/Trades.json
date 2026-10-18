@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrFlatscreen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-18T21:31:03.315Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Kaylen []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-18T21:43:07.093Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DEADSERVER1",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:43:40.194Z"
   }
 ]
