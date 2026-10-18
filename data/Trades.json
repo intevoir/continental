@@ -10,19 +10,6 @@
     "p_count": 200,
     "price_wl": 200,
     "traded_with": null,
-    "timestamp": "2026-10-18T21:11:25.106Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@makkan",
-    "world": "ROULETTE",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
     "timestamp": "2026-10-18T21:11:25.123Z"
   },
   {
@@ -128,5 +115,18 @@
     "price_wl": 16600,
     "traded_with": null,
     "timestamp": "2026-10-18T21:12:54.563Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ROCD",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:13:25.964Z"
   }
 ]
