@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BucksShiny_313",
-    "world": "TRAY",
-    "action": "BUY",
-    "item_name": "Blueberry Pie",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:24:23.904Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PEQAA",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-18T10:24:34.895Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PEQAA",
     "world": "FREEBFGBOS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11040,
     "traded_with": null,
     "timestamp": "2026-10-18T10:26:13.781Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VENDOBA",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:27:06.786Z"
+  },
+  {
+    "player1": "RAXGenss",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Beach Blast",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-18T10:27:22.034Z"
   }
 ]
