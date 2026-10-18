@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Terabaikan",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-18T20:29:50.304Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Keia1",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 595,
     "traded_with": null,
     "timestamp": "2026-10-18T20:43:57.842Z"
+  },
+  {
+    "player1": "ppx",
+    "player2": "Renting Station",
+    "world": "BFGJIN",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T20:44:24.422Z"
   }
 ]
