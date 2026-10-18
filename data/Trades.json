@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Popular",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 69,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-10-18T14:06:42.476Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Soars",
     "world": "ZHEGEMS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5001,
     "traded_with": null,
     "timestamp": "2026-10-18T14:10:35.131Z"
+  },
+  {
+    "player1": "@ELFies",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-18T14:11:56.741Z"
   }
 ]
