@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@10rb",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-18T23:18:02.405Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Rubi",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 384,
     "traded_with": null,
     "timestamp": "2026-10-18T23:20:01.740Z"
+  },
+  {
+    "player1": "WisTH",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-18T23:21:03.936Z"
   }
 ]
