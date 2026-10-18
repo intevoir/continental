@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OXJ",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Papaya Surfboard",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:43:02.542Z"
-  },
-  {
     "player1": "Reyokii",
     "player2": "Renting Station",
     "world": "55",
@@ -128,5 +115,18 @@
     "price_wl": 6200,
     "traded_with": null,
     "timestamp": "2026-10-18T09:48:03.737Z"
+  },
+  {
+    "player1": "MrXG",
+    "player2": "Buying Machine",
+    "world": "FLZZ",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:48:48.786Z"
   }
 ]
