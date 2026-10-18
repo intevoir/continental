@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZOHOR",
-    "world": "STORE6",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:54:24.204Z"
-  },
-  {
-    "player1": "ZOHOR",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-18T09:54:51.098Z"
-  },
-  {
     "player1": "ZOHOR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-18T09:58:12.035Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ElpijiNoJudi",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1050,
+    "price_wl": 1050,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:58:51.206Z"
+  },
+  {
+    "player1": "JKHunter",
+    "player2": "Renting Station",
+    "world": "XSR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-18T09:58:51.219Z"
   }
 ]
