@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrCENTINAL",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-18T21:12:25.136Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@makkan",
     "world": "VENDSHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-18T21:14:31.186Z"
+  },
+  {
+    "player1": "Kimmer",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:15:27.266Z"
   }
 ]
