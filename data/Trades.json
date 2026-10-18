@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AzureDawn_103",
-    "world": "VENDFU",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:45:07.620Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MattShadow",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 44000,
-    "price_wl": 44000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:45:40.333Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "LiongTahu",
-    "world": "GEIGERBOX",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 747,
-    "price_wl": 747,
-    "traded_with": null,
-    "timestamp": "2026-10-18T04:46:14.002Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrURAIDHYxSHOPT",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 348,
     "traded_with": null,
     "timestamp": "2026-10-18T04:47:02.899Z"
+  },
+  {
+    "player1": "LiongTahu",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 89,
+    "p_name": "World Locks",
+    "p_count": 445,
+    "price_wl": 445,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:47:16.999Z"
+  },
+  {
+    "player1": "SoarsBFG",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:47:39.504Z"
+  },
+  {
+    "player1": "lunous",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-18T04:47:39.508Z"
   }
 ]
