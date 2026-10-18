@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@makkan",
-    "world": "BUYDOORS",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-18T21:14:31.186Z"
-  },
-  {
     "player1": "Kimmer",
     "player2": "Buying Machine",
     "world": "SINYAL",
@@ -128,5 +115,18 @@
     "price_wl": 6250,
     "traded_with": null,
     "timestamp": "2026-10-18T21:28:32.658Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCENTINAL",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:30:03.969Z"
   }
 ]
