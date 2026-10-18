@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RealB3",
-    "world": "SHARE",
-    "action": "BUY",
-    "item_name": "Neptune's Wrath",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000000,
-    "price_wl": 1000000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T01:23:20.866Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AxxyStore",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-18T01:23:24.171Z"
-  },
-  {
     "player1": "ElDemprot [ELITE]",
     "player2": "Buying Machine",
     "world": "TUAN",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-10-18T01:25:19.583Z"
+  },
+  {
+    "player1": "R4F",
+    "player2": "Buying Machine",
+    "world": "CERAH",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 2410,
+    "price_wl": 2410,
+    "traded_with": null,
+    "timestamp": "2026-10-18T01:25:59.839Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "DIGIVEND",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-18T01:25:59.862Z"
   }
 ]
