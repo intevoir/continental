@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@makkan",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Jack O' Lantern",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-18T21:12:25.131Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCENTINAL",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-18T21:14:26.632Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@makkan",
+    "world": "BUYDOORS",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-18T21:14:31.186Z"
   }
 ]
