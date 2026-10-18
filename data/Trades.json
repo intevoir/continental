@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrEnalStore",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-18T01:48:24.557Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FENDIASP3",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 2410,
     "traded_with": null,
     "timestamp": "2026-10-18T01:52:22.786Z"
+  },
+  {
+    "player1": "Awang",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 256,
+    "price_wl": 256,
+    "traded_with": null,
+    "timestamp": "2026-10-18T01:52:43.656Z"
   }
 ]
