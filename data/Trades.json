@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-18T02:37:06.023Z"
-  },
-  {
-    "player1": "DailyMax",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 7,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-18T02:41:23.423Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-10-18T02:42:04.145Z"
   }
 ]
