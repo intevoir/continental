@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGERBOX",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-18T03:21:43.317Z"
-  },
-  {
-    "player1": "Fahrimanu",
-    "player2": "Buying Machine",
-    "world": "GEIGERBOX",
-    "action": "SELL",
     "item_name": "Black Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-18T03:24:25.785Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MORGANWIBU",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Fuizi's Intergalactic Hair",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-18T03:26:21.818Z"
   }
 ]
