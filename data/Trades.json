@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DailyMax",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-18T00:48:49.372Z"
-  },
-  {
-    "player1": "Yeve",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 747,
-    "price_wl": 747,
-    "traded_with": null,
-    "timestamp": "2026-10-18T00:48:56.974Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Cheessman",
     "world": "RINNSTORE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-18T00:50:02.057Z"
+  },
+  {
+    "player1": "MonsterPremium1",
+    "player2": "Renting Station",
+    "world": "PTKK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-18T00:50:12.727Z"
+  },
+  {
+    "player1": "MonsterPremium1",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-18T00:50:40.896Z"
   }
 ]
