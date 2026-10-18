@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Yuey",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-18T14:14:29.587Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@ELFies",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 640,
     "traded_with": null,
     "timestamp": "2026-10-18T14:16:59.590Z"
+  },
+  {
+    "player1": "PiqerP",
+    "player2": "Buying Machine",
+    "world": "MIKEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-10-18T14:17:03.934Z"
   }
 ]
