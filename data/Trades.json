@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Drkeicc",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 48,
-    "price_wl": 48,
-    "traded_with": null,
-    "timestamp": "2026-10-19T16:06:12.584Z"
-  },
-  {
     "player1": "@KENTMAUKAYA",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 46,
     "traded_with": null,
     "timestamp": "2026-10-19T16:08:14.762Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-10-19T16:09:29.770Z"
   }
 ]
