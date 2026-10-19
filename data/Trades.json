@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SELLgoONLYFNS",
-    "world": "ONLYFNS",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-19T19:58:31.117Z"
-  },
-  {
     "player1": "Drbcx",
     "player2": "Buying Machine",
     "world": "OREB",
@@ -128,5 +115,18 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-19T20:03:46.123Z"
+  },
+  {
+    "player1": "Drbcx",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 198,
+    "p_name": "World Locks",
+    "p_count": 1386,
+    "price_wl": 1386,
+    "traded_with": null,
+    "timestamp": "2026-10-19T20:06:13.952Z"
   }
 ]
