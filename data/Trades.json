@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Sevich",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-19T19:19:56.590Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna [ELITE]",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Crystal Tree",
-    "item_count": 27,
-    "p_name": "World Locks",
-    "p_count": 1080,
-    "price_wl": 1080,
-    "traded_with": null,
-    "timestamp": "2026-10-19T19:20:00.899Z"
-  },
-  {
     "player1": "DrUsefull",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 21,
     "traded_with": null,
     "timestamp": "2026-10-19T19:25:59.099Z"
+  },
+  {
+    "player1": "Mufeed",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T19:28:00.462Z"
+  },
+  {
+    "player1": "Daenerys",
+    "player2": "Buying Machine",
+    "world": "BFGQOH",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 37,
+    "p_name": "World Locks",
+    "p_count": 29600,
+    "price_wl": 29600,
+    "traded_with": null,
+    "timestamp": "2026-10-19T19:28:16.884Z"
   }
 ]
