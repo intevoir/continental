@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTobell",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-19T18:46:52.588Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Luntung",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-10-19T18:58:11.890Z"
+  },
+  {
+    "player1": "Benihime",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 3835,
+    "price_wl": 3835,
+    "traded_with": null,
+    "timestamp": "2026-10-19T18:58:55.544Z"
   }
 ]
