@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Keia1",
-    "player2": "Buying Machine",
-    "world": "FREEBFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 36,
-    "p_name": "World Locks",
-    "p_count": 252,
-    "price_wl": 252,
-    "traded_with": null,
-    "timestamp": "2026-10-19T19:35:02.617Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Keia1",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-19T19:40:36.557Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Batman [ELITE]",
+    "world": "CROT",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 228,
+    "p_name": "World Locks",
+    "p_count": 76,
+    "price_wl": 76,
+    "traded_with": null,
+    "timestamp": "2026-10-19T19:41:23.747Z"
   }
 ]
