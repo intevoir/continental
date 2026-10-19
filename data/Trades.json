@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Haydenquins",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-19T15:39:28.429Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Haydenquins",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-19T15:39:32.634Z"
-  },
-  {
     "player1": "@Piers []",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-10-19T15:41:05.217Z"
+  },
+  {
+    "player1": "DrGinda",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Golden Heartsword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T15:41:21.244Z"
+  },
+  {
+    "player1": "DrGinda",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Teeny Golden Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T15:41:24.684Z"
   }
 ]
