@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-19T16:30:29.490Z"
-  },
-  {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-19T16:30:55.113Z"
-  },
-  {
     "player1": "AxxyStore",
     "player2": "Buying Machine",
     "world": "BFGQOH",
@@ -128,5 +102,31 @@
     "price_wl": 2162,
     "traded_with": null,
     "timestamp": "2026-10-19T16:35:13.250Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bfgppw",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-10-19T16:35:56.628Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KiramaZenkai",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Storage Box Xtreme - Level 3",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-19T16:35:56.656Z"
   }
 ]
