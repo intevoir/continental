@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "",
-    "world": "VENDIL",
-    "action": "BUY",
-    "item_name": "Laboratory",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:13:22.723Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "R4F",
     "world": "KF",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 498,
     "traded_with": null,
     "timestamp": "2026-10-19T11:17:34.607Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTOBLACK",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-19T11:18:24.155Z"
   }
 ]
