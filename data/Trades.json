@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lekroma",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-19T18:04:32.719Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BabuKaiituru",
     "world": "GIEG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-19T18:08:54.441Z"
+  },
+  {
+    "player1": "Lekroma",
+    "player2": "Renting Station",
+    "world": "PLR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-19T18:09:54.000Z"
   }
 ]
