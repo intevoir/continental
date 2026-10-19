@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-19T23:29:40.675Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "SHOP2",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-19T23:29:48.130Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SHOP2",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-10-19T23:42:01.099Z"
+  },
+  {
+    "player1": "ITiara",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-10-19T23:42:34.448Z"
+  },
+  {
+    "player1": "ITiara",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 29205,
+    "price_wl": 29205,
+    "traded_with": null,
+    "timestamp": "2026-10-19T23:42:34.460Z"
   }
 ]
