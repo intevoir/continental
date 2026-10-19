@@ -1,18 +1,5 @@
 [
   {
-    "player1": "RTobell",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1620,
-    "price_wl": 1620,
-    "traded_with": null,
-    "timestamp": "2026-10-19T18:40:46.922Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "RTobell",
     "world": "MOE",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-19T18:48:52.542Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Luntung",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Black Contact Lens",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-19T18:49:45.537Z"
   }
 ]
