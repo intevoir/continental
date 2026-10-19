@@ -1,18 +1,5 @@
 [
   {
-    "player1": "szm",
-    "player2": "Buying Machine",
-    "world": "MSXX",
-    "action": "SELL",
-    "item_name": "Ancestral Lens of Riches : Level 6",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-19T00:14:52.794Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "UAPSTOREGT",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-19T02:26:53.418Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CreiFx",
+    "world": "SHOPGX",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T08:29:51.774Z"
   }
 ]
