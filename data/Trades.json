@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kaZ []",
-    "player2": "Buying Machine",
-    "world": "TOKO",
-    "action": "SELL",
-    "item_name": "Summer Surprise",
-    "item_count": 85,
-    "p_name": "World Locks",
-    "p_count": 425,
-    "price_wl": 425,
-    "traded_with": null,
-    "timestamp": "2026-10-19T17:32:20.759Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrSocius",
     "world": "WNI",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-19T17:34:40.962Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Voxel",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 220,
+    "p_name": "World Locks",
+    "p_count": 2420,
+    "price_wl": 2420,
+    "traded_with": null,
+    "timestamp": "2026-10-19T17:35:53.198Z"
   }
 ]
