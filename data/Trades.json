@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zasshu",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-19T09:53:51.615Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ITiara",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 490,
     "traded_with": null,
     "timestamp": "2026-10-19T09:55:15.064Z"
+  },
+  {
+    "player1": "Zasshu",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-19T09:56:18.898Z"
   }
 ]
