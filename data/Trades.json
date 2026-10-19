@@ -1,18 +1,5 @@
 [
   {
-    "player1": "UAPSTOREGT",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-19T00:13:36.556Z"
-  },
-  {
     "player1": "szm",
     "player2": "Buying Machine",
     "world": "MSXX",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-19T02:26:36.018Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCENTINAL",
+    "world": "SELLCHAIN",
+    "action": "BUY",
+    "item_name": "Chain",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-19T02:26:53.418Z"
   }
 ]
