@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "stxt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-19T13:00:17.834Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAWEUY",
-    "world": "IEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-19T13:01:19.152Z"
-  },
-  {
-    "player1": "Viadila",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-19T13:01:34.439Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "UAPSTOREGT",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-19T13:02:33.664Z"
+  },
+  {
+    "player1": "Viadila",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-19T13:03:19.307Z"
+  },
+  {
+    "player1": "XiaoGuai",
+    "player2": "zhe1103",
+    "world": "LOKDNA",
+    "action": "TRADE",
+    "item_name": "Dragon of Luxury",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "zhe1103",
+    "timestamp": "2026-10-19T13:03:49.491Z"
+  },
+  {
+    "player1": "zhe1103",
+    "player2": "XiaoGuai",
+    "world": "LOKDNA",
+    "action": "TRADE",
+    "item_name": "Phoenix Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "XiaoGuai",
+    "timestamp": "2026-10-19T13:03:49.491Z"
   }
 ]
