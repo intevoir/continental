@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Luntung",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Heartthrob Helm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-19T18:37:14.342Z"
-  },
-  {
-    "player1": "Luntung",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1785,
-    "price_wl": 1785,
-    "traded_with": null,
-    "timestamp": "2026-10-19T18:38:46.728Z"
-  },
-  {
     "player1": "RTobell",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-19T18:46:52.588Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Luntung",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Eye Cleaning Solution",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-19T18:48:44.970Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTobell",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Big Old Up Arrow",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-19T18:48:52.542Z"
   }
 ]
