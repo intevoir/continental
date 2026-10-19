@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Whinee",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:10:37.301Z"
-  },
-  {
-    "player1": "Drpablowr",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Nightmare Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5950,
-    "price_wl": 5950,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:11:23.585Z"
-  },
-  {
-    "player1": "DrSeime",
-    "player2": "Renting Station",
-    "world": "USE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:11:23.604Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NekoRix",
     "world": "WNI",
@@ -128,5 +89,44 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-19T11:12:33.806Z"
+  },
+  {
+    "player1": "@PriceStore []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 735,
+    "price_wl": 735,
+    "traded_with": null,
+    "timestamp": "2026-10-19T11:13:22.708Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "",
+    "world": "VENDIL",
+    "action": "BUY",
+    "item_name": "Laboratory",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-19T11:13:22.723Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "KF",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 875,
+    "price_wl": 875,
+    "traded_with": null,
+    "timestamp": "2026-10-19T11:13:26.235Z"
   }
 ]
