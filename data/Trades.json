@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "3772",
-    "world": "USHOP",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-19T23:27:43.203Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zdee",
-    "world": "USHOP",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 440,
-    "price_wl": 440,
-    "traded_with": null,
-    "timestamp": "2026-10-19T23:27:54.053Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zdee",
     "world": "USHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-19T23:31:29.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jack of Legend [PRO ] []",
+    "world": "SHOP2",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 225,
+    "p_name": "World Locks",
+    "p_count": 45,
+    "price_wl": 45,
+    "traded_with": null,
+    "timestamp": "2026-10-19T23:33:30.172Z"
+  },
+  {
+    "player1": "mariones",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-19T23:33:30.220Z"
   }
 ]
