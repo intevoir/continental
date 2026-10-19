@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:58:41.025Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Surg-E",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:58:48.637Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "TANIIII",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 7600,
     "traded_with": null,
     "timestamp": "2026-10-19T12:01:02.381Z"
+  },
+  {
+    "player1": "AppleBestFruit",
+    "player2": "ElDemprot [ELITE]",
+    "world": "LABROK",
+    "action": "TRADE",
+    "item_name": "Ultra World Spray",
+    "item_count": 14,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "ElDemprot [ELITE]",
+    "timestamp": "2026-10-19T12:01:40.833Z"
+  },
+  {
+    "player1": "ElDemprot [ELITE]",
+    "player2": "AppleBestFruit",
+    "world": "LABROK",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 105,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "AppleBestFruit",
+    "timestamp": "2026-10-19T12:01:40.833Z"
   }
 ]
