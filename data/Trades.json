@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DailyMax",
-    "player2": "Renting Station",
-    "world": "TBFG",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-19T08:51:45.458Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Yuey",
     "world": "WNI",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-19T08:54:31.841Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cookiess",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T08:54:39.226Z"
   }
 ]
