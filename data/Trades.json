@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-10-19T09:34:42.417Z"
-  },
-  {
     "player1": "StasaGT",
     "player2": "Renting Station",
     "world": "TIE",
@@ -128,5 +115,18 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-10-19T09:37:44.075Z"
+  },
+  {
+    "player1": "DrexYori",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T09:38:45.326Z"
   }
 ]
