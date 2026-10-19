@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@PriceStore []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 735,
-    "price_wl": 735,
-    "traded_with": null,
-    "timestamp": "2026-10-19T11:13:22.708Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "",
     "world": "VENDIL",
@@ -128,5 +115,18 @@
     "price_wl": 498,
     "traded_with": null,
     "timestamp": "2026-10-19T11:17:31.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "McTominay",
+    "world": "CATE",
+    "action": "BUY",
+    "item_name": "Silk Skirt - Aqua",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 498,
+    "price_wl": 498,
+    "traded_with": null,
+    "timestamp": "2026-10-19T11:17:34.607Z"
   }
 ]
