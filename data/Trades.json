@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SELLgoONLYFNS",
-    "world": "ONLYFNS",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-19T19:54:26.207Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZanderZaZa",
     "world": "FREEBFG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 55000,
     "traded_with": null,
     "timestamp": "2026-10-19T20:01:12.475Z"
+  },
+  {
+    "player1": "olofBoost",
+    "player2": "Buying Machine",
+    "world": "GEIGERBOX",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 76,
+    "price_wl": 76,
+    "traded_with": null,
+    "timestamp": "2026-10-19T20:01:34.361Z"
   }
 ]
