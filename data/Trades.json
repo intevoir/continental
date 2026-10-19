@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zyp",
-    "world": "CANTEEN",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-19T22:33:02.096Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@SuwV3",
     "world": "TOKO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-19T22:48:13.838Z"
+  },
+  {
+    "player1": "DrElc",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 1845,
+    "price_wl": 1845,
+    "traded_with": null,
+    "timestamp": "2026-10-19T22:48:45.414Z"
   }
 ]
