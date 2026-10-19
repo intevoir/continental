@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SirRey",
-    "world": "VND",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-19T16:27:40.885Z"
-  },
-  {
     "player1": "@Lockeds",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-19T16:29:55.296Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-19T16:30:29.490Z"
   }
 ]
