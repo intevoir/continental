@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrHOLDX",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-19T09:47:53.805Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Danteps",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-19T09:48:01.286Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Danteps",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-19T09:49:50.102Z"
+  },
+  {
+    "player1": "DrexYori",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 15000,
+    "price_wl": 15000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T09:50:50.095Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YSI",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Winter Hedge",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-19T09:50:50.108Z"
   }
 ]
