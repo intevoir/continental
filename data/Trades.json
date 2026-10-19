@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCK",
     "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-10-19T13:10:47.309Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "3772",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 150,
-    "price_wl": 150,
-    "traded_with": null,
-    "timestamp": "2026-10-19T13:11:21.259Z"
-  },
-  {
-    "player1": "Viadila",
-    "player2": "Buying Machine",
-    "world": "BLOCK",
-    "action": "SELL",
     "item_name": "Pay Wall",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-19T13:14:21.476Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MONYETLO",
+    "world": "SUPERVEND",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 18000,
+    "price_wl": 18000,
+    "traded_with": null,
+    "timestamp": "2026-10-19T13:15:21.436Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MONYETLO",
+    "world": "SUPERVEND",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 23,
+    "p_name": "World Locks",
+    "p_count": 2070,
+    "price_wl": 2070,
+    "traded_with": null,
+    "timestamp": "2026-10-19T13:15:21.467Z"
   }
 ]
