@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RNF12",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 87,
-    "p_name": "World Locks",
-    "p_count": 957,
-    "price_wl": 957,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:06:54.563Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wildyz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:08:11.728Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "TOKOR",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:08:40.647Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KiramaZenkai",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-20T23:17:14.424Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KASILAS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:18:45.268Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr9x3",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:18:45.278Z"
+  },
+  {
+    "player1": "Doujinn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 29,
+    "p_name": "World Locks",
+    "p_count": 23490,
+    "price_wl": 23490,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:18:45.290Z"
   }
 ]
