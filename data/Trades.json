@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dr9x3",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-20T22:45:30.790Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Fedin",
     "world": "DIDAN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-20T22:48:56.745Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr9x3",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-20T22:49:41.067Z"
   }
 ]
