@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-20T13:44:29.907Z"
-  },
-  {
     "player1": "R4F",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-20T13:46:00.992Z"
+  },
+  {
+    "player1": "ANG",
+    "player2": "Renting Station",
+    "world": "SHOPT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-20T13:46:25.847Z"
   }
 ]
