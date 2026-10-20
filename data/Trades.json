@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Yiee",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-20T12:34:23.734Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrURAIDHYxSHOPT",
     "world": "BYPAC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 168,
     "traded_with": null,
     "timestamp": "2026-10-20T12:38:21.509Z"
+  },
+  {
+    "player1": "pomsalt",
+    "player2": "Buying Machine",
+    "world": "NKR",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 30400,
+    "price_wl": 30400,
+    "traded_with": null,
+    "timestamp": "2026-10-20T12:39:08.339Z"
   }
 ]
