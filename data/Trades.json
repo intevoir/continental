@@ -1,18 +1,5 @@
 [
   {
-    "player1": "littlestars",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-20T22:48:56.745Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Dr9x3",
     "world": "WNI",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-20T22:52:34.671Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KiramaZenkai",
+    "world": "BUYHEROIC",
+    "action": "BUY",
+    "item_name": "Heroic Tights of Prevention",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-20T22:54:39.909Z"
   }
 ]
