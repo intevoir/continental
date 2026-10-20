@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@dsw",
-    "player2": "BENSEEN",
-    "world": "VENDSPOT",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 40,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "BENSEEN",
-    "timestamp": "2026-10-20T15:20:50.469Z"
-  },
-  {
     "player1": "BENSEEN",
     "player2": "@dsw",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 7200,
     "traded_with": null,
     "timestamp": "2026-10-20T15:24:05.036Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSocius",
+    "world": "BUYLANTERN",
+    "action": "BUY",
+    "item_name": "Haunted Jack O' Lantern",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-20T15:24:53.653Z"
   }
 ]
