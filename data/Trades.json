@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OXJ",
-    "player2": "Buying Machine",
-    "world": "TUAN",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1560,
-    "price_wl": 1560,
-    "traded_with": null,
-    "timestamp": "2026-10-20T22:52:34.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dr9x3",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-20T22:52:34.671Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KiramaZenkai",
     "world": "BUYHEROIC",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-20T23:04:39.102Z"
+  },
+  {
+    "player1": "RNF",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:04:42.784Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RNF",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 88,
+    "price_wl": 88,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:05:03.621Z"
   }
 ]
