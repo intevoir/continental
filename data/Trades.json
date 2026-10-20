@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Muadzay",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-20T19:50:33.344Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "bomdar",
     "world": "SHOPT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 480,
     "traded_with": null,
     "timestamp": "2026-10-20T20:03:56.740Z"
+  },
+  {
+    "player1": "defaultio",
+    "player2": "Renting Station",
+    "world": "FREE",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-20T20:04:52.557Z"
   }
 ]
