@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OwnerSHOPT",
-    "player2": "Renting Station",
-    "world": "IYAN",
-    "action": "RENT",
-    "item_name": "KFK's Heavenly Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-20T13:16:16.848Z"
-  },
-  {
     "player1": "XENNOT",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 90000,
     "traded_with": null,
     "timestamp": "2026-10-20T13:18:18.010Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ANG",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Orange Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-20T13:19:18.314Z"
   }
 ]
