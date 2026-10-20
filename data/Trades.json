@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Yiee",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-20T15:58:02.682Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Celti",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 84000,
     "traded_with": null,
     "timestamp": "2026-10-20T15:59:57.464Z"
+  },
+  {
+    "player1": "DrCarlots",
+    "player2": "Renting Station",
+    "world": "LOKDNA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-20T16:00:57.976Z"
   }
 ]
