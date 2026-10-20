@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrALFRED888",
-    "player2": "Buying Machine",
-    "world": "CN5",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 12950,
-    "price_wl": 12950,
-    "traded_with": null,
-    "timestamp": "2026-10-20T13:34:41.401Z"
-  },
-  {
-    "player1": "ElDemprot [ELITE]",
-    "player2": "Buying Machine",
-    "world": "CN5",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 18500,
-    "price_wl": 18500,
-    "traded_with": null,
-    "timestamp": "2026-10-20T13:34:45.659Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Vinias",
     "world": "SHOPT",
@@ -128,5 +102,31 @@
     "price_wl": 17500,
     "traded_with": null,
     "timestamp": "2026-10-20T13:36:23.070Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrALFRED888",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-10-20T13:36:26.518Z"
+  },
+  {
+    "player1": "DrALFRED888",
+    "player2": "Buying Machine",
+    "world": "CN5",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 9990,
+    "price_wl": 9990,
+    "traded_with": null,
+    "timestamp": "2026-10-20T13:36:44.744Z"
   }
 ]
