@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOPP",
-    "action": "BUY",
-    "item_name": "Gwyn's Shoes",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-10-19T23:53:38.809Z"
-  },
-  {
     "player1": "Geckooo",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 7000,
     "traded_with": null,
     "timestamp": "2026-10-19T23:57:52.007Z"
+  },
+  {
+    "player1": "MARNIE",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-20T00:00:40.540Z"
   }
 ]
