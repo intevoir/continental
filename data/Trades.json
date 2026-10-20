@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Wildy",
-    "player2": "Renting Station",
-    "world": "FREEBFGBOS",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-20T17:40:54.973Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-20T17:45:18.278Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "WELL2",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-20T17:46:10.804Z"
   }
 ]
