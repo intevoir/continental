@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@Kaylen []",
-    "player2": "Renting Station",
-    "world": "FZI",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:06:02.632Z"
-  },
-  {
     "player1": "RNF12",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-10-20T23:14:43.849Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Blackfoxtm",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:14:54.423Z"
   }
 ]
