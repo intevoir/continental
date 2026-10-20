@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RAFLIR",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Birth Certificate",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-20T12:58:43.347Z"
-  },
-  {
     "player1": "babyVon",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-20T13:03:46.423Z"
+  },
+  {
+    "player1": "davino1",
+    "player2": "Renting Station",
+    "world": "HYBAR",
+    "action": "RENT",
+    "item_name": "Shadow Spirit of the Underworld",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-20T13:04:17.747Z"
   }
 ]
