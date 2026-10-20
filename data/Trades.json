@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "muffen",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:25:47.533Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBrianna [ELITE]",
-    "world": "DISKON",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 105,
-    "p_name": "World Locks",
-    "p_count": 525,
-    "price_wl": 525,
-    "traded_with": null,
-    "timestamp": "2026-10-20T23:26:48.213Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrBrianna [ELITE]",
     "world": "DISKON",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 45240,
     "traded_with": null,
     "timestamp": "2026-10-20T23:29:18.922Z"
+  },
+  {
+    "player1": "KiramaZenkai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:29:22.412Z"
+  },
+  {
+    "player1": "KiramaZenkai",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-20T23:29:49.019Z"
   }
 ]
