@@ -1,18 +1,5 @@
 [
   {
-    "player1": "sapiberenang",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 11025,
-    "price_wl": 11025,
-    "traded_with": null,
-    "timestamp": "2026-10-20T16:11:02.846Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MasterProfit",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-20T16:14:04.137Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wildy",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-20T16:15:30.901Z"
   }
 ]
