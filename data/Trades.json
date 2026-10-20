@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 239,
-    "p_name": "World Locks",
-    "p_count": 478,
-    "price_wl": 478,
-    "traded_with": null,
-    "timestamp": "2026-10-20T17:39:59.497Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "3ghz",
     "world": "MUB",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-20T17:41:55.148Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "WELL2",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-20T17:43:11.948Z"
   }
 ]
