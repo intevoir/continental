@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@milong [] [BLOCKMO]",
-    "world": "MOE",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 98,
-    "p_name": "World Locks",
-    "p_count": 32830,
-    "price_wl": 32830,
-    "traded_with": null,
-    "timestamp": "2026-10-20T12:27:03.023Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "BYPAC",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-10-20T12:27:03.028Z"
-  },
-  {
     "player1": "babyVon",
     "player2": "Buying Machine",
     "world": "SHOPT",
@@ -128,5 +102,31 @@
     "price_wl": 2230,
     "traded_with": null,
     "timestamp": "2026-10-20T12:30:13.708Z"
+  },
+  {
+    "player1": "Shiyal",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-20T12:30:40.040Z"
+  },
+  {
+    "player1": "@Seannara []",
+    "player2": "Renting Station",
+    "world": "CMD",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-20T12:31:04.586Z"
   }
 ]
