@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LikRTO",
-    "world": "BUYCHEST",
-    "action": "BUY",
-    "item_name": "Red Chest",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-20T14:25:53.544Z"
-  },
-  {
-    "player1": "chezeku",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Shifty Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-20T14:26:02.619Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "enricu",
     "world": "SHOPT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-20T14:27:15.276Z"
+  },
+  {
+    "player1": "4ur",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-20T14:27:43.315Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "oirtykuli1",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-20T14:28:04.369Z"
   }
 ]
