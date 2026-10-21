@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iFlash",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 13200,
-    "price_wl": 13200,
-    "traded_with": null,
-    "timestamp": "2026-10-21T14:24:20.712Z"
-  },
-  {
-    "player1": "PinkZero",
-    "player2": "Buying Machine",
-    "world": "LOKDNA",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-21T14:24:20.728Z"
-  },
-  {
     "player1": "PinkZero",
     "player2": "Buying Machine",
     "world": "LOKDNA",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-21T14:26:10.136Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "YUGATA",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5003,
+    "price_wl": 5003,
+    "traded_with": null,
+    "timestamp": "2026-10-21T14:26:38.641Z"
+  },
+  {
+    "player1": "PinkZero",
+    "player2": "Buying Machine",
+    "world": "LOKDNA",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 165,
+    "p_name": "World Locks",
+    "p_count": 7755,
+    "price_wl": 7755,
+    "traded_with": null,
+    "timestamp": "2026-10-21T14:26:45.462Z"
   }
 ]
