@@ -1,18 +1,5 @@
 [
   {
-    "player1": "stampan",
-    "player2": "Renting Station",
-    "world": "DAP",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-21T11:58:48.718Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "PawKing",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 17750,
     "traded_with": null,
     "timestamp": "2026-10-21T12:02:12.676Z"
+  },
+  {
+    "player1": "R4F",
+    "player2": "Buying Machine",
+    "world": "BFGPPW",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-21T12:03:12.615Z"
   }
 ]
