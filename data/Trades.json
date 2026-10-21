@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrDDN [ELITE]",
-    "player2": "Tomoyo",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 36,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Tomoyo",
-    "timestamp": "2026-10-21T11:11:00.344Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "DrDDN [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrDDN [ELITE]",
-    "timestamp": "2026-10-21T11:11:00.349Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 49,
-    "p_name": "World Locks",
-    "p_count": 14945,
-    "price_wl": 14945,
-    "traded_with": null,
-    "timestamp": "2026-10-21T11:11:07.725Z"
-  },
-  {
     "player1": "Tomoyo",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 280,
     "traded_with": null,
     "timestamp": "2026-10-21T11:12:14.238Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "anggapuh2",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1095,
+    "price_wl": 1095,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:12:49.872Z"
+  },
+  {
+    "player1": "Tomoyo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 170,
+    "p_name": "World Locks",
+    "p_count": 12750,
+    "price_wl": 12750,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:12:49.880Z"
+  },
+  {
+    "player1": "Tomoyo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:12:49.884Z"
   }
 ]
