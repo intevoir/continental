@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Joekaz",
-    "player2": "DodgedGT",
-    "world": "REMEPIX",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DodgedGT",
-    "timestamp": "2026-10-21T12:25:22.417Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nahidachan",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-21T12:26:45.365Z"
+  },
+  {
+    "player1": "DodgedGT",
+    "player2": "Renting Station",
+    "world": "CROT",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-21T12:27:48.726Z"
   }
 ]
