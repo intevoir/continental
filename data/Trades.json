@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MrBekek",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:10:08.790Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MONYETLO",
-    "world": "MSLI",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 76,
-    "p_name": "World Locks",
-    "p_count": 532,
-    "price_wl": 532,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:10:08.797Z"
-  },
-  {
     "player1": "@Motobe",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-21T15:11:19.826Z"
+  },
+  {
+    "player1": "Pemburu [ELITE]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:12:04.676Z"
+  },
+  {
+    "player1": "Cept [ELITE]",
+    "player2": "Renting Station",
+    "world": "SHOPT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:12:04.695Z"
   }
 ]
