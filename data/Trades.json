@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZatSumi",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Big Lock",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-10-21T10:29:46.382Z"
-  },
-  {
-    "player1": "PawKing",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-21T10:29:46.396Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WILDANPAA",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-10-21T10:31:10.402Z"
+  },
+  {
+    "player1": "Flsch",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-21T10:31:40.074Z"
+  },
+  {
+    "player1": "maddongo",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-21T10:31:43.404Z"
   }
 ]
