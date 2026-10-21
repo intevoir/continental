@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:31:28.849Z"
-  },
-  {
     "player1": "OZZB",
     "player2": "Buying Machine",
     "world": "EWEAN",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-21T09:34:30.614Z"
+  },
+  {
+    "player1": "chezeku",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:35:01.286Z"
   }
 ]
