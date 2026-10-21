@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 46,
-    "price_wl": 46,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:41:14.226Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "UAPSTOREGT",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:41:18.641Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Kaszyz",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-21T15:44:33.206Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:45:15.715Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:45:15.729Z"
   }
 ]
