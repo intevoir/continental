@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrJejowyy",
-    "world": "PLAZADES",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 96,
-    "price_wl": 96,
-    "traded_with": null,
-    "timestamp": "2026-10-21T11:34:17.408Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kaszyz",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-21T11:34:36.214Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:34:39.585Z"
   }
 ]
