@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OBENGcps",
-    "player2": "@Seannara []",
-    "world": "SEANSHOP",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Seannara []",
-    "timestamp": "2026-10-21T10:59:13.900Z"
-  },
-  {
-    "player1": "@Seannara []",
-    "player2": "OBENGcps",
-    "world": "SEANSHOP",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 38,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "OBENGcps",
-    "timestamp": "2026-10-21T10:59:13.900Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zluws [ELITE]",
     "world": "SHOPT",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-10-21T11:01:53.678Z"
+  },
+  {
+    "player1": "Geckooo",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:01:57.159Z"
+  },
+  {
+    "player1": "Tomoyo",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:02:12.517Z"
   }
 ]
