@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BLOCKMO",
     "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 201,
-    "p_name": "World Locks",
-    "p_count": 60903,
-    "price_wl": 60903,
-    "traded_with": null,
-    "timestamp": "2026-10-21T11:11:14.795Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-21T11:11:26.783Z"
-  },
-  {
-    "player1": "Tomoyo",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
     "item_name": "Xenonite Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 3600,
     "traded_with": null,
     "timestamp": "2026-10-21T11:12:49.884Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FungpaoCPS",
+    "world": "BFGWOON",
+    "action": "BUY",
+    "item_name": "Pot O' Gems Seed",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:13:10.492Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tomoyo",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 77000,
+    "price_wl": 77000,
+    "traded_with": null,
+    "timestamp": "2026-10-21T11:13:10.516Z"
   }
 ]
