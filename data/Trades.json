@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hazeds",
-    "world": "TOKOC",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 195,
-    "p_name": "World Locks",
-    "p_count": 13,
-    "price_wl": 13,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:25:10.619Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MONYETLO",
-    "world": "SELLDOORS",
-    "action": "BUY",
-    "item_name": "Typhoon Gate",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-21T15:25:10.636Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "enricu",
     "world": "SHOPT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 276,
     "traded_with": null,
     "timestamp": "2026-10-21T15:26:27.698Z"
+  },
+  {
+    "player1": "BlueWolf",
+    "player2": "Renting Station",
+    "world": "SHOPGG",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:27:18.296Z"
+  },
+  {
+    "player1": "myfat",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-21T15:27:25.971Z"
   }
 ]
