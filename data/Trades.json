@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JungKisss",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 80,
-    "price_wl": 80,
-    "traded_with": null,
-    "timestamp": "2026-10-21T14:43:51.061Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "dwinilek",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-21T14:44:17.878Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dwinilek",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-10-21T14:46:42.363Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ryvhen",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 580,
+    "price_wl": 580,
+    "traded_with": null,
+    "timestamp": "2026-10-21T14:47:20.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drdoang",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Verdant Gate",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-21T14:47:28.244Z"
   }
 ]
