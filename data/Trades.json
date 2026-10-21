@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DapzzGt",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-10-21T08:57:29.459Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Drakarr",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-21T08:57:37.603Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KaiwunStoreGT",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Weather Machine - Party",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-21T08:57:41.341Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Prabowo [ELITE]",
     "world": "QSHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 3240,
     "traded_with": null,
     "timestamp": "2026-10-21T08:58:38.080Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KaiwunStoreGT",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Red",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-21T08:58:48.710Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-21T08:58:48.717Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-21T08:58:55.469Z"
   }
 ]
