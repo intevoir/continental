@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OwnerSHOPT",
-    "world": "VENDJIR",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:22:54.827Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ExHIGH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 17400,
-    "price_wl": 17400,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:23:03.270Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "XILA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-21T09:24:31.414Z"
+  },
+  {
+    "player1": "Atre",
+    "player2": "Buying Machine",
+    "world": "EWEAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1700,
+    "price_wl": 1700,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:25:27.853Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFreeFlre",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:25:54.751Z"
   }
 ]
