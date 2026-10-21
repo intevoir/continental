@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Pretender",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:46:33.213Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrSocius",
     "world": "6SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 6900,
     "traded_with": null,
     "timestamp": "2026-10-21T09:50:34.029Z"
+  },
+  {
+    "player1": "OZZB",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:50:50.506Z"
   }
 ]
