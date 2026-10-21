@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fortitude",
-    "world": "SYLX",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-21T12:37:27.741Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "cbbagginawaw",
     "world": "T",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-21T12:38:31.367Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 241,
+    "p_name": "World Locks",
+    "p_count": 1687,
+    "price_wl": 1687,
+    "traded_with": null,
+    "timestamp": "2026-10-21T12:39:00.715Z"
   }
 ]
