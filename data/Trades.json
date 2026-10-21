@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Muey",
-    "world": "WEB",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:30:43.209Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VEDDSHOP",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50800,
     "traded_with": null,
     "timestamp": "2026-10-21T09:33:29.518Z"
+  },
+  {
+    "player1": "Kangmat",
+    "player2": "Renting Station",
+    "world": "SONG1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:34:30.614Z"
   }
 ]
