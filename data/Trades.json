@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KaiwunStoreGT",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:05:20.455Z"
-  },
-  {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-21T09:05:20.468Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "SHOPT",
@@ -128,5 +102,31 @@
     "price_wl": 10010,
     "traded_with": null,
     "timestamp": "2026-10-21T09:06:29.250Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "C3H0",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:07:21.777Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-21T09:07:21.792Z"
   }
 ]
