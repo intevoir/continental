@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "1TRI",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:26:26.842Z"
-  },
-  {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 105,
-    "price_wl": 105,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:26:26.855Z"
-  },
-  {
     "player1": "BilSukaBFG",
     "player2": "Buying Machine",
     "world": "IEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 18,
     "traded_with": null,
     "timestamp": "2026-10-22T15:27:27.648Z"
+  },
+  {
+    "player1": "KASILAS",
+    "player2": "yayakk",
+    "world": "GUDE",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "yayakk",
+    "timestamp": "2026-10-22T15:27:55.809Z"
+  },
+  {
+    "player1": "yayakk",
+    "player2": "KASILAS",
+    "world": "GUDE",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 37,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "KASILAS",
+    "timestamp": "2026-10-22T15:27:55.811Z"
   }
 ]
