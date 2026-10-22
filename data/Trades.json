@@ -1,31 +1,5 @@
 [
   {
-    "player1": "EzaaK",
-    "player2": "Renting Station",
-    "world": "QRY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:11:52.783Z"
-  },
-  {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:11:52.793Z"
-  },
-  {
     "player1": "BoBoHoST",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 90,
     "traded_with": null,
     "timestamp": "2026-10-22T14:12:53.446Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Akaru",
+    "world": "BFGPE",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:13:54.205Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ST3VEN",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 87500,
+    "price_wl": 87500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:13:54.228Z"
   }
 ]
