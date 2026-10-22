@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Telpon",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Huge Lock",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-22T17:59:46.054Z"
-  },
-  {
-    "player1": "Copper",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 620,
-    "price_wl": 620,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:00:50.679Z"
-  },
-  {
     "player1": "kordek2",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-22T18:08:19.233Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SirRey",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:08:31.530Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "yayakk",
+    "world": "YAZID",
+    "action": "BUY",
+    "item_name": "Hospital Bed",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:08:35.341Z"
   }
 ]
