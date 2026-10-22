@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:03:41.591Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 155,
-    "p_name": "World Locks",
-    "p_count": 7440,
-    "price_wl": 7440,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:03:45.358Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCigarates",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-22T15:05:37.761Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCigarates",
+    "world": "TOKOCINA",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:06:44.155Z"
+  },
+  {
+    "player1": "ONDO",
+    "player2": "Renting Station",
+    "world": "PENN",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:06:47.730Z"
   }
 ]
