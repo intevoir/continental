@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Lelouch",
-    "player2": "Buying Machine",
-    "world": "JAZBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1680,
-    "price_wl": 1680,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:28:27.493Z"
-  },
-  {
-    "player1": "SCHUETT",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 46,
-    "p_name": "World Locks",
-    "p_count": 9660,
-    "price_wl": 9660,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:28:32.300Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "SAROS",
@@ -128,5 +102,31 @@
     "price_wl": 3600,
     "traded_with": null,
     "timestamp": "2026-10-22T15:29:51.851Z"
+  },
+  {
+    "player1": "SCHUETT",
+    "player2": "Buying Machine",
+    "world": "SINYAL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:29:59.298Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNatasha of Legend",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:29:59.302Z"
   }
 ]
