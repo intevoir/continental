@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Sewa8",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-22T13:14:19.296Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IKAN",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 56,
     "traded_with": null,
     "timestamp": "2026-10-22T13:16:28.512Z"
+  },
+  {
+    "player1": "Predicted",
+    "player2": "Buying Machine",
+    "world": "FREE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 42,
+    "p_name": "World Locks",
+    "p_count": 294,
+    "price_wl": 294,
+    "traded_with": null,
+    "timestamp": "2026-10-22T13:17:08.977Z"
   }
 ]
