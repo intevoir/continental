@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sibalk",
-    "world": "TGNATM",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-21T23:58:58.568Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Snoozly",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-10-22T00:03:57.586Z"
+  },
+  {
+    "player1": "@PriceStore [ELITE] []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 28000,
+    "price_wl": 28000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T00:04:50.308Z"
   }
 ]
