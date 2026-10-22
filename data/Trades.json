@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@jallis []",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Beach Blast",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:55:35.185Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AuraSycn",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 345,
     "traded_with": null,
     "timestamp": "2026-10-22T18:58:47.398Z"
+  },
+  {
+    "player1": "BingBaengBong",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T19:00:56.773Z"
   }
 ]
