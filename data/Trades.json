@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ilegals",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 80000,
-    "price_wl": 80000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:14:59.420Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "3ghz",
-    "world": "YTOKO",
-    "action": "BUY",
-    "item_name": "Fish Tank",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:15:22.161Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OXJ",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2739,
     "traded_with": null,
     "timestamp": "2026-10-22T14:19:55.792Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1650,
+    "price_wl": 1650,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:21:00.510Z"
+  },
+  {
+    "player1": "OXJ",
+    "player2": "Buying Machine",
+    "world": "IEBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3420,
+    "price_wl": 3420,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:21:00.517Z"
   }
 ]
