@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Cupli",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-22T20:11:23.240Z"
-  },
-  {
     "player1": "kayonge",
     "player2": "Renting Station",
     "world": "BENZYL",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-22T20:20:52.450Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T20:22:40.058Z"
   }
 ]
