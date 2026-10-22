@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "dwinilek",
-    "world": "ETOKO",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Green",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-22T13:25:23.509Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "dwinilek",
     "world": "ALFAMART",
     "action": "BUY",
     "item_name": "Paint Bucket - Varnish",
@@ -128,5 +115,18 @@
     "price_wl": 35550,
     "traded_with": null,
     "timestamp": "2026-10-22T13:28:32.664Z"
+  },
+  {
+    "player1": "HeadsO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T13:29:22.316Z"
   }
 ]
