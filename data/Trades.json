@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CROWBA969",
-    "player2": "Renting Station",
-    "world": "RENTCOOL",
-    "action": "RENT",
-    "item_name": "Spear Darkness - N8",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-10-22T12:31:29.127Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@PriceStore [ELITE] []",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-22T12:32:08.005Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Hazardous []",
+    "world": "VERIF",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:32:40.198Z"
   }
 ]
