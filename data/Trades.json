@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:11:18.862Z"
-  },
-  {
-    "player1": "HOLICOO",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Heartstaff",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:11:52.767Z"
-  },
-  {
     "player1": "EzaaK",
     "player2": "Renting Station",
     "world": "QRY",
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-22T14:12:25.296Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FREEGABRIEL",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:12:53.436Z"
+  },
+  {
+    "player1": "BoBoHoST",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:12:53.446Z"
   }
 ]
