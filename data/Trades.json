@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Ucengz",
-    "world": "FGEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:21:25.895Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SwillHouse",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11300,
-    "price_wl": 11300,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:21:33.843Z"
-  },
-  {
     "player1": "Imaxx",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-22T18:24:23.693Z"
+  },
+  {
+    "player1": "SwillHouse",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:25:59.672Z"
+  },
+  {
+    "player1": "SwillHouse",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2190,
+    "price_wl": 2190,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:26:22.999Z"
   }
 ]
