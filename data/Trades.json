@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "chezeku",
-    "world": "VLASHOP",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-22T11:57:51.540Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "chezeku",
-    "world": "VLASHOP",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-22T11:57:51.546Z"
-  },
-  {
-    "player1": "@Simulet",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Monkey D. Luffy",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-22T11:58:09.638Z"
-  },
-  {
-    "player1": "RAWEUY",
-    "player2": "Renting Station",
-    "world": "USE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-22T11:58:18.231Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "xxgarss",
     "world": "BFGFRE",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-22T12:00:28.581Z"
+  },
+  {
+    "player1": "Kenndeym",
+    "player2": "MassDerr",
+    "world": "TRAY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 28,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MassDerr",
+    "timestamp": "2026-10-22T12:00:54.123Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Kenndeym",
+    "world": "TRAY",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Kenndeym",
+    "timestamp": "2026-10-22T12:00:54.128Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10500,
+    "price_wl": 10500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:00:57.189Z"
+  },
+  {
+    "player1": "DrHTNabil",
+    "player2": "Renting Station",
+    "world": "UPOX",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:01:02.018Z"
   }
 ]
