@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:05:37.761Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "TOKOCINA",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:06:44.155Z"
-  },
-  {
     "player1": "ONDO",
     "player2": "Renting Station",
     "world": "PENN",
@@ -128,5 +102,31 @@
     "price_wl": 71200,
     "traded_with": null,
     "timestamp": "2026-10-22T15:10:18.417Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ASOSANI",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Earth Essence",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:10:34.623Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:10:41.738Z"
   }
 ]
