@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBunnyBaby",
-    "world": "SAROS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T17:52:50.787Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MrXG",
-    "world": "BENZYL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-22T17:53:03.184Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SHINTACANTIK",
     "world": "SURGSHERE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 22000,
     "traded_with": null,
     "timestamp": "2026-10-22T17:58:14.413Z"
+  },
+  {
+    "player1": "Copper",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Lock Mover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-22T17:58:53.123Z"
+  },
+  {
+    "player1": "kordek2",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3750,
+    "price_wl": 3750,
+    "traded_with": null,
+    "timestamp": "2026-10-22T17:59:04.558Z"
   }
 ]
