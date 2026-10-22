@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Quagmire",
-    "player2": "Buying Machine",
-    "world": "FIQ",
-    "action": "SELL",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350000,
-    "price_wl": 350000,
-    "traded_with": null,
-    "timestamp": "2026-10-21T23:47:03.703Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Quagmire",
-    "world": "FIQ",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-21T23:47:41.086Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrProfitMaster",
     "world": "6SHOP",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-21T23:58:58.568Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 980,
+    "price_wl": 980,
+    "traded_with": null,
+    "timestamp": "2026-10-21T23:59:46.962Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 245,
+    "price_wl": 245,
+    "traded_with": null,
+    "timestamp": "2026-10-21T23:59:46.970Z"
   }
 ]
