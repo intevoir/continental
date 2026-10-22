@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "giku",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 197,
-    "p_name": "World Locks",
-    "p_count": 788,
-    "price_wl": 788,
-    "traded_with": null,
-    "timestamp": "2026-10-22T21:15:11.997Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Afandii",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-22T21:18:49.036Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PriceStore [ELITE]",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Chainlink Fence",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-22T21:18:59.461Z"
   }
 ]
