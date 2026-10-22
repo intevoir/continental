@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fahrimanu",
-    "world": "WES",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-22T22:36:56.087Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Tsuwa",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-22T22:40:23.767Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@DanteStore",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-10-22T22:41:23.773Z"
   }
 ]
