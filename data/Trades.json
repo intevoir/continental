@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Devil of Legend",
-    "player2": "Renting Station",
-    "world": "NE",
-    "action": "RENT",
-    "item_name": "Dragon of Ender",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-22T20:28:31.660Z"
-  },
-  {
-    "player1": "EKANJUT",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-22T20:28:31.667Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "poms",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 441,
     "traded_with": null,
     "timestamp": "2026-10-22T20:34:33.038Z"
+  },
+  {
+    "player1": "DrSHINOBUCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T20:34:41.046Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSHINOBUCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14000,
+    "price_wl": 14000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T20:34:52.897Z"
   }
 ]
