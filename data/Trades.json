@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@MESA",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Diamond Necklace",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-22T20:49:43.320Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Qura",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-22T20:54:40.055Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PriceStore [ELITE] []",
+    "world": "BUYWATERBUCKET",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-22T20:55:39.918Z"
   }
 ]
