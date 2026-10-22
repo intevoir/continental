@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "nxrrow",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-22T12:32:07.955Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "VERIF",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-22T12:32:08.005Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "VERIF",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-22T12:32:40.198Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Hazardous []",
     "world": "VERIF",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-22T12:33:33.710Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1680,
+    "price_wl": 1680,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:34:09.465Z"
+  },
+  {
+    "player1": "Creethos",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:34:25.671Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GROWBACK",
+    "world": "STOREUY",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T12:34:38.058Z"
   }
 ]
