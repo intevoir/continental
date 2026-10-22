@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "VEND8",
-    "action": "BUY",
-    "item_name": "Crown of the Cosmos",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T14:24:58.252Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BRGN",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-22T14:26:25.207Z"
+  },
+  {
+    "player1": "Drmeslot",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-22T14:27:00.347Z"
   }
 ]
