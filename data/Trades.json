@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MrBekek",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-22T13:21:40.345Z"
-  },
-  {
-    "player1": "AppleBestFruit",
-    "player2": "ElDemprot [ELITE]",
-    "world": "ELDEMPROT",
-    "action": "TRADE",
-    "item_name": "Ultra World Spray",
-    "item_count": 33,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ElDemprot [ELITE]",
-    "timestamp": "2026-10-22T13:22:09.804Z"
-  },
-  {
-    "player1": "ElDemprot [ELITE]",
-    "player2": "AppleBestFruit",
-    "world": "ELDEMPROT",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 47,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "AppleBestFruit",
-    "timestamp": "2026-10-22T13:22:09.808Z"
-  },
-  {
     "player1": "ElDemprot [ELITE]",
     "player2": "AppleBestFruit",
     "world": "ELDEMPROT",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-22T13:23:37.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "dwinilek",
+    "world": "ETOKO",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T13:24:19.355Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrBekek",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Gaia's Beacon",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-22T13:24:19.375Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-22T13:24:30.216Z"
   }
 ]
