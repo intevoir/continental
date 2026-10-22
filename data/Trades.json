@@ -4,19 +4,6 @@
     "player2": "@PriceStore [ELITE]",
     "world": "SHOPK",
     "action": "BUY",
-    "item_name": "Swamp Stump",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-22T21:17:00.962Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@PriceStore [ELITE]",
-    "world": "SHOPK",
-    "action": "BUY",
     "item_name": "Small Bush",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-10-22T21:27:51.950Z"
+  },
+  {
+    "player1": "Danel",
+    "player2": "Buying Machine",
+    "world": "NKR",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 47560,
+    "price_wl": 47560,
+    "traded_with": null,
+    "timestamp": "2026-10-22T21:28:52.768Z"
   }
 ]
