@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "snakegear77",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 88,
-    "price_wl": 88,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:05:23.559Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:05:23.586Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:05:34.147Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCigarates",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-22T15:09:18.130Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCigarates",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Granite Column",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:10:18.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCigarates",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Dwarven Column",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:10:18.410Z"
+  },
+  {
+    "player1": "paketu",
+    "player2": "Buying Machine",
+    "world": "BFGQOH",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 89,
+    "p_name": "World Locks",
+    "p_count": 71200,
+    "price_wl": 71200,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:10:18.417Z"
   }
 ]
