@@ -4,19 +4,6 @@
     "player2": "@PriceStore [ELITE]",
     "world": "SHOPK",
     "action": "BUY",
-    "item_name": "Chinese Lantern",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-22T21:10:11.279Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@PriceStore [ELITE]",
-    "world": "SHOPK",
-    "action": "BUY",
     "item_name": "Sky Lantern",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-22T21:15:15.519Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PriceStore [ELITE]",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Bookcase",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-22T21:15:48.339Z"
   }
 ]
