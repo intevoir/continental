@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrYUGATA",
-    "world": "CUTP",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 46,
-    "p_name": "World Locks",
-    "p_count": 138,
-    "price_wl": 138,
-    "traded_with": null,
-    "timestamp": "2026-10-22T20:08:37.710Z"
-  },
-  {
     "player1": "kayonge",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 66420,
     "traded_with": null,
     "timestamp": "2026-10-22T20:13:53.404Z"
+  },
+  {
+    "player1": "kayonge",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Sec's Obito Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-22T20:17:51.730Z"
   }
 ]
