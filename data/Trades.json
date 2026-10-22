@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Grimstone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-22T15:05:16.407Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "snakegear77",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 32000,
     "traded_with": null,
     "timestamp": "2026-10-22T15:08:25.624Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-22T15:09:18.130Z"
   }
 ]
