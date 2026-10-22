@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-22T16:36:35.906Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zhe1103",
     "world": "QRUM",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-22T16:37:40.621Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zhe1103",
+    "world": "QRUM",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-22T16:37:57.607Z"
   }
 ]
