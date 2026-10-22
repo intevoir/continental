@@ -4,19 +4,6 @@
     "player2": "DrCigarates",
     "world": "MARKET",
     "action": "BUY",
-    "item_name": "Pocket Lighter",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-22T17:46:48.501Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrCigarates",
-    "world": "MARKET",
-    "action": "BUY",
     "item_name": "Legendary Shard Sword",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-22T17:48:44.164Z"
+  },
+  {
+    "player1": "BoBoHoST",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-22T17:49:21.054Z"
   }
 ]
