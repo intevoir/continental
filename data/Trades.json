@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zyonix",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:23:23.139Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SwillHouse",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 56500,
-    "price_wl": 56500,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:23:41.456Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OwnerSHOPT",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-22T18:28:24.597Z"
+  },
+  {
+    "player1": "ArenCPS",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:28:40.029Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OBENGcps",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 27600,
+    "price_wl": 27600,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:28:44.634Z"
   }
 ]
