@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Kelku []",
-    "world": "STOREAAZ",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-22T21:16:57.170Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@PriceStore [ELITE]",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-22T21:21:00.674Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SuwV2",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "TopMain's Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T21:27:51.950Z"
   }
 ]
