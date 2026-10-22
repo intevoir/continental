@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "poms",
-    "world": "OUTFIT",
-    "action": "BUY",
-    "item_name": "Purple Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-22T18:16:24.862Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BalikpapanUtara",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 19,
     "traded_with": null,
     "timestamp": "2026-10-22T18:20:21.569Z"
+  },
+  {
+    "player1": "Zyp",
+    "player2": "Renting Station",
+    "world": "MESA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-22T18:20:53.581Z"
   }
 ]
