@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Kuek [PRO ]",
-    "world": "BENZYL",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-22T02:06:41.286Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JKHunter",
-    "world": "EEL",
-    "action": "BUY",
-    "item_name": "Water Essence",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-22T02:08:58.330Z"
-  },
-  {
     "player1": "NTDHO",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 800,
     "traded_with": null,
     "timestamp": "2026-10-22T02:18:26.195Z"
+  },
+  {
+    "player1": "DrVendinQ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-10-22T02:24:38.992Z"
+  },
+  {
+    "player1": "DrVendinQ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Nightking's Cape - Dark Purple",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-10-22T02:25:05.628Z"
   }
 ]
