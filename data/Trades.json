@@ -1,18 +1,5 @@
 [
   {
-    "player1": "senatun",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Legendary Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 238,
-    "price_wl": 238,
-    "traded_with": null,
-    "timestamp": "2026-10-23T08:15:56.094Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "OBG",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-23T08:17:56.070Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "McTominay",
+    "world": "MALEZ",
+    "action": "BUY",
+    "item_name": "Plasma Heart",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T08:18:11.639Z"
   }
 ]
