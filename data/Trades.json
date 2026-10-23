@@ -1,18 +1,5 @@
 [
   {
-    "player1": "IKAN",
-    "player2": "Renting Station",
-    "world": "NEPTUNERENT",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 595,
-    "price_wl": 595,
-    "traded_with": null,
-    "timestamp": "2026-10-23T08:16:10.356Z"
-  },
-  {
     "player1": "Qandaa",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 1740,
     "traded_with": null,
     "timestamp": "2026-10-23T08:19:07.395Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drslx",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-23T08:19:29.758Z"
   }
 ]
