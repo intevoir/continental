@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-23T10:09:42.626Z"
-  },
-  {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-23T10:09:54.676Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "dwinilek",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-10-23T10:11:06.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Liim",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Fuizi's Intergalactic Hair",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-23T10:12:41.627Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drakarr",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-10-23T10:12:41.642Z"
   }
 ]
