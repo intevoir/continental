@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrDudaMuda",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 6680,
-    "price_wl": 6680,
-    "traded_with": null,
-    "timestamp": "2026-10-23T00:26:33.143Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Cursed Spirit Pendant - Purple",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-10-23T00:27:11.886Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Anwar",
     "world": "MURAH",
@@ -128,5 +102,31 @@
     "price_wl": 6,
     "traded_with": null,
     "timestamp": "2026-10-23T00:33:14.909Z"
+  },
+  {
+    "player1": "Nixil",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-23T00:34:19.176Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrLevaza",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-23T00:34:39.978Z"
   }
 ]
