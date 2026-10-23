@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:57:08.509Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@jallis []",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:57:24.054Z"
-  },
-  {
     "player1": "TIDAR",
     "player2": "Buying Machine",
     "world": "IEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-23T15:59:20.858Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RzNd",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-23T15:59:55.522Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RzNd",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 550,
+    "price_wl": 550,
+    "traded_with": null,
+    "timestamp": "2026-10-23T15:59:55.547Z"
   }
 ]
