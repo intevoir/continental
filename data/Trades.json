@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "JUBEL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Summer Surprise",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:00:42.053Z"
-  },
-  {
-    "player1": "ASOSANI",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:01:33.633Z"
-  },
-  {
     "player1": "ASOSANI",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +102,31 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-23T15:05:38.869Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PallangRS",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 960,
+    "price_wl": 960,
+    "traded_with": null,
+    "timestamp": "2026-10-23T15:06:47.440Z"
+  },
+  {
+    "player1": "@Motobe",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-10-23T15:07:04.343Z"
   }
 ]
