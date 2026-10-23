@@ -2,32 +2,6 @@
   {
     "player1": "BoBoHoST",
     "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-23T10:36:03.897Z"
-  },
-  {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-23T10:36:19.544Z"
-  },
-  {
-    "player1": "BoBoHoST",
-    "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
     "item_name": "Radioactive Chemical",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-23T10:42:52.023Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-23T10:43:58.377Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Atre",
+    "world": "CYNOBFG",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T10:44:17.406Z"
   }
 ]
