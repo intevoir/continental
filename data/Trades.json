@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrVanzzOp",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-23T05:49:09.240Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Verxsine",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-23T05:49:09.309Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Verxsine",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-23T05:56:55.800Z"
+  },
+  {
+    "player1": "Sherinbaik",
+    "player2": "IKAN",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "IKAN",
+    "timestamp": "2026-10-23T05:58:15.564Z"
+  },
+  {
+    "player1": "IKAN",
+    "player2": "Sherinbaik",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 60,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Sherinbaik",
+    "timestamp": "2026-10-23T05:58:15.566Z"
   }
 ]
