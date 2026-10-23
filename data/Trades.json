@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Pinacle",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-23T11:20:36.654Z"
-  },
-  {
-    "player1": "UDILL [ELITE]",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Shifty Block",
-    "item_count": 202,
-    "p_name": "World Locks",
-    "p_count": 20200,
-    "price_wl": 20200,
-    "traded_with": null,
-    "timestamp": "2026-10-23T11:21:14.075Z"
-  },
-  {
     "player1": "YANUARPLV",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 2750,
     "traded_with": null,
     "timestamp": "2026-10-23T11:23:40.946Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drslx",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-23T11:23:48.212Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Farzy",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-23T11:23:48.228Z"
   }
 ]
