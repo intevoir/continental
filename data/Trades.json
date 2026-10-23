@@ -1,18 +1,5 @@
 [
   {
-    "player1": "yayakk",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 44,
-    "price_wl": 44,
-    "traded_with": null,
-    "timestamp": "2026-10-23T20:31:32.941Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "nxrrow",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-23T20:38:36.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "eEleonore",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-23T20:40:03.489Z"
   }
 ]
