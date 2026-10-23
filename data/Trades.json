@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Son0fEmerald",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-23T18:47:14.545Z"
-  },
-  {
-    "player1": "CandyFlip",
-    "player2": "ExNiz",
-    "world": "ZEUS",
-    "action": "TRADE",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "ExNiz",
-    "timestamp": "2026-10-23T18:47:53.399Z"
-  },
-  {
     "player1": "ExNiz",
     "player2": "CandyFlip",
     "world": "ZEUS",
@@ -128,5 +102,31 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-10-23T18:52:11.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KajiBolenk",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4700,
+    "price_wl": 4700,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:52:56.714Z"
+  },
+  {
+    "player1": "DrBEomM",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Wizard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:53:03.970Z"
   }
 ]
