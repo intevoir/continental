@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RAWEUY",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:56:15.454Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAWEUY",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:57:07.256Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dr1V0",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Long Surfer Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:57:19.006Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RAWEUY",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:57:21.489Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KajiBolenk",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-23T17:58:35.171Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr1V0",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Long Full Bangs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:59:08.875Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr1V0",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Long Black Bangs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:59:08.888Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FORTA",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Lock Mover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:59:08.897Z"
+  },
+  {
+    "player1": "FORTA",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Lock Mover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:59:09.152Z"
   }
 ]
