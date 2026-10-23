@@ -2,19 +2,6 @@
   {
     "player1": "Quagmire",
     "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:40:43.813Z"
-  },
-  {
-    "player1": "Quagmire",
-    "player2": "Buying Machine",
     "world": "BENZYL",
     "action": "SELL",
     "item_name": "Infinity Gems",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-23T23:43:12.016Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Posh Portrait",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:43:48.944Z"
   }
 ]
