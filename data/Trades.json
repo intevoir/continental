@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ElToya",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:43:08.458Z"
-  },
-  {
-    "player1": "ElToya",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:43:12.008Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "VEESET",
@@ -128,5 +102,31 @@
     "price_wl": 12250,
     "traded_with": null,
     "timestamp": "2026-10-23T23:45:52.739Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pinacolada",
+    "world": "DTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:46:46.377Z"
+  },
+  {
+    "player1": "Pinacolada",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 150,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:46:46.403Z"
   }
 ]
