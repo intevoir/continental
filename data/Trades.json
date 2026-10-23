@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ASOSANI",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 245,
-    "price_wl": 245,
-    "traded_with": null,
-    "timestamp": "2026-10-23T14:56:31.604Z"
-  },
-  {
     "player1": "SKYYH",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-23T14:57:58.937Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nou",
+    "world": "CN5",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 65000,
+    "price_wl": 65000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T14:58:31.951Z"
   }
 ]
