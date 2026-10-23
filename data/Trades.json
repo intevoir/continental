@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrAPAY",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-23T18:15:14.857Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "amilys [ELITE]",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-10-23T18:25:19.260Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MarkOnTop",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:26:49.755Z"
   }
 ]
