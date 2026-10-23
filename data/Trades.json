@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NellGTPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-10-23T14:27:50.791Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NellGTPS",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2750,
-    "price_wl": 2750,
-    "traded_with": null,
-    "timestamp": "2026-10-23T14:28:24.219Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Mmmpuu",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 62300,
     "traded_with": null,
     "timestamp": "2026-10-23T14:29:24.499Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCarlots",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 64,
+    "p_name": "World Locks",
+    "p_count": 32,
+    "price_wl": 32,
+    "traded_with": null,
+    "timestamp": "2026-10-23T14:30:24.318Z"
+  },
+  {
+    "player1": "Lunatric []",
+    "player2": "Buying Machine",
+    "world": "FIQ",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5500,
+    "price_wl": 5500,
+    "traded_with": null,
+    "timestamp": "2026-10-23T14:30:45.256Z"
   }
 ]
