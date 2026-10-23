@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:37:46.493Z"
-  },
-  {
-    "player1": "Pinacolada",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:37:53.296Z"
-  },
-  {
-    "player1": "Pinacolada",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 16,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-23T23:41:44.619Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RAXGenss",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:42:45.442Z"
+  },
+  {
+    "player1": "Quagmire",
+    "player2": "Buying Machine",
+    "world": "LOKDNA",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:42:49.954Z"
   }
 ]
