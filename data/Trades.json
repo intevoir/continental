@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Farmzo",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-23T06:09:01.208Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Farmzo",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-23T06:09:09.585Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrOcaw",
     "world": "KPC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-23T06:11:25.038Z"
+  },
+  {
+    "player1": "PEEQA",
+    "player2": "Buying Machine",
+    "world": "LOKDNA",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 52,
+    "p_name": "World Locks",
+    "p_count": 2444,
+    "price_wl": 2444,
+    "traded_with": null,
+    "timestamp": "2026-10-23T06:12:01.881Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MattShadows",
+    "world": "DVU",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T06:12:01.936Z"
   }
 ]
