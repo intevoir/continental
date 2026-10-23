@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Shovia",
-    "world": "BUYSILK",
-    "action": "BUY",
-    "item_name": "Green Hanbok Pants",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-23T18:11:32.757Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBEomM",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Shifty Block",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 140,
-    "price_wl": 140,
-    "traded_with": null,
-    "timestamp": "2026-10-23T18:12:13.387Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBEomM",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 700,
-    "price_wl": 700,
-    "traded_with": null,
-    "timestamp": "2026-10-23T18:12:30.389Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrBEomM",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 0,
     "traded_with": "LangOfLegend",
     "timestamp": "2026-10-23T18:14:41.296Z"
+  },
+  {
+    "player1": "Einstazur",
+    "player2": "Renting Station",
+    "world": "BENZYL",
+    "action": "RENT",
+    "item_name": "Benzyl's Void Reaver",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:15:14.836Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBEomM",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6500,
+    "price_wl": 6500,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:15:14.849Z"
+  },
+  {
+    "player1": "DrAPAY",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-23T18:15:14.857Z"
   }
 ]
