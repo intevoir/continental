@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Takk",
-    "player2": "Buying Machine",
-    "world": "COMEDNA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-23T07:18:31.964Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrZavRtoMbg []",
     "world": "BFGJOHN",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-10-23T07:19:32.019Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZavRtoMbg []",
+    "world": "BFGJOHN",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-23T07:19:51.458Z"
   }
 ]
