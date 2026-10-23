@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "For Sale Sign",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:48:46.902Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrHEXIO",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 890,
-    "price_wl": 890,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:48:54.916Z"
-  },
-  {
     "player1": "stampan",
     "player2": "Renting Station",
     "world": "CO",
@@ -128,5 +102,31 @@
     "price_wl": 18700,
     "traded_with": null,
     "timestamp": "2026-10-23T23:51:48.334Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Farzy",
+    "world": "TAXBLOCKMO",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:52:00.404Z"
+  },
+  {
+    "player1": "@MurrCps",
+    "player2": "Buying Machine",
+    "world": "MP6",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 10200,
+    "price_wl": 10200,
+    "traded_with": null,
+    "timestamp": "2026-10-23T23:52:07.328Z"
   }
 ]
