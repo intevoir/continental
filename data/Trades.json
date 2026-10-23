@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PemburuMyKISAH",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-23T14:28:27.681Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FALKERI",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-23T14:30:58.107Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Srimpt",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T14:31:33.265Z"
   }
 ]
