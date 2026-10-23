@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@satriateguh1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-23T11:34:28.466Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CandyFlip",
     "world": "SELLSTUFF",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-23T11:36:24.484Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Farzy",
+    "world": "MOTM",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-23T11:36:48.350Z"
   }
 ]
