@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CandyFlip",
-    "player2": "Buying Machine",
-    "world": "LOKDNA",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 28,
-    "price_wl": 28,
-    "traded_with": null,
-    "timestamp": "2026-10-23T20:57:31.265Z"
-  },
-  {
     "player1": "Ofndd",
     "player2": "Buying Machine",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 486,
     "traded_with": null,
     "timestamp": "2026-10-23T21:05:05.356Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "chocomalt",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Morty the Gray Elephant",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-23T21:06:28.476Z"
   }
 ]
