@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SELLSTUFF",
-    "action": "BUY",
-    "item_name": "Purple Stuff",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-23T05:35:09.233Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Verxsine",
     "world": "ALVABET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1350,
     "traded_with": null,
     "timestamp": "2026-10-23T05:37:48.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anwar",
+    "world": "SHOPKG",
+    "action": "BUY",
+    "item_name": "Uranium Block",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-23T05:38:49.243Z"
   }
 ]
