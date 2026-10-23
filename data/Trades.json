@@ -1,44 +1,5 @@
 [
   {
-    "player1": "TermineX",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-23T09:51:47.543Z"
-  },
-  {
-    "player1": "TermineX",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-23T09:51:54.319Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DodgedGT",
-    "world": "1",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-23T09:51:57.807Z"
-  },
-  {
     "player1": "Sanzzgank1",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +89,44 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-10-23T09:52:33.246Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gebo",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Radioactive Chemical",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 1680,
+    "price_wl": 1680,
+    "traded_with": null,
+    "timestamp": "2026-10-23T09:53:08.557Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fahrimanu",
+    "world": "XWTI",
+    "action": "BUY",
+    "item_name": "Onion",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-23T09:53:34.061Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gebo",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Haunted Chemical",
+    "item_count": 41,
+    "p_name": "World Locks",
+    "p_count": 287,
+    "price_wl": 287,
+    "traded_with": null,
+    "timestamp": "2026-10-23T09:53:34.077Z"
   }
 ]
