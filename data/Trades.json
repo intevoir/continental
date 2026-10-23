@@ -1,44 +1,5 @@
 [
   {
-    "player1": "zorosless",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:22:41.143Z"
-  },
-  {
-    "player1": "@Garmin [ELITE]",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:23:49.506Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "INeedPrettyGirl [ELITE]",
-    "world": "SPOTU",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:24:07.179Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "INeedPrettyGirl [ELITE]",
     "world": "SPOTU",
@@ -128,5 +89,44 @@
     "price_wl": 64000,
     "traded_with": null,
     "timestamp": "2026-10-23T15:24:45.510Z"
+  },
+  {
+    "player1": "TrueMorph",
+    "player2": "Drkeicc",
+    "world": "BFGWC",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Drkeicc",
+    "timestamp": "2026-10-23T15:25:57.769Z"
+  },
+  {
+    "player1": "Drkeicc",
+    "player2": "TrueMorph",
+    "world": "BFGWC",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 39,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "TrueMorph",
+    "timestamp": "2026-10-23T15:25:57.773Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "amilys [ELITE]",
+    "world": "CEK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-23T15:26:09.643Z"
   }
 ]
