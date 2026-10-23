@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MassDerr",
-    "world": "TRAY",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:43:50.204Z"
-  },
-  {
-    "player1": "LangOfLegend",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 17,
-    "p_name": "World Locks",
-    "p_count": 510,
-    "price_wl": 510,
-    "traded_with": null,
-    "timestamp": "2026-10-23T15:43:50.209Z"
-  },
-  {
     "player1": "JURAGAN666",
     "player2": "Renting Station",
     "world": "SHOPT",
@@ -128,5 +102,31 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-10-23T15:44:50.081Z"
+  },
+  {
+    "player1": "INeedPrettyGirl [ELITE]",
+    "player2": "LangOfLegend",
+    "world": "STUPIDME",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "LangOfLegend",
+    "timestamp": "2026-10-23T15:45:21.460Z"
+  },
+  {
+    "player1": "LangOfLegend",
+    "player2": "INeedPrettyGirl [ELITE]",
+    "world": "STUPIDME",
+    "action": "TRADE",
+    "item_name": "Green Crystal",
+    "item_count": 13,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "INeedPrettyGirl [ELITE]",
+    "timestamp": "2026-10-23T15:45:21.465Z"
   }
 ]
