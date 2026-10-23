@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "deVarley",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Fishnet Stockings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-23T13:58:31.369Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "XDA1",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-23T14:03:25.925Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "deVarley",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Slippery Chemical Coat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-23T14:03:29.477Z"
   }
 ]
