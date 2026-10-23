@@ -4,19 +4,6 @@
     "player2": "Anwar",
     "world": "SELLSTUFF",
     "action": "BUY",
-    "item_name": "Orange Stuff",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-23T05:34:58.631Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SELLSTUFF",
-    "action": "BUY",
     "item_name": "Purple Stuff",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-23T05:36:47.639Z"
+  },
+  {
+    "player1": "CsperLEK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 1350,
+    "price_wl": 1350,
+    "traded_with": null,
+    "timestamp": "2026-10-23T05:37:48.135Z"
   }
 ]
