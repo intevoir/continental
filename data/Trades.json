@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Neffybae",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:11:47.883Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Neffybae",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:11:47.894Z"
-  },
-  {
-    "player1": "SANZZPOKE",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-23T17:12:20.748Z"
-  },
-  {
     "player1": "Pinacolada",
     "player2": "Buying Machine",
     "world": "XD",
@@ -128,5 +89,44 @@
     "price_wl": 630,
     "traded_with": null,
     "timestamp": "2026-10-23T17:13:16.719Z"
+  },
+  {
+    "player1": "Pinacolada",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:13:48.076Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora [ELITE]",
+    "world": "USE",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:14:04.742Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora [ELITE]",
+    "world": "USE",
+    "action": "BUY",
+    "item_name": "Roulette Wheel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-23T17:14:08.425Z"
   }
 ]
