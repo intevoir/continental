@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ASOSANI",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "Eldritch Eyes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-24T15:27:30.920Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Phoxent",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 90000,
-    "price_wl": 90000,
-    "traded_with": null,
-    "timestamp": "2026-10-24T15:27:30.929Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PIEMILK",
     "world": "VENDU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-10-24T15:28:07.597Z"
+  },
+  {
+    "player1": "@Fuugu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-10-24T15:28:15.675Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ASOSANI",
+    "world": "MURAH",
+    "action": "BUY",
+    "item_name": "Lucid Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-24T15:28:31.802Z"
   }
 ]
