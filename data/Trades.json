@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Yiee",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 5250,
-    "price_wl": 5250,
-    "traded_with": null,
-    "timestamp": "2026-10-24T08:38:25.234Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Yiee",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-24T08:42:58.774Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JDBGT",
+    "world": "SEWA",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-10-24T08:43:27.542Z"
   }
 ]
