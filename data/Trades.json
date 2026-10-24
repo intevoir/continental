@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Yiee",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 10800,
-    "price_wl": 10800,
-    "traded_with": null,
-    "timestamp": "2026-10-24T11:46:22.862Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OwnerPUTAR",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6700,
-    "price_wl": 6700,
-    "traded_with": null,
-    "timestamp": "2026-10-24T11:46:52.678Z"
-  },
-  {
     "player1": "Jexster",
     "player2": "OwnerSHOPT",
     "world": "BFGJEX",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-24T11:50:11.740Z"
+  },
+  {
+    "player1": "Yiee",
+    "player2": "Buying Machine",
+    "world": "BFGPPW",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 101,
+    "p_name": "World Locks",
+    "p_count": 4848,
+    "price_wl": 4848,
+    "traded_with": null,
+    "timestamp": "2026-10-24T11:50:54.007Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArenCPS",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-24T11:51:15.600Z"
   }
 ]
