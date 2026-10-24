@@ -1,18 +1,5 @@
 [
   {
-    "player1": "vodixel",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 55,
-    "price_wl": 55,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:13:16.339Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "LDP",
@@ -128,5 +115,18 @@
     "price_wl": 128,
     "traded_with": null,
     "timestamp": "2026-10-24T14:15:09.319Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vyron",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-24T14:16:28.108Z"
   }
 ]
