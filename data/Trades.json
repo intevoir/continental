@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Hisazu",
-    "player2": "Buying Machine",
-    "world": "ZEH",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 6900,
-    "price_wl": 6900,
-    "traded_with": null,
-    "timestamp": "2026-10-24T10:47:08.809Z"
-  },
-  {
-    "player1": "@VoraxStore[AULA]",
-    "player2": "Jongguns",
-    "world": "HAOCHE",
-    "action": "TRADE",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Jongguns",
-    "timestamp": "2026-10-24T10:47:41.350Z"
-  },
-  {
-    "player1": "Jongguns",
-    "player2": "@VoraxStore[AULA]",
-    "world": "HAOCHE",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@VoraxStore[AULA]",
-    "timestamp": "2026-10-24T10:47:41.351Z"
-  },
-  {
     "player1": "Drzarealm",
     "player2": "Buying Machine",
     "world": "DTA",
@@ -128,5 +89,44 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-24T10:48:42.009Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OwnerSHOPT",
+    "world": "RIFBERAK",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 54,
+    "p_name": "World Locks",
+    "p_count": 19440,
+    "price_wl": 19440,
+    "traded_with": null,
+    "timestamp": "2026-10-24T10:49:42.836Z"
+  },
+  {
+    "player1": "PTplc",
+    "player2": "DrDDN [ELITE]",
+    "world": "DAWNZ13",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrDDN [ELITE]",
+    "timestamp": "2026-10-24T10:50:06.331Z"
+  },
+  {
+    "player1": "DrDDN [ELITE]",
+    "player2": "PTplc",
+    "world": "DAWNZ13",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "PTplc",
+    "timestamp": "2026-10-24T10:50:06.332Z"
   }
 ]
