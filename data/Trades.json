@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BabuXarvier",
-    "world": "BFGID",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-24T07:13:18.481Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "nxrrow",
-    "world": "FREEBFGDNAYA",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-10-24T07:13:22.195Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "nxrrow",
     "world": "FREEBFGDNAYA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3750000,
     "traded_with": null,
     "timestamp": "2026-10-24T07:16:15.266Z"
+  },
+  {
+    "player1": "nxrrow",
+    "player2": "Buying Machine",
+    "world": "FREERENT",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 690,
+    "price_wl": 690,
+    "traded_with": null,
+    "timestamp": "2026-10-24T07:16:19.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "rikishi",
+    "world": "SHOPT",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-24T07:16:41.931Z"
   }
 ]
