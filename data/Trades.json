@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jongguns",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-24T10:26:01.889Z"
-  },
-  {
     "player1": "DrOcaw",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-24T10:28:39.432Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Reyskie",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-24T10:29:52.818Z"
   }
 ]
