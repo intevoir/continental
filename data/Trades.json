@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kipasle1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-24T09:45:36.960Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCENTINAL",
     "world": "SHOPK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 3750000,
     "traded_with": null,
     "timestamp": "2026-10-24T09:49:37.826Z"
+  },
+  {
+    "player1": "sousei",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-24T09:50:44.266Z"
   }
 ]
