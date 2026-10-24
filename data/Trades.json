@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fedin",
-    "world": "NOW",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-24T15:38:58.249Z"
-  },
-  {
     "player1": "DrIGG",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 12250,
     "traded_with": null,
     "timestamp": "2026-10-24T15:40:47.585Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SIMBOLON",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-24T15:41:27.792Z"
   }
 ]
