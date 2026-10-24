@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Pinacolada",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-24T01:03:39.986Z"
-  },
-  {
     "player1": "LekLG",
     "player2": "Buying Machine",
     "world": "BFGQOH",
@@ -128,5 +115,18 @@
     "price_wl": 9600,
     "traded_with": null,
     "timestamp": "2026-10-24T01:07:46.769Z"
+  },
+  {
+    "player1": "Lekroma",
+    "player2": "Renting Station",
+    "world": "PLR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-24T01:10:21.030Z"
   }
 ]
