@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "rikishi",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-24T07:23:31.491Z"
-  },
-  {
     "player1": "DrFiolet",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 19500,
     "traded_with": null,
     "timestamp": "2026-10-24T07:29:15.045Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-10-24T07:30:15.845Z"
   }
 ]
