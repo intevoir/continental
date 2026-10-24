@@ -1,18 +1,5 @@
 [
   {
-    "player1": "CandyFlip",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:58:06.968Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "zhe1103",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-24T00:04:54.456Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CandyFlip",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-24T00:05:55.143Z"
   }
 ]
