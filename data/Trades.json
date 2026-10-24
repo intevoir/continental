@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "zhe1103",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 144,
-    "price_wl": 144,
-    "traded_with": null,
-    "timestamp": "2026-10-23T23:57:51.598Z"
-  },
-  {
     "player1": "CandyFlip",
     "player2": "Buying Machine",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-24T00:04:20.461Z"
+  },
+  {
+    "player1": "@waku",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-24T00:04:54.456Z"
   }
 ]
