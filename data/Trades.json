@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Pinacolada",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 241,
-    "p_name": "World Locks",
-    "p_count": 241,
-    "price_wl": 241,
-    "traded_with": null,
-    "timestamp": "2026-10-24T03:32:47.006Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Farzy",
-    "world": "TOKOSHINTA",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 7290,
-    "price_wl": 7290,
-    "traded_with": null,
-    "timestamp": "2026-10-24T03:33:08.084Z"
-  },
-  {
     "player1": "Fedin",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-24T03:34:11.021Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ST3VEN",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 31,
+    "p_name": "World Locks",
+    "p_count": 248,
+    "price_wl": 248,
+    "traded_with": null,
+    "timestamp": "2026-10-24T03:34:56.096Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrYokk",
+    "world": "VENDKE",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-24T03:35:19.399Z"
   }
 ]
