@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YourLogic",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-10-24T01:07:19.440Z"
-  },
-  {
     "player1": "Lekroma",
     "player2": "Buying Machine",
     "world": "BFGQOH",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-24T01:13:47.550Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SayLor",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-24T01:14:23.164Z"
   }
 ]
