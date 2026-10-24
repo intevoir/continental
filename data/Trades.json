@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 1440,
-    "price_wl": 1440,
-    "traded_with": null,
-    "timestamp": "2026-10-24T12:21:17.677Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fanganteng2",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-10-24T12:22:07.951Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Prabowooflegend",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-10-24T12:24:13.851Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "PUNK",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-24T12:25:09.925Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "PUNK",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 36,
+    "p_name": "World Locks",
+    "p_count": 1296,
+    "price_wl": 1296,
+    "traded_with": null,
+    "timestamp": "2026-10-24T12:25:14.104Z"
   }
 ]
