@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "EEL",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1025,
-    "price_wl": 1025,
-    "traded_with": null,
-    "timestamp": "2026-10-24T02:14:11.925Z"
-  },
-  {
-    "player1": "@Hazardous []",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-10-24T02:14:11.939Z"
-  },
-  {
-    "player1": "@Hazardous []",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 6000,
     "traded_with": null,
     "timestamp": "2026-10-24T02:15:11.303Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrYokk",
+    "world": "UL",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Varnish",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-24T02:15:30.264Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "haxyy",
+    "world": "00C",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-24T02:15:48.053Z"
   }
 ]
