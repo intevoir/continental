@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Lelouch",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:01:52.980Z"
-  },
-  {
-    "player1": "Lelouch",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:01:52.997Z"
-  },
-  {
-    "player1": "Lelouch",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:02:20.399Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "WNI",
@@ -128,5 +89,44 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-24T14:03:21.488Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lelouch",
+    "world": "NNU",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 22800,
+    "price_wl": 22800,
+    "traded_with": null,
+    "timestamp": "2026-10-24T14:03:58.843Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Afandii",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-24T14:03:58.858Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 25500,
+    "price_wl": 25500,
+    "traded_with": null,
+    "timestamp": "2026-10-24T14:03:58.887Z"
   }
 ]
