@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jongguns",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Red Crystal",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-10-24T11:20:44.460Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@AWLAN []",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Dragon Gate",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-24T11:20:48.848Z"
-  },
-  {
     "player1": "Drzarealm",
     "player2": "JHONATANS",
     "world": "GEIGERQ",
@@ -128,5 +102,31 @@
     "price_wl": 63,
     "traded_with": null,
     "timestamp": "2026-10-24T11:22:46.729Z"
+  },
+  {
+    "player1": "Ilegals",
+    "player2": "Buying Machine",
+    "world": "DIENZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 7650,
+    "price_wl": 7650,
+    "traded_with": null,
+    "timestamp": "2026-10-24T11:23:42.041Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@AWLAN []",
+    "world": "BUYCHECKPOINT",
+    "action": "BUY",
+    "item_name": "Flower Checkpoint",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-24T11:23:42.050Z"
   }
 ]
