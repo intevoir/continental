@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Posh Portrait",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:59:35.930Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Holographic Sign",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-24T14:59:39.543Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OZON",
     "world": "AULA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 245,
     "traded_with": null,
     "timestamp": "2026-10-24T15:03:58.068Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Vyron",
+    "world": "PUNK",
+    "action": "BUY",
+    "item_name": "Blue Stuff",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-24T15:04:29.960Z"
+  },
+  {
+    "player1": "Pinacolada",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Shifty Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-10-24T15:04:37.032Z"
   }
 ]
