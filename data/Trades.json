@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@waku",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-24T00:04:54.456Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CandyFlip",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-10-24T00:07:24.589Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrUstadWinStreak",
+    "world": "BFGX250",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-10-24T00:08:56.818Z"
   }
 ]
