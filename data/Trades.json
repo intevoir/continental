@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrFiolet",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-24T07:24:13.316Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "corinese",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-10-24T07:30:15.845Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-10-24T07:30:24.367Z"
   }
 ]
