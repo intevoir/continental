@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JHONATANS",
-    "player2": "Buying Machine",
-    "world": "LANSHOP",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-24T10:24:48.495Z"
-  },
-  {
     "player1": "Vladera [ELITE]",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-10-24T10:26:58.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RAFLIW",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-24T10:27:56.683Z"
   }
 ]
