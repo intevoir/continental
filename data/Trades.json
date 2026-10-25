@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fedin",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 357,
-    "price_wl": 357,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:17:36.706Z"
-  },
-  {
-    "player1": "HitCps",
-    "player2": "Renting Station",
-    "world": "FREEGEM",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:18:20.473Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "sousei",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 16660,
     "traded_with": null,
     "timestamp": "2026-10-25T14:21:22.733Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MITOHA",
+    "world": "SERBA1WL",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 230,
+    "p_name": "World Locks",
+    "p_count": 23,
+    "price_wl": 23,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:21:46.799Z"
+  },
+  {
+    "player1": "Pretender",
+    "player2": "Buying Machine",
+    "world": "DTARI",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:21:50.178Z"
   }
 ]
