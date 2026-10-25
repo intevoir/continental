@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Leopaw",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 24,
-    "price_wl": 24,
-    "traded_with": null,
-    "timestamp": "2026-10-25T05:54:37.085Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "MCD",
-    "action": "BUY",
-    "item_name": "Fishing Hat",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-10-25T05:54:55.291Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "McTominay",
     "world": "MCD",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 304,
     "traded_with": null,
     "timestamp": "2026-10-25T05:56:54.112Z"
+  },
+  {
+    "player1": "Fahrimanu",
+    "player2": "Buying Machine",
+    "world": "LANSHOP",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 52,
+    "p_name": "World Locks",
+    "p_count": 10920,
+    "price_wl": 10920,
+    "traded_with": null,
+    "timestamp": "2026-10-25T05:57:52.848Z"
+  },
+  {
+    "player1": "Fahrimanu",
+    "player2": "Buying Machine",
+    "world": "LANSHOP",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T05:57:57.255Z"
   }
 ]
