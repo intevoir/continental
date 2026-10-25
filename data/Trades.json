@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nudu",
-    "world": "BFGSAJA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-25T04:05:59.394Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nudu",
-    "world": "BFGSAJA",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 95,
-    "p_name": "World Locks",
-    "p_count": 1140,
-    "price_wl": 1140,
-    "traded_with": null,
-    "timestamp": "2026-10-25T04:06:06.914Z"
-  },
-  {
     "player1": "Nudu",
     "player2": "Renting Station",
     "world": "BFGSAJA",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-25T04:09:57.165Z"
+  },
+  {
+    "player1": "ChaEun",
+    "player2": "Renting Station",
+    "world": "VIRAL",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-25T04:10:45.360Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrOtongPRIME [ELITE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 33000,
+    "price_wl": 33000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T04:10:53.111Z"
   }
 ]
