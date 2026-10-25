@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Toothless",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:14:26.132Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Deskaa",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 850,
     "traded_with": null,
     "timestamp": "2026-10-25T17:17:31.367Z"
+  },
+  {
+    "player1": "DrCans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 74,
+    "p_name": "World Locks",
+    "p_count": 74,
+    "price_wl": 74,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:17:50.742Z"
   }
 ]
