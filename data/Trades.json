@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HanQM",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:11:31.193Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrKuek of Legend",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:13:59.648Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKuek of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-25T21:18:56.969Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@REVANDRA [PRO ]",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Green Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:19:07.453Z"
+  },
+  {
+    "player1": "BoxHoldings",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Black ATM Machine",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 7000,
+    "price_wl": 7000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:19:36.621Z"
   }
 ]
