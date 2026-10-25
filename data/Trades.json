@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Soplay",
-    "player2": "Buying Machine",
-    "world": "CREDIT",
-    "action": "SELL",
-    "item_name": "Royal Lock",
-    "item_count": 54,
-    "p_name": "World Locks",
-    "p_count": 5400,
-    "price_wl": 5400,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:44:43.987Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-10-25T14:46:52.737Z"
+  },
+  {
+    "player1": "SuperSon",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:47:41.264Z"
   }
 ]
