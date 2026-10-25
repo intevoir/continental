@@ -1,31 +1,5 @@
 [
   {
-    "player1": "JuraganSawittt",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 245,
-    "price_wl": 245,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:26:43.645Z"
-  },
-  {
-    "player1": "Xyphr",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 174,
-    "p_name": "World Locks",
-    "p_count": 52200,
-    "price_wl": 52200,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:26:43.655Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xyphr",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 350000,
     "traded_with": null,
     "timestamp": "2026-10-25T09:30:10.402Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xyphr",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 59,
+    "p_name": "World Locks",
+    "p_count": 59000,
+    "price_wl": 59000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:30:54.102Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "radana",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:30:56.992Z"
   }
 ]
