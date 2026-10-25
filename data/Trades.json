@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 3540,
-    "price_wl": 3540,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:17:20.433Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HitCps",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-25T14:19:21.383Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FORTA",
+    "world": "ZPLIST",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1700,
+    "price_wl": 1700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:20:21.927Z"
   }
 ]
