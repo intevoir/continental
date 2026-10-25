@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 470,
-    "price_wl": 470,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:24:33.233Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrNFC",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-10-25T11:26:36.238Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MASSUL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:27:24.871Z"
   }
 ]
