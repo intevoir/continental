@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OppanAja",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:42:31.083Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Xymercy",
     "world": "SHOPD",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-25T14:44:31.796Z"
+  },
+  {
+    "player1": "Soplay",
+    "player2": "Buying Machine",
+    "world": "CREDIT",
+    "action": "SELL",
+    "item_name": "Royal Lock",
+    "item_count": 54,
+    "p_name": "World Locks",
+    "p_count": 5400,
+    "price_wl": 5400,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:44:43.987Z"
   }
 ]
