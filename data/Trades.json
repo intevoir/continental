@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "pempeng",
-    "world": "VENDVC",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:26:30.397Z"
-  },
-  {
-    "player1": "@ARRAPP",
-    "player2": "OwnerSHOPT",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "OwnerSHOPT",
-    "timestamp": "2026-10-25T03:26:37.892Z"
-  },
-  {
     "player1": "OwnerSHOPT",
     "player2": "@ARRAPP",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2430,
     "traded_with": null,
     "timestamp": "2026-10-25T03:28:31.887Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZseVor",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Silverstar Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:28:43.575Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZseVor",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Heatbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:28:50.452Z"
   }
 ]
