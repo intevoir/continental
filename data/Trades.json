@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Deskaa",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Ancestral Tesseract of Dimensions",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:14:40.672Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MyDady",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:14:57.374Z"
-  },
-  {
-    "player1": "DrCans",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1700,
-    "price_wl": 1700,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:16:39.215Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Guwon [ELITE] [MAXWIN] [GACOR] []",
     "world": "MESA",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 74,
     "traded_with": null,
     "timestamp": "2026-10-25T17:17:50.742Z"
+  },
+  {
+    "player1": "DrCans",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:21:36.823Z"
+  },
+  {
+    "player1": "Cynos",
+    "player2": "Renting Station",
+    "world": "PEN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:21:45.100Z"
+  },
+  {
+    "player1": "Shiyal",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:21:57.571Z"
   }
 ]
