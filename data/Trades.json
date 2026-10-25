@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Da Vinci Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:25:47.915Z"
-  },
-  {
-    "player1": "Xyphr",
-    "player2": "Buying Machine",
-    "world": "SHOPT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:25:47.922Z"
-  },
-  {
     "player1": "Phoxent",
     "player2": "Buying Machine",
     "world": "BFGNOL",
@@ -128,5 +102,31 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-10-25T09:27:51.737Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xyphr",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250000,
+    "price_wl": 250000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:29:07.381Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNatasha of Legend",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:29:10.886Z"
   }
 ]
