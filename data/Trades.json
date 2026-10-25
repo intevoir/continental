@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OwnerRN",
-    "world": "TG",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:30:41.825Z"
-  },
-  {
     "player1": "OwnerRN",
     "player2": "Buying Machine",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-25T21:42:26.790Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Mannequin",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:43:00.650Z"
   }
 ]
