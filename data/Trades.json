@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DanielAnakBaik",
-    "world": "5A",
-    "action": "BUY",
-    "item_name": "Weather Machine - Nothingness",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:23:25.174Z"
-  },
-  {
-    "player1": "KAISARMAIL",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2380,
-    "price_wl": 2380,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:23:25.193Z"
-  },
-  {
-    "player1": "KAISARMAIL",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Golden Heart Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 297,
-    "price_wl": 297,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:23:32.153Z"
-  },
-  {
-    "player1": "@ARRAPP",
-    "player2": "RealB3",
-    "world": "ARRAPP",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "RealB3",
-    "timestamp": "2026-10-25T03:23:49.545Z"
-  },
-  {
     "player1": "RealB3",
     "player2": "@ARRAPP",
     "world": "ARRAPP",
@@ -128,5 +76,57 @@
     "price_wl": 240,
     "traded_with": null,
     "timestamp": "2026-10-25T03:25:34.453Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pempeng",
+    "world": "VENDVC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:26:26.456Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pempeng",
+    "world": "VENDVC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:26:30.397Z"
+  },
+  {
+    "player1": "@ARRAPP",
+    "player2": "OwnerSHOPT",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "OwnerSHOPT",
+    "timestamp": "2026-10-25T03:26:37.892Z"
+  },
+  {
+    "player1": "OwnerSHOPT",
+    "player2": "@ARRAPP",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@ARRAPP",
+    "timestamp": "2026-10-25T03:26:37.892Z"
   }
 ]
