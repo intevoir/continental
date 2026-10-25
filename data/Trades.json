@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Opiuu",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-25T13:45:09.607Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HamNt",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-25T13:46:07.769Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Buying Machine",
+    "world": "DTARI",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T13:46:42.654Z"
   }
 ]
