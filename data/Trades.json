@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Hutabarat",
-    "world": "CJE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 80,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-25T04:05:11.020Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nudu",
     "world": "BFGSAJA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-25T04:08:19.910Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gebo",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T04:08:58.869Z"
   }
 ]
