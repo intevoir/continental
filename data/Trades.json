@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PawKing",
-    "world": "IC4",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 216,
-    "p_name": "World Locks",
-    "p_count": 9936,
-    "price_wl": 9936,
-    "traded_with": null,
-    "timestamp": "2026-10-25T22:52:16.620Z"
-  },
-  {
-    "player1": "PunyaIU",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-25T22:58:02.698Z"
-  },
-  {
     "player1": "PunyaIU",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-25T23:09:09.290Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PawRich",
+    "world": "BUYLENT",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 101,
+    "p_name": "World Locks",
+    "p_count": 808,
+    "price_wl": 808,
+    "traded_with": null,
+    "timestamp": "2026-10-25T23:10:09.246Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T23:10:39.726Z"
   }
 ]
