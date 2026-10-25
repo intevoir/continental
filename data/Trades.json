@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 2430,
-    "price_wl": 2430,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:28:31.887Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZseVor",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Silverstar Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:28:43.575Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ZseVor",
     "world": "SHOP",
@@ -128,5 +102,31 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-25T03:31:33.318Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrTheStrom",
+    "world": "BUYGRAVE",
+    "action": "BUY",
+    "item_name": "Game Grave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:32:29.581Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CocokTanamZ",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 26,
+    "p_name": "World Locks",
+    "p_count": 23400,
+    "price_wl": 23400,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:32:29.598Z"
   }
 ]
