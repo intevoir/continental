@@ -2,45 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Andras",
-    "world": "GEIGERSPAM",
-    "action": "BUY",
-    "item_name": "Ruby Block",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:32:10.934Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Slayernomodal [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:33:02.177Z"
-  },
-  {
-    "player1": "Andras",
-    "player2": "Buying Machine",
-    "world": "DTARI",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:33:45.856Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Andras",
     "world": "DTARI",
     "action": "BUY",
     "item_name": "Geiger Counter",
@@ -128,5 +89,44 @@
     "price_wl": 330000,
     "traded_with": null,
     "timestamp": "2026-10-25T09:38:11.953Z"
+  },
+  {
+    "player1": "Zdee",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "dDraco's Chariot Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:38:20.568Z"
+  },
+  {
+    "player1": "NoirStride",
+    "player2": "Buying Machine",
+    "world": "PUNK",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:38:20.578Z"
+  },
+  {
+    "player1": "NoirStride",
+    "player2": "Buying Machine",
+    "world": "PUNK",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 129,
+    "price_wl": 129,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:38:48.193Z"
   }
 ]
