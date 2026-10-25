@@ -4,19 +4,6 @@
     "player2": "Teti",
     "world": "BFGJPP",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-25T18:27:59.279Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Teti",
-    "world": "BFGJPP",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-25T18:32:00.159Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 5700,
+    "price_wl": 5700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T18:32:32.930Z"
   }
 ]
