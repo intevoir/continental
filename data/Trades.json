@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OwnerPUTAR",
-    "world": "MAFIA",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:11:58.825Z"
-  },
-  {
-    "player1": "@Kelku []",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 92,
-    "price_wl": 92,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:12:02.344Z"
-  },
-  {
     "player1": "@Kelku []",
     "player2": "Buying Machine",
     "world": "BOSTT",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-25T11:14:03.050Z"
+  },
+  {
+    "player1": "BlueFur",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:14:59.629Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OwnerPUTAR",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6600,
+    "price_wl": 6600,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:15:23.531Z"
   }
 ]
