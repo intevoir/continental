@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HitCps",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:17:20.413Z"
-  },
-  {
     "player1": "Pretender",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +115,18 @@
     "price_wl": 3000,
     "traded_with": null,
     "timestamp": "2026-10-25T14:18:20.483Z"
+  },
+  {
+    "player1": "LuckQ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:18:32.093Z"
   }
 ]
