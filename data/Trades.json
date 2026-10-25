@@ -1,57 +1,5 @@
 [
   {
-    "player1": "HamNt",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:01:28.796Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GansyahPs",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Zombie Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:02:13.827Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GansyahPs",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Punch Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:02:13.837Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "DTARI",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:02:13.849Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GansyahPs",
     "world": "SHOP",
@@ -128,5 +76,57 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-25T14:03:30.838Z"
+  },
+  {
+    "player1": "DEADSERVER1",
+    "player2": "Buying Machine",
+    "world": "BOSTT",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:04:13.708Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CandyFlip",
+    "world": "VENDSHOP",
+    "action": "BUY",
+    "item_name": "Obake Lantern",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:04:13.717Z"
+  },
+  {
+    "player1": "DrURAIDHYxSHOPT",
+    "player2": "@Yia",
+    "world": "YIA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 90,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Yia",
+    "timestamp": "2026-10-25T14:04:21.950Z"
+  },
+  {
+    "player1": "@Yia",
+    "player2": "DrURAIDHYxSHOPT",
+    "world": "YIA",
+    "action": "TRADE",
+    "item_name": "Yia's Buddha Earth Blade",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrURAIDHYxSHOPT",
+    "timestamp": "2026-10-25T14:04:21.950Z"
   }
 ]
