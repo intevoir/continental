@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Daviil of Legend [PRO ]",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Rayman's Fist",
-    "item_count": 16,
-    "p_name": "World Locks",
-    "p_count": 6384,
-    "price_wl": 6384,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:07:56.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Vyrn",
     "world": "PLAZA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 24780,
     "traded_with": null,
     "timestamp": "2026-10-25T09:09:49.316Z"
+  },
+  {
+    "player1": "Bergine",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 855,
+    "price_wl": 855,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:10:41.119Z"
   }
 ]
