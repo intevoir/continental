@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Citraku",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-25T13:25:49.946Z"
-  },
-  {
-    "player1": "radana",
-    "player2": "Buying Machine",
-    "world": "BFGDUWI",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 17600,
-    "price_wl": 17600,
-    "traded_with": null,
-    "timestamp": "2026-10-25T13:26:23.121Z"
-  },
-  {
     "player1": "Farzy",
     "player2": "Buying Machine",
     "world": "BFGDUWI",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-10-25T13:28:06.115Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vodixel",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 375,
+    "price_wl": 375,
+    "traded_with": null,
+    "timestamp": "2026-10-25T13:28:22.121Z"
+  },
+  {
+    "player1": "zorosless",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 386,
+    "price_wl": 386,
+    "traded_with": null,
+    "timestamp": "2026-10-25T13:28:51.680Z"
   }
 ]
