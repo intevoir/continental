@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zyonix",
-    "world": "06",
-    "action": "BUY",
-    "item_name": "Purple Gems",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-25T19:53:58.688Z"
-  },
-  {
     "player1": "@AgentV2",
     "player2": "Renting Station",
     "world": "PENN",
@@ -128,5 +115,18 @@
     "price_wl": 169,
     "traded_with": null,
     "timestamp": "2026-10-25T19:58:23.174Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VladCPsSeries",
+    "world": "VLASHOP",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 13,
+    "price_wl": 13,
+    "traded_with": null,
+    "timestamp": "2026-10-25T19:59:00.186Z"
   }
 ]
