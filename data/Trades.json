@@ -2,32 +2,6 @@
   {
     "player1": "Pinacolada",
     "player2": "Buying Machine",
-    "world": "PUNK",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:47:50.467Z"
-  },
-  {
-    "player1": "Pinacolada",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 1470,
-    "price_wl": 1470,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:47:57.823Z"
-  },
-  {
-    "player1": "Pinacolada",
-    "player2": "Buying Machine",
     "world": "XD",
     "action": "SELL",
     "item_name": "Blue Crystal",
@@ -128,5 +102,31 @@
     "price_wl": 250000,
     "traded_with": null,
     "timestamp": "2026-10-25T09:50:21.565Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TrueMorph",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:50:50.461Z"
+  },
+  {
+    "player1": "giku",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:50:50.484Z"
   }
 ]
