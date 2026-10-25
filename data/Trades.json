@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MasterProfit",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T06:05:56.930Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MasterProfit",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-10-25T06:06:35.957Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kioway",
     "world": "SPOTS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Dhaf",
     "timestamp": "2026-10-25T06:11:32.990Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dhaf",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Pay Wall",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 3780,
+    "price_wl": 3780,
+    "traded_with": null,
+    "timestamp": "2026-10-25T06:11:53.290Z"
+  },
+  {
+    "player1": "Joekaz",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 21,
+    "p_name": "World Locks",
+    "p_count": 147,
+    "price_wl": 147,
+    "traded_with": null,
+    "timestamp": "2026-10-25T06:12:00.724Z"
   }
 ]
