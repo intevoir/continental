@@ -1,31 +1,5 @@
 [
   {
-    "player1": "rennxnika",
-    "player2": "Renting Station",
-    "world": "SEEDS",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:24:38.747Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "UnfaceLionV",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:25:39.654Z"
-  },
-  {
     "player1": "OwnerRN",
     "player2": "Buying Machine",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 2310,
     "traded_with": null,
     "timestamp": "2026-10-25T21:27:40.277Z"
+  },
+  {
+    "player1": "OwnerRN",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 96,
+    "p_name": "World Locks",
+    "p_count": 1440,
+    "price_wl": 1440,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:28:41.515Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OwnerRN",
+    "world": "TG",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:28:50.140Z"
   }
 ]
