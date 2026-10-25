@@ -1,31 +1,5 @@
 [
   {
-    "player1": "giku",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:50:50.484Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TrueMorph",
-    "world": "SURGCL",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-25T09:51:52.229Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "TrueMorph",
     "world": "SURGCL",
@@ -128,5 +102,31 @@
     "price_wl": 62,
     "traded_with": null,
     "timestamp": "2026-10-25T09:53:26.540Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SiWowok",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:54:19.190Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "McTominay",
+    "world": "RENTMURAH",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 110,
+    "price_wl": 110,
+    "traded_with": null,
+    "timestamp": "2026-10-25T09:54:19.209Z"
   }
 ]
