@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VladCPsSeries",
-    "player2": "Buying Machine",
-    "world": "VLASHOP",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 555,
-    "price_wl": 555,
-    "traded_with": null,
-    "timestamp": "2026-10-25T19:57:59.443Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VladCPsSeries",
     "world": "VLASHOP",
@@ -128,5 +115,18 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-25T20:02:28.119Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KVR",
+    "world": "DNAGREEN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-25T20:04:01.926Z"
   }
 ]
