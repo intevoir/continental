@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@PandaCB",
-    "player2": "Renting Station",
-    "world": "JUDI",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3570,
-    "price_wl": 3570,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:34:44.609Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "MITOHA",
     "world": "PLAZA",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-25T14:36:59.893Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Enny",
+    "world": "VENDBO",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:37:30.459Z"
   }
 ]
