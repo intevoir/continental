@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OwnerRN",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Growtoken",
-    "item_count": 51,
-    "p_name": "World Locks",
-    "p_count": 1530,
-    "price_wl": 1530,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:33:04.343Z"
-  },
-  {
     "player1": "Drewayjie",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-25T21:44:57.485Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Mitthios",
+    "world": "PLAZA",
+    "action": "BUY",
+    "item_name": "Unstable Tesseract",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:46:27.321Z"
   }
 ]
