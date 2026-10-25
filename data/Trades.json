@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OP57",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:26:12.733Z"
-  },
-  {
     "player1": "ZANREV",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-25T11:30:40.661Z"
+  },
+  {
+    "player1": "ComeStayin",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 1020,
+    "price_wl": 1020,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:31:21.492Z"
   }
 ]
