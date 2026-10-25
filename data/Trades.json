@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KVR",
-    "player2": "Renting Station",
-    "world": "BFGID",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-25T20:02:28.119Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KVR",
     "world": "DNAGREEN",
@@ -128,5 +115,18 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-10-25T20:10:03.695Z"
+  },
+  {
+    "player1": "LangOfLegend",
+    "player2": "Buying Machine",
+    "world": "FIQ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2460,
+    "price_wl": 2460,
+    "traded_with": null,
+    "timestamp": "2026-10-25T20:12:04.757Z"
   }
 ]
