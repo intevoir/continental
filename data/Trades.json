@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Zeta",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:26:39.744Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OwnerRN",
     "world": "TG",
@@ -128,5 +115,18 @@
     "price_wl": 3555,
     "traded_with": null,
     "timestamp": "2026-10-25T21:29:41.255Z"
+  },
+  {
+    "player1": "OwnerRN",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 195,
+    "price_wl": 195,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:30:08.735Z"
   }
 ]
