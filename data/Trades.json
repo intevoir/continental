@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DEADSERVER1",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:01:13.721Z"
-  },
-  {
     "player1": "kaiituru1",
     "player2": "Buying Machine",
     "world": "DTARI",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-25T14:02:25.148Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Buying Machine",
+    "world": "DTARI",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:03:13.787Z"
   }
 ]
