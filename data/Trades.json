@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "IAI",
-    "world": "SHOPC3",
-    "action": "BUY",
-    "item_name": "Battery",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-25T19:49:56.463Z"
-  },
-  {
     "player1": "Fozn",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 52,
     "traded_with": null,
     "timestamp": "2026-10-25T19:52:26.592Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VladCPsSeries",
+    "world": "VLASHOP",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 26,
+    "price_wl": 26,
+    "traded_with": null,
+    "timestamp": "2026-10-25T19:52:30.512Z"
   }
 ]
