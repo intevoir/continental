@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrPrevillege",
-    "world": "BYPAC",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-25T04:54:05.129Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "radana",
     "world": "SHOPT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 70000,
     "traded_with": null,
     "timestamp": "2026-10-25T05:01:08.251Z"
+  },
+  {
+    "player1": "Xyphr",
+    "player2": "Buying Machine",
+    "world": "SHOPT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 75000,
+    "price_wl": 75000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T05:02:21.404Z"
   }
 ]
