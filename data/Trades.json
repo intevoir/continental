@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@AgentV1",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 47,
-    "p_name": "World Locks",
-    "p_count": 12925,
-    "price_wl": 12925,
-    "traded_with": null,
-    "timestamp": "2026-10-25T01:49:32.970Z"
-  },
-  {
     "player1": "kristodddddd",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-25T01:51:41.884Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "cleonru",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-25T01:52:41.602Z"
   }
 ]
