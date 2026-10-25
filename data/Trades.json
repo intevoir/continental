@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PawRich",
-    "world": "BUYLENT",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 101,
-    "p_name": "World Locks",
-    "p_count": 808,
-    "price_wl": 808,
-    "traded_with": null,
-    "timestamp": "2026-10-25T23:10:09.246Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 86,
     "traded_with": null,
     "timestamp": "2026-10-25T23:16:12.204Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HitCps",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-25T23:18:23.431Z"
   }
 ]
