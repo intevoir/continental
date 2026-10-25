@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OP57",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Guardian Pineapple",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:52:43.648Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OP57",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:53:13.448Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Blackfoxtm",
-    "world": "LIKEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14,
-    "price_wl": 14,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:53:13.470Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Blackfoxtm",
     "world": "LIKEBFG",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-25T11:54:13.275Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TANIIII",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:54:46.339Z"
+  },
+  {
+    "player1": "LangOfLegend",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:55:14.357Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OP57",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Silk Scarf",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:55:14.365Z"
   }
 ]
