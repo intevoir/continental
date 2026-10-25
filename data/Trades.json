@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ChaEun",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-25T05:38:42.086Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@REVANDRA [PRO ]",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-25T05:40:44.041Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6100,
+    "price_wl": 6100,
+    "traded_with": null,
+    "timestamp": "2026-10-25T05:42:42.793Z"
   }
 ]
