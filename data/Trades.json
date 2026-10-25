@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Marchiano",
-    "world": "EEL",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 576,
-    "price_wl": 576,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:41:41.035Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DanielAnakBaik",
-    "world": "1I",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:41:41.046Z"
-  },
-  {
-    "player1": "Marchiano",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 144,
-    "p_name": "World Locks",
-    "p_count": 144,
-    "price_wl": 144,
-    "traded_with": null,
-    "timestamp": "2026-10-25T03:41:48.922Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DanielAnakBaik",
     "world": "1I",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 158400,
     "traded_with": null,
     "timestamp": "2026-10-25T03:43:34.057Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanielAnakBaik",
+    "world": "UCHEAP",
+    "action": "BUY",
+    "item_name": "Sam Fisher",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:44:34.585Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanielAnakBaik",
+    "world": "UCHEAP",
+    "action": "BUY",
+    "item_name": "Street Dog",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:44:34.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCaptFin",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T03:44:34.652Z"
   }
 ]
