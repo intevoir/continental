@@ -4,32 +4,6 @@
     "player2": "ArjunXcv2",
     "world": "66",
     "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-25T10:49:49.718Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ofndd []",
-    "world": "TG",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-25T10:49:49.744Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ArjunXcv2",
-    "world": "66",
-    "action": "BUY",
     "item_name": "Surgical Stitches",
     "item_count": 20,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-10-25T10:50:24.427Z"
+  },
+  {
+    "player1": "Ofndd []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3750,
+    "price_wl": 3750,
+    "traded_with": null,
+    "timestamp": "2026-10-25T10:50:49.870Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ofndd []",
+    "world": "TG",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T10:50:49.886Z"
   }
 ]
