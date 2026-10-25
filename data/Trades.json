@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "A7B",
-    "world": "FREEGEM",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-25T20:58:52.308Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@REVANDRA [PRO ]",
     "world": "DISPLAY",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-25T21:00:27.583Z"
+  },
+  {
+    "player1": "DrCENTINAL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 29700,
+    "price_wl": 29700,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:01:28.329Z"
   }
 ]
