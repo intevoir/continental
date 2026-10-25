@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OwnerRN",
-    "world": "TG",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:28:50.140Z"
-  },
-  {
     "player1": "MaknaV1",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 2160,
     "traded_with": null,
     "timestamp": "2026-10-25T21:31:43.509Z"
+  },
+  {
+    "player1": "OwnerRN",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 51,
+    "p_name": "World Locks",
+    "p_count": 1530,
+    "price_wl": 1530,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:33:04.343Z"
   }
 ]
