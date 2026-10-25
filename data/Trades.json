@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OwnerRN",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6300,
-    "price_wl": 6300,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:44:01.142Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mitthios",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-25T21:44:57.409Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Mitthios",
     "world": "PLAZA",
@@ -128,5 +102,31 @@
     "price_wl": 45500,
     "traded_with": null,
     "timestamp": "2026-10-25T21:49:58.212Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phoxent",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:50:02.809Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phoxent",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 111,
+    "p_name": "World Locks",
+    "p_count": 1332,
+    "price_wl": 1332,
+    "traded_with": null,
+    "timestamp": "2026-10-25T21:50:28.724Z"
   }
 ]
