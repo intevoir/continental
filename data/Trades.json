@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DEADSERVER1",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:04:13.708Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CandyFlip",
-    "world": "VENDSHOP",
-    "action": "BUY",
-    "item_name": "Obake Lantern",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-25T14:04:13.717Z"
-  },
-  {
-    "player1": "DrURAIDHYxSHOPT",
-    "player2": "@Yia",
-    "world": "YIA",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 90,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Yia",
-    "timestamp": "2026-10-25T14:04:21.950Z"
-  },
-  {
-    "player1": "@Yia",
-    "player2": "DrURAIDHYxSHOPT",
-    "world": "YIA",
-    "action": "TRADE",
-    "item_name": "Yia's Buddha Earth Blade",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrURAIDHYxSHOPT",
-    "timestamp": "2026-10-25T14:04:21.950Z"
-  },
-  {
     "player1": "Yiwa",
     "player2": "Buying Machine",
     "world": "STC",
@@ -128,5 +76,57 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-10-25T14:06:15.173Z"
+  },
+  {
+    "player1": "kaiituru1",
+    "player2": "Buying Machine",
+    "world": "DTARI",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:06:20.727Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3200,
+    "price_wl": 3200,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:06:20.733Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:06:43.362Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "UnPoci",
+    "world": "CPSAJA",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-25T14:06:47.123Z"
   }
 ]
