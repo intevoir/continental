@@ -4,32 +4,6 @@
     "player2": "Nou",
     "world": "SHOPT",
     "action": "BUY",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:18:25.518Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "Green Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-25T11:18:28.986Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "SHOPT",
-    "action": "BUY",
     "item_name": "White Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-25T11:19:23.938Z"
+  },
+  {
+    "player1": "vodixel",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:20:01.828Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vodixel",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:20:09.415Z"
   }
 ]
