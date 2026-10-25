@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrCans",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:17:27.043Z"
-  },
-  {
-    "player1": "DrCans",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-25T17:17:31.362Z"
-  },
-  {
     "player1": "chezeku",
     "player2": "Buying Machine",
     "world": "A2W",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-25T17:22:28.724Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Archieve",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 235,
+    "p_name": "World Locks",
+    "p_count": 1175,
+    "price_wl": 1175,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:26:29.223Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kenndeym",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-25T17:26:42.739Z"
   }
 ]
