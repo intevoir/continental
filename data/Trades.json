@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@EZASTORE [PRO ]",
-    "world": "SHOPU",
-    "action": "BUY",
-    "item_name": "Orange Stuff",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-10-25T10:57:15.118Z"
-  },
-  {
     "player1": "@Lockeds",
     "player2": "Renting Station",
     "world": "SHOPT",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-25T11:00:55.094Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkyVieth",
+    "world": "MUJUNG",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1400,
+    "price_wl": 1400,
+    "traded_with": null,
+    "timestamp": "2026-10-25T11:02:04.353Z"
   }
 ]
