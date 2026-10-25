@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrUstadWinStreak",
-    "world": "SHOPT",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 16500,
-    "price_wl": 16500,
-    "traded_with": null,
-    "timestamp": "2026-10-25T20:02:12.870Z"
-  },
-  {
     "player1": "KVR",
     "player2": "Renting Station",
     "world": "BFGID",
@@ -128,5 +115,18 @@
     "price_wl": 660000,
     "traded_with": null,
     "timestamp": "2026-10-25T20:07:03.349Z"
+  },
+  {
+    "player1": "Fozn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Buying Machine",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-10-25T20:09:23.244Z"
   }
 ]
