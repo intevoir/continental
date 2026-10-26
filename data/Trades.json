@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "UraiDhy [ELITE]",
-    "world": "CHEAP",
-    "action": "BUY",
-    "item_name": "Ancestral Orb of Time",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T09:59:28.198Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZwannnE",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Diamond Flashaxe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:00:19.270Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrNFC",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 395,
     "traded_with": null,
     "timestamp": "2026-10-26T10:03:01.144Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:03:21.282Z"
+  },
+  {
+    "player1": "MONYETLO",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500000,
+    "price_wl": 3500000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:03:33.712Z"
   }
 ]
