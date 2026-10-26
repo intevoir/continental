@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "3ghz",
-    "world": "VEND8",
-    "action": "BUY",
-    "item_name": "Air Vent",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-26T17:31:59.507Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "nnashii",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7040,
     "traded_with": null,
     "timestamp": "2026-10-26T17:41:17.027Z"
+  },
+  {
+    "player1": "OSZA",
+    "player2": "Buying Machine",
+    "world": "LIKEBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 17000,
+    "price_wl": 17000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T17:42:50.461Z"
   }
 ]
