@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 85000,
-    "price_wl": 85000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T17:45:51.903Z"
-  },
-  {
-    "player1": "OSZA",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-26T17:45:51.911Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Norchhero",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-26T17:49:13.069Z"
+  },
+  {
+    "player1": "PawRich",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-26T17:51:02.524Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "POLLOz",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-26T17:51:04.800Z"
   }
 ]
