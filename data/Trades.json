@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "CandyFlip",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-26T23:33:14.333Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "CandyFlip",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-26T23:33:21.270Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Aysai",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-26T23:43:58.240Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drakarr",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 160,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-26T23:45:02.581Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "A7B",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-26T23:45:22.075Z"
   }
 ]
