@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MShadow",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T13:12:49.701Z"
-  },
-  {
-    "player1": "Derbond",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 52500,
-    "price_wl": 52500,
-    "traded_with": null,
-    "timestamp": "2026-10-26T13:12:59.035Z"
-  },
-  {
     "player1": "purukuda",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-26T13:13:49.963Z"
+  },
+  {
+    "player1": "Xymercy",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-26T13:13:54.578Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Derbond",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 89600,
+    "price_wl": 89600,
+    "traded_with": null,
+    "timestamp": "2026-10-26T13:14:01.862Z"
   }
 ]
