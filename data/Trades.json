@@ -1,18 +1,5 @@
 [
   {
-    "player1": "4ur",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 27000,
-    "price_wl": 27000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T03:32:33.580Z"
-  },
-  {
     "player1": "Snoozly",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-26T03:36:47.417Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Pretender",
+    "world": "FLOWER",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 34000,
+    "price_wl": 34000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T03:38:36.630Z"
   }
 ]
