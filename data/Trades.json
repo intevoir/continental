@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZANREV",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-26T15:43:54.877Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrSUD",
     "world": "CN5",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 80000,
     "traded_with": null,
     "timestamp": "2026-10-26T15:46:13.596Z"
+  },
+  {
+    "player1": "DrMbuts",
+    "player2": "Renting Station",
+    "world": "NC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 13090,
+    "price_wl": 13090,
+    "traded_with": null,
+    "timestamp": "2026-10-26T15:46:43.678Z"
   }
 ]
