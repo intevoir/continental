@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "R33",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Death's Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:10:03.462Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "A7B",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-10-26T14:11:06.641Z"
+  },
+  {
+    "player1": "XiaoShan",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:11:37.785Z"
   }
 ]
