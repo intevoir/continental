@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BYANS",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:36:41.607Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BYANS",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 90000,
-    "price_wl": 90000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:37:01.204Z"
-  },
-  {
     "player1": "CCPC",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-26T07:41:09.082Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SkibidiFort",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Zombie Defense Force Helmet",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:42:00.029Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "senty",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250000,
+    "price_wl": 250000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:42:14.941Z"
   }
 ]
