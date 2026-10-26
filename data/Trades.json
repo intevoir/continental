@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Mailbox",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-26T17:20:25.285Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "POLLOz",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T17:20:25.301Z"
-  },
-  {
     "player1": "stampan",
     "player2": "Renting Station",
     "world": "RENTMOZ",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-26T17:21:41.743Z"
+  },
+  {
+    "player1": "777L",
+    "player2": "Buying Machine",
+    "world": "FREEGEM",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-10-26T17:22:41.967Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "nnashii",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 675,
+    "price_wl": 675,
+    "traded_with": null,
+    "timestamp": "2026-10-26T17:22:53.472Z"
   }
 ]
