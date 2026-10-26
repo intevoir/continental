@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Black Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-26T15:27:36.936Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Brown Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-26T15:27:41.975Z"
-  },
-  {
     "player1": "Xyphr",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-26T15:31:04.667Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZANREV",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T15:32:10.528Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZANREV",
+    "world": "TOKO",
+    "action": "BUY",
+    "item_name": "Harvester Of Sorrows",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T15:32:38.381Z"
   }
 ]
