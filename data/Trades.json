@@ -1,18 +1,5 @@
 [
   {
-    "player1": "haxyy",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 4095,
-    "price_wl": 4095,
-    "traded_with": null,
-    "timestamp": "2026-10-26T22:29:44.204Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Renting Station",
     "world": "CUAN",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-26T22:44:48.959Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "A7B",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 450,
+    "price_wl": 450,
+    "traded_with": null,
+    "timestamp": "2026-10-26T22:47:12.362Z"
   }
 ]
