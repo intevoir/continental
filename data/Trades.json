@@ -1,31 +1,5 @@
 [
   {
-    "player1": "kipasle1",
-    "player2": "Buying Machine",
-    "world": "BFGUNDIP3",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 16340,
-    "price_wl": 16340,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:55:42.235Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wildy",
-    "world": "KIT",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:56:49.268Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "KIT",
@@ -128,5 +102,31 @@
     "price_wl": 3400,
     "traded_with": null,
     "timestamp": "2026-10-26T20:00:18.887Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R33",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Posh Portrait",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-26T20:02:33.693Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BUYGREY",
+    "action": "BUY",
+    "item_name": "Grey Block",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-26T20:02:37.156Z"
   }
 ]
