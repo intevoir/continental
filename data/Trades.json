@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "haxyy",
-    "world": "BUYMILK",
-    "action": "BUY",
-    "item_name": "Milk",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-26T03:47:40.422Z"
-  },
-  {
     "player1": "zoldyXnew",
     "player2": "Renting Station",
     "world": "RN",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-26T03:50:06.973Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BUYRED",
+    "action": "BUY",
+    "item_name": "Red Bricks",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-26T03:50:57.452Z"
   }
 ]
