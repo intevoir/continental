@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "LangOfLegend1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 550,
-    "price_wl": 550,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:16:19.322Z"
-  },
-  {
     "player1": "ZerNoway",
     "player2": "Renting Station",
     "world": "KAISJE",
@@ -128,5 +115,18 @@
     "price_wl": 840,
     "traded_with": null,
     "timestamp": "2026-10-26T10:21:40.106Z"
+  },
+  {
+    "player1": "PalPadhil",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:22:22.447Z"
   }
 ]
