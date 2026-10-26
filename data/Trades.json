@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BosPlenger",
-    "world": "CYNOBFG",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:07:41.532Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MythicalFistt",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 18000,
-    "price_wl": 18000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:08:30.037Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MythicalFistt",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 65,
     "traded_with": null,
     "timestamp": "2026-10-26T07:11:03.153Z"
+  },
+  {
+    "player1": "Yiee",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:11:47.662Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MythicalFistt",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 36000,
+    "price_wl": 36000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:11:55.553Z"
   }
 ]
