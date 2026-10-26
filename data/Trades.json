@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@10rb",
-    "world": "TOMATOOO",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-26T05:04:27.404Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Snoozly",
     "world": "12",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-26T05:07:29.426Z"
+  },
+  {
+    "player1": "ViBifoo",
+    "player2": "Renting Station",
+    "world": "PTKK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-26T05:08:29.436Z"
   }
 ]
