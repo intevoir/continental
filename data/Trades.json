@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Lock Sucker",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:45:45.050Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "mave",
     "world": "SHOPL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5184,
     "traded_with": null,
     "timestamp": "2026-10-26T10:48:34.471Z"
+  },
+  {
+    "player1": "PalPadhil",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:48:44.325Z"
   }
 ]
