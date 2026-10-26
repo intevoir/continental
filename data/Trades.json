@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PalPadhil",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-26T11:20:49.383Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Kaiizie [PRO ]",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-26T11:23:16.903Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PalPadhil",
+    "world": "DTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 245,
+    "p_name": "World Locks",
+    "p_count": 1225,
+    "price_wl": 1225,
+    "traded_with": null,
+    "timestamp": "2026-10-26T11:23:23.611Z"
   }
 ]
