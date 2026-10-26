@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12250,
-    "price_wl": 12250,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:46:33.648Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 201,
-    "p_name": "World Locks",
-    "p_count": 9849,
-    "price_wl": 9849,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:46:33.661Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "mave",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15000,
     "traded_with": null,
     "timestamp": "2026-10-26T10:50:36.188Z"
+  },
+  {
+    "player1": "Luntung",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "dDraco's Chariot Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:50:39.701Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ficcy",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:50:53.990Z"
   }
 ]
