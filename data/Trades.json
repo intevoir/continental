@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:35:52.682Z"
-  },
-  {
-    "player1": "BYANS",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-26T07:36:08.396Z"
-  },
-  {
-    "player1": "BYANS",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
     "item_name": "Red Crystal",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-26T07:38:45.927Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrZakaev",
+    "world": "UDB",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:40:59.201Z"
+  },
+  {
+    "player1": "kaizee",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-26T07:41:09.082Z"
   }
 ]
