@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mance1",
-    "player2": "Renting Station",
-    "world": "SET",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-26T15:47:44.771Z"
-  },
-  {
     "player1": "krocoman",
     "player2": "Renting Station",
     "world": "PURPLE",
@@ -128,5 +115,18 @@
     "price_wl": 1312,
     "traded_with": null,
     "timestamp": "2026-10-26T15:50:17.898Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Fortitude",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-26T15:51:12.523Z"
   }
 ]
