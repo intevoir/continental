@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZwannnE",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:28:43.704Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Omanqas",
-    "world": "SURGCL",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-26T10:29:25.317Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Omanqas",
     "world": "SURGCL",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 30000,
     "traded_with": null,
     "timestamp": "2026-10-26T10:30:49.770Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Buying Machine",
+    "world": "DIENZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 32300,
+    "price_wl": 32300,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:31:25.363Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrTheStrom",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-26T10:31:34.056Z"
   }
 ]
