@@ -4,19 +4,6 @@
     "player2": "R33",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:09:06.809Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "R33",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Guestbook",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-26T19:11:22.335Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R33",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 91,
+    "p_name": "World Locks",
+    "p_count": 91,
+    "price_wl": 91,
+    "traded_with": null,
+    "timestamp": "2026-10-26T19:11:56.091Z"
   }
 ]
