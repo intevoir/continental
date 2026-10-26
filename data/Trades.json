@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@MESA [ELITE]",
-    "world": "RANZV",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:49:43.837Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@MESA [ELITE]",
-    "world": "RANZV",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:49:55.376Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Messi of Legend [WIN-COMMUNITY]",
     "world": "BLOCKW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-26T14:51:21.620Z"
+  },
+  {
+    "player1": "andhica",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 34,
+    "p_name": "World Locks",
+    "p_count": 68,
+    "price_wl": 68,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:52:21.075Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "andhica",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:52:24.619Z"
   }
 ]
