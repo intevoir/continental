@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MarStore",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 1520,
-    "price_wl": 1520,
-    "traded_with": null,
-    "timestamp": "2026-10-26T23:28:51.540Z"
-  },
-  {
-    "player1": "Lelouch",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-26T23:29:51.678Z"
-  },
-  {
     "player1": "Aysai",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-26T23:35:23.439Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Aysai",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "American Sports Ball Jersey",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-26T23:35:54.538Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "chezeku",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-26T23:36:12.628Z"
   }
 ]
