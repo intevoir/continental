@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "xiangwu",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:10:07.043Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PembasmiBOTI",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:10:07.053Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WanzJDM",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-26T12:12:39.469Z"
+  },
+  {
+    "player1": "@QOIL",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 75,
+    "p_name": "World Locks",
+    "p_count": 75,
+    "price_wl": 75,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:13:35.807Z"
+  },
+  {
+    "player1": "Rawy",
+    "player2": "Renting Station",
+    "world": "PLR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:13:35.816Z"
   }
 ]
