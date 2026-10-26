@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ChaEun",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Bear Spirit",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-26T04:40:37.270Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ChaEun",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Tattered Cloak",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-26T04:40:45.268Z"
-  },
-  {
     "player1": "Dantegt",
     "player2": "Buying Machine",
     "world": "RN",
@@ -128,5 +102,31 @@
     "price_wl": 194,
     "traded_with": null,
     "timestamp": "2026-10-26T04:45:19.576Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XE0",
+    "world": "DIGIVEND",
+    "action": "BUY",
+    "item_name": "Starship Deck Ladders",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-10-26T04:46:19.651Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 78,
+    "p_name": "World Locks",
+    "p_count": 23400,
+    "price_wl": 23400,
+    "traded_with": null,
+    "timestamp": "2026-10-26T04:46:43.523Z"
   }
 ]
