@@ -1,57 +1,5 @@
 [
   {
-    "player1": "skyboss",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 36000,
-    "price_wl": 36000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:40:17.022Z"
-  },
-  {
-    "player1": "PRABOWO",
-    "player2": "MrGods",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 34,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "MrGods",
-    "timestamp": "2026-10-26T14:41:15.725Z"
-  },
-  {
-    "player1": "MrGods",
-    "player2": "PRABOWO",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "PRABOWO",
-    "timestamp": "2026-10-26T14:41:15.726Z"
-  },
-  {
-    "player1": "Becker",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:41:19.511Z"
-  },
-  {
     "player1": "Tuslam",
     "player2": "Renting Station",
     "world": "RN",
@@ -128,5 +76,57 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-26T14:47:19.580Z"
+  },
+  {
+    "player1": "LekBron",
+    "player2": "@Muscles",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Muscles",
+    "timestamp": "2026-10-26T14:47:33.909Z"
+  },
+  {
+    "player1": "@Muscles",
+    "player2": "LekBron",
+    "world": "TEMBAK",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 36,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "LekBron",
+    "timestamp": "2026-10-26T14:47:33.910Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZANREV",
+    "world": "BUTIK",
+    "action": "BUY",
+    "item_name": "Adventuring Mustache",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:47:40.988Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyonix",
+    "world": "ARK",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:47:48.494Z"
   }
 ]
