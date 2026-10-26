@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrixGT",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 9000,
-    "price_wl": 9000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T11:20:04.291Z"
-  },
-  {
-    "player1": "JoyyinCPS",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-26T11:20:12.711Z"
-  },
-  {
     "player1": "PalPadhil",
     "player2": "Buying Machine",
     "world": "DTA",
@@ -128,5 +102,31 @@
     "price_wl": 15600,
     "traded_with": null,
     "timestamp": "2026-10-26T11:22:14.536Z"
+  },
+  {
+    "player1": "PalPadhil",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-26T11:22:48.785Z"
+  },
+  {
+    "player1": "PalPadhil",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-26T11:23:16.903Z"
   }
 ]
