@@ -4,19 +4,6 @@
     "player2": "forext",
     "world": "VENDSPOT",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:15:59.293Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "forext",
-    "world": "VENDSPOT",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 3500,
     "traded_with": null,
     "timestamp": "2026-10-26T19:17:16.882Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "A7B",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-26T19:17:31.264Z"
   }
 ]
