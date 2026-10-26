@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VladCPsSeries",
-    "player2": "Buying Machine",
-    "world": "VLASHOP",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 475,
-    "price_wl": 475,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:01:54.981Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "POLLOz",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 140,
     "traded_with": null,
     "timestamp": "2026-10-26T19:03:53.012Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "A7B",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Theater Curtain",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-10-26T19:04:09.687Z"
   }
 ]
