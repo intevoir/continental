@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AFIFAH [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Thingamabob",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T20:32:47.486Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vyron",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 23000,
-    "price_wl": 23000,
-    "traded_with": null,
-    "timestamp": "2026-10-26T20:34:49.469Z"
-  },
-  {
     "player1": "NEXTREME",
     "player2": "Renting Station",
     "world": "RENTMOZ",
@@ -128,5 +102,31 @@
     "price_wl": 4250,
     "traded_with": null,
     "timestamp": "2026-10-26T20:40:40.698Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 159,
+    "p_name": "World Locks",
+    "p_count": 7155,
+    "price_wl": 7155,
+    "traded_with": null,
+    "timestamp": "2026-10-26T20:42:36.923Z"
+  },
+  {
+    "player1": "UnfaceLionV",
+    "player2": "Renting Station",
+    "world": "BUYMAGPLANT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 53,
+    "price_wl": 53,
+    "traded_with": null,
+    "timestamp": "2026-10-26T20:42:48.617Z"
   }
 ]
