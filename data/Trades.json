@@ -1,57 +1,5 @@
 [
   {
-    "player1": "DIKRTO",
-    "player2": "Buying Machine",
-    "world": "XD",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 210,
-    "price_wl": 210,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:01:27.918Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Marchiano",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:02:03.890Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Marchiano",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:02:03.933Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PriaSadboy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-26T12:02:03.938Z"
-  },
-  {
     "player1": "VERSYOU",
     "player2": "Buying Machine",
     "world": "SAW",
@@ -128,5 +76,57 @@
     "price_wl": 386,
     "traded_with": null,
     "timestamp": "2026-10-26T12:03:34.374Z"
+  },
+  {
+    "player1": "DIKRTO",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 92,
+    "p_name": "World Locks",
+    "p_count": 184,
+    "price_wl": 184,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:03:38.566Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DIKRTO",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:04:05.486Z"
+  },
+  {
+    "player1": "KingzRgt",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:04:05.510Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DIKRTO",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-26T12:04:05.520Z"
   }
 ]
