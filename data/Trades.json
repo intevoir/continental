@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "A7B",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Heartcastle Column",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:01:11.213Z"
-  },
-  {
     "player1": "VladCPsSeries",
     "player2": "Buying Machine",
     "world": "VLASHOP",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-26T19:03:10.126Z"
+  },
+  {
+    "player1": "VladCPsSeries",
+    "player2": "Buying Machine",
+    "world": "VLASHOP",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 140,
+    "price_wl": 140,
+    "traded_with": null,
+    "timestamp": "2026-10-26T19:03:53.012Z"
   }
 ]
