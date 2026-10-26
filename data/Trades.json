@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Drzarealm",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-26T06:13:01.957Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Omanqas",
-    "world": "SURGCL",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-26T06:13:01.963Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "nnashii",
     "world": "TOKO8",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-26T06:15:34.451Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "nnashii",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-26T06:16:04.272Z"
+  },
+  {
+    "player1": "AlexGhtn",
+    "player2": "Renting Station",
+    "world": "CROT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 71,
+    "price_wl": 71,
+    "traded_with": null,
+    "timestamp": "2026-10-26T06:16:04.282Z"
   }
 ]
