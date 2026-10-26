@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Bjawa",
-    "world": "BFGUKIR",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:03:03.337Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bjawa",
-    "world": "BFGUKIR",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:03:06.969Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Bjawa",
-    "world": "BFGUKIR",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:03:13.743Z"
-  },
-  {
-    "player1": "andhica",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 205,
-    "price_wl": 205,
-    "traded_with": null,
-    "timestamp": "2026-10-26T14:03:59.468Z"
-  },
-  {
     "player1": "andhica",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +76,57 @@
     "price_wl": 12500,
     "traded_with": null,
     "timestamp": "2026-10-26T14:04:20.438Z"
+  },
+  {
+    "player1": "andhica",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:05:00.585Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "andhica",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 345,
+    "price_wl": 345,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:05:00.599Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R33",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:05:00.628Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R33",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-10-26T14:05:09.694Z"
   }
 ]
