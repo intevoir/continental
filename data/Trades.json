@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Snoozly",
-    "world": "12",
-    "action": "BUY",
-    "item_name": "Rhino Horn",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-26T04:58:24.212Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "METAPLANET",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-26T05:03:26.940Z"
+  },
+  {
+    "player1": "HOLICOO",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-10-26T05:03:54.090Z"
   }
 ]
