@@ -4,19 +4,6 @@
     "player2": "R33",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Guestbook",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-26T19:09:10.682Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "R33",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Message in a Bottle",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 91,
     "traded_with": null,
     "timestamp": "2026-10-26T19:11:56.091Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R33",
+    "world": "MARKET",
+    "action": "BUY",
+    "item_name": "Diaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-26T19:12:00.667Z"
   }
 ]
