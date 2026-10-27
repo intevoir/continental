@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-27T03:03:57.600Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "CleyoKW",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8131,
     "traded_with": null,
     "timestamp": "2026-10-27T03:07:56.503Z"
+  },
+  {
+    "player1": "@waku",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-27T03:09:26.638Z"
   }
 ]
