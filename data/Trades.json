@@ -1,19 +1,6 @@
 [
   {
     "player1": "PTplc",
-    "player2": "Buying Machine",
-    "world": "LIKEBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 25500,
-    "price_wl": 25500,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:10:38.212Z"
-  },
-  {
-    "player1": "PTplc",
     "player2": "Renting Station",
     "world": "KSEEH",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-27T02:21:01.504Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "reyuu2",
+    "world": "BFGID",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 540000,
+    "price_wl": 540000,
+    "traded_with": null,
+    "timestamp": "2026-10-27T02:21:32.074Z"
   }
 ]
