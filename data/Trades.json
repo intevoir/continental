@@ -1,31 +1,5 @@
 [
   {
-    "player1": "xcurut",
-    "player2": "Buying Machine",
-    "world": "BFGID",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3400,
-    "price_wl": 3400,
-    "traded_with": null,
-    "timestamp": "2026-10-27T09:03:42.226Z"
-  },
-  {
-    "player1": "habs",
-    "player2": "Renting Station",
-    "world": "PTKK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-27T09:04:25.820Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMythicalFist [ELITE]",
     "world": "USHOP",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-27T09:07:01.806Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PallangRS",
+    "world": "SELLBLOCKS",
+    "action": "BUY",
+    "item_name": "Red Block",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-27T09:07:44.052Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vodixel",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Diamond Lotus Lamp",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-27T09:08:01.077Z"
   }
 ]
