@@ -4,19 +4,6 @@
     "player2": "HamNt",
     "world": "DISKON",
     "action": "BUY",
-    "item_name": "Rayman's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-27T01:50:09.385Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "DISKON",
-    "action": "BUY",
     "item_name": "Rayman's Shoes",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 90000,
     "traded_with": null,
     "timestamp": "2026-10-27T01:57:02.421Z"
+  },
+  {
+    "player1": "Blackfoxtm",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-27T01:58:08.688Z"
   }
 ]
