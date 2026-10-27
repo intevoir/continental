@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ficcy",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-27T13:28:54.482Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "P4SI",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1720,
     "traded_with": null,
     "timestamp": "2026-10-27T13:33:55.880Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@GanoEL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-27T13:34:00.567Z"
   }
 ]
