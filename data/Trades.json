@@ -1,18 +1,5 @@
 [
   {
-    "player1": "VelonBOB",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 42,
-    "price_wl": 42,
-    "traded_with": null,
-    "timestamp": "2026-10-27T05:43:02.926Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SkyVieth",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 945,
     "traded_with": null,
     "timestamp": "2026-10-27T05:52:59.832Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Stevenlai10",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black ATM Machine",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-27T05:53:03.446Z"
   }
 ]
