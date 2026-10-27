@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "sylo",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-27T12:44:39.188Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "dwinilek",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Forcefield",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-27T12:44:39.200Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "dwinilek",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-27T12:47:55.948Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Whops []",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 625,
+    "price_wl": 625,
+    "traded_with": null,
+    "timestamp": "2026-10-27T12:48:41.491Z"
+  },
+  {
+    "player1": "DrBeier",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5700,
+    "price_wl": 5700,
+    "traded_with": null,
+    "timestamp": "2026-10-27T12:48:41.509Z"
   }
 ]
