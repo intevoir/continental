@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@waku[]",
-    "player2": "Renting Station",
-    "world": "NE",
-    "action": "RENT",
-    "item_name": "Dragon of Ender",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-10-27T08:31:07.109Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Kingfal [PRO ] []",
     "world": "COLOR",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-10-27T08:32:34.681Z"
+  },
+  {
+    "player1": "Pinacle",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-27T08:32:38.477Z"
   }
 ]
