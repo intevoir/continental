@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 35,
-    "price_wl": 35,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:56:51.588Z"
-  },
-  {
-    "player1": "ajaibbb",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Golden Heartsword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:56:51.597Z"
-  },
-  {
-    "player1": "Budakbaru",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Haunted Chemical",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-27T03:03:24.372Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rcghost",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3500,
+    "price_wl": 3500,
+    "traded_with": null,
+    "timestamp": "2026-10-27T03:03:50.073Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Galonn",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-27T03:03:57.600Z"
   }
 ]
