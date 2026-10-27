@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "XiaoShan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2200,
-    "price_wl": 2200,
-    "traded_with": null,
-    "timestamp": "2026-10-27T01:39:52.048Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Blackfoxtm",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1300,
     "traded_with": null,
     "timestamp": "2026-10-27T01:42:53.492Z"
+  },
+  {
+    "player1": "Omanqas",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5800,
+    "price_wl": 5800,
+    "traded_with": null,
+    "timestamp": "2026-10-27T01:44:55.011Z"
   }
 ]
