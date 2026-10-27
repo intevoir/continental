@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "STOREU",
-    "action": "BUY",
-    "item_name": "Open Sign",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-27T03:59:33.672Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Snewp",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-27T04:00:13.160Z"
-  },
-  {
     "player1": "MONYETLO",
     "player2": "Renting Station",
     "world": "DUNI",
@@ -128,5 +102,31 @@
     "price_wl": 458,
     "traded_with": null,
     "timestamp": "2026-10-27T04:02:45.993Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTX5090",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 380,
+    "price_wl": 380,
+    "traded_with": null,
+    "timestamp": "2026-10-27T04:03:17.636Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Leopaw",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "Heartcastle Column",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-27T04:03:45.830Z"
   }
 ]
