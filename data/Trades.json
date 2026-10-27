@@ -10,32 +10,6 @@
     "p_count": 1000,
     "price_wl": 1000,
     "traded_with": null,
-    "timestamp": "2026-10-27T13:52:05.023Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XIXA",
-    "world": "SELLCHEST",
-    "action": "BUY",
-    "item_name": "Blue Chest",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-27T13:52:08.675Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "jojokod",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
     "timestamp": "2026-10-27T13:52:25.140Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 119000,
     "traded_with": null,
     "timestamp": "2026-10-27T13:54:39.451Z"
+  },
+  {
+    "player1": "Royalthy",
+    "player2": "Urben",
+    "world": "BFGEYC",
+    "action": "TRADE",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Urben",
+    "timestamp": "2026-10-27T13:55:34.414Z"
+  },
+  {
+    "player1": "Urben",
+    "player2": "Royalthy",
+    "world": "BFGEYC",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Royalthy",
+    "timestamp": "2026-10-27T13:55:34.414Z"
   }
 ]
