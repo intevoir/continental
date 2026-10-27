@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:56:19.940Z"
-  },
-  {
-    "player1": "Budakbaru",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-27T03:02:51.958Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Galonn",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-27T03:03:24.372Z"
   }
 ]
