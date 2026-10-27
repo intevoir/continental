@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Lekroma",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:32:46.947Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lekroma",
-    "world": "IDOOM",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:33:38.540Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "verkal",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 8375,
     "traded_with": null,
     "timestamp": "2026-10-27T02:37:39.351Z"
+  },
+  {
+    "player1": "stns [ELITE]",
+    "player2": "Renting Station",
+    "world": "RENTMOZ",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-27T02:38:11.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TheRises",
+    "world": "TOKOC",
+    "action": "BUY",
+    "item_name": "Ancestral Tesseract of Dimensions",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-27T02:38:39.675Z"
   }
 ]
