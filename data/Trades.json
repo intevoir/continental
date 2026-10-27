@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Kontorl",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-27T14:17:15.052Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "latips",
-    "world": "SELLAGEMS",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 115,
-    "p_name": "World Locks",
-    "p_count": 575,
-    "price_wl": 575,
-    "traded_with": null,
-    "timestamp": "2026-10-27T14:18:27.506Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "latips",
     "world": "SELLAGEMS",
@@ -128,5 +102,31 @@
     "price_wl": 28,
     "traded_with": null,
     "timestamp": "2026-10-27T14:21:16.300Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "xcurut",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Golden Booty Chest",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-10-27T14:21:23.700Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Jasson",
+    "world": "PAKAIAN",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-27T14:21:30.936Z"
   }
 ]
