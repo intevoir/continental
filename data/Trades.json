@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-27T11:44:46.509Z"
-  },
-  {
-    "player1": "Ryzm",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 11600,
-    "price_wl": 11600,
-    "traded_with": null,
-    "timestamp": "2026-10-27T11:44:46.529Z"
-  },
-  {
     "player1": "@QOIL",
     "player2": "Buying Machine",
     "world": "DTA",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-27T11:47:16.915Z"
+  },
+  {
+    "player1": "Apalaz",
+    "player2": "Renting Station",
+    "world": "JABOL",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-27T11:47:23.856Z"
+  },
+  {
+    "player1": "CleyoKW",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-27T11:47:45.385Z"
   }
 ]
