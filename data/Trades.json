@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Derbond",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Legendary Granite",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-27T01:39:52.034Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "XiaoShan",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 300,
     "traded_with": null,
     "timestamp": "2026-10-27T01:41:52.826Z"
+  },
+  {
+    "player1": "Derbond",
+    "player2": "Buying Machine",
+    "world": "VENDSHOP",
+    "action": "SELL",
+    "item_name": "Royal Lock",
+    "item_count": 130,
+    "p_name": "World Locks",
+    "p_count": 1300,
+    "price_wl": 1300,
+    "traded_with": null,
+    "timestamp": "2026-10-27T01:42:53.492Z"
   }
 ]
