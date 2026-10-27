@@ -1,31 +1,5 @@
 [
   {
-    "player1": "ZEPTH",
-    "player2": "Buying Machine",
-    "world": "CUAN",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6700,
-    "price_wl": 6700,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:18:47.187Z"
-  },
-  {
-    "player1": "HACLONE",
-    "player2": "Renting Station",
-    "world": "KSEEH",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-27T02:18:55.419Z"
-  },
-  {
     "player1": "DrThiphoon",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-27T02:23:04.693Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@NEPzy",
+    "world": "STORECSN",
+    "action": "BUY",
+    "item_name": "Fire Escape",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-27T02:24:38.203Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Charcoal",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-27T02:24:45.802Z"
   }
 ]
