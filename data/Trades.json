@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OngLy",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 210,
-    "p_name": "World Locks",
-    "p_count": 1050,
-    "price_wl": 1050,
-    "traded_with": null,
-    "timestamp": "2026-10-27T04:26:37.541Z"
-  },
-  {
     "player1": "Pinacle",
     "player2": "Buying Machine",
     "world": "DTA",
@@ -128,5 +115,18 @@
     "price_wl": 1400,
     "traded_with": null,
     "timestamp": "2026-10-27T04:29:32.651Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-27T04:30:49.832Z"
   }
 ]
