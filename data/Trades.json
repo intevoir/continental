@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GAMS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Snow Goggles",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:24:22.385Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AllahPunyaJalan",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 13000,
     "traded_with": null,
     "timestamp": "2026-10-28T11:29:24.649Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ahyen",
+    "world": "HAI",
+    "action": "BUY",
+    "item_name": "Surg-E",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:29:36.709Z"
   }
 ]
