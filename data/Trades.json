@@ -1,18 +1,5 @@
 [
   {
-    "player1": "FungpaoCPS",
-    "player2": "Buying Machine",
-    "world": "MYGEIGER",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T19:21:28.080Z"
-  },
-  {
     "player1": "Listens",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 42000,
     "traded_with": null,
     "timestamp": "2026-10-28T19:29:42.640Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@A7B",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Neptune's Pendant",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T19:30:30.724Z"
   }
 ]
