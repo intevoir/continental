@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Farzy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 49,
-    "price_wl": 49,
-    "traded_with": null,
-    "timestamp": "2026-10-28T07:55:54.313Z"
-  },
-  {
-    "player1": "Xzelko",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-28T07:56:29.156Z"
-  },
-  {
     "player1": "Genesi",
     "player2": "Renting Station",
     "world": "BUYMAGPLANT",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-28T07:58:34.352Z"
+  },
+  {
+    "player1": "Ibulll",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 670,
+    "price_wl": 670,
+    "traded_with": null,
+    "timestamp": "2026-10-28T07:59:34.199Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ibulll",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T07:59:50.920Z"
   }
 ]
