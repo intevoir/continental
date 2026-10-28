@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@SELL []",
-    "player2": "Renting Station",
-    "world": "BOSTT",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-28T07:07:44.401Z"
-  },
-  {
     "player1": "DrYokk",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-28T07:10:41.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MTK",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-28T07:11:36.873Z"
   }
 ]
