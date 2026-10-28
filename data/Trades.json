@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AlpinNt",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-28T07:07:30.704Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AlpinNt",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Ghost Charm",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-28T07:07:30.730Z"
-  },
-  {
     "player1": "CleyoKW",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-28T07:08:04.473Z"
+  },
+  {
+    "player1": "CleyoKW",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-10-28T07:08:57.582Z"
+  },
+  {
+    "player1": "CleyoKW",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 114,
+    "p_name": "World Locks",
+    "p_count": 570,
+    "price_wl": 570,
+    "traded_with": null,
+    "timestamp": "2026-10-28T07:09:01.186Z"
   }
 ]
