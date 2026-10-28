@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "O5",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T06:34:22.459Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "andhica",
     "world": "BFGMINE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-28T06:36:45.284Z"
+  },
+  {
+    "player1": "BabuThay",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 9625,
+    "price_wl": 9625,
+    "traded_with": null,
+    "timestamp": "2026-10-28T06:37:45.356Z"
   }
 ]
