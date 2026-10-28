@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "GAMS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Royal Lightning Boots",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T12:43:07.354Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SHboy",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-28T12:44:55.117Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PembasmiBOTI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-28T12:44:59.626Z"
   }
 ]
