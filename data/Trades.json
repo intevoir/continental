@@ -5,19 +5,6 @@
     "world": "LANSHOP",
     "action": "SELL",
     "item_name": "Radioactive Chemical",
-    "item_count": 35,
-    "p_name": "World Locks",
-    "p_count": 1225,
-    "price_wl": 1225,
-    "traded_with": null,
-    "timestamp": "2026-10-28T09:38:07.682Z"
-  },
-  {
-    "player1": "ASOSANI",
-    "player2": "Buying Machine",
-    "world": "LANSHOP",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
     "item_count": 1,
     "p_name": "World Locks",
     "p_count": 35,
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-28T09:42:40.398Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "pempeng",
+    "world": "7WG",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T09:42:47.802Z"
   }
 ]
