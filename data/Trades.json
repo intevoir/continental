@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Prs2",
-    "player2": "Renting Station",
-    "world": "BFGREADY",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T00:45:46.674Z"
-  },
-  {
     "player1": "DrKenspiro",
     "player2": "Renting Station",
     "world": "PTKK",
@@ -128,5 +115,18 @@
     "price_wl": 5900,
     "traded_with": null,
     "timestamp": "2026-10-28T00:57:16.654Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Egogil",
+    "world": "CUAN",
+    "action": "BUY",
+    "item_name": "Gaia's Beacon",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 180,
+    "price_wl": 180,
+    "traded_with": null,
+    "timestamp": "2026-10-28T01:01:52.656Z"
   }
 ]
