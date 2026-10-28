@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AFIAH [ELITE]",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Curse Wand",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:44:59.445Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AFIAH [ELITE]",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Duct Tape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:45:04.360Z"
-  },
-  {
-    "player1": "Levazaa",
-    "player2": "Buying Machine",
-    "world": "SENATUN1",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 840,
-    "price_wl": 840,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:45:07.434Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Gandalf76",
-    "world": "TEMBAK",
-    "action": "BUY",
-    "item_name": "Dapa's Moonlight Blade",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:46:05.031Z"
-  },
-  {
     "player1": "Vyron",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 49,
     "traded_with": null,
     "timestamp": "2026-10-28T14:46:45.280Z"
+  },
+  {
+    "player1": "@Isayaak",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Gojo Satoru - 104",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-10-28T14:47:35.273Z"
+  },
+  {
+    "player1": "MTK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T14:47:35.291Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "DrELEK",
+    "world": "XIANO",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 17,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrELEK",
+    "timestamp": "2026-10-28T14:47:35.300Z"
+  },
+  {
+    "player1": "DrELEK",
+    "player2": "MassDerr",
+    "world": "XIANO",
+    "action": "TRADE",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "MassDerr",
+    "timestamp": "2026-10-28T14:47:35.301Z"
   }
 ]
