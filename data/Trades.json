@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PhenSayangFredy",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4500,
-    "price_wl": 4500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T15:57:16.079Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "QITELA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T15:57:24.729Z"
-  },
-  {
     "player1": "@ZRP",
     "player2": "Renting Station",
     "world": "RN",
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-28T15:59:04.862Z"
+  },
+  {
+    "player1": "Illuminati: @Yia [ELITE]",
+    "player2": "@Gerald [PRO ] [] [RICH] [] [RAWR]",
+    "world": "WIN",
+    "action": "TRADE",
+    "item_name": "CreativePS Black Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Gerald [PRO ] [] [RICH] [] [RAWR]",
+    "timestamp": "2026-10-28T15:59:31.239Z"
+  },
+  {
+    "player1": "@Gerald [PRO ] [] [RICH] [] [RAWR]",
+    "player2": "Illuminati: @Yia [ELITE]",
+    "world": "WIN",
+    "action": "TRADE",
+    "item_name": "Elite Item: Bomber Wings",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Illuminati: @Yia [ELITE]",
+    "timestamp": "2026-10-28T15:59:31.239Z"
   }
 ]
