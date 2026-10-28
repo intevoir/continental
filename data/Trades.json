@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MITOHA",
-    "world": "YTOKO",
-    "action": "BUY",
-    "item_name": "Hot Pink Dancefloor",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:24:22.834Z"
-  },
-  {
     "player1": "Yiwa",
     "player2": "Buying Machine",
     "world": "XD",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-28T03:26:10.471Z"
+  },
+  {
+    "player1": "Galonn",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:27:14.271Z"
   }
 ]
