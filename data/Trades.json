@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ROCD",
-    "player2": "Buying Machine",
-    "world": "LIKEBFG",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 5100,
-    "price_wl": 5100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T19:01:50.678Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Imaxx",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Snoozly",
     "timestamp": "2026-10-28T19:06:28.301Z"
+  },
+  {
+    "player1": "Topaa",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Gogeta Blue - 03",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-10-28T19:07:17.922Z"
   }
 ]
