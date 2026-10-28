@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ADK",
-    "player2": "Buying Machine",
-    "world": "EXILOPE",
-    "action": "SELL",
-    "item_name": "Mega Growtoken",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:37:12.728Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Rallllld",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-28T03:40:13.720Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rallllld",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:41:28.950Z"
   }
 ]
