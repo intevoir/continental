@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AsthonKell",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 33,
-    "price_wl": 33,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:16:11.501Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Chisatoo",
-    "world": "VENDQ",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:16:19.867Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MONYETLO",
     "world": "ZAHRAAAA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5900,
     "traded_with": null,
     "timestamp": "2026-10-28T17:18:30.354Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PriceStore [ELITE] []",
+    "world": "SHOPK",
+    "action": "BUY",
+    "item_name": "Chinese Lantern",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:19:30.783Z"
+  },
+  {
+    "player1": "Ryzm",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 4250,
+    "price_wl": 4250,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:19:30.790Z"
   }
 ]
