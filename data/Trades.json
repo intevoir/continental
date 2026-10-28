@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MAULANA",
-    "player2": "Buying Machine",
-    "world": "ZIH",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 75,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-28T01:56:09.539Z"
-  },
-  {
-    "player1": "Nobunaga",
-    "player2": "Renting Station",
-    "world": "BFGNG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-28T01:56:45.290Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@alen",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-28T01:59:46.022Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Grasshopper",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2400,
+    "price_wl": 2400,
+    "traded_with": null,
+    "timestamp": "2026-10-28T02:01:46.827Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Grasshopper",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T02:01:54.719Z"
   }
 ]
