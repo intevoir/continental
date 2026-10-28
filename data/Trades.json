@@ -1,31 +1,5 @@
 [
   {
-    "player1": "NAD",
-    "player2": "Buying Machine",
-    "world": "BFGUNDIP3",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 67,
-    "p_name": "World Locks",
-    "p_count": 469,
-    "price_wl": 469,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:31:29.350Z"
-  },
-  {
-    "player1": "GripDheat",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-10-28T14:31:29.356Z"
-  },
-  {
     "player1": "GripDheat",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-28T14:33:59.486Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Whops []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T14:34:32.497Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SHboy",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Nether Blast",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T14:34:32.601Z"
   }
 ]
