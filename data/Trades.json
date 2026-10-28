@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Lyans",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 85000,
-    "price_wl": 85000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T16:53:55.461Z"
-  },
-  {
     "player1": "Topaa",
     "player2": "Renting Station",
     "world": "BENZYL",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-28T16:56:25.907Z"
+  },
+  {
+    "player1": "Kopongs",
+    "player2": "Buying Machine",
+    "world": "DMH",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-28T16:56:56.204Z"
   }
 ]
