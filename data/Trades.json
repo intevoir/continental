@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Vhoz",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T08:25:39.654Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Vhoz",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T08:25:39.658Z"
-  },
-  {
     "player1": "Teikuu",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Zyp",
     "timestamp": "2026-10-28T08:29:41.031Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Raffaiq",
+    "world": "TAXI",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-10-28T08:30:00.987Z"
+  },
+  {
+    "player1": "RealB2 [ELITE] [GACOR]",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 4275,
+    "price_wl": 4275,
+    "traded_with": null,
+    "timestamp": "2026-10-28T08:30:13.202Z"
   }
 ]
