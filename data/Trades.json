@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Egogil",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-28T01:01:52.656Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrCaptFin",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-28T01:05:42.002Z"
+  },
+  {
+    "player1": "Pinacle",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-10-28T01:06:20.358Z"
   }
 ]
