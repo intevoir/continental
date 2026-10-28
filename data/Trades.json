@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ParkJiSung",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Buying Machine",
-    "item_count": 78,
-    "p_name": "World Locks",
-    "p_count": 58500,
-    "price_wl": 58500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:16:02.719Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrKenspiro",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 930,
     "traded_with": null,
     "timestamp": "2026-10-28T03:18:47.385Z"
+  },
+  {
+    "player1": "Galonn",
+    "player2": "Buying Machine",
+    "world": "XD",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:19:39.246Z"
   }
 ]
