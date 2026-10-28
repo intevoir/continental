@@ -1,44 +1,5 @@
 [
   {
-    "player1": "@Muscles",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 357,
-    "price_wl": 357,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:23:07.700Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Maxim25G",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:23:07.704Z"
-  },
-  {
-    "player1": "@Muscles",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Golden Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 357,
-    "price_wl": 357,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:23:07.708Z"
-  },
-  {
     "player1": "Erafones",
     "player2": "Buying Machine",
     "world": "WNI",
@@ -128,5 +89,44 @@
     "price_wl": 660,
     "traded_with": null,
     "timestamp": "2026-10-28T17:26:34.475Z"
+  },
+  {
+    "player1": "AFDELc",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Lock Mover",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:27:23.815Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrEthernals",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 25000,
+    "price_wl": 25000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:27:36.475Z"
+  },
+  {
+    "player1": "AFDELc",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:27:36.488Z"
   }
 ]
