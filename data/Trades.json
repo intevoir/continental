@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKenspiro",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Pay Wall",
-    "item_count": 64,
-    "p_name": "World Locks",
-    "p_count": 16000,
-    "price_wl": 16000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:16:02.735Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "fer77",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 9300,
-    "price_wl": 9300,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:16:06.566Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Ahyen",
     "world": "FREEBFG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-10-28T03:19:39.246Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:19:50.628Z"
+  },
+  {
+    "player1": "Yiwa",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 57,
+    "price_wl": 57,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:20:07.392Z"
   }
 ]
