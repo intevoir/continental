@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Snoozly",
-    "player2": "Buying Machine",
-    "world": "RICH",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-28T18:48:53.933Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "SHOPEE",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-28T18:58:21.171Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Shovia",
+    "world": "VENDD",
+    "action": "BUY",
+    "item_name": "Medical Scarf",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-28T18:59:49.852Z"
   }
 ]
