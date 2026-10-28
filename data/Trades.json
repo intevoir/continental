@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "O5",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T06:35:15.107Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "O5",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T06:35:35.299Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Voxel",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 57500,
     "traded_with": null,
     "timestamp": "2026-10-28T06:39:17.050Z"
+  },
+  {
+    "player1": "@Fhira[DNU]",
+    "player2": "Renting Station",
+    "world": "BUYMAGPLANT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 53,
+    "price_wl": 53,
+    "traded_with": null,
+    "timestamp": "2026-10-28T06:39:21.865Z"
+  },
+  {
+    "player1": "BabuThay",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-28T06:39:47.652Z"
   }
 ]
