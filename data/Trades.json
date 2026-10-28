@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "AllahPunyaJalan",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Birth Certificate",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:25:38.626Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "GAMS",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Dragon Fruit Bussin' Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:25:38.636Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Velmora [ELITE]",
-    "world": "USE",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:25:46.564Z"
-  },
-  {
     "player1": "Fortitude",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-28T11:29:36.709Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sylo",
+    "world": "CUAN",
+    "action": "BUY",
+    "item_name": "Forcefield",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:30:25.482Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sylo",
+    "world": "CBS",
+    "action": "BUY",
+    "item_name": "Paint Bucket - Green",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:30:40.478Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "sylo",
+    "world": "CBS",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:30:43.977Z"
   }
 ]
