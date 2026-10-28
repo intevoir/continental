@@ -5,19 +5,6 @@
     "world": "TOKOA",
     "action": "BUY",
     "item_name": "Display Block",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-10-28T10:06:49.127Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "TOKOA",
-    "action": "BUY",
-    "item_name": "Display Block",
     "item_count": 10,
     "p_name": "World Locks",
     "p_count": 2,
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-10-28T10:11:50.648Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SandalID",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T10:12:15.775Z"
   }
 ]
