@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "MassDerr",
-    "world": "SKYBOSS",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 187500,
-    "price_wl": 187500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T04:29:47.351Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "radana",
-    "world": "WMW",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-28T04:29:51.543Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "radana",
     "world": "WMW",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1080,
     "traded_with": null,
     "timestamp": "2026-10-28T04:30:55.669Z"
+  },
+  {
+    "player1": "Yuminattha",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1360,
+    "price_wl": 1360,
+    "traded_with": null,
+    "timestamp": "2026-10-28T04:31:27.137Z"
+  },
+  {
+    "player1": "DrBOGOL",
+    "player2": "Renting Station",
+    "world": "RN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-10-28T04:31:43.463Z"
   }
 ]
