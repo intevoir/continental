@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "EnaEna",
-    "world": "FREERENT",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T05:55:59.732Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kartow",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-28T05:59:01.427Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "SHOPE",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-28T05:59:14.862Z"
   }
 ]
