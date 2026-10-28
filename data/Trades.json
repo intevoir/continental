@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Kecep",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T16:08:17.763Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-28T16:09:44.980Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Velmora [ELITE]",
+    "world": "USE",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-28T16:10:11.639Z"
   }
 ]
