@@ -1,18 +1,5 @@
 [
   {
-    "player1": "JustTambuk",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5800,
-    "price_wl": 5800,
-    "traded_with": null,
-    "timestamp": "2026-10-28T01:43:02.181Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HamNt",
     "world": "BUYVIPDOOR",
@@ -128,5 +115,18 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-10-28T01:49:09.527Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrXenita",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-28T01:49:41.640Z"
   }
 ]
