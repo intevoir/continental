@@ -1,31 +1,5 @@
 [
   {
-    "player1": "MARNIE",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-28T15:13:47.464Z"
-  },
-  {
-    "player1": "SirHanCPS",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T15:13:47.485Z"
-  },
-  {
     "player1": "SirHanCPS",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-28T15:15:57.897Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "vryuga",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Psychotic Bunny",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-28T15:16:47.608Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ngulidicps12",
+    "world": "BUYPRINCESS",
+    "action": "BUY",
+    "item_name": "Princess",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T15:17:03.471Z"
   }
 ]
