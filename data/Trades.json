@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DRAX69",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:48:33.222Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NatanSlebor",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Lightning Umbrella",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:49:10.356Z"
-  },
-  {
     "player1": "Retous",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-28T11:54:44.547Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSocius",
+    "world": "SELLPINBAL",
+    "action": "BUY",
+    "item_name": "Pinball Bumper",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:55:52.292Z"
+  },
+  {
+    "player1": "Cieloo",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:55:59.830Z"
   }
 ]
