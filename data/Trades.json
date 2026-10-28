@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Grasshopper",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-28T01:45:57.225Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Exilope",
     "world": "NEUI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-28T01:51:50.483Z"
+  },
+  {
+    "player1": "DrCCTPI",
+    "player2": "Buying Machine",
+    "world": "CYNOBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 85000,
+    "price_wl": 85000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T01:52:43.953Z"
   }
 ]
