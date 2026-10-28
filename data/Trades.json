@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Erafones",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-28T17:23:24.011Z"
-  },
-  {
     "player1": "Rgyes",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-10-28T17:27:36.488Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBrianna [ELITE]",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Ancestral Totem of Wisdom",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T17:28:17.360Z"
   }
 ]
