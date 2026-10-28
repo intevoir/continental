@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "StarMAFIA",
-    "world": "USE",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-28T03:06:33.935Z"
-  },
-  {
     "player1": "RKMzzSTORE",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-28T03:14:07.341Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "BPBD",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 38,
+    "p_name": "World Locks",
+    "p_count": 33250,
+    "price_wl": 33250,
+    "traded_with": null,
+    "timestamp": "2026-10-28T03:15:08.664Z"
   }
 ]
