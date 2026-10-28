@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 7000,
-    "price_wl": 7000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T11:23:56.244Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GAMS",
     "world": "SET",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-28T11:28:39.419Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Messi of Legend [WIN-COMMUNITY]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 13000,
+    "price_wl": 13000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T11:29:24.649Z"
   }
 ]
