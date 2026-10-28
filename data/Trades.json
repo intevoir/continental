@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Topaa",
-    "world": "RICH",
-    "action": "BUY",
-    "item_name": "Legendary Mystery Box",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 52500,
-    "price_wl": 52500,
-    "traded_with": null,
-    "timestamp": "2026-10-28T19:18:22.403Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@A7B",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Candy Corn Exit",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T19:19:30.811Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@A7B",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1190,
     "traded_with": null,
     "timestamp": "2026-10-28T19:20:51.173Z"
+  },
+  {
+    "player1": "FungpaoCPS",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T19:20:55.393Z"
+  },
+  {
+    "player1": "FungpaoCPS",
+    "player2": "Buying Machine",
+    "world": "MYGEIGER",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T19:21:23.906Z"
   }
 ]
