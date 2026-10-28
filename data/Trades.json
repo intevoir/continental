@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Ugikganz",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 23600,
-    "price_wl": 23600,
-    "traded_with": null,
-    "timestamp": "2026-10-28T09:27:11.195Z"
-  },
-  {
     "player1": "@waku[]",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-10-28T09:30:28.456Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KAISARMAIL",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Phoenix Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20000,
+    "price_wl": 20000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T09:32:31.212Z"
   }
 ]
