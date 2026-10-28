@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Kartow",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 11600,
-    "price_wl": 11600,
-    "traded_with": null,
-    "timestamp": "2026-10-28T05:58:18.591Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Snoozly",
-    "world": "SHOPE",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-28T05:58:18.600Z"
-  },
-  {
     "player1": "kaellzy",
     "player2": "Renting Station",
     "world": "CROT",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-28T06:05:19.956Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MantaV",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T06:06:40.843Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MantaV",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-28T06:07:05.226Z"
   }
 ]
