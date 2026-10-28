@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T19:20:40.190Z"
-  },
-  {
     "player1": "Topaa",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 330,
     "traded_with": null,
     "timestamp": "2026-10-28T19:26:24.661Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@A7B",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Legendary Granite",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-10-28T19:26:37.142Z"
   }
 ]
