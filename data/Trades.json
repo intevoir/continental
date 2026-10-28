@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "TOKOA",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-28T10:06:49.147Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VEDDSHOP",
-    "world": "TOKOA",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-28T10:06:53.488Z"
-  },
-  {
     "player1": "DrComrade",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-28T10:12:15.775Z"
+  },
+  {
+    "player1": "Farzy",
+    "player2": "Buying Machine",
+    "world": "EWEAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 44,
+    "p_name": "World Locks",
+    "p_count": 39600,
+    "price_wl": 39600,
+    "traded_with": null,
+    "timestamp": "2026-10-28T10:12:50.613Z"
+  },
+  {
+    "player1": "ElDemprot [ELITE]",
+    "player2": "Buying Machine",
+    "world": "EWEAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-10-28T10:12:50.625Z"
   }
 ]
