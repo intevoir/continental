@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Approsxdhite",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fireworks",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:13:06.765Z"
-  },
-  {
     "player1": "Galonn",
     "player2": "DrProfitMaster",
     "world": "GALON3",
@@ -128,5 +115,18 @@
     "price_wl": 504,
     "traded_with": null,
     "timestamp": "2026-10-29T18:18:34.149Z"
+  },
+  {
+    "player1": "Approsxdhite",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 6960,
+    "price_wl": 6960,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:19:12.478Z"
   }
 ]
