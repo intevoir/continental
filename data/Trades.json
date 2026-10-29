@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:40:09.152Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 125,
-    "price_wl": 125,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:40:17.479Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Phopox",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 32,
     "traded_with": null,
     "timestamp": "2026-10-29T07:42:35.417Z"
+  },
+  {
+    "player1": "WishTown",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 101,
+    "price_wl": 101,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:43:35.265Z"
+  },
+  {
+    "player1": "Phopox",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 3400,
+    "price_wl": 3400,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:43:42.313Z"
   }
 ]
