@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Fiura",
-    "world": "WATERW",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 230,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-10-29T16:49:20.443Z"
-  },
-  {
     "player1": "rhfnews2",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "hobs",
     "timestamp": "2026-10-29T16:52:18.170Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrCarlots",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T16:53:11.207Z"
   }
 ]
