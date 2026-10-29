@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Zahraaaaa",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:23:21.098Z"
-  },
-  {
     "player1": "ZohorV1",
     "player2": "Renting Station",
     "world": "PURPLE",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-29T18:31:58.898Z"
+  },
+  {
+    "player1": "VNIX",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Phoenix Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:32:23.868Z"
   }
 ]
