@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Snoozly",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 24500,
-    "price_wl": 24500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:04:13.822Z"
-  },
-  {
-    "player1": "ShaYours",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:04:20.495Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Genesi",
     "world": "GEIGERU",
@@ -128,5 +102,31 @@
     "price_wl": 71,
     "traded_with": null,
     "timestamp": "2026-10-29T04:06:54.162Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ShaYours",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4700,
+    "price_wl": 4700,
+    "traded_with": null,
+    "timestamp": "2026-10-29T04:07:58.875Z"
+  },
+  {
+    "player1": "BraveBucks_146",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-29T04:08:10.822Z"
   }
 ]
