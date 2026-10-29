@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "INTJ",
-    "world": "UWSHOPS",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 96,
-    "p_name": "World Locks",
-    "p_count": 86880,
-    "price_wl": 86880,
-    "traded_with": null,
-    "timestamp": "2026-10-29T16:18:09.800Z"
-  },
-  {
     "player1": "DrFBE",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-29T16:23:14.302Z"
+  },
+  {
+    "player1": "vryuga",
+    "player2": "Buying Machine",
+    "world": "TOYIP",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-29T16:23:46.883Z"
   }
 ]
