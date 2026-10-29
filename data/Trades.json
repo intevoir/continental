@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Gandalf76",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Wicked Wizard Scar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-29T01:57:01.834Z"
-  },
-  {
-    "player1": "DrR34",
-    "player2": "Geboyy",
-    "world": "WNI",
-    "action": "TRADE",
-    "item_name": "CreativePS Diamond Lock",
-    "item_count": 14,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Geboyy",
-    "timestamp": "2026-10-29T01:57:42.133Z"
-  },
-  {
     "player1": "Geboyy",
     "player2": "DrR34",
     "world": "WNI",
@@ -128,5 +102,31 @@
     "price_wl": 4095,
     "traded_with": null,
     "timestamp": "2026-10-29T02:01:53.820Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Seannara []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T02:02:45.126Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11250,
+    "price_wl": 11250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T02:03:14.412Z"
   }
 ]
