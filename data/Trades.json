@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vyron",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 104,
-    "price_wl": 104,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:43:18.061Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "DNAX",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11,
-    "price_wl": 11,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:43:26.732Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VNIX",
     "world": "DNAX",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-10-29T18:48:14.815Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:49:06.004Z"
+  },
+  {
+    "player1": "Shovia",
+    "player2": "Renting Station",
+    "world": "KUEKITEM1",
+    "action": "RENT",
+    "item_name": "Dragon of Luxury",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3570,
+    "price_wl": 3570,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:49:23.721Z"
   }
 ]
