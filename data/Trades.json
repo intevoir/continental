@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@A7B",
-    "world": "DISPLAY",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-29T21:14:58.782Z"
-  },
-  {
     "player1": "@Beyza",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-29T21:23:02.230Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Antibody",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-29T21:26:15.646Z"
   }
 ]
