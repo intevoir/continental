@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RTobell",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-29T03:01:55.038Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PandaBOTI",
     "world": "BFGX250",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10500,
     "traded_with": null,
     "timestamp": "2026-10-29T03:05:46.645Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PandaBOTI",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buddy's Block Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-29T03:06:32.355Z"
   }
 ]
