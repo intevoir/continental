@@ -1,18 +1,5 @@
 [
   {
-    "player1": "BYANS",
-    "player2": "Buying Machine",
-    "world": "BFGID",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 16625,
-    "price_wl": 16625,
-    "traded_with": null,
-    "timestamp": "2026-10-29T21:02:50.858Z"
-  },
-  {
     "player1": "OZON",
     "player2": "Buying Machine",
     "world": "PUVY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-29T21:18:09.210Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T21:20:13.877Z"
   }
 ]
