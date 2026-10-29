@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@A7B",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T00:57:18.643Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "senty",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ancestral Orb of Time",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T00:59:20.040Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MarvinJrs",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-29T01:05:27.288Z"
+  },
+  {
+    "player1": "Xzelko",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-29T01:07:34.554Z"
+  },
+  {
+    "player1": "PawKing",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-29T01:07:54.375Z"
   }
 ]
