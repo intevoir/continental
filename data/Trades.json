@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kayonge",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Transmatter Field",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:55:26.734Z"
-  },
-  {
     "player1": "Vyron",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-10-29T18:57:07.257Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:57:27.632Z"
   }
 ]
