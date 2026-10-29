@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrGGKN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-10-29T08:51:56.518Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "THW",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 31000,
     "traded_with": null,
     "timestamp": "2026-10-29T08:56:26.386Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PEEQA",
+    "world": "UCHEAP",
+    "action": "BUY",
+    "item_name": "Phonecats Hat",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T08:56:59.054Z"
   }
 ]
