@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-29T10:19:28.319Z"
-  },
-  {
-    "player1": "MattShadows",
-    "player2": "Renting Station",
-    "world": "PTKK",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-29T10:19:53.785Z"
-  },
-  {
     "player1": "NAD",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-10-29T10:20:53.277Z"
+  },
+  {
+    "player1": "AlwaysLoi",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-10-29T10:21:00.370Z"
+  },
+  {
+    "player1": "NAD",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 114,
+    "p_name": "World Locks",
+    "p_count": 114,
+    "price_wl": 114,
+    "traded_with": null,
+    "timestamp": "2026-10-29T10:21:29.061Z"
   }
 ]
