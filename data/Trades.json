@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "GEIGER",
     "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-29T19:45:35.093Z"
-  },
-  {
-    "player1": "BYANS",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
     "item_name": "Radioactive Chemical",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-29T19:59:27.420Z"
+  },
+  {
+    "player1": "Austinking",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Golden Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:00:27.471Z"
   }
 ]
