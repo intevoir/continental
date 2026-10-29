@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "RealB3",
-    "world": "NOJ3",
-    "action": "BUY",
-    "item_name": "Surgical Antiseptic",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:23:04.329Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealB3",
-    "world": "NOJ3",
-    "action": "BUY",
-    "item_name": "Surgical Antibiotics",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:23:11.789Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RealB3",
-    "world": "NOJ3",
-    "action": "BUY",
-    "item_name": "Surgical Anesthetic",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:23:20.457Z"
-  },
-  {
-    "player1": "AGANJAGAY",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:23:33.965Z"
-  },
-  {
     "player1": "DrJoySTAR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-29T07:24:23.501Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB3",
+    "world": "NOJ3",
+    "action": "BUY",
+    "item_name": "Surgical Antibiotics",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:25:02.391Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB3",
+    "world": "NOJ3",
+    "action": "BUY",
+    "item_name": "Surgical Anesthetic",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:25:02.411Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrJoySTAR",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:25:02.431Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ziellshop",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "The Legendary Wizard's Beard",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:25:02.442Z"
   }
 ]
