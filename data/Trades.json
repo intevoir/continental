@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CianCPS",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Verdant Shades",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-29T13:55:05.265Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "RyuukiSlow",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T13:55:09.883Z"
-  },
-  {
     "player1": "ichooseEve",
     "player2": "Buying Machine",
     "world": "WNI",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-10-29T13:56:11.162Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SEWADNA [ELITE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "American Sports Ball Jersey",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-10-29T13:57:02.508Z"
+  },
+  {
+    "player1": "ichooseEve",
+    "player2": "Buying Machine",
+    "world": "WNI",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-29T13:57:06.939Z"
   }
 ]
