@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "DTARI",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T16:38:02.621Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrProfitMaster",
     "world": "6SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-29T16:41:24.417Z"
+  },
+  {
+    "player1": "TIDAR",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-29T16:42:36.435Z"
   }
 ]
