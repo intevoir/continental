@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PhenSayangFredy",
-    "world": "RASSW",
-    "action": "BUY",
-    "item_name": "No-Face",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:19:32.130Z"
-  },
-  {
     "player1": "DrCENTINAL",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 89000,
     "traded_with": null,
     "timestamp": "2026-10-29T20:25:35.832Z"
+  },
+  {
+    "player1": "Fortitude",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 21000,
+    "price_wl": 21000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:25:44.780Z"
   }
 ]
