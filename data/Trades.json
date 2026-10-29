@@ -4,32 +4,6 @@
     "player2": "VNIX",
     "world": "DNAX",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:32:13.741Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "DNAX",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:32:17.539Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "DNAX",
-    "action": "BUY",
     "item_name": "Eggs Benedict",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-29T22:40:17.169Z"
+  },
+  {
+    "player1": "SINTA",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Farmer Slave",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:40:45.851Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PiscBoy2",
+    "world": "4YH",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:40:45.864Z"
   }
 ]
