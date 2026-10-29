@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "elKaiser []",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-29T08:44:49.871Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "elKaiser []",
-    "world": "BFGWE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-10-29T08:44:49.915Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DEANDLES",
     "world": "SET",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-10-29T08:45:49.861Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DEANDLES",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12500,
+    "price_wl": 12500,
+    "traded_with": null,
+    "timestamp": "2026-10-29T08:45:59.670Z"
+  },
+  {
+    "player1": "DrGGKN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T08:46:11.943Z"
   }
 ]
