@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "DNAX",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:43:26.741Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "DNAX",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:43:34.725Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "vetot08",
     "world": "SHOPGI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 3570,
     "traded_with": null,
     "timestamp": "2026-10-29T18:49:23.721Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 36,
+    "price_wl": 36,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:50:07.604Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:50:19.279Z"
   }
 ]
