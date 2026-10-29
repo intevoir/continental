@@ -1,31 +1,5 @@
 [
   {
-    "player1": "GripDheat",
-    "player2": "Renting Station",
-    "world": "BUYMAGPLANT",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 53,
-    "price_wl": 53,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:34:06.066Z"
-  },
-  {
-    "player1": "ZOHOR",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-10-29T07:35:06.085Z"
-  },
-  {
     "player1": "ZOHOR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-29T07:37:11.240Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Lok0719",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Weather Machine - Nothingness",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:37:38.577Z"
+  },
+  {
+    "player1": "ZOHOR",
+    "player2": "Buying Machine",
+    "world": "BLOCK",
+    "action": "SELL",
+    "item_name": "Game Token",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-29T07:38:09.001Z"
   }
 ]
