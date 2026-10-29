@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@G4A",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:30:04.499Z"
-  },
-  {
-    "player1": "@G4A",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 74,
-    "p_name": "World Locks",
-    "p_count": 22200,
-    "price_wl": 22200,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:30:53.346Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VNIX",
     "world": "DNAX",
@@ -128,5 +102,31 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-29T22:38:44.315Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PiscBoy2",
+    "world": "4YH",
+    "action": "BUY",
+    "item_name": "Pepper",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:40:13.770Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PiscBoy2",
+    "world": "4YH",
+    "action": "BUY",
+    "item_name": "Salt",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 83,
+    "price_wl": 83,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:40:17.169Z"
   }
 ]
