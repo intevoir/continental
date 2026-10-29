@@ -1,31 +1,5 @@
 [
   {
-    "player1": "CucoPEZ []",
-    "player2": "Buying Machine",
-    "world": "RICH",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-29T03:28:39.848Z"
-  },
-  {
-    "player1": "kiwilkiee",
-    "player2": "Renting Station",
-    "world": "BIRU",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-10-29T03:29:13.724Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Villano",
     "world": "BUYMAGPLANT",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-29T03:32:05.071Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "CucoPEZ []",
+    "world": "RICH",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-29T03:32:41.326Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-29T03:32:41.358Z"
   }
 ]
