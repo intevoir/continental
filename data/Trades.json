@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
     "action": "SELL",
-    "item_name": "Lock Mover",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:05:05.671Z"
-  },
-  {
-    "player1": "ZennXyz",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
     "item_name": "Spammer Slave",
     "item_count": 5,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-29T22:19:39.578Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PiscBoy",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:20:12.330Z"
   }
 ]
