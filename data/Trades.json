@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Illuminati: Rich",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T06:09:56.905Z"
-  },
-  {
     "player1": "Illuminati: Rich",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 12250,
     "traded_with": null,
     "timestamp": "2026-10-29T06:10:57.586Z"
+  },
+  {
+    "player1": "Dave",
+    "player2": "Buying Machine",
+    "world": "ADE",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 16,
+    "price_wl": 16,
+    "traded_with": null,
+    "timestamp": "2026-10-29T06:11:59.885Z"
   }
 ]
