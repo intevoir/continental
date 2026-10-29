@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Austinking",
-    "world": "55",
-    "action": "BUY",
-    "item_name": "Golden Silk Scarf",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 95000,
-    "price_wl": 95000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:09:30.264Z"
-  },
-  {
     "player1": "Elv420",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-29T20:13:38.618Z"
+  },
+  {
+    "player1": "@Kelku []",
+    "player2": "Buying Machine",
+    "world": "BOSTT",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 47500,
+    "price_wl": 47500,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:15:03.164Z"
   }
 ]
