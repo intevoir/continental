@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Citraku",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 243,
-    "p_name": "World Locks",
-    "p_count": 89910,
-    "price_wl": 89910,
-    "traded_with": null,
-    "timestamp": "2026-10-29T12:47:41.701Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "corinese",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 117,
     "traded_with": null,
     "timestamp": "2026-10-29T12:49:16.004Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "corinese",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-29T12:50:11.118Z"
   }
 ]
