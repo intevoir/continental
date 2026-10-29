@@ -4,19 +4,6 @@
     "player2": "Lanqt",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:56:33.517Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Lanqt",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Lucky Clover",
     "item_count": 50,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-29T04:59:23.960Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MasKepler",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "UPDATE_STORE",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T05:00:15.493Z"
   }
 ]
