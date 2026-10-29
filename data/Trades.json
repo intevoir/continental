@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrMythicalFist [ELITE]",
-    "world": "USHOP",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:10:27.412Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VENDOBA",
     "world": "BUYSILK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2750,
     "traded_with": null,
     "timestamp": "2026-10-29T17:14:28.994Z"
+  },
+  {
+    "player1": "NAD",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1200,
+    "price_wl": 1200,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:14:53.381Z"
   }
 ]
