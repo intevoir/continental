@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Egogil",
-    "world": "CUAN",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-10-29T15:51:37.165Z"
-  },
-  {
     "player1": "Leopaw",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 330,
     "traded_with": null,
     "timestamp": "2026-10-29T15:54:00.527Z"
+  },
+  {
+    "player1": "INeedPrettyGirl",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 116,
+    "p_name": "World Locks",
+    "p_count": 41760,
+    "price_wl": 41760,
+    "traded_with": null,
+    "timestamp": "2026-10-29T15:54:32.592Z"
   }
 ]
