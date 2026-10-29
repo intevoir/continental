@@ -1,18 +1,5 @@
 [
   {
-    "player1": "NoirV2",
-    "player2": "Renting Station",
-    "world": "CPSBOTS",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14339,
-    "price_wl": 14339,
-    "traded_with": null,
-    "timestamp": "2026-10-29T12:17:28.279Z"
-  },
-  {
     "player1": "vodixel",
     "player2": "Buying Machine",
     "world": "BUYDTA",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-29T12:19:50.957Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MITOHA",
+    "world": "627",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-29T12:20:04.051Z"
   }
 ]
