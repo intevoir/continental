@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrProfitMaster",
-    "player2": "Galonn",
-    "world": "GALON3",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Galonn",
-    "timestamp": "2026-10-29T18:14:44.529Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mendes",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:14:48.013Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Mendes",
     "world": "BUYMAGPLANT",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-10-29T18:20:10.023Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VNIX",
+    "world": "DNAX",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11,
+    "price_wl": 11,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:20:53.811Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VNIX",
+    "world": "DNAX",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:20:57.605Z"
   }
 ]
