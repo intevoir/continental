@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vyron",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:39:00.278Z"
-  },
-  {
     "player1": "DrDuxxy",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-29T18:43:26.741Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VNIX",
+    "world": "DNAX",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:43:34.725Z"
   }
 ]
