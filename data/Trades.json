@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Elv420",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:09:30.273Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Austinking",
-    "world": "55",
-    "action": "BUY",
-    "item_name": "Golden Diaper",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 95000,
-    "price_wl": 95000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:09:30.281Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BroxRel",
-    "world": "IBUA",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 231,
-    "p_name": "World Locks",
-    "p_count": 924,
-    "price_wl": 924,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:11:47.851Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BroxRel",
     "world": "IBUA",
@@ -128,5 +89,44 @@
     "price_wl": 47500,
     "traded_with": null,
     "timestamp": "2026-10-29T20:15:03.164Z"
+  },
+  {
+    "player1": "@Kelku []",
+    "player2": "Buying Machine",
+    "world": "BOSTT",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 118,
+    "p_name": "World Locks",
+    "p_count": 22420,
+    "price_wl": 22420,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:15:31.408Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BYANS",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "UPDATE_STORE",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:15:52.049Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wildy",
+    "world": "KIT",
+    "action": "BUY",
+    "item_name": "GrowScan 9000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 150,
+    "price_wl": 150,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:15:59.660Z"
   }
 ]
