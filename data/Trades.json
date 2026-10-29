@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Dave",
-    "player2": "Buying Machine",
-    "world": "KUYBFG",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-29T05:15:37.485Z"
-  },
-  {
-    "player1": "DrCeli",
-    "player2": "Buying Machine",
-    "world": "DTARI",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-29T05:15:48.693Z"
-  },
-  {
     "player1": "DrCeli",
     "player2": "Buying Machine",
     "world": "DTARI",
@@ -128,5 +102,31 @@
     "price_wl": 91200,
     "traded_with": null,
     "timestamp": "2026-10-29T05:18:38.729Z"
+  },
+  {
+    "player1": "DrCeli",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 127,
+    "p_name": "World Locks",
+    "p_count": 127,
+    "price_wl": 127,
+    "traded_with": null,
+    "timestamp": "2026-10-29T05:18:47.316Z"
+  },
+  {
+    "player1": "DrCeli",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-29T05:19:05.067Z"
   }
 ]
