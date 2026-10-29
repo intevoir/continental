@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ExNiz",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 98,
-    "price_wl": 98,
-    "traded_with": null,
-    "timestamp": "2026-10-29T15:20:48.893Z"
-  },
-  {
     "player1": "DrELEK",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 730,
     "traded_with": null,
     "timestamp": "2026-10-29T15:24:22.704Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 360,
+    "price_wl": 360,
+    "traded_with": null,
+    "timestamp": "2026-10-29T15:24:31.338Z"
   }
 ]
