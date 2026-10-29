@@ -1,18 +1,5 @@
 [
   {
-    "player1": "OZON",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:40:07.945Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "BYANS",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-29T20:46:11.035Z"
+  },
+  {
+    "player1": "AlpinNt",
+    "player2": "Renting Station",
+    "world": "1",
+    "action": "RENT",
+    "item_name": "Legendbot-009",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:47:10.343Z"
   }
 ]
