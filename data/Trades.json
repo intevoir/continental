@@ -1,18 +1,5 @@
 [
   {
-    "player1": "daffaapta",
-    "player2": "Buying Machine",
-    "world": "NKR",
-    "action": "SELL",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3750000,
-    "price_wl": 3750000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:12:58.138Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@MESA",
     "world": "RVEND",
@@ -128,5 +115,18 @@
     "price_wl": 297,
     "traded_with": null,
     "timestamp": "2026-10-29T04:17:58.758Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GripDheat",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 160,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-10-29T04:18:18.569Z"
   }
 ]
