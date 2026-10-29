@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "iFlash",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T01:34:53.444Z"
-  },
-  {
     "player1": "AikoChan",
     "player2": "Renting Station",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 180,
     "traded_with": null,
     "timestamp": "2026-10-29T01:37:50.075Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Atol",
+    "world": "SHOP6",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 24,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-29T01:38:06.489Z"
   }
 ]
