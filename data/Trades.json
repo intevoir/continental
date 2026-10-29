@@ -1,18 +1,5 @@
 [
   {
-    "player1": "selia6",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 109,
-    "p_name": "World Locks",
-    "p_count": 32700,
-    "price_wl": 32700,
-    "traded_with": null,
-    "timestamp": "2026-10-29T02:56:28.045Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "lemari",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-10-29T03:00:29.603Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTobell",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 228,
+    "p_name": "World Locks",
+    "p_count": 2280,
+    "price_wl": 2280,
+    "traded_with": null,
+    "timestamp": "2026-10-29T03:00:45.716Z"
   }
 ]
