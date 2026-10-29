@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VENDOBA",
-    "world": "BUYSILK",
-    "action": "BUY",
-    "item_name": "Silk Skirt - Red",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 85,
-    "price_wl": 85,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:10:43.443Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Atol",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1200,
     "traded_with": null,
     "timestamp": "2026-10-29T17:14:53.381Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ExNiz",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:15:34.089Z"
   }
 ]
