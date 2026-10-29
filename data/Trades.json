@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Austinking",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Golden Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:00:27.471Z"
-  },
-  {
     "player1": "ExSnoozly",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-29T20:07:28.915Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Austinking",
+    "world": "BUYSILK",
+    "action": "BUY",
+    "item_name": "Silk Vest - Black",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:07:48.569Z"
   }
 ]
