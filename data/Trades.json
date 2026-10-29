@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ZeusBolt []",
-    "world": "CPQ",
-    "action": "BUY",
-    "item_name": "Tesseract Manipulator",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:42:29.120Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZeusBolt []",
-    "world": "CPQ",
-    "action": "BUY",
-    "item_name": "Mint Julep",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:42:29.141Z"
-  },
-  {
-    "player1": "LuzivertGT",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:43:30.005Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zahraaaaa",
     "world": "BLOCK",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-10-29T17:46:30.716Z"
+  },
+  {
+    "player1": "DrMicution [ELITE]",
+    "player2": "YedGT [ELITE]",
+    "world": "MUDA",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "YedGT [ELITE]",
+    "timestamp": "2026-10-29T17:47:40.532Z"
+  },
+  {
+    "player1": "YedGT [ELITE]",
+    "player2": "DrMicution [ELITE]",
+    "world": "MUDA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 37,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrMicution [ELITE]",
+    "timestamp": "2026-10-29T17:47:40.532Z"
+  },
+  {
+    "player1": "AGANJAGAY",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:47:49.458Z"
   }
 ]
