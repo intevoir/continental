@@ -4,19 +4,6 @@
     "player2": "PiscBoy",
     "world": "SHOPL",
     "action": "BUY",
-    "item_name": "Chicken Meat",
-    "item_count": 249,
-    "p_name": "World Locks",
-    "p_count": 83,
-    "price_wl": 83,
-    "traded_with": null,
-    "timestamp": "2026-10-29T22:19:39.578Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PiscBoy",
-    "world": "SHOPL",
-    "action": "BUY",
     "item_name": "Tomato",
     "item_count": 200,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 24,
     "traded_with": null,
     "timestamp": "2026-10-29T22:28:44.759Z"
+  },
+  {
+    "player1": "@G4A",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 75000,
+    "price_wl": 75000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T22:30:04.499Z"
   }
 ]
