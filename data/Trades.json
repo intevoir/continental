@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCarlots",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:39:27.001Z"
-  },
-  {
     "player1": "LuzivertGT",
     "player2": "Buying Machine",
     "world": "DNAX",
@@ -128,5 +115,18 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-10-29T17:42:29.141Z"
+  },
+  {
+    "player1": "LuzivertGT",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:43:30.005Z"
   }
 ]
