@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@MrFunk []",
-    "player2": "Renting Station",
-    "world": "GIBUU",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 16660,
-    "price_wl": 16660,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:02:57.756Z"
-  },
-  {
-    "player1": "BroxRel",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 864,
-    "price_wl": 864,
-    "traded_with": null,
-    "timestamp": "2026-10-29T18:03:05.944Z"
-  },
-  {
     "player1": "BroxRel",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +102,31 @@
     "price_wl": 4760,
     "traded_with": null,
     "timestamp": "2026-10-29T18:05:08.578Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "althass",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Royal Guardian Armor",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:06:38.445Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nevict",
+    "world": "OUTFIT",
+    "action": "BUY",
+    "item_name": "Scarf of Chains",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-29T18:06:43.640Z"
   }
 ]
