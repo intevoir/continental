@@ -1,57 +1,5 @@
 [
   {
-    "player1": "VENDOBA",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 38,
-    "price_wl": 38,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:02:14.045Z"
-  },
-  {
-    "player1": "VENDOBA",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:02:14.050Z"
-  },
-  {
-    "player1": "VENDOBA",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:02:18.615Z"
-  },
-  {
-    "player1": "fily",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:05:15.512Z"
-  },
-  {
     "player1": "Rgyes",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 120,
     "traded_with": null,
     "timestamp": "2026-10-29T17:07:17.044Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rgyes",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:22.471Z"
+  },
+  {
+    "player1": "ExNiz",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:27.151Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingTEMBAK",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:31.198Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KingTEMBAK",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:50.528Z"
   }
 ]
