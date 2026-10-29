@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCarlots",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:01:23.288Z"
-  },
-  {
-    "player1": "VENDOBA",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 288,
-    "price_wl": 288,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:01:45.049Z"
-  },
-  {
-    "player1": "VENDOBA",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 205,
-    "price_wl": 205,
-    "traded_with": null,
-    "timestamp": "2026-10-29T17:02:14.035Z"
-  },
-  {
     "player1": "VENDOBA",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +89,44 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-29T17:06:36.425Z"
+  },
+  {
+    "player1": "ExNiz",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:17.024Z"
+  },
+  {
+    "player1": "ExNiz",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:17.036Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rgyes",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 30,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-10-29T17:07:17.044Z"
   }
 ]
