@@ -1,18 +1,5 @@
 [
   {
-    "player1": "kamugppsat",
-    "player2": "Renting Station",
-    "world": "CMD",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-10-29T00:51:15.631Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@A7B",
     "world": "TOKOMA",
@@ -128,5 +115,18 @@
     "price_wl": 2880,
     "traded_with": null,
     "timestamp": "2026-10-29T00:56:26.520Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@A7B",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Telephone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-29T00:57:18.643Z"
   }
 ]
