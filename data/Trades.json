@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Kelku []",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 118,
-    "p_name": "World Locks",
-    "p_count": 22420,
-    "price_wl": 22420,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:15:31.408Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BYANS",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "UPDATE_STORE",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T20:15:52.049Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "KIT",
@@ -128,5 +102,31 @@
     "price_wl": 192,
     "traded_with": null,
     "timestamp": "2026-10-29T20:19:02.931Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PhenSayangFredy",
+    "world": "RASSW",
+    "action": "BUY",
+    "item_name": "No-Face",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:19:32.130Z"
+  },
+  {
+    "player1": "DrCENTINAL",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Golden Diamond Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 357,
+    "price_wl": 357,
+    "traded_with": null,
+    "timestamp": "2026-10-29T20:19:55.957Z"
   }
 ]
