@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SHboy",
-    "world": "CBR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Red",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:36:26.494Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SHboy",
-    "world": "CBR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-29T04:36:32.853Z"
-  },
-  {
     "player1": "ZOHOR",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 10340,
     "traded_with": null,
     "timestamp": "2026-10-29T04:39:08.618Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Derbond",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 194,
+    "p_name": "World Locks",
+    "p_count": 970,
+    "price_wl": 970,
+    "traded_with": null,
+    "timestamp": "2026-10-29T04:41:09.658Z"
+  },
+  {
+    "player1": "KELORTORICH",
+    "player2": "Buying Machine",
+    "world": "BFGPPW",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-29T04:41:12.979Z"
   }
 ]
