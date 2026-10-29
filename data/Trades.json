@@ -1,18 +1,5 @@
 [
   {
-    "player1": "XXLOSE",
-    "player2": "Buying Machine",
-    "world": "BOSTT",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-29T09:33:41.454Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "GripDheat",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-10-29T09:38:16.132Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DanielAnakBaik",
+    "world": "DHI",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-29T09:38:43.661Z"
   }
 ]
