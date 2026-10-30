@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "OwnerBFGWILY",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12250,
-    "price_wl": 12250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:10:01.857Z"
-  },
-  {
-    "player1": "Interor",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:10:01.870Z"
-  },
-  {
     "player1": "DrDeboy",
     "player2": "Buying Machine",
     "world": "WNI",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-30T15:13:31.098Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tsuwa",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:13:34.772Z"
+  },
+  {
+    "player1": "andrenalin21",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:14:02.688Z"
   }
 ]
