@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "DTA",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:10:09.935Z"
-  },
-  {
-    "player1": "Sptiannn",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "White Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:10:20.560Z"
-  },
-  {
-    "player1": "Sptiannn",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 4,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 475,
     "traded_with": null,
     "timestamp": "2026-10-30T14:11:17.160Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Shovia",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 48,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:12:13.210Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Shovia",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 550,
+    "price_wl": 550,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:12:17.540Z"
   }
 ]
