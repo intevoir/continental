@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Kizzy7",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-30T09:18:43.535Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kizzy7",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T09:19:06.160Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Farzy",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-30T09:20:39.868Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Farzy",
+    "world": "MIKEBFG",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-30T09:21:40.086Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ErlanSky",
+    "world": "DKO",
+    "action": "BUY",
+    "item_name": "Dark King's Offering",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T09:21:40.110Z"
   }
 ]
