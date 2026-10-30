@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Zavix",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Balloon Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:00:25.912Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Zavix",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:00:56.090Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Geboyy",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Screen Door",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:00:56.130Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Geboyy",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Tiki Torch",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:01:17.622Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Geboyy",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-30T10:02:05.560Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Geboyy",
+    "world": "BLOCKWL",
+    "action": "BUY",
+    "item_name": "Dirt",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:02:55.989Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Geboyy",
+    "world": "BLOCKWL",
+    "action": "BUY",
+    "item_name": "Love Potion #8",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:02:56.015Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Geboyy",
+    "world": "BLOCKWL",
+    "action": "BUY",
+    "item_name": "Wooden Platform",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:02:56.034Z"
+  },
+  {
+    "player1": "BucksSnake_384",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:03:00.086Z"
   }
 ]
