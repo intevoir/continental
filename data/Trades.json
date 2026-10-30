@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PiscBoy",
-    "world": "MONQY",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:46:11.922Z"
-  },
-  {
     "player1": "Xzelko",
     "player2": "Buying Machine",
     "world": "BFGPPW",
@@ -128,5 +115,18 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-30T10:49:52.537Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Xzelko",
+    "world": "PURPLE",
+    "action": "BUY",
+    "item_name": "Hedge",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:50:09.422Z"
   }
 ]
