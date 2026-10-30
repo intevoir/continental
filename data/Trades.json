@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Previllege",
-    "world": "UCHEAP",
-    "action": "BUY",
-    "item_name": "Diamond Dog",
-    "item_count": 120,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:30:46.210Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OZON",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Mini-Mod",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:30:46.225Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "OZON",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-30T23:36:45.552Z"
+  },
+  {
+    "player1": "YOURMAJESTY []",
+    "player2": "Buying Machine",
+    "world": "SAW",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 4650,
+    "price_wl": 4650,
+    "traded_with": null,
+    "timestamp": "2026-10-30T23:38:30.275Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "iyan of Legend",
+    "world": "GEIGERSPAM",
+    "action": "BUY",
+    "item_name": "Ruby Block",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-30T23:38:38.550Z"
   }
 ]
