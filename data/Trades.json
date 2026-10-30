@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZicoPrince []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12250,
-    "price_wl": 12250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:59:21.260Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZETA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:59:21.298Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12250,
-    "price_wl": 12250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:59:21.317Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZicoPrince []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12250,
-    "price_wl": 12250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:59:21.322Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 2800,
     "traded_with": null,
     "timestamp": "2026-10-30T15:59:54.784Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 2880,
+    "price_wl": 2880,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:00:20.783Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNFC",
+    "world": "MOE",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 2800,
+    "price_wl": 2800,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:00:20.790Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Russ21",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:00:20.796Z"
+  },
+  {
+    "player1": "Srimpt",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 595,
+    "price_wl": 595,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:00:25.227Z"
   }
 ]
