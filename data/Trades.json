@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SIRCB",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-30T08:46:55.522Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SIRCB",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-30T08:46:59.443Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FungpaoCPS",
     "world": "BFGJAN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 386,
     "traded_with": null,
     "timestamp": "2026-10-30T08:48:53.167Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@dsw",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 105,
+    "p_name": "World Locks",
+    "p_count": 92400,
+    "price_wl": 92400,
+    "traded_with": null,
+    "timestamp": "2026-10-30T08:51:49.605Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T08:51:49.618Z"
   }
 ]
