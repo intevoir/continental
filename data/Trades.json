@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrNFC",
-    "world": "MOE",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 4200,
-    "price_wl": 4200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T16:06:23.125Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Jack of Legend [PRO ] []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Super Beach Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-10-30T16:06:27.167Z"
-  },
-  {
     "player1": "SAMX969",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-10-30T16:07:24.658Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 4680,
+    "price_wl": 4680,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:07:34.998Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrNFC",
+    "world": "MOE",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 4550,
+    "price_wl": 4550,
+    "traded_with": null,
+    "timestamp": "2026-10-30T16:07:50.446Z"
   }
 ]
