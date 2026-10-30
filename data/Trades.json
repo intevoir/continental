@@ -1,18 +1,5 @@
 [
   {
-    "player1": "oirtykuli1",
-    "player2": "Renting Station",
-    "world": "SEWA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:47:02.524Z"
-  },
-  {
     "player1": "YOURMAJESTY []",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 3420,
     "traded_with": null,
     "timestamp": "2026-10-30T23:51:35.025Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OngLy",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125,
+    "price_wl": 125,
+    "traded_with": null,
+    "timestamp": "2026-10-30T23:54:36.288Z"
   }
 ]
