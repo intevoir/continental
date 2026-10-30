@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 7400,
-    "price_wl": 7400,
-    "traded_with": null,
-    "timestamp": "2026-10-30T22:28:31.008Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrNFC",
     "world": "MOE",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-30T22:32:19.557Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "OngLy",
+    "world": "JW",
+    "action": "BUY",
+    "item_name": "Crystal Block",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-10-30T22:34:19.676Z"
   }
 ]
