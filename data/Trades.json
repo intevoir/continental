@@ -4,19 +4,6 @@
     "player2": "MITOHA",
     "world": "SHOPDI",
     "action": "BUY",
-    "item_name": "Pillar",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-10-30T05:27:40.057Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MITOHA",
-    "world": "SHOPDI",
-    "action": "BUY",
     "item_name": "Heartcastle Column",
     "item_count": 225,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-30T05:28:16.045Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-30T05:28:39.152Z"
   }
 ]
