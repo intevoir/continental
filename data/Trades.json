@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VNIX",
-    "world": "FREEBFG",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-30T08:00:11.366Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NatanSlebor",
     "world": "BUYCSN",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-10-30T08:03:07.949Z"
+  },
+  {
+    "player1": "zhe1103",
+    "player2": "Buying Machine",
+    "world": "WNI",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 45,
+    "p_name": "World Locks",
+    "p_count": 39600,
+    "price_wl": 39600,
+    "traded_with": null,
+    "timestamp": "2026-10-30T08:03:24.350Z"
   }
 ]
