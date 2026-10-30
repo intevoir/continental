@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MITOHA",
-    "world": "SHOPDI",
-    "action": "BUY",
-    "item_name": "Granite Column",
-    "item_count": 225,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-30T05:27:53.695Z"
-  },
-  {
     "player1": "stampan",
     "player2": "Renting Station",
     "world": "CO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-30T05:29:39.233Z"
+  },
+  {
+    "player1": "Vyron",
+    "player2": "Buying Machine",
+    "world": "FREEGEM",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1640,
+    "price_wl": 1640,
+    "traded_with": null,
+    "timestamp": "2026-10-30T05:29:47.275Z"
   }
 ]
