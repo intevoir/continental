@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "NJU",
-    "action": "BUY",
-    "item_name": "Superpower - Alien Egg",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:31:45.842Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "McTominay",
-    "world": "NJU",
-    "action": "BUY",
-    "item_name": "Superpower - Defeated",
-    "item_count": 45,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:31:45.849Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-10-30T10:33:12.811Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 236,
+    "p_name": "World Locks",
+    "p_count": 236,
+    "price_wl": 236,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:33:45.368Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:33:58.152Z"
   }
 ]
