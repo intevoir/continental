@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kenndeym",
-    "world": "BLOCKM",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:26:40.592Z"
-  },
-  {
-    "player1": "DawnSickle_173",
-    "player2": "Renting Station",
-    "world": "IEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:26:40.608Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrYokk",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-30T15:28:24.041Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kenndeym",
+    "world": "BUYPAINTBRUSH",
+    "action": "BUY",
+    "item_name": "Paintbrush",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:29:11.091Z"
+  },
+  {
+    "player1": "Kmeow",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:29:38.094Z"
   }
 ]
