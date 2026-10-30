@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Fortitude",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 146,
-    "p_name": "World Locks",
-    "p_count": 146,
-    "price_wl": 146,
-    "traded_with": null,
-    "timestamp": "2026-10-30T12:45:05.823Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Fortitude",
     "world": "GDSTORE",
@@ -128,5 +115,18 @@
     "price_wl": 39,
     "traded_with": null,
     "timestamp": "2026-10-30T12:48:15.311Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drzatsupermen",
+    "world": "MONKEYY",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2250,
+    "price_wl": 2250,
+    "traded_with": null,
+    "timestamp": "2026-10-30T12:48:43.316Z"
   }
 ]
