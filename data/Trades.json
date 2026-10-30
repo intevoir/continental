@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JKHunter",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Pink Gemstone",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 36,
-    "price_wl": 36,
-    "traded_with": null,
-    "timestamp": "2026-10-30T07:05:22.706Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ShaYours",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4250,
-    "price_wl": 4250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T07:05:27.098Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ShaYours",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-30T07:08:54.038Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "JKHunter",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1800,
+    "price_wl": 1800,
+    "traded_with": null,
+    "timestamp": "2026-10-30T07:10:23.601Z"
+  },
+  {
+    "player1": "RyuukiSlow",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-10-30T07:10:27.043Z"
   }
 ]
