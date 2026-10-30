@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "WanzJDM2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 214,
-    "p_name": "World Locks",
-    "p_count": 1070,
-    "price_wl": 1070,
-    "traded_with": null,
-    "timestamp": "2026-10-30T13:02:49.829Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "HEEM",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 4800,
-    "price_wl": 4800,
-    "traded_with": null,
-    "timestamp": "2026-10-30T13:02:54.351Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nou",
     "world": "HEEM",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 96,
     "traded_with": null,
     "timestamp": "2026-10-30T13:05:22.769Z"
+  },
+  {
+    "player1": "Xyphr",
+    "player2": "Buying Machine",
+    "world": "AIQ",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 464,
+    "price_wl": 464,
+    "traded_with": null,
+    "timestamp": "2026-10-30T13:06:08.463Z"
+  },
+  {
+    "player1": "Auditore",
+    "player2": "Renting Station",
+    "world": "BFGREADY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 59,
+    "price_wl": 59,
+    "traded_with": null,
+    "timestamp": "2026-10-30T13:06:25.811Z"
   }
 ]
