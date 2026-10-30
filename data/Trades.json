@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "UAPSTOREGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:55:24.089Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "UAPSTOREGT",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2200,
-    "price_wl": 2200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:55:41.492Z"
-  },
-  {
     "player1": "Kebanjiran",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1750,
     "traded_with": null,
     "timestamp": "2026-10-30T14:57:14.419Z"
+  },
+  {
+    "player1": "ZFIRE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 22800,
+    "price_wl": 22800,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:57:21.466Z"
+  },
+  {
+    "player1": "Soil",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:57:41.549Z"
   }
 ]
