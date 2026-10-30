@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VXI",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Thingamabob",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:15:20.251Z"
-  },
-  {
     "player1": "fanganteng2",
     "player2": "Renting Station",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 708,
     "traded_with": null,
     "timestamp": "2026-10-30T23:24:28.200Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VXI",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 950,
+    "price_wl": 950,
+    "traded_with": null,
+    "timestamp": "2026-10-30T23:25:39.540Z"
   }
 ]
