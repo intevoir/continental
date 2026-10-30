@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YOURMAJESTY",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-10-30T08:04:25.675Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "NatanSlebor",
     "world": "BUYCSN",
@@ -128,5 +115,18 @@
     "price_wl": 357,
     "traded_with": null,
     "timestamp": "2026-10-30T08:08:08.507Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zdee",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1750,
+    "price_wl": 1750,
+    "traded_with": null,
+    "timestamp": "2026-10-30T08:08:17.339Z"
   }
 ]
