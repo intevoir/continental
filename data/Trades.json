@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Wandowskie",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:30:40.295Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Previllege",
     "world": "UCHEAP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-10-30T23:35:28.780Z"
+  },
+  {
+    "player1": "Tekfis",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-30T23:36:45.552Z"
   }
 ]
