@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKERYY",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Swordfish Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:16:03.361Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kenndeym",
-    "world": "MOE",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 10500,
-    "price_wl": 10500,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:16:03.375Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kenndeym",
     "world": "MOE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-30T15:18:30.366Z"
+  },
+  {
+    "player1": "DrXyow",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 12,
+    "p_name": "World Locks",
+    "p_count": 4320,
+    "price_wl": 4320,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:19:04.190Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Tsuwa",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:19:09.075Z"
   }
 ]
