@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@NEPzy",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-30T17:10:19.137Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Danel",
     "world": "MOE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 28,
     "traded_with": null,
     "timestamp": "2026-10-30T17:12:51.821Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@NEPzy",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Shifty Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T17:13:04.191Z"
   }
 ]
