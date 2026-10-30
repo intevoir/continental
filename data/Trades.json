@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HafyNop",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Royal Aurorasaurus Rex",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-30T05:34:41.463Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MITOHA",
     "world": "YTOKO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4000,
     "traded_with": null,
     "timestamp": "2026-10-30T05:36:05.155Z"
+  },
+  {
+    "player1": "Hezyl",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-30T05:36:42.247Z"
   }
 ]
