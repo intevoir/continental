@@ -1,18 +1,5 @@
 [
   {
-    "player1": "tuan",
-    "player2": "Buying Machine",
-    "world": "BFGPPW",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:17:52.869Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Wandowskie",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 450,
     "traded_with": null,
     "timestamp": "2026-10-30T14:19:53.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Atol",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 450,
+    "price_wl": 450,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:20:06.494Z"
   }
 ]
