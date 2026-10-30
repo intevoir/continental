@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "Maxim25G",
-    "world": "SELLSTUFF",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-30T06:01:52.163Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Maxim25G",
-    "world": "SELLSTUFF",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-30T06:01:56.757Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Maxim25G",
     "world": "CROT",
     "action": "BUY",
     "item_name": "American Sports Ball Jersey",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-30T06:04:53.566Z"
+  },
+  {
+    "player1": "NAD",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 27,
+    "p_name": "World Locks",
+    "p_count": 189,
+    "price_wl": 189,
+    "traded_with": null,
+    "timestamp": "2026-10-30T06:05:15.193Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Maxim25G",
+    "world": "BLOCKWL",
+    "action": "BUY",
+    "item_name": "Flare Fedora",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 220,
+    "price_wl": 220,
+    "traded_with": null,
+    "timestamp": "2026-10-30T06:05:21.357Z"
   }
 ]
