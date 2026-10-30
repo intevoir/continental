@@ -4,32 +4,6 @@
     "player2": "Hisazu",
     "world": "BUYMAGPLANT",
     "action": "BUY",
-    "item_name": "Balloon Jammer",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-30T11:23:09.162Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-10-30T11:23:21.301Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hisazu",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
     "item_name": "Starship Security Camera",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 1520,
     "traded_with": null,
     "timestamp": "2026-10-30T11:25:30.564Z"
+  },
+  {
+    "player1": "Snewp",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 480,
+    "price_wl": 480,
+    "traded_with": null,
+    "timestamp": "2026-10-30T11:25:52.008Z"
+  },
+  {
+    "player1": "Snewp",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 90,
+    "price_wl": 90,
+    "traded_with": null,
+    "timestamp": "2026-10-30T11:26:14.275Z"
   }
 ]
