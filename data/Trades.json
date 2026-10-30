@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrNFC",
-    "world": "MOE",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 4900,
-    "price_wl": 4900,
-    "traded_with": null,
-    "timestamp": "2026-10-30T22:29:45.423Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@Verif [ELITE] []",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2700,
     "traded_with": null,
     "timestamp": "2026-10-30T22:44:52.551Z"
+  },
+  {
+    "player1": "NAD",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Farmer Slave",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-30T22:45:51.651Z"
   }
 ]
