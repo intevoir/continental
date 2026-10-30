@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 21,
-    "p_name": "World Locks",
-    "p_count": 7770,
-    "price_wl": 7770,
-    "traded_with": null,
-    "timestamp": "2026-10-30T22:29:18.821Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@NADLYONERE",
     "world": "MCD",
@@ -128,5 +115,18 @@
     "price_wl": 48,
     "traded_with": null,
     "timestamp": "2026-10-30T22:35:19.703Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster",
+    "world": "6SHOP",
+    "action": "BUY",
+    "item_name": "Mannequin",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-30T22:42:26.835Z"
   }
 ]
