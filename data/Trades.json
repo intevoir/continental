@@ -1,31 +1,5 @@
 [
   {
-    "player1": "andhica",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 410,
-    "price_wl": 410,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:04:09.418Z"
-  },
-  {
-    "player1": "andhica",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 38,
-    "price_wl": 38,
-    "traded_with": null,
-    "timestamp": "2026-10-30T15:04:17.515Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrCeli",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-10-30T15:05:00.600Z"
+  },
+  {
+    "player1": "andhica",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:05:23.452Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@SIAGA [ELITE] [PRO ] []",
+    "world": "BUYAUTUMN",
+    "action": "BUY",
+    "item_name": "Weather Machine - Autumn",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-30T15:05:35.849Z"
   }
 ]
