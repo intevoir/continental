@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrSecho",
-    "world": "BUYITEM",
-    "action": "BUY",
-    "item_name": "Rotten Woodland Tree",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-30T14:46:07.074Z"
-  },
-  {
-    "player1": "DrALi [ELITE]",
-    "player2": "DrYokk",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Troll Face #1",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrYokk",
-    "timestamp": "2026-10-30T14:46:07.082Z"
-  },
-  {
-    "player1": "DrYokk",
-    "player2": "DrALi [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 9,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrALi [ELITE]",
-    "timestamp": "2026-10-30T14:46:07.082Z"
-  },
-  {
     "player1": "DrCeli",
     "player2": "Buying Machine",
     "world": "WNI",
@@ -128,5 +89,44 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-10-30T14:48:07.959Z"
+  },
+  {
+    "player1": "DrCeli",
+    "player2": "Buying Machine",
+    "world": "WNI",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:48:28.283Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NorezGtps",
+    "world": "MOBILE",
+    "action": "BUY",
+    "item_name": "Heart of Gaia",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:48:36.623Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RTobell",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Fireworks",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-10-30T14:48:40.407Z"
   }
 ]
