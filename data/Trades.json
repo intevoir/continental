@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Maxim25G",
-    "world": "SHHOPS",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6500,
-    "price_wl": 6500,
-    "traded_with": null,
-    "timestamp": "2026-10-30T13:17:20.830Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "YANUARPLV",
-    "world": "BFGWILY",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-10-30T13:17:29.474Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SmurfCPS",
     "world": "FREEGEM",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-30T13:20:06.478Z"
+  },
+  {
+    "player1": "Phang",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 276,
+    "price_wl": 276,
+    "traded_with": null,
+    "timestamp": "2026-10-30T13:20:31.385Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phang",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-30T13:20:59.846Z"
   }
 ]
