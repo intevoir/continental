@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@QOIL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-10-30T10:38:14.969Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 330,
     "traded_with": null,
     "timestamp": "2026-10-30T10:43:18.376Z"
+  },
+  {
+    "player1": "@G4A",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 7300,
+    "price_wl": 7300,
+    "traded_with": null,
+    "timestamp": "2026-10-30T10:44:48.944Z"
   }
 ]
