@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SAWAHLUNTO",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-10-30T09:35:09.246Z"
-  },
-  {
     "player1": "Kizzy7",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-30T09:36:46.142Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "GrapAndGo",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Ultraviolet Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-30T09:37:09.934Z"
   }
 ]
