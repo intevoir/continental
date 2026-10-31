@@ -1,18 +1,5 @@
 [
   {
-    "player1": "IAI",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2100,
-    "price_wl": 2100,
-    "traded_with": null,
-    "timestamp": "2026-10-31T20:11:42.385Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "IAI",
     "world": "JASAMU",
@@ -128,5 +115,18 @@
     "price_wl": 4600,
     "traded_with": null,
     "timestamp": "2026-10-31T20:14:35.196Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IsaPrince",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-31T20:15:31.023Z"
   }
 ]
