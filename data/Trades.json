@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 6840,
-    "price_wl": 6840,
-    "traded_with": null,
-    "timestamp": "2026-10-31T11:26:29.136Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrNFC",
     "world": "MOE",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-10-31T11:31:44.184Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XE0",
+    "world": "YTOKO",
+    "action": "BUY",
+    "item_name": "Shining Block - Red",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-10-31T11:32:30.483Z"
   }
 ]
