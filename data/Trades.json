@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Previllege",
-    "world": "PAPI",
-    "action": "BUY",
-    "item_name": "Diamond Wings",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T13:07:17.402Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "forext",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-10-31T13:09:19.878Z"
+  },
+  {
+    "player1": "DrPeyyow",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T13:10:11.736Z"
   }
 ]
