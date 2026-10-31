@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@G4A",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100000,
-    "price_wl": 100000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T18:46:14.285Z"
-  },
-  {
     "player1": "krisavior",
     "player2": "Buying Machine",
     "world": "CYNOBFG",
@@ -128,5 +115,18 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-10-31T18:51:25.295Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "althass",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "BlueMan's Crystal Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-31T18:52:25.044Z"
   }
 ]
