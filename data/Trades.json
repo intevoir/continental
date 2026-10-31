@@ -2,19 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "ArthaSTORE",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "GrowScan 9000",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T20:52:11.503Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ArthaSTORE",
     "world": "SINP",
     "action": "BUY",
     "item_name": "DigiVend Machine",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-31T21:04:36.840Z"
+  },
+  {
+    "player1": "Kioway",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 98,
+    "p_name": "World Locks",
+    "p_count": 784,
+    "price_wl": 784,
+    "traded_with": null,
+    "timestamp": "2026-10-31T21:06:32.572Z"
   }
 ]
