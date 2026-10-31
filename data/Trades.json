@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Udilll [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Surgical Stitches",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T14:07:02.044Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Udilll [ELITE]",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Surgical Scalpel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T14:07:07.335Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NorezGtps",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 80,
     "traded_with": null,
     "timestamp": "2026-10-31T14:08:33.613Z"
+  },
+  {
+    "player1": "Dex27",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-31T14:08:38.605Z"
+  },
+  {
+    "player1": "@ANIX",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-10-31T14:09:07.608Z"
   }
 ]
