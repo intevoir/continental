@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "abahCPS []",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-31T20:11:37.778Z"
-  },
-  {
     "player1": "IAI",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-31T20:14:30.910Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "IAI",
+    "world": "JASAMU",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 46,
+    "p_name": "World Locks",
+    "p_count": 4600,
+    "price_wl": 4600,
+    "traded_with": null,
+    "timestamp": "2026-10-31T20:14:35.196Z"
   }
 ]
