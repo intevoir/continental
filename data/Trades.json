@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DikaShii",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Storage Box Xtreme - Level 1",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-31T07:26:38.362Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BandarObat",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25000,
-    "price_wl": 25000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T07:26:38.374Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Bapakee",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1080,
     "traded_with": null,
     "timestamp": "2026-10-31T07:30:03.817Z"
+  },
+  {
+    "player1": "Yohan",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Farmer Slave",
+    "item_count": 35,
+    "p_name": "World Locks",
+    "p_count": 700,
+    "price_wl": 700,
+    "traded_with": null,
+    "timestamp": "2026-10-31T07:30:40.507Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "GEIGERE",
+    "action": "BUY",
+    "item_name": "Blue Stuff",
+    "item_count": 9,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-31T07:30:49.003Z"
   }
 ]
