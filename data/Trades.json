@@ -1,57 +1,5 @@
 [
   {
-    "player1": "ABN",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14875,
-    "price_wl": 14875,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:26:00.817Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "purukuda",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:26:00.830Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "purukuda",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:26:04.288Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "purukuda",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:26:35.606Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "purukuda",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 124500,
     "traded_with": null,
     "timestamp": "2026-10-31T01:30:58.394Z"
+  },
+  {
+    "player1": "NINOSD",
+    "player2": "Dr1V0",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr1V0",
+    "timestamp": "2026-10-31T01:31:45.610Z"
+  },
+  {
+    "player1": "NINOSD",
+    "player2": "Dr1V0",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 20,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Dr1V0",
+    "timestamp": "2026-10-31T01:31:45.616Z"
+  },
+  {
+    "player1": "Dr1V0",
+    "player2": "NINOSD",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "NINOSD",
+    "timestamp": "2026-10-31T01:31:45.616Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "gasukajudi",
+    "world": "RDD",
+    "action": "BUY",
+    "item_name": "Crystal Gate",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 125000,
+    "price_wl": 125000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T01:31:50.794Z"
   }
 ]
