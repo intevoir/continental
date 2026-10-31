@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Riding Comet",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:40:08.172Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Wandowskie",
-    "world": "SHOP1",
-    "action": "BUY",
-    "item_name": "Dear John Tractor",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:41:07.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ZicoPrince []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:41:39.989Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Wandowskie",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-10-31T01:45:42.187Z"
+  },
+  {
+    "player1": "HACLONE",
+    "player2": "Buying Machine",
+    "world": "QSV",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 152,
+    "p_name": "World Locks",
+    "p_count": 131480,
+    "price_wl": 131480,
+    "traded_with": null,
+    "timestamp": "2026-10-31T01:46:42.271Z"
+  },
+  {
+    "player1": "XE0",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47,
+    "price_wl": 47,
+    "traded_with": null,
+    "timestamp": "2026-10-31T01:47:06.216Z"
+  },
+  {
+    "player1": "HACLONE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 98,
+    "p_name": "World Locks",
+    "p_count": 84770,
+    "price_wl": 84770,
+    "traded_with": null,
+    "timestamp": "2026-10-31T01:47:11.666Z"
   }
 ]
