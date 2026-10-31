@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Genesi",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T07:08:48.912Z"
-  },
-  {
     "player1": "Apalaz",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 83,
     "traded_with": null,
     "timestamp": "2026-10-31T07:13:50.421Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nevict",
+    "world": "VND",
+    "action": "BUY",
+    "item_name": "Floating Leaf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-31T07:14:54.833Z"
   }
 ]
