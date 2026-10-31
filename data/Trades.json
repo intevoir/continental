@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "bbe0",
-    "world": "BLOCKWL",
-    "action": "BUY",
-    "item_name": "Princess",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-31T22:03:25.003Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ROCD",
-    "world": "RAJAFREE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-10-31T22:03:57.069Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ROCD",
     "world": "RAJAFREE",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-10-31T22:07:32.346Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Galonn",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-31T22:08:00.372Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Galonn",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 2500,
+    "price_wl": 2500,
+    "traded_with": null,
+    "timestamp": "2026-10-31T22:08:25.556Z"
   }
 ]
