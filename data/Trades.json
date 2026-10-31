@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Drewayjie",
-    "world": "TYOF",
-    "action": "BUY",
-    "item_name": "Pot O' Gems Seed",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-10-31T12:18:14.811Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "SIRCB",
     "world": "BFGYUK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 33440,
     "traded_with": null,
     "timestamp": "2026-10-31T12:21:11.226Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-10-31T12:21:46.743Z"
   }
 ]
