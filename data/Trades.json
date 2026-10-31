@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrixGT",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-31T17:29:55.082Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZANREV",
     "world": "BUYVISOR",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2685,
     "traded_with": null,
     "timestamp": "2026-10-31T17:31:40.029Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZANREV",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 33000,
+    "price_wl": 33000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T17:32:22.803Z"
   }
 ]
