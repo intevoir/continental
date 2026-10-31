@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FENDIASP3",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 2685,
-    "price_wl": 2685,
-    "traded_with": null,
-    "timestamp": "2026-10-31T17:31:40.029Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZANREV",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-31T17:38:42.770Z"
+  },
+  {
+    "player1": "Tsuwa",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 240,
+    "price_wl": 240,
+    "traded_with": null,
+    "timestamp": "2026-10-31T17:39:30.937Z"
   }
 ]
