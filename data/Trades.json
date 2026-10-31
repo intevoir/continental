@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Red Bricks",
-    "item_count": 170,
-    "p_name": "World Locks",
-    "p_count": 17,
-    "price_wl": 17,
-    "traded_with": null,
-    "timestamp": "2026-10-31T01:36:37.874Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Anwar",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-10-31T01:40:08.172Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Wandowskie",
+    "world": "SHOP1",
+    "action": "BUY",
+    "item_name": "Dear John Tractor",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-10-31T01:41:07.269Z"
   }
 ]
