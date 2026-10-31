@@ -1,18 +1,5 @@
 [
   {
-    "player1": "HackSwag_167",
-    "player2": "Renting Station",
-    "world": "FREEBFGBOS",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T11:44:27.347Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Nou",
     "world": "CHECKPOINT",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-10-31T11:48:32.767Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Catrin",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T11:48:45.848Z"
   }
 ]
