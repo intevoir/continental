@@ -4,19 +4,6 @@
     "player2": "@R33",
     "world": "BUYMAGPLANT",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-31T21:33:53.948Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@R33",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 32,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-31T21:39:07.869Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DRZ",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6000,
+    "price_wl": 6000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T21:39:48.691Z"
   }
 ]
