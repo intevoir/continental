@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JANDAMU",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60000,
-    "price_wl": 60000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:32:26.306Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "thefoolestone []",
     "world": "BUYGEIGER",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-31T02:35:33.010Z"
+  },
+  {
+    "player1": "DKZ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:36:51.459Z"
   }
 ]
