@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@RonXcps",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T11:58:06.003Z"
-  },
-  {
     "player1": "PAADANG",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-10-31T12:00:33.504Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Namazo",
+    "world": "JK",
+    "action": "BUY",
+    "item_name": "Black Wallpaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-10-31T12:00:57.557Z"
   }
 ]
