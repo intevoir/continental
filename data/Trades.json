@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NINOSD",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 10680,
-    "price_wl": 10680,
-    "traded_with": null,
-    "timestamp": "2026-10-31T03:16:42.625Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Farelsuu",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Castle Stone",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T03:17:53.830Z"
-  },
-  {
-    "player1": "@jipin",
-    "player2": "Buying Machine",
-    "world": "SHOPL",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 350,
-    "price_wl": 350,
-    "traded_with": null,
-    "timestamp": "2026-10-31T03:18:45.052Z"
-  },
-  {
     "player1": "EzaaK",
     "player2": "Renting Station",
     "world": "QRY",
@@ -128,5 +89,44 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-10-31T03:20:31.490Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NINOSD",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Lantern's ChronoReaper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-10-31T03:20:43.685Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nekopoi700",
+    "world": "1",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 110,
+    "price_wl": 110,
+    "traded_with": null,
+    "timestamp": "2026-10-31T03:20:56.116Z"
+  },
+  {
+    "player1": "Daenerys",
+    "player2": "Buying Machine",
+    "world": "BFGBIAN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 99,
+    "p_name": "World Locks",
+    "p_count": 86130,
+    "price_wl": 86130,
+    "traded_with": null,
+    "timestamp": "2026-10-31T03:21:00.866Z"
   }
 ]
