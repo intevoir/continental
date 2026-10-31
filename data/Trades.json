@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrBonsV",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-10-30T23:56:38.538Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "OngLy",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-31T00:00:39.378Z"
+  },
+  {
+    "player1": "YOURMAJESTY []",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-10-31T00:00:47.289Z"
   }
 ]
