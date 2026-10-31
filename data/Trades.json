@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Strepsils",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 18000,
-    "price_wl": 18000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T22:17:04.156Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DRZ",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@A7B",
     "timestamp": "2026-10-31T22:26:06.144Z"
+  },
+  {
+    "player1": "Blackfoxtm",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 152,
+    "p_name": "World Locks",
+    "p_count": 4560,
+    "price_wl": 4560,
+    "traded_with": null,
+    "timestamp": "2026-10-31T22:27:31.680Z"
   }
 ]
