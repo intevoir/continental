@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@SuwV3",
-    "world": "GET",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 32,
-    "p_name": "World Locks",
-    "p_count": 320,
-    "price_wl": 320,
-    "traded_with": null,
-    "timestamp": "2026-10-31T18:40:58.297Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZANREV",
     "world": "MURAH",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 199750,
     "traded_with": null,
     "timestamp": "2026-10-31T18:46:18.997Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ExCasper",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Water Bucket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-31T18:47:03.160Z"
   }
 ]
