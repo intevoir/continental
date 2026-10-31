@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrGGKN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Buying Machine",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 4250,
-    "price_wl": 4250,
-    "traded_with": null,
-    "timestamp": "2026-10-31T09:41:06.974Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrGGKN",
-    "world": "BLOCKWL",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6000,
-    "price_wl": 6000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T09:41:06.982Z"
-  },
-  {
     "player1": "FellOnTopp",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +102,31 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-31T09:46:39.367Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VXI []",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T09:47:09.245Z"
+  },
+  {
+    "player1": "Zurch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T09:47:33.174Z"
   }
 ]
