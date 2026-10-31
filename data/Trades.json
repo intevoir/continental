@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "CianCPS",
-    "world": "HSHOP",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-31T21:12:36.249Z"
-  },
-  {
     "player1": "@MESA [ELITE]",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 4935,
     "traded_with": null,
     "timestamp": "2026-10-31T21:14:56.709Z"
+  },
+  {
+    "player1": "CianCPS",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T21:16:49.428Z"
   }
 ]
