@@ -2,32 +2,6 @@
   {
     "player1": "Stevenlai10",
     "player2": "Buying Machine",
-    "world": "BUYRENTSTATION",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 2208,
-    "price_wl": 2208,
-    "traded_with": null,
-    "timestamp": "2026-10-31T15:44:16.350Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Stevenlai10",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Black ATM Machine",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T15:44:29.085Z"
-  },
-  {
-    "player1": "Stevenlai10",
-    "player2": "Buying Machine",
     "world": "FREE",
     "action": "SELL",
     "item_name": "Pink Gemstone",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "DrProfitMaster",
     "timestamp": "2026-10-31T15:46:18.089Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Bosompreng",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 300,
+    "price_wl": 300,
+    "traded_with": null,
+    "timestamp": "2026-10-31T15:46:36.773Z"
+  },
+  {
+    "player1": "WanzJDM2",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-10-31T15:46:48.810Z"
   }
 ]
