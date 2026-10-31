@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NEPstore",
-    "world": "PRIVATE",
-    "action": "BUY",
-    "item_name": "Spammer Slave",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-10-31T05:32:01.736Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FazhaAnakBaik",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-10-31T05:39:33.534Z"
+  },
+  {
+    "player1": "dwinilek",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-10-31T05:40:30.176Z"
   }
 ]
