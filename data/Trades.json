@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ROCD",
-    "world": "RAJAFREE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-10-31T22:04:00.911Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "PiscBoy",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-10-31T22:08:25.556Z"
+  },
+  {
+    "player1": "littlestars",
+    "player2": "Renting Station",
+    "world": "FREERENT",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-31T22:13:01.636Z"
   }
 ]
