@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@NADLYONERE",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-10-31T03:31:09.930Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AbySukaaBgl",
-    "world": "TOKOA",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Varnish",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-10-31T03:32:36.713Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "AbySukaaBgl",
     "world": "TOKOA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "NINOSD",
     "timestamp": "2026-10-31T03:33:55.054Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Atol",
+    "world": "GEIGERU",
+    "action": "BUY",
+    "item_name": "Stained Glass",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-10-31T03:34:37.544Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "R4F",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-10-31T03:35:06.152Z"
   }
 ]
