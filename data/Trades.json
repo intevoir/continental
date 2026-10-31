@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NAD",
-    "world": "HAIR",
-    "action": "BUY",
-    "item_name": "Anime Bowtail",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:20:31.315Z"
-  },
-  {
-    "player1": "@alen",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1600,
-    "price_wl": 1600,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:20:34.835Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@alen",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2200,
     "traded_with": null,
     "timestamp": "2026-10-31T02:24:45.602Z"
+  },
+  {
+    "player1": "rikishi",
+    "player2": "Renting Station",
+    "world": "BFGQOH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:25:49.532Z"
+  },
+  {
+    "player1": "Diell",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:25:53.268Z"
   }
 ]
