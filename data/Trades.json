@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
     "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 48,
-    "p_name": "World Locks",
-    "p_count": 8640,
-    "price_wl": 8640,
-    "traded_with": null,
-    "timestamp": "2026-10-31T17:52:32.007Z"
-  },
-  {
-    "player1": "@Kelku",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-10-31T17:52:32.024Z"
-  },
-  {
-    "player1": "@Kelku",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
     "item_name": "Blue Crystal",
     "item_count": 8,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-31T17:55:51.034Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "aronn []",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-31T17:56:34.363Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZANREV",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "DigiVend Machine",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T17:56:59.528Z"
   }
 ]
