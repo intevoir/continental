@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
     "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-10-31T17:52:32.038Z"
-  },
-  {
-    "player1": "@Kelku",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 20000,
     "traded_with": null,
     "timestamp": "2026-10-31T17:57:36.034Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gurenzy",
+    "world": "CERAH",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 162,
+    "p_name": "World Locks",
+    "p_count": 810,
+    "price_wl": 810,
+    "traded_with": null,
+    "timestamp": "2026-10-31T17:57:39.770Z"
   }
 ]
