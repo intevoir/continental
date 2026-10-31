@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SousukeSagara",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 5700,
-    "price_wl": 5700,
-    "traded_with": null,
-    "timestamp": "2026-10-31T19:20:12.012Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Kelku",
     "world": "BFGHAMAA",
@@ -128,5 +115,18 @@
     "price_wl": 980,
     "traded_with": null,
     "timestamp": "2026-10-31T19:25:26.938Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Zyp",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T19:26:34.529Z"
   }
 ]
