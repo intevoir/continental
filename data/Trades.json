@@ -10,32 +10,6 @@
     "p_count": 50,
     "price_wl": 50,
     "traded_with": null,
-    "timestamp": "2026-10-31T23:36:12.850Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrNFC",
-    "world": "VYXZ",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-10-31T23:36:21.456Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrNFC",
-    "world": "VYXZ",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
     "timestamp": "2026-10-31T23:36:39.631Z"
   },
   {
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-10-31T23:39:23.748Z"
+  },
+  {
+    "player1": "DrYUGATA",
+    "player2": "DrAziok",
+    "world": "ZIOKP",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 3,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrAziok",
+    "timestamp": "2026-10-31T23:40:41.216Z"
+  },
+  {
+    "player1": "DrAziok",
+    "player2": "DrYUGATA",
+    "world": "ZIOKP",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrYUGATA",
+    "timestamp": "2026-10-31T23:40:41.216Z"
   }
 ]
