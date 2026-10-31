@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@A7B",
-    "world": "BUYS",
-    "action": "BUY",
-    "item_name": "Chemical G",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T19:03:08.640Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Galonn",
     "world": "TOKO8",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11000,
     "traded_with": null,
     "timestamp": "2026-10-31T19:10:07.531Z"
+  },
+  {
+    "player1": "DrNADLYONERE",
+    "player2": "Buying Machine",
+    "world": "SPRAY",
+    "action": "SELL",
+    "item_name": "Deluxe Grow Spray",
+    "item_count": 113,
+    "p_name": "World Locks",
+    "p_count": 113,
+    "price_wl": 113,
+    "traded_with": null,
+    "timestamp": "2026-10-31T19:11:12.304Z"
   }
 ]
