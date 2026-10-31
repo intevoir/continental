@@ -1,18 +1,5 @@
 [
   {
-    "player1": "nainaii",
-    "player2": "Buying Machine",
-    "world": "HYBAR",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 21250,
-    "price_wl": 21250,
-    "traded_with": null,
-    "timestamp": "2026-10-31T10:14:50.046Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DikaShii",
     "world": "SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 13760,
     "traded_with": null,
     "timestamp": "2026-10-31T10:23:45.639Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Namazo",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Bouncer Shirt",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-10-31T10:26:58.338Z"
   }
 ]
