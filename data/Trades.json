@@ -4,32 +4,6 @@
     "player2": "OngLy",
     "world": "WNI",
     "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-10-31T00:08:08.257Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Pinacolada",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 14,
-    "p_name": "World Locks",
-    "p_count": 12460,
-    "price_wl": 12460,
-    "traded_with": null,
-    "timestamp": "2026-10-31T00:08:50.614Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OngLy",
-    "world": "WNI",
-    "action": "BUY",
     "item_name": "Black Gems",
     "item_count": 250,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 2550,
     "traded_with": null,
     "timestamp": "2026-10-31T00:15:15.565Z"
+  },
+  {
+    "player1": "RAXGenss",
+    "player2": "Fahrimanu",
+    "world": "ARROZ50KM",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 15,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Fahrimanu",
+    "timestamp": "2026-10-31T00:16:14.677Z"
+  },
+  {
+    "player1": "Fahrimanu",
+    "player2": "RAXGenss",
+    "world": "ARROZ50KM",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "RAXGenss",
+    "timestamp": "2026-10-31T00:16:14.677Z"
   }
 ]
