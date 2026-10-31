@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Vhoz",
-    "world": "BUYSFW",
-    "action": "BUY",
-    "item_name": "Beach Blast",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 240,
-    "price_wl": 240,
-    "traded_with": null,
-    "timestamp": "2026-10-31T12:39:11.578Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FlameHammer_143",
-    "world": "BFGJOHN",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-10-31T12:39:15.625Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FlameHammer_143",
     "world": "BFGJOHN",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-10-31T12:41:12.753Z"
+  },
+  {
+    "player1": "Lengkeng",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-10-31T12:43:01.166Z"
+  },
+  {
+    "player1": "DrSEIGHTT",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Legendary Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1190,
+    "price_wl": 1190,
+    "traded_with": null,
+    "timestamp": "2026-10-31T12:43:04.806Z"
   }
 ]
