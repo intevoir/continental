@@ -5,19 +5,6 @@
     "world": "1L",
     "action": "BUY",
     "item_name": "Tombstone",
-    "item_count": 60,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-10-31T18:53:06.921Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@SuwV3",
-    "world": "1L",
-    "action": "BUY",
-    "item_name": "Tombstone",
     "item_count": 100,
     "p_name": "World Locks",
     "p_count": 500,
@@ -128,5 +115,18 @@
     "price_wl": 160,
     "traded_with": null,
     "timestamp": "2026-10-31T18:59:04.942Z"
+  },
+  {
+    "player1": "ArthaSTOREv2",
+    "player2": "Renting Station",
+    "world": "TTT",
+    "action": "RENT",
+    "item_name": "Mythical Necklace",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 95200,
+    "price_wl": 95200,
+    "traded_with": null,
+    "timestamp": "2026-10-31T19:00:42.530Z"
   }
 ]
