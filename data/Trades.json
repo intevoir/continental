@@ -1,18 +1,5 @@
 [
   {
-    "player1": "IAI",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Lock Mover",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 435,
-    "price_wl": 435,
-    "traded_with": null,
-    "timestamp": "2026-10-31T20:39:11.146Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Badhab",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100000,
     "traded_with": null,
     "timestamp": "2026-10-31T20:45:44.650Z"
+  },
+  {
+    "player1": "INeedPrettyGirl",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T20:47:45.515Z"
   }
 ]
