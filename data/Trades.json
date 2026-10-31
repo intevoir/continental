@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Namazo",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Dark Watcher's Mask",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-10-31T10:00:13.911Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Illuminati: Rich",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Golden Sunset Cape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 80000,
-    "price_wl": 80000,
-    "traded_with": null,
-    "timestamp": "2026-10-31T10:00:13.919Z"
-  },
-  {
     "player1": "KySecond",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-10-31T10:04:16.210Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FellOnTopp",
+    "world": "TOKOZ",
+    "action": "BUY",
+    "item_name": "Home Oven",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-10-31T10:04:43.764Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HamNt",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Master Chef's Oven",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-10-31T10:04:47.872Z"
   }
 ]
