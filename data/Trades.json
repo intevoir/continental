@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 1080,
-    "price_wl": 1080,
-    "traded_with": null,
-    "timestamp": "2026-10-31T16:29:12.910Z"
-  },
-  {
-    "player1": "Walid of Legend [ELITE]",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-31T16:30:27.061Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kolorbasah",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-10-31T16:30:59.395Z"
-  },
-  {
-    "player1": "MEEHE",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-10-31T16:30:59.415Z"
-  },
-  {
     "player1": "MEEHE",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 21625,
     "traded_with": null,
     "timestamp": "2026-10-31T16:32:25.912Z"
+  },
+  {
+    "player1": "AingButuhBGL",
+    "player2": "Raffaiq",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Raffaiq",
+    "timestamp": "2026-10-31T16:32:59.468Z"
+  },
+  {
+    "player1": "Raffaiq",
+    "player2": "AingButuhBGL",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "AingButuhBGL",
+    "timestamp": "2026-10-31T16:32:59.469Z"
+  },
+  {
+    "player1": "@REVANDRA [PRO ]",
+    "player2": "Buying Machine",
+    "world": "DIDAN",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1750000,
+    "price_wl": 1750000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T16:32:59.469Z"
+  },
+  {
+    "player1": "ArthaSTORE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 225,
+    "p_name": "World Locks",
+    "p_count": 193500,
+    "price_wl": 193500,
+    "traded_with": null,
+    "timestamp": "2026-10-31T16:33:03.275Z"
   }
 ]
