@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "nnashii",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 165,
-    "p_name": "World Locks",
-    "p_count": 33,
-    "price_wl": 33,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:45:45.010Z"
-  },
-  {
-    "player1": "VelonBOB",
-    "player2": "Renting Station",
-    "world": "EWEAN",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:45:45.033Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Atol",
-    "world": "HOSPITAL",
-    "action": "BUY",
-    "item_name": "Train-E",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-10-31T02:45:48.856Z"
-  },
-  {
     "player1": "yuyup",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-10-31T02:48:21.638Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NAD",
+    "world": "SELLCROWN",
+    "action": "BUY",
+    "item_name": "Spring Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:48:30.306Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "yuyup",
+    "world": "UGJG",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:48:34.893Z"
+  },
+  {
+    "player1": "yuyup",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T02:48:52.533Z"
   }
 ]
