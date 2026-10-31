@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "IAI",
-    "world": "CVA",
-    "action": "BUY",
-    "item_name": "Teeny Angel Wings",
-    "item_count": 122,
-    "p_name": "World Locks",
-    "p_count": 610,
-    "price_wl": 610,
-    "traded_with": null,
-    "timestamp": "2026-10-31T20:48:55.794Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ArthaSTORE",
     "world": "TOKO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1500,
     "traded_with": null,
     "timestamp": "2026-10-31T20:54:53.932Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ArthaSTORE",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-10-31T20:58:51.213Z"
   }
 ]
