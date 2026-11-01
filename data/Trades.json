@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Mahardika",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:38:55.755Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Mahardika",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2750,
-    "price_wl": 2750,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:39:06.172Z"
-  },
-  {
     "player1": "MassDerr",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 54290,
     "traded_with": null,
     "timestamp": "2026-11-01T16:41:06.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "enricu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 35800,
+    "price_wl": 35800,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:41:40.683Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Renting Station",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:41:40.697Z"
   }
 ]
