@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Freyacantik",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:16:21.932Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Freyacantik",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:16:58.360Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Freyacantik",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:17:01.805Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TVV",
-    "world": "WORKBFGS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 132,
-    "price_wl": 132,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:17:01.817Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NorezGtps",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 700,
     "traded_with": null,
     "timestamp": "2026-11-01T06:18:18.685Z"
+  },
+  {
+    "player1": "Farzy",
+    "player2": "BillMasihPemula",
+    "world": "AULA",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "BillMasihPemula",
+    "timestamp": "2026-11-01T06:18:58.233Z"
+  },
+  {
+    "player1": "BillMasihPemula",
+    "player2": "Farzy",
+    "world": "AULA",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 35,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Farzy",
+    "timestamp": "2026-11-01T06:18:58.233Z"
+  },
+  {
+    "player1": "DrFreeFlre",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:18:58.233Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "SergioCool",
+    "world": "BFGWC",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 110,
+    "price_wl": 110,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:18:58.243Z"
   }
 ]
