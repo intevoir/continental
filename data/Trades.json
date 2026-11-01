@@ -1,44 +1,5 @@
 [
   {
-    "player1": "P4SI",
-    "player2": "S1PA",
-    "world": "DNA",
-    "action": "TRADE",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "S1PA",
-    "timestamp": "2026-11-01T16:42:40.368Z"
-  },
-  {
-    "player1": "S1PA",
-    "player2": "P4SI",
-    "world": "DNA",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "P4SI",
-    "timestamp": "2026-11-01T16:42:40.368Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrMaucuan",
-    "world": "LIKEBFG",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:42:48.980Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrMaucuan",
     "world": "LIKEBFG",
@@ -128,5 +89,44 @@
     "price_wl": 53,
     "traded_with": null,
     "timestamp": "2026-11-01T16:44:52.940Z"
+  },
+  {
+    "player1": "Egogil",
+    "player2": "@MadiRajin [PRO ]",
+    "world": "LASR17",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 5,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@MadiRajin [PRO ]",
+    "timestamp": "2026-11-01T16:45:42.359Z"
+  },
+  {
+    "player1": "@MadiRajin [PRO ]",
+    "player2": "Egogil",
+    "world": "LASR17",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Egogil",
+    "timestamp": "2026-11-01T16:45:42.359Z"
+  },
+  {
+    "player1": "S1PA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 16340,
+    "price_wl": 16340,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:45:42.359Z"
   }
 ]
