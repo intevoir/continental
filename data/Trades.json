@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Jarzhuman",
-    "world": "SELLSTUFF",
-    "action": "BUY",
-    "item_name": "Black Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:37:29.107Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Badhab",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Neptune's Weather Machine - Atlantis",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:37:29.112Z"
-  },
-  {
     "player1": "Declair",
     "player2": "Buying Machine",
     "world": "WORKBFGS",
@@ -128,5 +102,31 @@
     "price_wl": 624,
     "traded_with": null,
     "timestamp": "2026-11-01T07:39:56.386Z"
+  },
+  {
+    "player1": "ADITTTAJA",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 26,
+    "price_wl": 26,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:40:56.933Z"
+  },
+  {
+    "player1": "DrIncridible",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:40:56.947Z"
   }
 ]
