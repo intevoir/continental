@@ -1,31 +1,5 @@
 [
   {
-    "player1": "PinkZero",
-    "player2": "Renting Station",
-    "world": "SAW",
-    "action": "RENT",
-    "item_name": "Legendary Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:12:40.987Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "HamNt",
-    "world": "WDO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:13:41.513Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JungKisss",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 8000,
     "traded_with": null,
     "timestamp": "2026-11-01T13:16:07.119Z"
+  },
+  {
+    "player1": "XIXA",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 40,
+    "p_name": "World Locks",
+    "p_count": 280,
+    "price_wl": 280,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:16:15.103Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HamNt",
+    "world": "WDO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 188,
+    "price_wl": 188,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:16:42.384Z"
   }
 ]
