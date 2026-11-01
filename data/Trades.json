@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Yiwa",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T09:54:03.649Z"
-  },
-  {
     "player1": "kaiituru1",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-11-01T10:04:29.788Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gre",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 2750,
+    "price_wl": 2750,
+    "traded_with": null,
+    "timestamp": "2026-11-01T10:05:22.565Z"
   }
 ]
