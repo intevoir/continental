@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VENDOBA",
-    "world": "MARKET",
-    "action": "BUY",
-    "item_name": "Master Sensei's White Eyebrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:28:52.777Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Equil",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1700,
     "traded_with": null,
     "timestamp": "2026-11-01T07:31:57.256Z"
+  },
+  {
+    "player1": "Declair",
+    "player2": "Renting Station",
+    "world": "PTKK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:33:09.829Z"
   }
 ]
