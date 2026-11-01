@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrYokk",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:26:52.359Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrYokk",
     "world": "BFGPANN",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-11-01T07:29:24.513Z"
+  },
+  {
+    "player1": "Dufego",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:30:16.090Z"
   }
 ]
