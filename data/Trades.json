@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrCarlots",
-    "player2": "Buying Machine",
-    "world": "BFG8D",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 850,
-    "price_wl": 850,
-    "traded_with": null,
-    "timestamp": "2026-11-01T22:20:28.429Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SwiftYar",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 53,
     "traded_with": null,
     "timestamp": "2026-11-01T22:30:42.048Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sarawak",
+    "world": "BUYSHAMPOO",
+    "action": "BUY",
+    "item_name": "Shampoo",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-11-01T22:35:11.929Z"
   }
 ]
