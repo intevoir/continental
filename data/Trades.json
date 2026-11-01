@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Dryuree",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T19:12:32.521Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Galonn",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-11-01T19:21:32.490Z"
+  },
+  {
+    "player1": "@CHOXE",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 20400,
+    "price_wl": 20400,
+    "traded_with": null,
+    "timestamp": "2026-11-01T19:22:25.088Z"
   }
 ]
