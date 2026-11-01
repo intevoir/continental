@@ -1,18 +1,5 @@
 [
   {
-    "player1": "MassDerr",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:39:14.460Z"
-  },
-  {
     "player1": "MegumiStore",
     "player2": "Buying Machine",
     "world": "MIKEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 4500,
     "traded_with": null,
     "timestamp": "2026-11-01T16:41:40.697Z"
+  },
+  {
+    "player1": "MassDerr",
+    "player2": "Renting Station",
+    "world": "MAYBELATERBUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:42:04.998Z"
   }
 ]
