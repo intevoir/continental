@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Anwar",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Forcefield",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-11-01T23:16:03.159Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VRAFLI",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-11-01T23:18:55.481Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@clei [ELITE] []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12400,
+    "price_wl": 12400,
+    "traded_with": null,
+    "timestamp": "2026-11-01T23:19:39.371Z"
   }
 ]
