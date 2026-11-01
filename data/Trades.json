@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "japil",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:55:02.079Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@KENTMAUKAYA",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:55:36.916Z"
-  },
-  {
     "player1": "@Hazardous []",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-11-01T08:58:08.039Z"
+  },
+  {
+    "player1": "@Kelku",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:58:16.665Z"
+  },
+  {
+    "player1": "@Kelku",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 114,
+    "p_name": "World Locks",
+    "p_count": 342,
+    "price_wl": 342,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:58:19.950Z"
   }
 ]
