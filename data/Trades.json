@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ChaEun",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Weather Machine - Nebula",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:52:23.521Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DewRich",
     "world": "BFGEYC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 26000,
     "traded_with": null,
     "timestamp": "2026-11-01T20:59:27.346Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 3600,
+    "price_wl": 3600,
+    "traded_with": null,
+    "timestamp": "2026-11-01T21:00:01.145Z"
   }
 ]
