@@ -1,44 +1,5 @@
 [
   {
-    "player1": "HamNt",
-    "player2": "Buying Machine",
-    "world": "AGE",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 115,
-    "p_name": "World Locks",
-    "p_count": 5520,
-    "price_wl": 5520,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:53:13.421Z"
-  },
-  {
-    "player1": "DrIrdina [ELITE]",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 88,
-    "price_wl": 88,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:53:20.578Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "w22 []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:53:57.372Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "w22 []",
     "world": "BLOCKMO",
@@ -128,5 +89,44 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-11-01T13:54:26.825Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@Bang",
+    "world": "WDO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:54:30.246Z"
+  },
+  {
+    "player1": "HamNt",
+    "player2": "Buying Machine",
+    "world": "AGE",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:54:58.171Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "HamNt",
+    "world": "WDO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:54:58.180Z"
   }
 ]
