@@ -1,18 +1,5 @@
 [
   {
-    "player1": "TwoSecond",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:09:37.428Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KingzRgt",
     "world": "BFGGIK",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-11-01T16:14:26.783Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "3ghz",
+    "world": "BUYT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:15:00.018Z"
   }
 ]
