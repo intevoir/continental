@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AlexGhtn",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Heatbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T02:48:51.886Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Grook001",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-01T02:49:41.244Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VerifOfLegend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-11-01T02:54:42.002Z"
+  },
+  {
+    "player1": "Winterlane",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T02:54:53.268Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Seylune",
+    "world": "BLOCKMART",
+    "action": "BUY",
+    "item_name": "Donation Box",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-01T02:55:22.135Z"
   }
 ]
