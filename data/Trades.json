@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "w22 []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:53:57.384Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Bang",
-    "world": "WDO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:53:57.399Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HamNt",
     "world": "WDO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-11-01T13:54:58.180Z"
+  },
+  {
+    "player1": "PlayHOL",
+    "player2": "Buying Machine",
+    "world": "BPBD",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:55:19.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nekopoi701",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Spider Sniper",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:55:31.278Z"
   }
 ]
