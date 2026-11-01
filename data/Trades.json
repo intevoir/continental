@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MarvinJrs",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Weather Machine - Holiday Haven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T00:45:31.421Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kiisu90 []",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 450,
-    "price_wl": 450,
-    "traded_with": null,
-    "timestamp": "2026-11-01T00:46:48.392Z"
-  },
-  {
     "player1": "KELORTORICH",
     "player2": "Renting Station",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-11-01T00:51:45.217Z"
+  },
+  {
+    "player1": "Fozn",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Royal Lock",
+    "item_count": 179,
+    "p_name": "World Locks",
+    "p_count": 3580,
+    "price_wl": 3580,
+    "traded_with": null,
+    "timestamp": "2026-11-01T00:52:33.742Z"
+  },
+  {
+    "player1": "Fozn",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-11-01T00:53:00.977Z"
   }
 ]
