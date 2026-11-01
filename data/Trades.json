@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Rexy24",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 27000,
-    "price_wl": 27000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:08:15.100Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "TVV",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:09:06.107Z"
-  },
-  {
     "player1": "@DenkoCB [PRO ]",
     "player2": "Renting Station",
     "world": "RICH",
@@ -128,5 +102,31 @@
     "price_wl": 87500,
     "traded_with": null,
     "timestamp": "2026-11-01T06:12:26.297Z"
+  },
+  {
+    "player1": "DrIncridible",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:12:56.742Z"
+  },
+  {
+    "player1": "DrIncridible",
+    "player2": "Renting Station",
+    "world": "BUYMAGPLANT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 53,
+    "price_wl": 53,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:13:17.625Z"
   }
 ]
