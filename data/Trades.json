@@ -1,31 +1,5 @@
 [
   {
-    "player1": "RanY",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:51:31.988Z"
-  },
-  {
-    "player1": "RanY",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 75000,
-    "price_wl": 75000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:51:48.241Z"
-  },
-  {
     "player1": "@Kelku",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-11-01T08:53:06.606Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KENDU",
+    "world": "PAPUA",
+    "action": "BUY",
+    "item_name": "Chicken Meat",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:53:33.212Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ihemoan",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 4500,
+    "price_wl": 4500,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:53:48.896Z"
   }
 ]
