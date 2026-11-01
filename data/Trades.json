@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingBalakung",
-    "world": "BFGBUJAS",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:05:05.072Z"
-  },
-  {
-    "player1": "YXTU []",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 19,
-    "p_name": "World Locks",
-    "p_count": 16150,
-    "price_wl": 16150,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:05:17.498Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Phopox",
     "world": "GEIGER",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-11-01T06:09:06.107Z"
+  },
+  {
+    "player1": "@DenkoCB [PRO ]",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:09:54.575Z"
+  },
+  {
+    "player1": "KingBalakung",
+    "player2": "Renting Station",
+    "world": "PTKK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:09:54.600Z"
   }
 ]
