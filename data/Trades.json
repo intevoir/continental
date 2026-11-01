@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Farraahh",
-    "world": "FREERENT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 3600,
-    "price_wl": 3600,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:45:19.712Z"
-  },
-  {
     "player1": "RZN",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 91,
     "traded_with": null,
     "timestamp": "2026-11-01T20:53:23.549Z"
+  },
+  {
+    "player1": "RZN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 165,
+    "price_wl": 165,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:54:23.648Z"
   }
 ]
