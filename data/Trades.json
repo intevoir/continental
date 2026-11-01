@@ -1,31 +1,5 @@
 [
   {
-    "player1": "@Muscles",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 357,
-    "price_wl": 357,
-    "traded_with": null,
-    "timestamp": "2026-11-01T14:08:02.878Z"
-  },
-  {
-    "player1": "Mamansky",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-01T14:08:14.154Z"
-  },
-  {
     "player1": "Nephy",
     "player2": "Renting Station",
     "world": "FREE",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "WeWok",
     "timestamp": "2026-11-01T14:11:02.697Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nekopoi701",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "Dual Six-Shooters",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-01T14:11:25.544Z"
+  },
+  {
+    "player1": "AppleBestFruit",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-01T14:11:32.912Z"
   }
 ]
