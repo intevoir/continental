@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NorezGtps []",
-    "world": "RAX",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-01T01:29:17.728Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "aronn",
-    "world": "SEEDS",
-    "action": "BUY",
-    "item_name": "Summer Surprise",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-01T01:29:22.399Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Xzelko []",
     "world": "RAX",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-11-01T01:30:06.228Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LifeDays",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 62100,
+    "price_wl": 62100,
+    "traded_with": null,
+    "timestamp": "2026-11-01T01:30:52.180Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-11-01T01:30:52.195Z"
   }
 ]
