@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "MO0O0O",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 445,
-    "price_wl": 445,
-    "traded_with": null,
-    "timestamp": "2026-11-01T12:09:16.745Z"
-  },
-  {
-    "player1": "Drzarealm",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-01T12:09:43.906Z"
-  },
-  {
     "player1": "mokabgls1",
     "player2": "Renting Station",
     "world": "CMD",
@@ -128,5 +102,31 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-11-01T12:11:49.965Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ANDIKA16",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T12:12:17.325Z"
+  },
+  {
+    "player1": "RobertoCharles",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-01T12:12:17.338Z"
   }
 ]
