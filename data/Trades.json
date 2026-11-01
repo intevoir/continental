@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "kolorbasah",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:16:04.775Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nephys",
-    "world": "PNB",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 7,
-    "price_wl": 7,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:16:18.080Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sakuch1",
     "world": "SELLMILK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2380,
     "traded_with": null,
     "timestamp": "2026-11-01T15:17:33.773Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ThangSan",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:17:38.430Z"
+  },
+  {
+    "player1": "Naina",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 35,
+    "price_wl": 35,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:18:06.283Z"
   }
 ]
