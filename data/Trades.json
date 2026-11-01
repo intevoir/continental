@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Hazeds",
-    "player2": "Buying Machine",
-    "world": "AULA",
-    "action": "SELL",
-    "item_name": "Infinity Gem Lock",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 320000,
-    "price_wl": 320000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:14:57.926Z"
-  },
-  {
     "player1": "JEKKEL",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 470,
     "traded_with": null,
     "timestamp": "2026-11-01T06:17:22.415Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 24,
+    "price_wl": 24,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:17:59.161Z"
   }
 ]
