@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Palwoee []",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:40:52.880Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "rajakecil",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:40:52.887Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "YayaImut",
     "world": "FREEBFG72",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12250,
     "traded_with": null,
     "timestamp": "2026-11-01T13:41:15.752Z"
+  },
+  {
+    "player1": "Naina",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:41:53.554Z"
+  },
+  {
+    "player1": "Naina",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 3,
+    "price_wl": 3,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:41:53.573Z"
   }
 ]
