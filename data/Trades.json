@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Dr10rb",
-    "world": "FFFFA",
-    "action": "BUY",
-    "item_name": "Onion",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T00:59:39.020Z"
-  },
-  {
     "player1": "bqn",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-11-01T01:02:45.226Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Austinking",
+    "world": "BUYCSN",
+    "action": "BUY",
+    "item_name": "Winter Frost Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-01T01:03:50.050Z"
   }
 ]
