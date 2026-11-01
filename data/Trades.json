@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@WAESS [PRO ]",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Display Box",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:29:24.513Z"
-  },
-  {
     "player1": "Dufego",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-11-01T07:34:21.322Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hazeds",
+    "world": "AULA",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 78,
+    "p_name": "World Locks",
+    "p_count": 3900,
+    "price_wl": 3900,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:34:29.841Z"
   }
 ]
