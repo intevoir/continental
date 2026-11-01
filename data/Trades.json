@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Previllege",
-    "world": "KEM",
-    "action": "BUY",
-    "item_name": "Tornado Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1999,
-    "price_wl": 1999,
-    "traded_with": null,
-    "timestamp": "2026-11-01T05:55:56.576Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Cythera",
     "world": "BENZYL",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5600,
     "traded_with": null,
     "timestamp": "2026-11-01T06:02:11.226Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phopox",
+    "world": "GEIGER",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:03:19.685Z"
   }
 ]
