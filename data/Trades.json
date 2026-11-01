@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FelixSiPeternak",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Sonic Buster Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:04:17.022Z"
-  },
-  {
-    "player1": "Drsousei",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:05:00.371Z"
-  },
-  {
     "player1": "DrXyow",
     "player2": "Buying Machine",
     "world": "VENDSPOT",
@@ -128,5 +102,31 @@
     "price_wl": 504,
     "traded_with": null,
     "timestamp": "2026-11-01T15:07:20.312Z"
+  },
+  {
+    "player1": "DrXyow",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 126,
+    "p_name": "World Locks",
+    "p_count": 630,
+    "price_wl": 630,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:08:01.775Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nooora",
+    "world": "BUY",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 22000,
+    "price_wl": 22000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:08:01.788Z"
   }
 ]
