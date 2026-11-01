@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Phopox",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-11-01T06:05:52.953Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "JEKKEL",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-11-01T06:09:54.600Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phopox",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-11-01T06:10:57.084Z"
   }
 ]
