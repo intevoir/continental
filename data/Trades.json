@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "senty",
-    "world": "7KJ",
-    "action": "BUY",
-    "item_name": "Ultraviolet Aura",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:38:57.180Z"
-  },
-  {
-    "player1": "Zracz",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T07:38:57.204Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zracz",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-11-01T07:41:31.220Z"
+  },
+  {
+    "player1": "DanzBejir",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Katana",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:41:57.647Z"
+  },
+  {
+    "player1": "PENAMBANGEMS",
+    "player2": "Renting Station",
+    "world": "KAISJE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 16660,
+    "price_wl": 16660,
+    "traded_with": null,
+    "timestamp": "2026-11-01T07:41:57.660Z"
   }
 ]
