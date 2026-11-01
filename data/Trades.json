@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Sakuch1",
-    "world": "SELLMILK",
-    "action": "BUY",
-    "item_name": "Dough",
-    "item_count": 170,
-    "p_name": "World Locks",
-    "p_count": 17,
-    "price_wl": 17,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:16:27.001Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nooora",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:16:31.054Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "ThangSan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T15:16:38.731Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Pochin",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 35,
     "traded_with": null,
     "timestamp": "2026-11-01T15:18:06.283Z"
+  },
+  {
+    "player1": "FelixSiPeternak",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 160,
+    "price_wl": 160,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:18:10.623Z"
+  },
+  {
+    "player1": "Naina",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Black Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:18:15.025Z"
+  },
+  {
+    "player1": "vabxit",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-11-01T15:18:35.492Z"
   }
 ]
