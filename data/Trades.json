@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Villano",
-    "world": "BUYSHADES",
-    "action": "BUY",
-    "item_name": "Growbans",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T12:17:30.770Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Palwoee",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-11-01T12:19:21.220Z"
+  },
+  {
+    "player1": "Xzelko",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-11-01T12:19:40.592Z"
   }
 ]
