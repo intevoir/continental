@@ -4,19 +4,6 @@
     "player2": "FelixSiPeternak",
     "world": "SURGL",
     "action": "BUY",
-    "item_name": "Surgical Antiseptic",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-11-01T03:16:36.304Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FelixSiPeternak",
-    "world": "SURGL",
-    "action": "BUY",
     "item_name": "Surgical Antibiotics",
     "item_count": 200,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-11-01T03:18:33.973Z"
+  },
+  {
+    "player1": "Lanzy7",
+    "player2": "Buying Machine",
+    "world": "FREEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 49,
+    "price_wl": 49,
+    "traded_with": null,
+    "timestamp": "2026-11-01T03:19:47.168Z"
   }
 ]
