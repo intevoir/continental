@@ -1,18 +1,5 @@
 [
   {
-    "player1": "zameaLoxil",
-    "player2": "Buying Machine",
-    "world": "WNI",
-    "action": "SELL",
-    "item_name": "Lock Mover",
-    "item_count": 22,
-    "p_name": "World Locks",
-    "p_count": 220,
-    "price_wl": 220,
-    "traded_with": null,
-    "timestamp": "2026-11-01T13:47:57.374Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Pilot of Legend [PRO ]",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100000,
     "traded_with": null,
     "timestamp": "2026-11-01T13:48:57.785Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zameaLoxil",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 130,
+    "p_name": "World Locks",
+    "p_count": 260,
+    "price_wl": 260,
+    "traded_with": null,
+    "timestamp": "2026-11-01T13:49:30.380Z"
   }
 ]
