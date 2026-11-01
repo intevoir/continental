@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Galonn",
-    "world": "NNXX",
-    "action": "BUY",
-    "item_name": "Chemical Y",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-11-01T01:14:46.769Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Xars",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-11-01T01:21:14.781Z"
+  },
+  {
+    "player1": "@Simulet",
+    "player2": "Renting Station",
+    "world": "RICH",
+    "action": "RENT",
+    "item_name": "Neptune's Wrath",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4165,
+    "price_wl": 4165,
+    "traded_with": null,
+    "timestamp": "2026-11-01T01:21:48.842Z"
   }
 ]
