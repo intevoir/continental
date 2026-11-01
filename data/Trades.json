@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VerifOfLegend",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-11-01T02:49:51.776Z"
-  },
-  {
     "player1": "Strepsils",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-11-01T02:55:22.135Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Strepsils",
+    "world": "BLOCK",
+    "action": "BUY",
+    "item_name": "Datemaster's Heart Locket",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T02:56:22.139Z"
   }
 ]
