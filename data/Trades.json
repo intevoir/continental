@@ -1,19 +1,6 @@
 [
   {
     "player1": "OSZA",
-    "player2": "Buying Machine",
-    "world": "BFGSTORE",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 42500,
-    "price_wl": 42500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T22:53:20.186Z"
-  },
-  {
-    "player1": "OSZA",
     "player2": "Renting Station",
     "world": "SEWA",
     "action": "RENT",
@@ -128,5 +115,18 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-11-01T23:07:29.549Z"
+  },
+  {
+    "player1": "Anwar",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Forcefield",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-11-01T23:09:30.293Z"
   }
 ]
