@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Leopaw",
-    "player2": "Buying Machine",
-    "world": "BUYDTA",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 175,
-    "price_wl": 175,
-    "traded_with": null,
-    "timestamp": "2026-11-01T22:36:37.778Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@Booopa",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 5400,
     "traded_with": null,
     "timestamp": "2026-11-01T22:44:37.319Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MrXG",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 1950,
+    "price_wl": 1950,
+    "traded_with": null,
+    "timestamp": "2026-11-01T22:45:30.023Z"
   }
 ]
