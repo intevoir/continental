@@ -10,45 +10,6 @@
     "p_count": 10,
     "price_wl": 10,
     "traded_with": null,
-    "timestamp": "2026-11-01T11:11:08.022Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "anyun",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Extract-O-Snap",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T11:11:11.512Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Anjk",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-11-01T11:11:55.480Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Drzarealm",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
     "timestamp": "2026-11-01T11:11:59.221Z"
   },
   {
@@ -128,5 +89,44 @@
     "price_wl": 61335,
     "traded_with": null,
     "timestamp": "2026-11-01T11:12:55.400Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Drzarealm",
+    "world": "DTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-01T11:12:59.871Z"
+  },
+  {
+    "player1": "DrThiphoon",
+    "player2": "@VoraxStore [ELITE]",
+    "world": "DLA9",
+    "action": "TRADE",
+    "item_name": "Black Gems (Black Gem Transfer)",
+    "item_count": 1200000,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@VoraxStore [ELITE]",
+    "timestamp": "2026-11-01T11:13:24.808Z"
+  },
+  {
+    "player1": "@VoraxStore [ELITE]",
+    "player2": "DrThiphoon",
+    "world": "DLA9",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 54,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrThiphoon",
+    "timestamp": "2026-11-01T11:13:24.812Z"
   }
 ]
