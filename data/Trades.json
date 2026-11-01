@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Bacang",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:51:22.714Z"
-  },
-  {
-    "player1": "RZN",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5600,
-    "price_wl": 5600,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:51:30.956Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ChaEun",
     "world": "SHOPL",
@@ -128,5 +102,31 @@
     "price_wl": 11500,
     "traded_with": null,
     "timestamp": "2026-11-01T20:57:25.888Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RZN",
+    "world": "VENDWILMA",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 3250,
+    "price_wl": 3250,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:59:27.331Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster []",
+    "world": "VENDWILMA",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 26000,
+    "price_wl": 26000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:59:27.346Z"
   }
 ]
