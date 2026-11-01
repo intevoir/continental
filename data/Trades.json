@@ -1,57 +1,5 @@
 [
   {
-    "player1": "@Scywin [ELITE]",
-    "player2": "DrUraiDhy [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrUraiDhy [ELITE]",
-    "timestamp": "2026-11-01T16:00:19.874Z"
-  },
-  {
-    "player1": "@Scywin [ELITE]",
-    "player2": "DrUraiDhy [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "Golden Heartthrob Helm",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "DrUraiDhy [ELITE]",
-    "timestamp": "2026-11-01T16:00:19.874Z"
-  },
-  {
-    "player1": "DrUraiDhy [ELITE]",
-    "player2": "@Scywin [ELITE]",
-    "world": "BUY",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 36,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "@Scywin [ELITE]",
-    "timestamp": "2026-11-01T16:00:19.874Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kopongs",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Purple",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:00:19.874Z"
-  },
-  {
     "player1": "Retous",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-11-01T16:01:33.044Z"
+  },
+  {
+    "player1": "@Scywin [ELITE]",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Phoenix Wings",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 40000,
+    "price_wl": 40000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:02:20.783Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nooora",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Neptune's Weather Machine - Atlantis",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:02:20.791Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Freyacantik",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Display Block",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 62,
+    "price_wl": 62,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:02:45.926Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nooora",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 200,
+    "price_wl": 200,
+    "traded_with": null,
+    "timestamp": "2026-11-01T16:02:45.998Z"
   }
 ]
