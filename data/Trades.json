@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SHOPB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2250,
-    "price_wl": 2250,
-    "traded_with": null,
-    "timestamp": "2026-11-01T00:22:51.790Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "SHOPB",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 68,
-    "p_name": "World Locks",
-    "p_count": 612,
-    "price_wl": 612,
-    "traded_with": null,
-    "timestamp": "2026-11-01T00:23:32.487Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Previllege",
     "world": "DISKON",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-11-01T00:28:34.939Z"
+  },
+  {
+    "player1": "C3H0",
+    "player2": "Renting Station",
+    "world": "SHOPL",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-01T00:29:34.044Z"
+  },
+  {
+    "player1": "DrGGKN []",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 248,
+    "p_name": "World Locks",
+    "p_count": 744,
+    "price_wl": 744,
+    "traded_with": null,
+    "timestamp": "2026-11-01T00:29:37.893Z"
   }
 ]
