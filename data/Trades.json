@@ -4,32 +4,6 @@
     "player2": "Buying Machine",
     "world": "VENDSPOT",
     "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 11,
-    "p_name": "World Locks",
-    "p_count": 330,
-    "price_wl": 330,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:03:05.251Z"
-  },
-  {
-    "player1": "JEKKEL",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-11-01T08:03:09.264Z"
-  },
-  {
-    "player1": "JEKKEL",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
     "item_name": "Green Crystal",
     "item_count": 3,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-01T08:05:05.561Z"
+  },
+  {
+    "player1": "JEKKEL",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:05:26.370Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Snoozly",
+    "world": "TTT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 19,
+    "p_name": "World Locks",
+    "p_count": 285000,
+    "price_wl": 285000,
+    "traded_with": null,
+    "timestamp": "2026-11-01T08:05:30.118Z"
   }
 ]
