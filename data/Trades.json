@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DengkulAyam",
-    "world": "BUYCHEM",
-    "action": "BUY",
-    "item_name": "Mysterious Chemical",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T21:17:39.111Z"
-  },
-  {
     "player1": "feliks23",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +115,18 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-11-01T21:33:43.110Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "NorezGtps",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-11-01T21:35:43.496Z"
   }
 ]
