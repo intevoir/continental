@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "EAABs",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-01T09:29:01.305Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Darnell",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-01T09:29:09.614Z"
-  },
-  {
     "player1": "pempeng",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-01T09:31:10.843Z"
+  },
+  {
+    "player1": "BRGN",
+    "player2": "Renting Station",
+    "world": "TTT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-01T09:31:50.586Z"
+  },
+  {
+    "player1": "Rontown",
+    "player2": "Renting Station",
+    "world": "BIRU",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47,
+    "price_wl": 47,
+    "traded_with": null,
+    "timestamp": "2026-11-01T09:31:50.596Z"
   }
 ]
