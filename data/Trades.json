@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrProfitMaster []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Firehouse",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:20:27.323Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrProfitMaster []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Dice Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:20:39.335Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "LiuYaoshan",
     "world": "BUYKU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-11-01T20:25:42.734Z"
+  },
+  {
+    "player1": "paten2",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 747,
+    "price_wl": 747,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:26:57.757Z"
+  },
+  {
+    "player1": "paten2",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 650,
+    "price_wl": 650,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:27:17.691Z"
   }
 ]
