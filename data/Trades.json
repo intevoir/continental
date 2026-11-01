@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "felzz",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Basic Blue Block",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-01T09:38:57.878Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HamNt",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 10000,
     "traded_with": null,
     "timestamp": "2026-11-01T09:46:57.031Z"
+  },
+  {
+    "player1": "PONSTER",
+    "player2": "Renting Station",
+    "world": "SAW",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-01T09:49:37.312Z"
   }
 ]
