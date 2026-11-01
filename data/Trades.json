@@ -1,18 +1,5 @@
 [
   {
-    "player1": "YYTEAM []",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Golden Booty Chest",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-01T20:11:22.712Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DirtSickle_791",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-11-01T20:18:40.244Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Strepsils",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-11-01T20:19:23.283Z"
   }
 ]
