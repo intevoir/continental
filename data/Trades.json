@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "OBENGcps",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:58:56.310Z"
-  },
-  {
-    "player1": "PHSBE",
-    "player2": "Buying Machine",
-    "world": "BUY",
-    "action": "SELL",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-01T16:59:47.922Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OBENGcps",
     "world": "SAW",
     "action": "BUY",
     "item_name": "Songpyeon",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-01T17:02:13.974Z"
+  },
+  {
+    "player1": "DevinaC",
+    "player2": "Renting Station",
+    "world": "END",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-01T17:04:57.499Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kopongs",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-11-01T17:05:14.231Z"
   }
 ]
