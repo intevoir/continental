@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "enricu",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 55,
-    "p_name": "World Locks",
-    "p_count": 22000,
-    "price_wl": 22000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:40:53.051Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nephys",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:41:42.473Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "kaiituru",
     "world": "COLOR",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 77430,
     "traded_with": null,
     "timestamp": "2026-11-02T07:44:49.290Z"
+  },
+  {
+    "player1": "dwinilek",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:45:10.290Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "fanganteng1",
+    "world": "NEUI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:45:17.056Z"
   }
 ]
