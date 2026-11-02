@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "giku",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T15:51:17.293Z"
-  },
-  {
     "player1": "abahCPS",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 440,
     "traded_with": null,
     "timestamp": "2026-11-02T15:57:50.168Z"
+  },
+  {
+    "player1": "PamanTerong",
+    "player2": "Renting Station",
+    "world": "TTT",
+    "action": "RENT",
+    "item_name": "Benzyl's Impact Bow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-11-02T15:57:53.613Z"
   }
 ]
