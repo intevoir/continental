@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Isayaak",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-11-02T06:46:46.058Z"
-  },
-  {
-    "player1": "R11NA",
-    "player2": "Buying Machine",
-    "world": "DNAGRATISAN",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T06:47:18.482Z"
-  },
-  {
-    "player1": "KENDU",
-    "player2": "Buying Machine",
-    "world": "BFGSTORE",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 62,
-    "p_name": "World Locks",
-    "p_count": 434,
-    "price_wl": 434,
-    "traded_with": null,
-    "timestamp": "2026-11-02T06:47:26.394Z"
-  },
-  {
-    "player1": "Palwoee",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-02T06:47:35.079Z"
-  },
-  {
     "player1": "bakiiRTO1",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-11-02T06:52:22.341Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrBuilderRICH",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T06:53:21.514Z"
+  },
+  {
+    "player1": "Kangmat",
+    "player2": "Renting Station",
+    "world": "SONG1",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-02T06:53:21.614Z"
+  },
+  {
+    "player1": "Saros",
+    "player2": "skyboss",
+    "world": "PELID",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 57,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "skyboss",
+    "timestamp": "2026-11-02T06:53:21.623Z"
+  },
+  {
+    "player1": "skyboss",
+    "player2": "Saros",
+    "world": "PELID",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Saros",
+    "timestamp": "2026-11-02T06:53:21.624Z"
   }
 ]
