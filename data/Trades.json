@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Copper",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Nightking's Cape - Black",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4000,
-    "price_wl": 4000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T13:42:47.243Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrCENTINAL",
     "world": "SHOPY",
@@ -128,5 +115,18 @@
     "price_wl": 726,
     "traded_with": null,
     "timestamp": "2026-11-02T13:47:50.251Z"
+  },
+  {
+    "player1": "Tetsuya",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Legendary Abyssal Dragon",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 7735,
+    "price_wl": 7735,
+    "traded_with": null,
+    "timestamp": "2026-11-02T13:48:22.066Z"
   }
 ]
