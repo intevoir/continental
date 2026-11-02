@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kaiituru",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Paint Bucket - Charcoal",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:39:41.155Z"
-  },
-  {
-    "player1": "Monstrous",
-    "player2": "Renting Station",
-    "world": "GUYS",
-    "action": "RENT",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 119,
-    "price_wl": 119,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:39:56.837Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nekopoi701",
-    "world": "BUYCSN",
-    "action": "BUY",
-    "item_name": "Heartbow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:40:41.795Z"
-  },
-  {
     "player1": "Anwar",
     "player2": "Renting Station",
     "world": "BUYMAGPLANT",
@@ -128,5 +89,44 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-11-02T07:41:42.499Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VANREZ",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Display Box",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:41:46.996Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nephys",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 6,
+    "p_name": "World Locks",
+    "p_count": 18,
+    "price_wl": 18,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:41:50.488Z"
+  },
+  {
+    "player1": "Nephys",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 64,
+    "price_wl": 64,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:42:01.479Z"
   }
 ]
