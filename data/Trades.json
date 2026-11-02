@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OXJ",
-    "world": "GEIGER",
-    "action": "BUY",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:14:28.572Z"
-  },
-  {
-    "player1": "MassFer",
-    "player2": "Renting Station",
-    "world": "ABUNCPS",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:14:59.457Z"
-  },
-  {
-    "player1": "hldjr",
-    "player2": "Renting Station",
-    "world": "CROT",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:14:59.480Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "FLAIRx",
     "world": "BFGELE",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-02T14:15:20.469Z"
+  },
+  {
+    "player1": "vryuga",
+    "player2": "rajakecil",
+    "world": "BUYDTA",
+    "action": "TRADE",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "rajakecil",
+    "timestamp": "2026-11-02T14:16:00.145Z"
+  },
+  {
+    "player1": "rajakecil",
+    "player2": "vryuga",
+    "world": "BUYDTA",
+    "action": "TRADE",
+    "item_name": "Geiger Counter",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "vryuga",
+    "timestamp": "2026-11-02T14:16:00.146Z"
+  },
+  {
+    "player1": "Hassasin",
+    "player2": "Buying Machine",
+    "world": "BFGKAKA",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:16:23.214Z"
   }
 ]
