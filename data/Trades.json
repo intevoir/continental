@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrtToMray",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-11-01T23:59:03.777Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "VALLSTORE",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Shampoo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-11-01T23:59:26.399Z"
-  },
-  {
     "player1": "Haydenquins",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +102,31 @@
     "price_wl": 20,
     "traded_with": null,
     "timestamp": "2026-11-02T00:04:51.442Z"
+  },
+  {
+    "player1": "VelonBOB",
+    "player2": "Buying Machine",
+    "world": "BFGRIP",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 6,
+    "price_wl": 6,
+    "traded_with": null,
+    "timestamp": "2026-11-02T00:08:23.712Z"
+  },
+  {
+    "player1": "VelonBOB",
+    "player2": "Buying Machine",
+    "world": "BFGRIP",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 44,
+    "p_name": "World Locks",
+    "p_count": 352,
+    "price_wl": 352,
+    "traded_with": null,
+    "timestamp": "2026-11-02T00:08:37.072Z"
   }
 ]
