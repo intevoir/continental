@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrProfitMaster",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "Sugar Cane",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-02T22:20:48.294Z"
-  },
-  {
     "player1": "@AFK [ELITE] [] [] [MEOW] []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-02T22:37:06.340Z"
+  },
+  {
+    "player1": "Reazy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-11-02T22:39:16.185Z"
   }
 ]
