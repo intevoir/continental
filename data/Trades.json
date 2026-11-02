@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@andess",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 20000,
-    "price_wl": 20000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T02:51:17.789Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DBNe",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-11-02T02:56:47.112Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nephys",
+    "world": "SELLBLOCKS",
+    "action": "BUY",
+    "item_name": "Crystal Block",
+    "item_count": 70,
+    "p_name": "World Locks",
+    "p_count": 14,
+    "price_wl": 14,
+    "traded_with": null,
+    "timestamp": "2026-11-02T02:58:18.572Z"
   }
 ]
