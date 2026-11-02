@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ariws",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Black ATM Machine",
-    "item_count": 94,
-    "p_name": "World Locks",
-    "p_count": 69560,
-    "price_wl": 69560,
-    "traded_with": null,
-    "timestamp": "2026-11-02T02:51:17.781Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "@andess",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-11-02T02:54:47.553Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DBNe",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-11-02T02:56:47.112Z"
   }
 ]
