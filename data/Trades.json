@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrKutulandak",
-    "world": "PELID",
-    "action": "BUY",
-    "item_name": "Dirt",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-11-02T16:53:47.655Z"
-  },
-  {
-    "player1": "CucoPEZ",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-11-02T16:53:47.686Z"
-  },
-  {
     "player1": "Yiwa",
     "player2": "Buying Machine",
     "world": "TOYIP",
@@ -128,5 +102,31 @@
     "price_wl": 1250,
     "traded_with": null,
     "timestamp": "2026-11-02T16:57:49.732Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Copper",
+    "world": "BFGLEAF",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-11-02T16:58:05.583Z"
+  },
+  {
+    "player1": "CucoPEZ",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5200,
+    "price_wl": 5200,
+    "traded_with": null,
+    "timestamp": "2026-11-02T16:58:05.611Z"
   }
 ]
