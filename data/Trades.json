@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SIRCB",
-    "world": "KIRZENFARM",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 141,
-    "price_wl": 141,
-    "traded_with": null,
-    "timestamp": "2026-11-02T09:04:56.860Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SIRCB",
-    "world": "KIRZENFARM",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 47,
-    "price_wl": 47,
-    "traded_with": null,
-    "timestamp": "2026-11-02T09:05:05.247Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KrazyMIW",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-02T09:05:08.894Z"
-  },
-  {
     "player1": "SIRCB",
     "player2": "Buying Machine",
     "world": "OWS",
@@ -128,5 +89,44 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-02T09:06:24.198Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KrazyMIW",
+    "world": "SHOP",
+    "action": "BUY",
+    "item_name": "3OP's Purple Flaming Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-02T09:06:55.827Z"
+  },
+  {
+    "player1": "@Fhira",
+    "player2": "Buying Machine",
+    "world": "MIKEBFG",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 160,
+    "p_name": "World Locks",
+    "p_count": 139200,
+    "price_wl": 139200,
+    "traded_with": null,
+    "timestamp": "2026-11-02T09:06:59.660Z"
+  },
+  {
+    "player1": "Farzy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T09:07:23.738Z"
   }
 ]
