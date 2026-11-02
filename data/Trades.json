@@ -1,31 +1,5 @@
 [
   {
-    "player1": "abahCPS",
-    "player2": "Saros",
-    "world": "PELID",
-    "action": "TRADE",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 26,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Saros",
-    "timestamp": "2026-11-02T16:52:46.883Z"
-  },
-  {
-    "player1": "Saros",
-    "player2": "abahCPS",
-    "world": "PELID",
-    "action": "TRADE",
-    "item_name": "Geiger Counter",
-    "item_count": 26,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "abahCPS",
-    "timestamp": "2026-11-02T16:52:46.884Z"
-  },
-  {
     "player1": "Siwir",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 75,
     "traded_with": null,
     "timestamp": "2026-11-02T16:55:51.876Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Copper",
+    "world": "BFGLEAF",
+    "action": "BUY",
+    "item_name": "Pink Gemstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1250,
+    "price_wl": 1250,
+    "traded_with": null,
+    "timestamp": "2026-11-02T16:56:58.371Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Reyytzy",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Harvest String Lights",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2000,
+    "price_wl": 2000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T16:57:10.300Z"
   }
 ]
