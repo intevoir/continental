@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:58:40.705Z"
-  },
-  {
     "player1": "DrYokk []",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 2500,
     "traded_with": null,
     "timestamp": "2026-11-02T05:01:05.479Z"
+  },
+  {
+    "player1": "DrYokk []",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-02T05:02:03.241Z"
   }
 ]
