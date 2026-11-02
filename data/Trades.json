@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Cythera",
-    "world": "VENDM",
-    "action": "BUY",
-    "item_name": "Ancient Altar",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:30:29.393Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DewRich",
     "world": "CLOTE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 4944,
     "traded_with": null,
     "timestamp": "2026-11-02T04:35:43.254Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Saros",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 4800,
+    "price_wl": 4800,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:36:27.135Z"
   }
 ]
