@@ -1,18 +1,5 @@
 [
   {
-    "player1": "slybook",
-    "player2": "Buying Machine",
-    "world": "MESA",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:20:20.578Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LowTie",
     "world": "6SHOP",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-02T04:22:21.015Z"
+  },
+  {
+    "player1": "althass",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:23:22.471Z"
   }
 ]
