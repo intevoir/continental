@@ -5,32 +5,6 @@
     "world": "WO",
     "action": "BUY",
     "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:46:47.628Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "WO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 900,
-    "price_wl": 900,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:46:56.992Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nou",
-    "world": "WO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
     "item_count": 100,
     "p_name": "World Locks",
     "p_count": 300,
@@ -128,5 +102,31 @@
     "price_wl": 1260,
     "traded_with": null,
     "timestamp": "2026-11-02T04:53:35.684Z"
+  },
+  {
+    "player1": "Lygo",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:54:46.998Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "LossPakdhe",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 600,
+    "price_wl": 600,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:54:59.728Z"
   }
 ]
