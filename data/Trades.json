@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FLAIRx",
-    "world": "BFGELE",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 183,
-    "p_name": "World Locks",
-    "p_count": 549,
-    "price_wl": 549,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:14:59.489Z"
-  },
-  {
-    "player1": "@GanoEL",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:14:59.523Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "vryuga",
     "world": "BUYDTA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-11-02T14:16:23.214Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Exilope",
+    "world": "SAW",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 3200,
+    "price_wl": 3200,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:17:00.837Z"
+  },
+  {
+    "player1": "vryuga",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:17:00.852Z"
   }
 ]
