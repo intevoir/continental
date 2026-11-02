@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrBuilderRICH",
-    "world": "SHOPR",
-    "action": "BUY",
-    "item_name": "Iron Bars",
-    "item_count": 239,
-    "p_name": "World Locks",
-    "p_count": 239,
-    "price_wl": 239,
-    "traded_with": null,
-    "timestamp": "2026-11-02T22:24:01.329Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrProfitMaster",
     "world": "6SHOP",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 870,
     "traded_with": null,
     "timestamp": "2026-11-02T22:39:56.300Z"
+  },
+  {
+    "player1": "BabuThay",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T22:42:13.750Z"
   }
 ]
