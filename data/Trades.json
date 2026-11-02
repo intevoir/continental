@@ -1,18 +1,5 @@
 [
   {
-    "player1": "nggaingris",
-    "player2": "Renting Station",
-    "world": "FREERENT",
-    "action": "RENT",
-    "item_name": "Scarlet Rider's Bike",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 59,
-    "price_wl": 59,
-    "traded_with": null,
-    "timestamp": "2026-11-02T22:17:34.836Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "DrProfitMaster",
     "world": "SELLCLIFFSIDE",
@@ -128,5 +115,18 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-11-02T22:32:52.567Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RealB1 of Mythical Majesty",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Renting Station",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 60000,
+    "price_wl": 60000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T22:34:43.696Z"
   }
 ]
