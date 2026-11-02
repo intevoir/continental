@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@A7B",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15000,
-    "price_wl": 15000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:46:31.703Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "xJustHuman2",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Block Glue",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 9,
-    "price_wl": 9,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:46:31.708Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrEnalStore",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 119,
     "traded_with": null,
     "timestamp": "2026-11-02T04:49:54.560Z"
+  },
+  {
+    "player1": "DrLolly",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:51:34.692Z"
+  },
+  {
+    "player1": "sandaxc",
+    "player2": "Renting Station",
+    "world": "FREEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:51:34.706Z"
   }
 ]
