@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PALLTONAIKHAJI",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Weather Machine - Black Hole",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:07:56.301Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "hobs",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 6200,
-    "price_wl": 6200,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:07:56.313Z"
-  },
-  {
     "player1": "bolsus",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-11-02T14:10:14.522Z"
+  },
+  {
+    "player1": "vryuga",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lock Sucker",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:10:58.547Z"
+  },
+  {
+    "player1": "GTMasbro",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:11:16.849Z"
   }
 ]
