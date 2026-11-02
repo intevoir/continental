@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Bergine",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Legendary Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14000,
-    "price_wl": 14000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T01:21:55.792Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nephys []",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 6,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-11-02T01:21:55.804Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WisTH",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-11-02T01:27:57.896Z"
+  },
+  {
+    "player1": "AppleBestFruit",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1600,
+    "price_wl": 1600,
+    "traded_with": null,
+    "timestamp": "2026-11-02T01:28:31.145Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Nephys []",
+    "world": "CBR",
+    "action": "BUY",
+    "item_name": "Hover Platform",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-11-02T01:28:31.154Z"
   }
 ]
