@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Valiann",
-    "world": "DPR",
-    "action": "BUY",
-    "item_name": "Legal Briefs",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 14400,
-    "price_wl": 14400,
-    "traded_with": null,
-    "timestamp": "2026-11-02T08:48:10.005Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Thaker",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Nou",
     "timestamp": "2026-11-02T08:51:49.761Z"
+  },
+  {
+    "player1": "lowiss",
+    "player2": "Buying Machine",
+    "world": "LOWIES",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 120,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-11-02T08:53:11.209Z"
   }
 ]
