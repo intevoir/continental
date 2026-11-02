@@ -4,19 +4,6 @@
     "player2": "Buying Machine",
     "world": "EEL",
     "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-11-02T18:21:20.799Z"
-  },
-  {
-    "player1": "KHNT",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
     "item_name": "White Crystal",
     "item_count": 9,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 1600,
     "traded_with": null,
     "timestamp": "2026-11-02T18:29:23.800Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "paten2",
+    "world": "GROWGANOTHS",
+    "action": "BUY",
+    "item_name": "Dark King's Offering",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-02T18:30:24.531Z"
   }
 ]
