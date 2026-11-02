@@ -1,31 +1,5 @@
 [
   {
-    "player1": "althass",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Spammer Slave",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:25:22.486Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DewRich",
-    "world": "CLOTE",
-    "action": "BUY",
-    "item_name": "Air Vent",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:25:42.594Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LowTie",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 4700,
     "traded_with": null,
     "timestamp": "2026-11-02T04:29:47.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Cythera",
+    "world": "VENDM",
+    "action": "BUY",
+    "item_name": "Ancient Altar",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:30:29.393Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DewRich",
+    "world": "CLOTE",
+    "action": "BUY",
+    "item_name": "Diamond Lotus Lamp",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:30:53.931Z"
   }
 ]
