@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FellOnTopp",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:24:44.621Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FellOnTopp",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 820,
-    "price_wl": 820,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:25:22.458Z"
-  },
-  {
     "player1": "althass",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-02T04:27:38.976Z"
+  },
+  {
+    "player1": "craylix",
+    "player2": "Renting Station",
+    "world": "MAYBELATERBUY",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 119,
+    "price_wl": 119,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:29:44.405Z"
+  },
+  {
+    "player1": "althass",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4700,
+    "price_wl": 4700,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:29:47.681Z"
   }
 ]
