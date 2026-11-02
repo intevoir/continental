@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Haydenquins",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-01T23:59:29.879Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrtToMray []",
-    "world": "BFGRIP",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1500,
-    "price_wl": 1500,
-    "traded_with": null,
-    "timestamp": "2026-11-02T00:02:22.220Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Whops []",
     "world": "SAW",
@@ -128,5 +102,31 @@
     "price_wl": 352,
     "traded_with": null,
     "timestamp": "2026-11-02T00:08:37.072Z"
+  },
+  {
+    "player1": "Whops []",
+    "player2": "@REVANDRA [PRO ]",
+    "world": "SAW",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 36,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@REVANDRA [PRO ]",
+    "timestamp": "2026-11-02T00:09:55.965Z"
+  },
+  {
+    "player1": "@REVANDRA [PRO ]",
+    "player2": "Whops []",
+    "world": "SAW",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Whops []",
+    "timestamp": "2026-11-02T00:09:55.968Z"
   }
 ]
