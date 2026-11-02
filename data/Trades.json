@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "XZB",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 55,
-    "p_name": "World Locks",
-    "p_count": 49500,
-    "price_wl": 49500,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:09:49.718Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Egogil",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Blue Portal",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:10:05.977Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ChaEun",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-11-02T04:11:50.485Z"
+  },
+  {
+    "player1": "LowTie",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:12:51.442Z"
+  },
+  {
+    "player1": "MONYETLO",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 206,
+    "p_name": "World Locks",
+    "p_count": 74778,
+    "price_wl": 74778,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:12:55.881Z"
   }
 ]
