@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrXyow",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Painting Easel",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-11-02T12:27:07.559Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Tian",
     "world": "KS",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-11-02T12:28:46.401Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "stns [] [ELITE]",
+    "world": "VBL",
+    "action": "BUY",
+    "item_name": "Surgical Anesthetic",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-02T12:28:55.193Z"
   }
 ]
