@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kontol",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Beach Blast",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 300,
-    "price_wl": 300,
-    "traded_with": null,
-    "timestamp": "2026-11-02T03:16:23.074Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DBNe",
     "world": "VIPBFG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 357,
     "traded_with": null,
     "timestamp": "2026-11-02T03:18:25.739Z"
+  },
+  {
+    "player1": "Rontown",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 800,
+    "price_wl": 800,
+    "traded_with": null,
+    "timestamp": "2026-11-02T03:19:23.425Z"
   }
 ]
