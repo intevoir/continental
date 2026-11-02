@@ -4,32 +4,6 @@
     "player2": "Blackfoxtm",
     "world": "BLOCKMO",
     "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 110,
-    "price_wl": 110,
-    "traded_with": null,
-    "timestamp": "2026-11-02T15:23:28.842Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MassDerr",
-    "world": "VENDBAL",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50000,
-    "price_wl": 50000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T15:23:28.859Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Blackfoxtm",
-    "world": "BLOCKMO",
-    "action": "BUY",
     "item_name": "Arroz Con Pollo",
     "item_count": 20,
     "p_name": "World Locks",
@@ -128,5 +102,31 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-11-02T15:25:30.641Z"
+  },
+  {
+    "player1": "KRYX",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 33000,
+    "price_wl": 33000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T15:26:25.054Z"
+  },
+  {
+    "player1": "OtwRent",
+    "player2": "Renting Station",
+    "world": "TIE",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T15:26:47.521Z"
   }
 ]
