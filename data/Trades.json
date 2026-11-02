@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SousukeSagara",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 21500,
-    "price_wl": 21500,
-    "traded_with": null,
-    "timestamp": "2026-11-02T19:07:22.960Z"
-  },
-  {
     "player1": "kiisu90",
     "player2": "Buying Machine",
     "world": "BFGNOL",
@@ -128,5 +115,18 @@
     "price_wl": 150,
     "traded_with": null,
     "timestamp": "2026-11-02T19:15:46.681Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kiisu90",
+    "world": "FREEBFG",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-02T19:16:35.353Z"
   }
 ]
