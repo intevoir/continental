@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "itsFarel",
-    "world": "GUYS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-11-02T07:10:29.076Z"
-  },
-  {
     "player1": "CocoMelonS",
     "player2": "Buying Machine",
     "world": "TODTA",
@@ -128,5 +115,18 @@
     "price_wl": 895,
     "traded_with": null,
     "timestamp": "2026-11-02T07:14:32.406Z"
+  },
+  {
+    "player1": "Lyans",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 52000,
+    "price_wl": 52000,
+    "traded_with": null,
+    "timestamp": "2026-11-02T07:15:32.047Z"
   }
 ]
