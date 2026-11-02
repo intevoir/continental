@@ -5,19 +5,6 @@
     "world": "SAW",
     "action": "BUY",
     "item_name": "SHREDDER 5000",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 32000,
-    "price_wl": 32000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T00:03:22.205Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Whops []",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
     "item_count": 1,
     "p_name": "World Locks",
     "p_count": 8000,
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "Whops []",
     "timestamp": "2026-11-02T00:09:55.968Z"
+  },
+  {
+    "player1": "VelonBOB",
+    "player2": "Buying Machine",
+    "world": "BFGRIP",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 870,
+    "price_wl": 870,
+    "traded_with": null,
+    "timestamp": "2026-11-02T00:10:34.581Z"
   }
 ]
