@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "SergioCool",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-11-02T02:25:09.931Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "HBSY",
     "world": "FREEBFG",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-02T02:30:24.570Z"
+  },
+  {
+    "player1": "Sarawak",
+    "player2": "Buying Machine",
+    "world": "BFG8D",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1700,
+    "price_wl": 1700,
+    "traded_with": null,
+    "timestamp": "2026-11-02T02:31:12.221Z"
   }
 ]
