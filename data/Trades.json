@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Davsky",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Door Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:41:30.134Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Davsky",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Lock Mover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-11-02T14:41:42.598Z"
-  },
-  {
     "player1": "DrXenita",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 4475,
     "traded_with": null,
     "timestamp": "2026-11-02T14:45:14.501Z"
+  },
+  {
+    "player1": "MonarchyTM",
+    "player2": "Renting Station",
+    "world": "CROT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 71,
+    "price_wl": 71,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:45:24.117Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FENDIASP3",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 890,
+    "price_wl": 890,
+    "traded_with": null,
+    "timestamp": "2026-11-02T14:45:24.128Z"
   }
 ]
