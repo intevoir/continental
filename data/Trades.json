@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KingQeme",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-11-02T22:11:37.364Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "RAFLIW",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-11-02T22:17:34.836Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrProfitMaster",
+    "world": "SELLCLIFFSIDE",
+    "action": "BUY",
+    "item_name": "Cliffside",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 15,
+    "price_wl": 15,
+    "traded_with": null,
+    "timestamp": "2026-11-02T22:17:58.384Z"
   }
 ]
