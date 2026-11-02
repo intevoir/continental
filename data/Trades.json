@@ -4,19 +4,6 @@
     "player2": "urH0ME",
     "world": "FREEBFG",
     "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 180,
-    "price_wl": 180,
-    "traded_with": null,
-    "timestamp": "2026-11-02T11:19:58.946Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "urH0ME",
-    "world": "FREEBFG",
-    "action": "BUY",
     "item_name": "Songpyeon",
     "item_count": 30,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 30,
     "traded_with": null,
     "timestamp": "2026-11-02T11:22:35.711Z"
+  },
+  {
+    "player1": "@SELL []",
+    "player2": "Renting Station",
+    "world": "PTKK",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-02T11:24:01.342Z"
   }
 ]
