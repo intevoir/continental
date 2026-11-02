@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Kontol",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Chicken Plow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-02T02:19:39.065Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nephys",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-02T02:23:40.509Z"
+  },
+  {
+    "player1": "Sarawak",
+    "player2": "Buying Machine",
+    "world": "WNI",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 850,
+    "price_wl": 850,
+    "traded_with": null,
+    "timestamp": "2026-11-02T02:24:39.368Z"
   }
 ]
