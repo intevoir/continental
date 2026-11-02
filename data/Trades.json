@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "NnaelGT",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Harvester Of Sorrows",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-02T20:42:16.938Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Wildy",
     "world": "KIT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1,
     "traded_with": null,
     "timestamp": "2026-11-02T20:57:52.883Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 40,
+    "price_wl": 40,
+    "traded_with": null,
+    "timestamp": "2026-11-02T20:59:53.647Z"
   }
 ]
