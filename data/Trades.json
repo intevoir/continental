@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ChaEun",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Golden Halo",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-02T04:10:55.477Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DirtSickle_791",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 6200,
     "traded_with": null,
     "timestamp": "2026-11-02T04:13:51.251Z"
+  },
+  {
+    "player1": "slybook",
+    "player2": "Buying Machine",
+    "world": "MESA",
+    "action": "SELL",
+    "item_name": "Lucky Clover",
+    "item_count": 249,
+    "p_name": "World Locks",
+    "p_count": 1245,
+    "price_wl": 1245,
+    "traded_with": null,
+    "timestamp": "2026-11-02T04:14:56.804Z"
   }
 ]
