@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PALLTONAIKHAJI",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Omegalul",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-02T02:54:38.653Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DBNe",
     "world": "BFGSTORE",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 7,
     "traded_with": null,
     "timestamp": "2026-11-02T03:01:19.820Z"
+  },
+  {
+    "player1": "DrShakaa",
+    "player2": "Renting Station",
+    "world": "MAYBELATERBUY",
+    "action": "RENT",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 357,
+    "price_wl": 357,
+    "traded_with": null,
+    "timestamp": "2026-11-02T03:02:23.070Z"
   }
 ]
