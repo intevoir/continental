@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Fahrelll",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 164,
-    "p_name": "World Locks",
-    "p_count": 492,
-    "price_wl": 492,
-    "traded_with": null,
-    "timestamp": "2026-11-03T12:26:20.010Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "skyboss",
     "world": "KETSU",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2070,
     "traded_with": null,
     "timestamp": "2026-11-03T12:27:43.914Z"
+  },
+  {
+    "player1": "OWNFFA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T12:28:20.671Z"
   }
 ]
