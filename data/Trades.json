@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "mokabgls1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-11-03T12:20:16.780Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "mokabgls1",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-11-03T12:20:16.790Z"
-  },
-  {
     "player1": "B0SSMUDA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 47,
     "traded_with": null,
     "timestamp": "2026-11-03T12:21:25.388Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Spookys",
+    "world": "LIKEBFG",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-11-03T12:22:25.121Z"
+  },
+  {
+    "player1": "B0SSMUDA",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Royal Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-11-03T12:22:45.394Z"
   }
 ]
