@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Diorskie",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "TXMom's Crown",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:30:22.118Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Nevict",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Diamond Rocket Shoes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:31:37.521Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Nevict",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-03T15:34:35.658Z"
+  },
+  {
+    "player1": "AsepNotWibu",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 27,
+    "price_wl": 27,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:35:10.759Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Auditore",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Giant Eye Head",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:35:14.733Z"
   }
 ]
