@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DunSekai",
-    "world": "SGPY",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-03T03:53:34.856Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KimDeCarti",
-    "world": "FREERENT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-11-03T03:54:02.193Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "KimDeCarti",
     "world": "FREERENT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-03T03:58:07.260Z"
+  },
+  {
+    "player1": "Lelouch",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 14,
+    "p_name": "World Locks",
+    "p_count": 12250,
+    "price_wl": 12250,
+    "traded_with": null,
+    "timestamp": "2026-11-03T04:00:37.785Z"
+  },
+  {
+    "player1": "DrDeboy",
+    "player2": "Renting Station",
+    "world": "BUYMAGPLANT",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 53,
+    "price_wl": 53,
+    "traded_with": null,
+    "timestamp": "2026-11-03T04:00:37.799Z"
   }
 ]
