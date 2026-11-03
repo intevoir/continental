@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Fuugu[ZEUS]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 221,
-    "p_name": "World Locks",
-    "p_count": 10829,
-    "price_wl": 10829,
-    "traded_with": null,
-    "timestamp": "2026-11-03T03:38:27.667Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@MESA [ELITE]",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 245,
-    "p_name": "World Locks",
-    "p_count": 11760,
-    "price_wl": 11760,
-    "traded_with": null,
-    "timestamp": "2026-11-03T03:38:44.600Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "@MESA [ELITE]",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-11-03T03:40:53.048Z"
+  },
+  {
+    "player1": "DrZanpro",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-03T03:41:29.763Z"
+  },
+  {
+    "player1": "DrZanpro",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-03T03:41:46.775Z"
   }
 ]
