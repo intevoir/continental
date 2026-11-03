@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "MenzyX",
-    "world": "BUYNEST",
-    "action": "BUY",
-    "item_name": "Nest Hat",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:20:35.803Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Hakumen",
-    "world": "VEND1",
-    "action": "BUY",
-    "item_name": "Royal Scarf of Chains",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:21:36.086Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "MenzyX",
     "world": "SET",
     "action": "BUY",
     "item_name": "Wool Scarf",
@@ -128,5 +102,31 @@
     "price_wl": 2610,
     "traded_with": null,
     "timestamp": "2026-11-03T05:25:25.245Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hakumen",
+    "world": "SHOPEE",
+    "action": "BUY",
+    "item_name": "Bouncer Pants",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 80,
+    "price_wl": 80,
+    "traded_with": null,
+    "timestamp": "2026-11-03T05:26:16.357Z"
+  },
+  {
+    "player1": "@REVANDRA [PRO ]",
+    "player2": "Buying Machine",
+    "world": "BFGYUT",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 360000,
+    "price_wl": 360000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T05:26:16.373Z"
   }
 ]
