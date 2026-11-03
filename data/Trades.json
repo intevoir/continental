@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Counter",
-    "item_count": 191,
-    "p_name": "World Locks",
-    "p_count": 573,
-    "price_wl": 573,
-    "traded_with": null,
-    "timestamp": "2026-11-03T01:35:42.757Z"
-  },
-  {
     "player1": "MorganHurt",
     "player2": "Renting Station",
     "world": "FREEBFG",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-03T01:45:56.598Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kizzy7",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Block Glue",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2,
+    "price_wl": 2,
+    "traded_with": null,
+    "timestamp": "2026-11-03T01:46:24.506Z"
   }
 ]
