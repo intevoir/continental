@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BroxRel",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 76,
-    "price_wl": 76,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:15:02.335Z"
-  },
-  {
-    "player1": "BroxRel",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 630,
-    "price_wl": 630,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:15:02.360Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "itsFarel",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-11-03T15:16:06.028Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 147,
+    "p_name": "World Locks",
+    "p_count": 147,
+    "price_wl": 147,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:16:18.435Z"
+  },
+  {
+    "player1": "Neu",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:16:30.925Z"
   }
 ]
