@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Haydenquins",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-11-03T01:30:39.916Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "MorganHurt",
     "world": "FREEBFGBOS",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-11-03T01:32:40.540Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-11-03T01:32:48.979Z"
   }
 ]
