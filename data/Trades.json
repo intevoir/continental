@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "KimDeCarti",
-    "world": "OWS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-11-03T09:39:34.664Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KimDeCarti",
-    "world": "OWS",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 20,
-    "price_wl": 20,
-    "traded_with": null,
-    "timestamp": "2026-11-03T09:39:38.117Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Renn2",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5000,
     "traded_with": null,
     "timestamp": "2026-11-03T09:41:36.975Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "rellow",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Superstar Sneakers",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:42:20.934Z"
+  },
+  {
+    "player1": "JiYeju",
+    "player2": "Buying Machine",
+    "world": "PTZ",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 8700,
+    "price_wl": 8700,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:42:29.017Z"
   }
 ]
