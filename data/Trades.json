@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "StreetBy",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Water Bucket",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8,
-    "price_wl": 8,
-    "traded_with": null,
-    "timestamp": "2026-11-03T01:28:38.995Z"
-  },
-  {
     "player1": "DrNFC",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 15,
     "traded_with": null,
     "timestamp": "2026-11-03T01:31:00.085Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-11-03T01:31:51.949Z"
   }
 ]
