@@ -1,31 +1,5 @@
 [
   {
-    "player1": "BroxRel",
-    "player2": "Buying Machine",
-    "world": "DTA",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:58:33.785Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Mbox [ELITE] [] [BEAUTYAURORA] [MAXWIN] []",
-    "world": "6SHOP",
-    "action": "BUY",
-    "item_name": "House Entrance",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:59:22.159Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FENDIASP3",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 72900,
     "traded_with": null,
     "timestamp": "2026-11-03T16:03:50.073Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Red Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-11-03T16:05:24.349Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 25,
+    "price_wl": 25,
+    "traded_with": null,
+    "timestamp": "2026-11-03T16:05:53.306Z"
   }
 ]
