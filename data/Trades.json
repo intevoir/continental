@@ -1,57 +1,5 @@
 [
   {
-    "player1": "LangShoot",
-    "player2": "Buying Machine",
-    "world": "BFGCOKA",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 8500,
-    "price_wl": 8500,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:48:39.315Z"
-  },
-  {
-    "player1": "kiisu90",
-    "player2": "Buying Machine",
-    "world": "FREEBFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 29,
-    "p_name": "World Locks",
-    "p_count": 203,
-    "price_wl": 203,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:50:17.079Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XZB",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 89000,
-    "price_wl": 89000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:50:17.090Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PlayHOL",
-    "world": "DOSEN",
-    "action": "BUY",
-    "item_name": "Display Block",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:50:17.938Z"
-  },
-  {
     "player1": "Phoxent",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +76,57 @@
     "price_wl": 1560,
     "traded_with": null,
     "timestamp": "2026-11-03T05:52:00.656Z"
+  },
+  {
+    "player1": "Valiann",
+    "player2": "DrALi [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 30,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrALi [ELITE]",
+    "timestamp": "2026-11-03T05:52:39.015Z"
+  },
+  {
+    "player1": "Valiann",
+    "player2": "DrALi [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 37,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrALi [ELITE]",
+    "timestamp": "2026-11-03T05:52:39.018Z"
+  },
+  {
+    "player1": "DrALi [ELITE]",
+    "player2": "Valiann",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Valiann",
+    "timestamp": "2026-11-03T05:52:39.019Z"
+  },
+  {
+    "player1": "kiisu90",
+    "player2": "Buying Machine",
+    "world": "BFGRYZEN",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-11-03T05:52:39.019Z"
   }
 ]
