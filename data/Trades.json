@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Whops []",
-    "world": "SAW",
-    "action": "BUY",
-    "item_name": "SHREDDER 5000",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 40000,
-    "price_wl": 40000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T10:03:34.761Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Saros",
     "world": "BFGDECK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 141,
     "traded_with": null,
     "timestamp": "2026-11-03T10:05:23.912Z"
+  },
+  {
+    "player1": "KingDs",
+    "player2": "Buying Machine",
+    "world": "TOL",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 340000,
+    "price_wl": 340000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T10:05:43.823Z"
   }
 ]
