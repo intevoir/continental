@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "fanganteng2",
-    "world": "BFGWILY",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-03T09:28:37.008Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BAKSOTUSUK",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5500,
     "traded_with": null,
     "timestamp": "2026-11-03T09:31:33.374Z"
+  },
+  {
+    "player1": "awmkeren",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Charger",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:32:24.023Z"
   }
 ]
