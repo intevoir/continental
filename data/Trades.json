@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Diorskie",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:37:41.366Z"
-  },
-  {
-    "player1": "Nevict",
-    "player2": "Renting Station",
-    "world": "BENZYL",
-    "action": "RENT",
-    "item_name": "Benzyl's Corrupted Inferno Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11900,
-    "price_wl": 11900,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:38:11.549Z"
-  },
-  {
     "player1": "BurJiro",
     "player2": "Renting Station",
     "world": "TIE",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-11-03T15:40:48.543Z"
+  },
+  {
+    "player1": "Rgyes",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:41:22.221Z"
+  },
+  {
+    "player1": "fzal",
+    "player2": "Buying Machine",
+    "world": "BLARNEY123",
+    "action": "SELL",
+    "item_name": "Blarney Pebble",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:41:47.279Z"
   }
 ]
