@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 3000,
-    "price_wl": 3000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T08:54:22.374Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Telephone",
     "item_count": 10,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 40,
     "traded_with": null,
     "timestamp": "2026-11-03T08:57:08.461Z"
+  },
+  {
+    "player1": "DrXyow",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 247,
+    "p_name": "World Locks",
+    "p_count": 247,
+    "price_wl": 247,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:00:10.746Z"
   }
 ]
