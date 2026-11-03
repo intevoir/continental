@@ -1,18 +1,5 @@
 [
   {
-    "player1": "GERMORA",
-    "player2": "Renting Station",
-    "world": "1",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 357,
-    "price_wl": 357,
-    "traded_with": null,
-    "timestamp": "2026-11-03T12:02:39.554Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "CleyoKW",
     "world": "STORECSN",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@Walid [ELITE]",
     "timestamp": "2026-11-03T12:07:19.932Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hisazu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-03T12:08:28.287Z"
   }
 ]
