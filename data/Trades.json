@@ -1,18 +1,5 @@
 [
   {
-    "player1": "lerry12",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Phoenix Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T08:00:07.066Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Varsquie",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 125,
     "traded_with": null,
     "timestamp": "2026-11-03T08:07:48.825Z"
+  },
+  {
+    "player1": "JustAlone",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Golden Heartbow",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 50000,
+    "price_wl": 50000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T08:08:49.642Z"
   }
 ]
