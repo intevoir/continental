@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "OXJ",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Black Crystal",
-    "item_count": 12,
-    "p_name": "World Locks",
-    "p_count": 60,
-    "price_wl": 60,
-    "traded_with": null,
-    "timestamp": "2026-11-03T06:06:46.768Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Rontown",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 60,
     "traded_with": null,
     "timestamp": "2026-11-03T06:09:16.266Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Rontown",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 140,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-11-03T06:09:45.726Z"
   }
 ]
