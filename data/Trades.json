@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Telephone",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-03T08:54:34.688Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "Security Camera",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 247,
     "traded_with": null,
     "timestamp": "2026-11-03T09:00:10.746Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrXyow",
+    "world": "UTUD",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:01:11.579Z"
   }
 ]
