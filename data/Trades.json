@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BAKSOTUSUK",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T09:29:44.609Z"
-  },
-  {
     "player1": "lanadelreys",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +115,18 @@
     "price_wl": 660,
     "traded_with": null,
     "timestamp": "2026-11-03T09:33:34.273Z"
+  },
+  {
+    "player1": "awmkeren",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Blue Crystal",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 120,
+    "price_wl": 120,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:34:16.435Z"
   }
 ]
