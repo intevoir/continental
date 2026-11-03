@@ -5,32 +5,6 @@
     "world": "BFGSTORE",
     "action": "BUY",
     "item_name": "Lucky Clover",
-    "item_count": 44,
-    "p_name": "World Locks",
-    "p_count": 440,
-    "price_wl": 440,
-    "traded_with": null,
-    "timestamp": "2026-11-03T06:55:13.881Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IndahFlores",
-    "world": "BFGSTORE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T06:55:18.136Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "IndahFlores",
-    "world": "BFGSTORE",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
     "item_count": 250,
     "p_name": "World Locks",
     "p_count": 2500,
@@ -128,5 +102,31 @@
     "price_wl": 200,
     "traded_with": null,
     "timestamp": "2026-11-03T06:58:15.696Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "POPDA",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 350,
+    "price_wl": 350,
+    "traded_with": null,
+    "timestamp": "2026-11-03T06:59:03.268Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrSecho",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12250,
+    "price_wl": 12250,
+    "traded_with": null,
+    "timestamp": "2026-11-03T06:59:06.860Z"
   }
 ]
