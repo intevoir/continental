@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "3ghz",
-    "world": "ALAT",
-    "action": "BUY",
-    "item_name": "Starfleet Cadet's Supply Box",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-03T16:06:58.976Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "WisTH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 30,
-    "p_name": "World Locks",
-    "p_count": 27000,
-    "price_wl": 27000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T16:08:26.827Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Srimpt",
     "world": "POPDA",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-11-03T16:11:58.317Z"
+  },
+  {
+    "player1": "kiisu90",
+    "player2": "Buying Machine",
+    "world": "FREEBFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 175,
+    "price_wl": 175,
+    "traded_with": null,
+    "timestamp": "2026-11-03T16:12:27.392Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "AzuraHIGH",
+    "world": "UAP11",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 11750,
+    "price_wl": 11750,
+    "traded_with": null,
+    "timestamp": "2026-11-03T16:12:57.682Z"
   }
 ]
