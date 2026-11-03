@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Phoxent",
-    "player2": "Renting Station",
-    "world": "END",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 17850,
-    "price_wl": 17850,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:50:39.460Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Anwar",
-    "world": "CBR",
-    "action": "BUY",
-    "item_name": "Fire Escape",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-03T05:50:47.301Z"
-  },
-  {
     "player1": "Christina of Legend [PRO ]",
     "player2": "Buying Machine",
     "world": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 5950,
     "traded_with": null,
     "timestamp": "2026-11-03T05:52:39.019Z"
+  },
+  {
+    "player1": "@REVANDRA [PRO ]",
+    "player2": "Buying Machine",
+    "world": "ADE",
+    "action": "SELL",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 360000,
+    "price_wl": 360000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T05:53:18.187Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "MidnightBoy",
+    "world": "DISPLAY",
+    "action": "BUY",
+    "item_name": "Prismatic Aura",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T05:53:38.064Z"
   }
 ]
