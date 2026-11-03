@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "RotiRoti",
-    "world": "VENDSPOT",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 196,
-    "price_wl": 196,
-    "traded_with": null,
-    "timestamp": "2026-11-03T06:21:51.021Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "777 of Legend",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Painting Easel",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-03T06:22:51.962Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "777 of Legend",
     "world": "NITRO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-03T06:28:57.142Z"
+  },
+  {
+    "player1": "Alufedd",
+    "player2": "Buying Machine",
+    "world": "PNB",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 113,
+    "p_name": "World Locks",
+    "p_count": 678,
+    "price_wl": 678,
+    "traded_with": null,
+    "timestamp": "2026-11-03T06:29:53.205Z"
+  },
+  {
+    "player1": "DrtToMray",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4600,
+    "price_wl": 4600,
+    "traded_with": null,
+    "timestamp": "2026-11-03T06:29:53.235Z"
   }
 ]
