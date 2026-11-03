@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOP",
     "action": "BUY",
-    "item_name": "Security Camera",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-11-03T08:55:07.691Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOP",
-    "action": "BUY",
     "item_name": "WOTD Trophy 2023",
     "item_count": 2,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-11-03T09:01:11.579Z"
+  },
+  {
+    "player1": "DrXyow",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Eggs Benedict",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-11-03T09:01:37.673Z"
   }
 ]
