@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Diorskie",
-    "world": "UAP11",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 11750,
-    "price_wl": 11750,
-    "traded_with": null,
-    "timestamp": "2026-11-03T16:13:27.411Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Srimpt",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-03T16:14:41.704Z"
+  },
+  {
+    "player1": "Ficcy",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 9,
+    "price_wl": 9,
+    "traded_with": null,
+    "timestamp": "2026-11-03T16:15:56.873Z"
   }
 ]
