@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "PEEQA",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 1200,
-    "price_wl": 1200,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:55:53.233Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "PEEQA",
-    "world": "FREEBFGBOS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 600,
-    "price_wl": 600,
-    "traded_with": null,
-    "timestamp": "2026-11-03T15:56:19.900Z"
-  },
-  {
     "player1": "hfx",
     "player2": "Renting Station",
     "world": "1",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-03T15:57:45.806Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Davsky",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:58:21.314Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "DTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-03T15:58:33.785Z"
   }
 ]
