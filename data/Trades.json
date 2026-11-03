@@ -1,31 +1,5 @@
 [
   {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-03T01:23:36.715Z"
-  },
-  {
-    "player1": "DrNFC",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Eggs Benedict",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 250,
-    "price_wl": 250,
-    "traded_with": null,
-    "timestamp": "2026-11-03T01:23:56.959Z"
-  },
-  {
     "player1": "StreetBy",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +102,31 @@
     "price_wl": 13350,
     "traded_with": null,
     "timestamp": "2026-11-03T01:26:50.224Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "VaaInginLray",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Buying Machine",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 3000,
+    "price_wl": 3000,
+    "traded_with": null,
+    "timestamp": "2026-11-03T01:27:46.044Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Geiger Counter",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-11-03T01:28:02.289Z"
   }
 ]
