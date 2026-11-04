@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "WORKBFGS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 540,
-    "price_wl": 540,
-    "traded_with": null,
-    "timestamp": "2026-11-04T08:49:52.249Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "NNBA",
-    "world": "WORKBFGS",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 90,
-    "p_name": "World Locks",
-    "p_count": 90,
-    "price_wl": 90,
-    "traded_with": null,
-    "timestamp": "2026-11-04T08:49:56.523Z"
-  },
-  {
     "player1": "grockh",
     "player2": "Renting Station",
     "world": "RENT",
@@ -128,5 +102,31 @@
     "price_wl": 980,
     "traded_with": null,
     "timestamp": "2026-11-04T08:52:02.993Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@PriceStore [ELITE] []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 19000,
+    "price_wl": 19000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T08:53:39.318Z"
+  },
+  {
+    "player1": "Nanahoshi",
+    "player2": "Buying Machine",
+    "world": "REEM",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1780,
+    "price_wl": 1780,
+    "traded_with": null,
+    "timestamp": "2026-11-04T08:53:56.482Z"
   }
 ]
