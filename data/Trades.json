@@ -1,18 +1,5 @@
 [
   {
-    "player1": "PALLTONAIKHAJI",
-    "player2": "Renting Station",
-    "world": "NC",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 13090,
-    "price_wl": 13090,
-    "traded_with": null,
-    "timestamp": "2026-11-04T03:13:00.580Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Zhiend",
     "world": "WNI",
@@ -128,5 +115,18 @@
     "price_wl": 2,
     "traded_with": null,
     "timestamp": "2026-11-04T03:15:48.375Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Strepsils",
+    "world": "FREERENT",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-11-04T03:16:20.428Z"
   }
 ]
