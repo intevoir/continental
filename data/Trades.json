@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Farhan",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5800,
-    "price_wl": 5800,
-    "traded_with": null,
-    "timestamp": "2026-11-04T06:54:12.767Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Dr92W [ELITE]",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12000,
-    "price_wl": 12000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T06:54:16.497Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "verkal",
     "world": "BUY",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12250,
     "traded_with": null,
     "timestamp": "2026-11-04T06:57:01.472Z"
+  },
+  {
+    "player1": "ProfBar",
+    "player2": "Buying Machine",
+    "world": "BUY",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T06:57:50.669Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Dr92W [ELITE]",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Painting Easel",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T06:57:55.410Z"
   }
 ]
