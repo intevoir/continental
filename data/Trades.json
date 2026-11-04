@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrJU11",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T12:29:56.033Z"
-  },
-  {
     "player1": "DrRenzzxy []",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 8,
     "traded_with": null,
     "timestamp": "2026-11-04T12:31:49.086Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrRenzzxy []",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T12:32:51.095Z"
   }
 ]
