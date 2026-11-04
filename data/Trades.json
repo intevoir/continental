@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "DrCENTINAL",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Renting Station",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11000,
-    "price_wl": 11000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T07:58:05.113Z"
-  },
-  {
     "player1": "JustTambuk",
     "player2": "Renting Station",
     "world": "TOKOC",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-04T07:59:36.373Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "VEO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 875,
+    "price_wl": 875,
+    "traded_with": null,
+    "timestamp": "2026-11-04T08:00:28.176Z"
   }
 ]
