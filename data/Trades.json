@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrNADLYONERE",
-    "world": "SHOPK",
-    "action": "BUY",
-    "item_name": "Growtorial Entrance",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-04T05:47:31.339Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@Raharja",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T05:47:43.604Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lunnnnnnn of Legend",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 49,
     "traded_with": null,
     "timestamp": "2026-11-04T05:52:16.047Z"
+  },
+  {
+    "player1": "@Raharja",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-04T05:53:17.400Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Naello",
+    "world": "AKA777",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 10,
+    "p_name": "World Locks",
+    "p_count": 30,
+    "price_wl": 30,
+    "traded_with": null,
+    "timestamp": "2026-11-04T05:53:41.005Z"
   }
 ]
