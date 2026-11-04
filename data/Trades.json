@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Paintbrush",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-04T19:07:48.423Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZeusBolt",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-04T19:13:14.476Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Equil",
+    "world": "WORKBFGS",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1500,
+    "price_wl": 1500,
+    "traded_with": null,
+    "timestamp": "2026-11-04T19:15:17.168Z"
   }
 ]
