@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "FitriFahrezi",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Yin Yang Pendant",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:51:58.881Z"
-  },
-  {
-    "player1": "DanielScott",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:51:58.896Z"
-  },
-  {
     "player1": "TheFSR",
     "player2": "Renting Station",
     "world": "DESBY",
@@ -128,5 +102,31 @@
     "price_wl": 10,
     "traded_with": null,
     "timestamp": "2026-11-04T04:53:58.816Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ariws",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Legendary Granite",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 30000,
+    "price_wl": 30000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:55:58.808Z"
+  },
+  {
+    "player1": "Shovia",
+    "player2": "Renting Station",
+    "world": "JUSOO",
+    "action": "RENT",
+    "item_name": "Jusoo's nocturnal wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11900,
+    "price_wl": 11900,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:55:58.822Z"
   }
 ]
