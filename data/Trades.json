@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Mance",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-11-04T23:35:34.540Z"
-  },
-  {
     "player1": "Mance1",
     "player2": "Renting Station",
     "world": "TIE",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-04T23:43:38.273Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BraveGrip_143",
+    "world": "BUYBOT",
+    "action": "BUY",
+    "item_name": "Farmer Slave",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-11-04T23:44:39.013Z"
   }
 ]
