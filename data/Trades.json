@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Lerrry",
-    "player2": "Renting Station",
-    "world": "TTT",
-    "action": "RENT",
-    "item_name": "Heavenly Scythe",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1190,
-    "price_wl": 1190,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:30:34.298Z"
-  },
-  {
     "player1": "Nephys",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 2000,
     "traded_with": null,
     "timestamp": "2026-11-04T04:33:30.238Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Saros",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 20,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:34:47.233Z"
   }
 ]
