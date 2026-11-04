@@ -2,32 +2,6 @@
   {
     "player1": "KENDU",
     "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Green Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 3,
-    "price_wl": 3,
-    "traded_with": null,
-    "timestamp": "2026-11-04T22:23:28.462Z"
-  },
-  {
-    "player1": "KENDU",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 160,
-    "price_wl": 160,
-    "traded_with": null,
-    "timestamp": "2026-11-04T22:23:31.111Z"
-  },
-  {
-    "player1": "KENDU",
-    "player2": "Buying Machine",
     "world": "FREEBFG",
     "action": "SELL",
     "item_name": "Pink Gemstone",
@@ -128,5 +102,31 @@
     "price_wl": 50000,
     "traded_with": null,
     "timestamp": "2026-11-04T22:35:00.358Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Srooend",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T22:36:03.900Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Srooend",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-11-04T22:36:23.550Z"
   }
 ]
