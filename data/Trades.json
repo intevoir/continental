@@ -1,31 +1,5 @@
 [
   {
-    "player1": "OZON",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Black Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:19:52.514Z"
-  },
-  {
-    "player1": "OZON",
-    "player2": "Buying Machine",
-    "world": "GEIGER",
-    "action": "SELL",
-    "item_name": "Blue Crystal",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 120,
-    "price_wl": 120,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:19:56.802Z"
-  },
-  {
     "player1": "DrSibii",
     "player2": "Buying Machine",
     "world": "MVEL",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-11-04T14:21:48.349Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "RNF",
+    "world": "KLASIK",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 180000,
+    "price_wl": 180000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:22:57.690Z"
+  },
+  {
+    "player1": "DrXyow",
+    "player2": "Buying Machine",
+    "world": "IIC",
+    "action": "SELL",
+    "item_name": "Haunted Chemical",
+    "item_count": 57,
+    "p_name": "World Locks",
+    "p_count": 285,
+    "price_wl": 285,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:23:01.741Z"
   }
 ]
