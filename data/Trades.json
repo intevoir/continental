@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrKlewerbaikhati",
-    "world": "VENDWE",
-    "action": "BUY",
-    "item_name": "Hedge",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 16,
-    "price_wl": 16,
-    "traded_with": null,
-    "timestamp": "2026-11-04T05:01:01.108Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Saros",
     "world": "BFGDECK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 52,
     "traded_with": null,
     "timestamp": "2026-11-04T05:03:29.099Z"
+  },
+  {
+    "player1": "Shovia",
+    "player2": "Renting Station",
+    "world": "TTT",
+    "action": "RENT",
+    "item_name": "Ghastly Robe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2380,
+    "price_wl": 2380,
+    "traded_with": null,
+    "timestamp": "2026-11-04T05:04:01.914Z"
   }
 ]
