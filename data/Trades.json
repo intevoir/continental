@@ -1,44 +1,5 @@
 [
   {
-    "player1": "RAGV3N",
-    "player2": "Sxoozy",
-    "world": "SHIS7",
-    "action": "TRADE",
-    "item_name": "World Key",
-    "item_count": 1,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "Sxoozy",
-    "timestamp": "2026-11-04T02:35:47.815Z"
-  },
-  {
-    "player1": "Sxoozy",
-    "player2": "RAGV3N",
-    "world": "SHIS7",
-    "action": "TRADE",
-    "item_name": "CreativePS Blue Gem Lock",
-    "item_count": 2,
-    "p_name": "",
-    "p_count": 0,
-    "price_wl": 0,
-    "traded_with": "RAGV3N",
-    "timestamp": "2026-11-04T02:35:47.816Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "rayfed",
-    "world": "BUYDTA",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-04T02:36:50.417Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "LokeDrey4r",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 3420,
     "traded_with": null,
     "timestamp": "2026-11-04T02:42:33.276Z"
+  },
+  {
+    "player1": "rayfed",
+    "player2": "Buying Machine",
+    "world": "GUYS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-04T02:42:59.808Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "rayfed",
+    "world": "GUYS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-04T02:43:02.852Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Anakecil",
+    "world": "COLOR",
+    "action": "BUY",
+    "item_name": "Blue Block",
+    "item_count": 240,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-11-04T02:43:07.832Z"
   }
 ]
