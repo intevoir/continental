@@ -1,44 +1,5 @@
 [
   {
-    "player1": "DrLevaza",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T11:41:26.775Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrFBE",
-    "world": "BELI",
-    "action": "BUY",
-    "item_name": "Tombstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T11:41:31.274Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrLevaza",
-    "world": "ARROZTAN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-11-04T11:41:31.282Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "JustinKaa",
     "world": "SHOPK",
@@ -128,5 +89,44 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-11-04T11:42:03.997Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "FellOnTopp",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 390,
+    "price_wl": 390,
+    "traded_with": null,
+    "timestamp": "2026-11-04T11:42:26.073Z"
+  },
+  {
+    "player1": "DrFuukaSasaki",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 750,
+    "price_wl": 750,
+    "traded_with": null,
+    "timestamp": "2026-11-04T11:42:29.830Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrFBE",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Tombstone",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T11:42:38.404Z"
   }
 ]
