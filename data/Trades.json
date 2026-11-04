@@ -1,44 +1,5 @@
 [
   {
-    "player1": "WisTH",
-    "player2": "Renting Station",
-    "world": "MESA",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:49:28.366Z"
-  },
-  {
-    "player1": "SchoolMagic",
-    "player2": "Buying Machine",
-    "world": "RAJABFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 58,
-    "p_name": "World Locks",
-    "p_count": 464,
-    "price_wl": 464,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:49:58.269Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FitriFahrezi",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Blazing Electro Wings",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:50:30.279Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "FitriFahrezi",
     "world": "SET",
@@ -128,5 +89,44 @@
     "price_wl": 3750000,
     "traded_with": null,
     "timestamp": "2026-11-04T04:53:26.376Z"
+  },
+  {
+    "player1": "VRSTORE",
+    "player2": "Velgrey",
+    "world": "ZB9",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "Velgrey",
+    "timestamp": "2026-11-04T04:53:58.815Z"
+  },
+  {
+    "player1": "Velgrey",
+    "player2": "VRSTORE",
+    "world": "ZB9",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 55,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "VRSTORE",
+    "timestamp": "2026-11-04T04:53:58.816Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Reylemoo",
+    "world": "BUYFLIP",
+    "action": "BUY",
+    "item_name": "Blue Flip Flops",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:53:58.816Z"
   }
 ]
