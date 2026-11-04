@@ -1,31 +1,5 @@
 [
   {
-    "player1": "rellow",
-    "player2": "Renting Station",
-    "world": "DNAX",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-04T10:43:44.559Z"
-  },
-  {
-    "player1": "fzal",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Ultra World Spray",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 860,
-    "price_wl": 860,
-    "traded_with": null,
-    "timestamp": "2026-11-04T10:43:53.290Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "medanboy",
     "world": "PAY",
@@ -128,5 +102,31 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-04T10:46:41.174Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Kembayan",
+    "world": "KUYARROZ",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 178000,
+    "price_wl": 178000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T10:46:57.019Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "zb9",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Xenonite Crystal",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-11-04T10:47:06.012Z"
   }
 ]
