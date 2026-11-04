@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ZoeD",
-    "world": "TOKO",
-    "action": "BUY",
-    "item_name": "Golden Booty Chest",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 70,
-    "price_wl": 70,
-    "traded_with": null,
-    "timestamp": "2026-11-04T20:59:32.880Z"
-  },
-  {
     "player1": "ZoeD",
     "player2": "Buying Machine",
     "world": "MAFIA",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-04T21:28:40.574Z"
+  },
+  {
+    "player1": "@waku[CSN]",
+    "player2": "Renting Station",
+    "world": "XSR",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-04T21:29:28.252Z"
   }
 ]
