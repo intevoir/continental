@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "zb9",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 11500,
-    "price_wl": 11500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T10:47:06.012Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rhnzz",
     "world": "BAPAK",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 25,
     "traded_with": null,
     "timestamp": "2026-11-04T10:50:02.604Z"
+  },
+  {
+    "player1": "BARSTORE",
+    "player2": "Renting Station",
+    "world": "RENT",
+    "action": "RENT",
+    "item_name": "Meydilin's Evil Crown",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 2975,
+    "price_wl": 2975,
+    "traded_with": null,
+    "timestamp": "2026-11-04T10:50:15.951Z"
   }
 ]
