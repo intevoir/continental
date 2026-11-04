@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "FitriFahrezi",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Cursed Katana",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:44:54.502Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "FitriFahrezi",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Winter Frost Bow",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:45:18.329Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kalarge",
     "world": "GUYS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1000,
     "traded_with": null,
     "timestamp": "2026-11-04T04:49:09.510Z"
+  },
+  {
+    "player1": "WisTH",
+    "player2": "Renting Station",
+    "world": "MESA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:49:28.366Z"
+  },
+  {
+    "player1": "SchoolMagic",
+    "player2": "Buying Machine",
+    "world": "RAJABFG",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 58,
+    "p_name": "World Locks",
+    "p_count": 464,
+    "price_wl": 464,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:49:58.269Z"
   }
 ]
