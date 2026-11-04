@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Nephys",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:32:24.666Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "VaaInginLray",
     "world": "DTA",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-04T04:38:18.117Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Gaskeun",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11000,
+    "price_wl": 11000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:39:01.748Z"
   }
 ]
