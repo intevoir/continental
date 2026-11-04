@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Phopox",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 28,
-    "p_name": "World Locks",
-    "p_count": 9800,
-    "price_wl": 9800,
-    "traded_with": null,
-    "timestamp": "2026-11-04T06:02:33.738Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "Reylemoo",
     "world": "VENDSPOT",
@@ -128,5 +115,18 @@
     "price_wl": 7500,
     "traded_with": null,
     "timestamp": "2026-11-04T06:04:41.677Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Phopox",
+    "world": "RB",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 640,
+    "price_wl": 640,
+    "traded_with": null,
+    "timestamp": "2026-11-04T06:05:21.649Z"
   }
 ]
