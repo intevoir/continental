@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrCENTINAL",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 143,
-    "p_name": "World Locks",
-    "p_count": 34320,
-    "price_wl": 34320,
-    "traded_with": null,
-    "timestamp": "2026-11-04T16:25:15.742Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "kyycrius",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-04T16:28:55.970Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "bugg",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Blue Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-11-04T16:29:29.770Z"
   }
 ]
