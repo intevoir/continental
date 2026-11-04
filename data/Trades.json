@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "VaaInginLray",
-    "world": "DTA",
-    "action": "BUY",
-    "item_name": "White Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 45,
-    "price_wl": 45,
-    "traded_with": null,
-    "timestamp": "2026-11-04T04:32:36.985Z"
-  },
-  {
     "player1": "ThunderGT",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 750,
     "traded_with": null,
     "timestamp": "2026-11-04T04:40:53.897Z"
+  },
+  {
+    "player1": "Mayau",
+    "player2": "Renting Station",
+    "world": "RENT",
+    "action": "RENT",
+    "item_name": "Heavenly Scythe",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 386,
+    "price_wl": 386,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:42:53.498Z"
   }
 ]
