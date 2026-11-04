@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "ParkJiSung",
-    "world": "TOBRUT",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T15:12:56.632Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Kembayan",
-    "world": "ESH",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 24,
-    "p_name": "World Locks",
-    "p_count": 21360,
-    "price_wl": 21360,
-    "traded_with": null,
-    "timestamp": "2026-11-04T15:13:00.701Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Arcelio",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T15:13:04.882Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Kembayan",
     "world": "ESH",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 500,
     "traded_with": null,
     "timestamp": "2026-11-04T15:13:35.724Z"
+  },
+  {
+    "player1": "DrSibii",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Pay Wall",
+    "item_count": 15,
+    "p_name": "World Locks",
+    "p_count": 900,
+    "price_wl": 900,
+    "traded_with": null,
+    "timestamp": "2026-11-04T15:14:31.881Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrVenyuw",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 25,
+    "p_name": "World Locks",
+    "p_count": 10000,
+    "price_wl": 10000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T15:15:01.012Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ParkJiSung",
+    "world": "TOBRUT",
+    "action": "BUY",
+    "item_name": "Science Station",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-04T15:15:01.030Z"
   }
 ]
