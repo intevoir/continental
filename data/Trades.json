@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "ParkJiSung",
-    "world": "TOBRUT",
-    "action": "BUY",
-    "item_name": "Science Station",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T15:15:33.889Z"
-  },
-  {
     "player1": "Rubi",
     "player2": "Chei",
     "world": "1",
@@ -128,5 +115,18 @@
     "price_wl": 0,
     "traded_with": "@9x3",
     "timestamp": "2026-11-04T15:17:49.252Z"
+  },
+  {
+    "player1": "DrNFC",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 8,
+    "p_name": "World Locks",
+    "p_count": 64,
+    "price_wl": 64,
+    "traded_with": null,
+    "timestamp": "2026-11-04T15:19:40.139Z"
   }
 ]
