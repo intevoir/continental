@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "vanze",
-    "world": "LIKEBFG",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-04T01:16:02.286Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Fedin",
-    "world": "CASE",
-    "action": "BUY",
-    "item_name": "Poseidon's Trident",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-04T01:16:33.847Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "EK9",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 15,
-    "p_name": "World Locks",
-    "p_count": 13500,
-    "price_wl": 13500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T01:18:36.192Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "EK9",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 6480,
     "traded_with": null,
     "timestamp": "2026-11-04T01:23:41.315Z"
+  },
+  {
+    "player1": "SergioCool",
+    "player2": "DrRealB3",
+    "world": "BFGNAPI",
+    "action": "TRADE",
+    "item_name": "World Key",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRealB3",
+    "timestamp": "2026-11-04T01:25:50.223Z"
+  },
+  {
+    "player1": "DrRealB3",
+    "player2": "SergioCool",
+    "world": "BFGNAPI",
+    "action": "TRADE",
+    "item_name": "CreativePS Diamond Lock",
+    "item_count": 20,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SergioCool",
+    "timestamp": "2026-11-04T01:25:50.225Z"
+  },
+  {
+    "player1": "DrRealB3",
+    "player2": "SergioCool",
+    "world": "BFGNAPI",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 2,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "SergioCool",
+    "timestamp": "2026-11-04T01:25:50.225Z"
   }
 ]
