@@ -1,18 +1,5 @@
 [
   {
-    "player1": "KENDU",
-    "player2": "Buying Machine",
-    "world": "FREEBFG",
-    "action": "SELL",
-    "item_name": "Pink Gemstone",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-11-04T21:32:21.167Z"
-  },
-  {
     "player1": "Nedd1",
     "player2": "Renting Station",
     "world": "FREERENT",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-11-04T21:42:25.020Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "lvfy",
+    "world": "PNB",
+    "action": "BUY",
+    "item_name": "Songpyeon",
+    "item_count": 4,
+    "p_name": "World Locks",
+    "p_count": 8,
+    "price_wl": 8,
+    "traded_with": null,
+    "timestamp": "2026-11-04T21:43:42.380Z"
   }
 ]
