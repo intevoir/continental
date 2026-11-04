@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@10rb",
-    "world": "FFFFA",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-04T09:12:45.717Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@10rb",
-    "world": "FFFFA",
-    "action": "BUY",
-    "item_name": "Tomato",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-04T09:13:03.140Z"
-  },
-  {
-    "player1": "rayfed",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-04T09:13:03.153Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "rayfed",
     "world": "PELID",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 28,
     "traded_with": null,
     "timestamp": "2026-11-04T09:13:46.597Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@10rb",
+    "world": "FFFFA",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-04T09:14:11.587Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "@10rb",
+    "world": "FFFFA",
+    "action": "BUY",
+    "item_name": "Tomato",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 50,
+    "price_wl": 50,
+    "traded_with": null,
+    "timestamp": "2026-11-04T09:14:38.602Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Hisazu",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 80,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T09:14:38.621Z"
   }
 ]
