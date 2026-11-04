@@ -1,18 +1,5 @@
 [
   {
-    "player1": "SousukeSagara",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Infinity Gems",
-    "item_count": 237,
-    "p_name": "World Locks",
-    "p_count": 10665,
-    "price_wl": 10665,
-    "traded_with": null,
-    "timestamp": "2026-11-04T16:36:21.139Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "ParkJiSung",
     "world": "LEW",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-11-04T16:40:01.377Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Toothless",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-11-04T16:41:01.270Z"
   }
 ]
