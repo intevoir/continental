@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "VnoZ",
-    "world": "STORE",
-    "action": "BUY",
-    "item_name": "Master Chef's Oven",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-04T01:15:34.216Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "vanze",
-    "world": "LIKEBFG",
-    "action": "BUY",
-    "item_name": "Ancestral Lens of Riches",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5500,
-    "price_wl": 5500,
-    "traded_with": null,
-    "timestamp": "2026-11-04T01:15:53.113Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "vanze",
     "world": "LIKEBFG",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 12,
     "traded_with": null,
     "timestamp": "2026-11-04T01:21:59.174Z"
+  },
+  {
+    "player1": "skmzjz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "SHREDDER 5000",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4100,
+    "price_wl": 4100,
+    "traded_with": null,
+    "timestamp": "2026-11-04T01:23:37.696Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "skmzjz",
+    "world": "EEL",
+    "action": "BUY",
+    "item_name": "Radioactive Chemical",
+    "item_count": 144,
+    "p_name": "World Locks",
+    "p_count": 6480,
+    "price_wl": 6480,
+    "traded_with": null,
+    "timestamp": "2026-11-04T01:23:41.315Z"
   }
 ]
