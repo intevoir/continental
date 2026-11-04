@@ -1,58 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "lvfy",
-    "world": "PNB",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:34:25.911Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Unstable Tesseract",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:34:43.105Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "corinese",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Gaia's Beacon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 23,
-    "price_wl": 23,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:34:54.469Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "@R33 []",
-    "world": "ESH",
-    "action": "BUY",
-    "item_name": "Megaphone",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5700,
-    "price_wl": 5700,
-    "traded_with": null,
-    "timestamp": "2026-11-04T14:35:26.633Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "corinese",
     "world": "ARROZKRO",
     "action": "BUY",
@@ -128,5 +76,57 @@
     "price_wl": 3750,
     "traded_with": null,
     "timestamp": "2026-11-04T14:37:45.667Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "MAFIA",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:38:26.726Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "corinese",
+    "world": "ARROZKRO",
+    "action": "BUY",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 3750,
+    "price_wl": 3750,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:38:26.740Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "MAFIA",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:38:42.604Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "KajiBolenk",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 164,
+    "p_name": "World Locks",
+    "p_count": 82,
+    "price_wl": 82,
+    "traded_with": null,
+    "timestamp": "2026-11-04T14:38:47.292Z"
   }
 ]
