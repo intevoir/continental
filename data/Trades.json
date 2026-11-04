@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Most Wanted: @Yia [HODL!] [YOLO!]",
-    "world": "BUYMAINDOOR",
-    "action": "BUY",
-    "item_name": "Main Door",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T07:08:51.472Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Zwyro",
     "world": "VENDSPOT",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 2595,
     "traded_with": null,
     "timestamp": "2026-11-04T07:13:21.396Z"
+  },
+  {
+    "player1": "Monstrous",
+    "player2": "Buying Machine",
+    "world": "GUYS",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 59,
+    "p_name": "World Locks",
+    "p_count": 472,
+    "price_wl": 472,
+    "traded_with": null,
+    "timestamp": "2026-11-04T07:13:54.272Z"
   }
 ]
