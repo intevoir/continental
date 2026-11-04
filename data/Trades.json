@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Roulette Wheel",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-11-04T19:27:56.902Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "BroxRel",
     "world": "TOKO8",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 250,
     "traded_with": null,
     "timestamp": "2026-11-04T19:31:59.238Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Putrabos",
+    "world": "SHOPL",
+    "action": "BUY",
+    "item_name": "Black Gems",
+    "item_count": 210,
+    "p_name": "World Locks",
+    "p_count": 210,
+    "price_wl": 210,
+    "traded_with": null,
+    "timestamp": "2026-11-04T19:32:32.726Z"
   }
 ]
