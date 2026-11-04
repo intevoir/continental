@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOPS",
     "action": "BUY",
-    "item_name": "Black Wallpaper",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-04T19:04:43.054Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOPS",
-    "action": "BUY",
     "item_name": "Weather Machine - Background",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-04T19:07:48.423Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZeusBolt",
+    "world": "WNI",
+    "action": "BUY",
+    "item_name": "Eggs Benedict",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 400,
+    "price_wl": 400,
+    "traded_with": null,
+    "timestamp": "2026-11-04T19:08:43.221Z"
   }
 ]
