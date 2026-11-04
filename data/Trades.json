@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "QueenShovia",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "Raver Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-04T10:24:31.358Z"
-  },
-  {
     "player1": "Lelouch",
     "player2": "Buying Machine",
     "world": "LEV",
@@ -128,5 +115,18 @@
     "price_wl": 304,
     "traded_with": null,
     "timestamp": "2026-11-04T10:28:33.066Z"
+  },
+  {
+    "player1": "Arcelio",
+    "player2": "Renting Station",
+    "world": "PENN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-04T10:28:45.259Z"
   }
 ]
