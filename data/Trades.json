@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOPS",
     "action": "BUY",
-    "item_name": "Fish Landing Platform",
-    "item_count": 200,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-11-04T19:01:12.760Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOPS",
-    "action": "BUY",
     "item_name": "Potato Couch",
     "item_count": 100,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 33,
     "traded_with": null,
     "timestamp": "2026-11-04T19:03:08.748Z"
+  },
+  {
+    "player1": "Creepes",
+    "player2": "Renting Station",
+    "world": "TTT",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-04T19:03:29.482Z"
   }
 ]
