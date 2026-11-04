@@ -4,19 +4,6 @@
     "player2": "BusyMan",
     "world": "SHOPK",
     "action": "BUY",
-    "item_name": "Paint Bucket - Blue",
-    "item_count": 150,
-    "p_name": "World Locks",
-    "p_count": 30,
-    "price_wl": 30,
-    "traded_with": null,
-    "timestamp": "2026-11-04T20:42:48.354Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOPK",
-    "action": "BUY",
     "item_name": "Dark Castle Stone",
     "item_count": 150,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 70,
     "traded_with": null,
     "timestamp": "2026-11-04T20:59:32.880Z"
+  },
+  {
+    "player1": "ZoeD",
+    "player2": "Buying Machine",
+    "world": "MAFIA",
+    "action": "SELL",
+    "item_name": "Spammer Slave",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-11-04T21:13:31.020Z"
   }
 ]
