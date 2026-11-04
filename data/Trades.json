@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JustinKaa",
-    "world": "SHOPS",
-    "action": "BUY",
-    "item_name": "One Winged Angel",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-04T03:59:38.645Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "floysky",
-    "world": "GUYS",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-04T03:59:42.034Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "VirgiL of Legend",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 1600,
     "traded_with": null,
     "timestamp": "2026-11-04T04:07:13.556Z"
+  },
+  {
+    "player1": "HighTie",
+    "player2": "Renting Station",
+    "world": "RENTALMURAH",
+    "action": "RENT",
+    "item_name": "Legendary Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 47,
+    "price_wl": 47,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:08:45.426Z"
+  },
+  {
+    "player1": "Liteduck678",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 52,
+    "p_name": "World Locks",
+    "p_count": 156,
+    "price_wl": 156,
+    "traded_with": null,
+    "timestamp": "2026-11-04T04:09:14.828Z"
   }
 ]
