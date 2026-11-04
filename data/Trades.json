@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PHSBE",
-    "world": "SABAGT",
-    "action": "BUY",
-    "item_name": "Bulletin Board",
-    "item_count": 4,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-04T16:48:29.013Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "XiaoGuai",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-04T16:51:04.832Z"
+  },
+  {
+    "player1": "Kyve",
+    "player2": "Renting Station",
+    "world": "LIKEBFG",
+    "action": "RENT",
+    "item_name": "Legendary Shard Sword",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-04T16:53:22.819Z"
   }
 ]
