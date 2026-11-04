@@ -2,32 +2,6 @@
   {
     "player1": "BH0X",
     "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Radioactive Chemical",
-    "item_count": 13,
-    "p_name": "World Locks",
-    "p_count": 468,
-    "price_wl": 468,
-    "traded_with": null,
-    "timestamp": "2026-11-04T03:41:04.537Z"
-  },
-  {
-    "player1": "BH0X",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Haunted Chemical",
-    "item_count": 18,
-    "p_name": "World Locks",
-    "p_count": 18,
-    "price_wl": 18,
-    "traded_with": null,
-    "timestamp": "2026-11-04T03:41:08.570Z"
-  },
-  {
-    "player1": "BH0X",
-    "player2": "Buying Machine",
     "world": "BUYDTA",
     "action": "SELL",
     "item_name": "Dead Geiger Counter",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-04T03:43:01.366Z"
+  },
+  {
+    "player1": "rayfed",
+    "player2": "Buying Machine",
+    "world": "GUYS",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 1,
+    "price_wl": 1,
+    "traded_with": null,
+    "timestamp": "2026-11-04T03:43:14.021Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "rayfed",
+    "world": "GUYS",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-04T03:43:27.023Z"
   }
 ]
