@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Nephys",
-    "world": "PELID",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1250,
-    "price_wl": 1250,
-    "traded_with": null,
-    "timestamp": "2026-11-04T11:22:58.950Z"
-  },
-  {
     "player1": "poms",
     "player2": "Buying Machine",
     "world": "BUYMAGPLANT",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-04T11:24:55.759Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrIRM",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 76,
+    "p_name": "World Locks",
+    "p_count": 456,
+    "price_wl": 456,
+    "traded_with": null,
+    "timestamp": "2026-11-04T11:26:14.198Z"
   }
 ]
