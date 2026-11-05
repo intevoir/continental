@@ -4,19 +4,6 @@
     "player2": "3ghz",
     "world": "BUYMAGPLANT",
     "action": "BUY",
-    "item_name": "Greezak Starship Blast",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 10,
-    "price_wl": 10,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:04:57.412Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "3ghz",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
     "item_name": "Imperial Starship Blast",
     "item_count": 1,
     "p_name": "World Locks",
@@ -128,5 +115,18 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-05T13:05:58.237Z"
+  },
+  {
+    "player1": "Yalo",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "MAGPLANT 5000",
+    "item_count": 31,
+    "p_name": "World Locks",
+    "p_count": 7440,
+    "price_wl": 7440,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:06:21.151Z"
   }
 ]
