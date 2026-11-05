@@ -1,18 +1,5 @@
 [
   {
-    "player1": "@KENTMAUKAYA",
-    "player2": "Renting Station",
-    "world": "RENT",
-    "action": "RENT",
-    "item_name": "Heavensplitter",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 4760,
-    "price_wl": 4760,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:05:50.138Z"
-  },
-  {
     "player1": "KENDU",
     "player2": "Buying Machine",
     "world": "GEIGER",
@@ -128,5 +115,18 @@
     "price_wl": 350,
     "traded_with": null,
     "timestamp": "2026-11-05T06:08:17.389Z"
+  },
+  {
+    "player1": "KENDU",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "D Battery",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 7,
+    "price_wl": 7,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:08:54.255Z"
   }
 ]
