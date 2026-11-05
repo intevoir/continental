@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ranson",
-    "world": "SELLLASERG",
-    "action": "BUY",
-    "item_name": "Laser Grid",
-    "item_count": 10,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-05T03:13:24.134Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Ranson",
-    "world": "SELLLASERG",
-    "action": "BUY",
-    "item_name": "Laser Grid Seed",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-05T03:13:24.149Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Lelouch",
     "world": "BFGSINIYUK",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-05T03:18:55.641Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ranson",
+    "world": "SELLLASERG",
+    "action": "BUY",
+    "item_name": "Laser Grid Seed",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-11-05T03:20:34.187Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Ranson",
+    "world": "SELLLASERG",
+    "action": "BUY",
+    "item_name": "Laser Grid",
+    "item_count": 100,
+    "p_name": "World Locks",
+    "p_count": 20,
+    "price_wl": 20,
+    "traded_with": null,
+    "timestamp": "2026-11-05T03:20:42.528Z"
   }
 ]
