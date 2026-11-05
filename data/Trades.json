@@ -2,32 +2,6 @@
   {
     "player1": "Vending Machine",
     "player2": "OhIniZane",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Berry Crepes",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-05T02:21:04.515Z"
-  },
-  {
-    "player1": "kaiituru1",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-05T02:22:24.399Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "OhIniZane",
     "world": "BLOCKMO",
     "action": "BUY",
     "item_name": "Arroz Con Pollo",
@@ -128,5 +102,31 @@
     "price_wl": 225,
     "traded_with": null,
     "timestamp": "2026-11-05T02:32:08.196Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PERCUSSION",
+    "world": "BFGRYZEN",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 12,
+    "price_wl": 12,
+    "traded_with": null,
+    "timestamp": "2026-11-05T02:33:08.117Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "PERCUSSION",
+    "world": "BFGRYZEN",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 26,
+    "price_wl": 26,
+    "traded_with": null,
+    "timestamp": "2026-11-05T02:33:08.147Z"
   }
 ]
