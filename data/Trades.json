@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "@Hazardous []",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 66,
-    "p_name": "World Locks",
-    "p_count": 3234,
-    "price_wl": 3234,
-    "traded_with": null,
-    "timestamp": "2026-11-05T08:42:06.150Z"
-  },
-  {
     "player1": "PrinceLuntung",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-05T08:45:50.863Z"
+  },
+  {
+    "player1": "Mewpaw",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 1740,
+    "price_wl": 1740,
+    "traded_with": null,
+    "timestamp": "2026-11-05T08:46:51.921Z"
   }
 ]
