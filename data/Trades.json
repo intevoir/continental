@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "PENAMBANGEMS",
-    "world": "KUYARROZ",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 3,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-11-05T12:47:51.017Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "XZB",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T12:48:15.767Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "stns [ELITE]",
     "world": "MINIVENDSS",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 70470,
     "traded_with": null,
     "timestamp": "2026-11-05T12:51:08.175Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "XZB",
+    "world": "VENDSPOT",
+    "action": "BUY",
+    "item_name": "Legal Briefs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 500,
+    "price_wl": 500,
+    "traded_with": null,
+    "timestamp": "2026-11-05T12:51:50.716Z"
+  },
+  {
+    "player1": "Owencaesar",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-05T12:51:50.726Z"
   }
 ]
