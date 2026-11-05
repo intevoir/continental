@@ -1,45 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Ivaxx",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 86,
-    "p_name": "World Locks",
-    "p_count": 1032,
-    "price_wl": 1032,
-    "traded_with": null,
-    "timestamp": "2026-11-05T08:21:18.158Z"
-  },
-  {
-    "player1": "abahCPS",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-05T08:21:30.555Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "abahCPS",
-    "world": "PELID",
-    "action": "BUY",
-    "item_name": "Geiger Counter",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-05T08:22:05.631Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Reylemoo",
     "world": "TENAGA",
     "action": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 5950,
     "traded_with": null,
     "timestamp": "2026-11-05T08:24:32.758Z"
+  },
+  {
+    "player1": "Dex27",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Lock Mover",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 255,
+    "price_wl": 255,
+    "traded_with": null,
+    "timestamp": "2026-11-05T08:25:06.561Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "rhnzp",
+    "world": "BUYVENT",
+    "action": "BUY",
+    "item_name": "Air Vent",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 10,
+    "price_wl": 10,
+    "traded_with": null,
+    "timestamp": "2026-11-05T08:25:22.857Z"
+  },
+  {
+    "player1": "@VoidNann []",
+    "player2": "Renting Station",
+    "world": "VQM",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-05T08:25:27.441Z"
   }
 ]
