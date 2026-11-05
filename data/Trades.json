@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "kudaprut",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-05T11:45:17.390Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "kudaprut",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 20,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-05T11:45:22.235Z"
-  },
-  {
     "player1": "NEXTREME",
     "player2": "Renting Station",
     "world": "RENTALMURAH",
@@ -128,5 +102,31 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-11-05T11:49:36.607Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DailyMax",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Death's Scarf",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-11-05T11:50:19.796Z"
+  },
+  {
+    "player1": "lowiss",
+    "player2": "Buying Machine",
+    "world": "LOWIES",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 60,
+    "p_name": "World Locks",
+    "p_count": 60,
+    "price_wl": 60,
+    "traded_with": null,
+    "timestamp": "2026-11-05T11:50:19.807Z"
   }
 ]
