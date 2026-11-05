@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "4Ruz",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "Buddy's Block Head",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-05T01:55:56.465Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "4Ruz",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "American Sports Ball Jersey",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 40,
-    "price_wl": 40,
-    "traded_with": null,
-    "timestamp": "2026-11-05T01:55:56.504Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrMrXIRT",
     "world": "SHOP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 14875,
     "traded_with": null,
     "timestamp": "2026-11-05T02:05:06.381Z"
+  },
+  {
+    "player1": "kemamPUAN",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 14700,
+    "price_wl": 14700,
+    "traded_with": null,
+    "timestamp": "2026-11-05T02:05:59.011Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "kemamPUAN",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Infinity Gems",
+    "item_count": 13,
+    "p_name": "World Locks",
+    "p_count": 637,
+    "price_wl": 637,
+    "traded_with": null,
+    "timestamp": "2026-11-05T02:06:14.670Z"
   }
 ]
