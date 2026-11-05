@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Famzcps",
-    "world": "HAXYSURG",
-    "action": "BUY",
-    "item_name": "Surgical Sponge",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 12,
-    "price_wl": 12,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:45:29.582Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "Famzcps",
-    "world": "HAXYSURG",
-    "action": "BUY",
-    "item_name": "Surgical Splint",
-    "item_count": 240,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:45:29.615Z"
-  },
-  {
-    "player1": "BroxRel",
-    "player2": "Buying Machine",
-    "world": "EEL",
-    "action": "SELL",
-    "item_name": "Red Crystal",
-    "item_count": 7,
-    "p_name": "World Locks",
-    "p_count": 1470,
-    "price_wl": 1470,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:45:29.630Z"
-  },
-  {
     "player1": "BroxRel",
     "player2": "Buying Machine",
     "world": "EEL",
@@ -128,5 +89,44 @@
     "price_wl": 16,
     "traded_with": null,
     "timestamp": "2026-11-05T07:46:12.467Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "EEL",
+    "action": "SELL",
+    "item_name": "Growtoken",
+    "item_count": 11,
+    "p_name": "World Locks",
+    "p_count": 275,
+    "price_wl": 275,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:46:45.312Z"
+  },
+  {
+    "player1": "BroxRel",
+    "player2": "Buying Machine",
+    "world": "BUYDTA",
+    "action": "SELL",
+    "item_name": "Dead Geiger Counter",
+    "item_count": 207,
+    "p_name": "World Locks",
+    "p_count": 207,
+    "price_wl": 207,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:46:45.323Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BroxRel",
+    "world": "BUYDTA",
+    "action": "BUY",
+    "item_name": "Geiger Counter",
+    "item_count": 223,
+    "p_name": "World Locks",
+    "p_count": 1115,
+    "price_wl": 1115,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:47:13.265Z"
   }
 ]
