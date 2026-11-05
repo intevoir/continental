@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Nuansa",
-    "world": "BFGYXT",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 1750,
-    "price_wl": 1750,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:03:10.752Z"
-  },
-  {
-    "player1": "khentut",
-    "player2": "Buying Machine",
-    "world": "VENDSPOT",
-    "action": "SELL",
-    "item_name": "Game Token",
-    "item_count": 5,
-    "p_name": "World Locks",
-    "p_count": 75,
-    "price_wl": 75,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:03:38.647Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Sakuchi",
     "world": "TOKOC",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 32190,
     "traded_with": null,
     "timestamp": "2026-11-05T07:06:25.185Z"
+  },
+  {
+    "player1": "@Walid [ELITE]",
+    "player2": "DrRozen",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "Infinity Gem Lock",
+    "item_count": 1,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "DrRozen",
+    "timestamp": "2026-11-05T07:07:13.525Z"
+  },
+  {
+    "player1": "DrRozen",
+    "player2": "@Walid [ELITE]",
+    "world": "BUY",
+    "action": "TRADE",
+    "item_name": "CreativePS Blue Gem Lock",
+    "item_count": 38,
+    "p_name": "",
+    "p_count": 0,
+    "price_wl": 0,
+    "traded_with": "@Walid [ELITE]",
+    "timestamp": "2026-11-05T07:07:13.526Z"
   }
 ]
