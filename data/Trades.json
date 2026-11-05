@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Varsquie2",
-    "player2": "Renting Station",
-    "world": "BUY",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15470,
-    "price_wl": 15470,
-    "traded_with": null,
-    "timestamp": "2026-11-05T12:07:48.759Z"
-  },
-  {
-    "player1": "klenyok2",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Geiger Charger",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 800,
-    "price_wl": 800,
-    "traded_with": null,
-    "timestamp": "2026-11-05T12:07:53.162Z"
-  },
-  {
     "player1": "DrALi [ELITE]",
     "player2": "Citraku",
     "world": "MGH",
@@ -128,5 +102,31 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-11-05T12:10:42.606Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "klenyok2",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "SHREDDER 5000",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 24000,
+    "price_wl": 24000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T12:11:30.823Z"
+  },
+  {
+    "player1": "HamNt",
+    "player2": "Buying Machine",
+    "world": "MIU",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T12:11:30.834Z"
   }
 ]
