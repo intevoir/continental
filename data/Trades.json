@@ -1,18 +1,5 @@
 [
   {
-    "player1": "ASHELADZ",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Megaphone",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 10000,
-    "price_wl": 10000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T01:45:01.117Z"
-  },
-  {
     "player1": "dwinilek []",
     "player2": "Buying Machine",
     "world": "BUYDTA",
@@ -128,5 +115,18 @@
     "price_wl": 14280,
     "traded_with": null,
     "timestamp": "2026-11-05T01:54:54.107Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "4Ruz",
+    "world": "BUYMAGPLANT",
+    "action": "BUY",
+    "item_name": "Ancestral Lens of Riches",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4000,
+    "price_wl": 4000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T01:55:13.055Z"
   }
 ]
