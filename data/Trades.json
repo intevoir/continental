@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "WisTH",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Infinity Gems",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 12500,
-    "price_wl": 12500,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:18:08.595Z"
-  },
-  {
     "player1": "KABUCHA",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +115,18 @@
     "price_wl": 100,
     "traded_with": null,
     "timestamp": "2026-11-05T06:26:30.868Z"
+  },
+  {
+    "player1": "hobs",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:27:28.602Z"
   }
 ]
