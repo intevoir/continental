@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Rskie",
-    "world": "WNI",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 25,
-    "p_name": "World Locks",
-    "p_count": 22250,
-    "price_wl": 22250,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:25:19.569Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "DrBuilderX",
-    "world": "BUYMAGPLANT",
-    "action": "BUY",
-    "item_name": "DigiVend Machine",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2000,
-    "price_wl": 2000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:25:19.577Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "WishTown",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 50,
     "traded_with": null,
     "timestamp": "2026-11-05T07:27:24.808Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrVelluna",
+    "world": "KULIN",
+    "action": "BUY",
+    "item_name": "Princess",
+    "item_count": 246,
+    "p_name": "World Locks",
+    "p_count": 246,
+    "price_wl": 246,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:28:22.727Z"
+  },
+  {
+    "player1": "etrode",
+    "player2": "Buying Machine",
+    "world": "BUYMAGPLANT",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 187500,
+    "price_wl": 187500,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:28:46.802Z"
   }
 ]
