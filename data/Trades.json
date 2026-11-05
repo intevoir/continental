@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Zracz",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "GrowScan 9000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:35:41.791Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "SousukeSagara",
     "world": "MONKEYY",
@@ -128,5 +115,18 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-05T13:36:46.258Z"
+  },
+  {
+    "player1": "Zracz",
+    "player2": "Renting Station",
+    "world": "BUY",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:37:41.755Z"
   }
 ]
