@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "AiProfit",
-    "world": "DMH",
-    "action": "BUY",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 3850000,
-    "price_wl": 3850000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T00:28:10.245Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "UYUXU",
-    "world": "BFGIBU",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 50,
-    "p_name": "World Locks",
-    "p_count": 500,
-    "price_wl": 500,
-    "traded_with": null,
-    "timestamp": "2026-11-05T00:28:57.232Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "UYUXU",
     "world": "BFGIBU",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-11-05T00:40:22.108Z"
+  },
+  {
+    "player1": "yoev",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 32,
+    "p_name": "World Locks",
+    "p_count": 256,
+    "price_wl": 256,
+    "traded_with": null,
+    "timestamp": "2026-11-05T00:41:01.105Z"
+  },
+  {
+    "player1": "BabuThay",
+    "player2": "Renting Station",
+    "world": "KSEEH",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14280,
+    "price_wl": 14280,
+    "traded_with": null,
+    "timestamp": "2026-11-05T00:41:01.119Z"
   }
 ]
