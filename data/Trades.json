@@ -1,57 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "BuckDuck",
-    "world": "SELLRAYS",
-    "action": "BUY",
-    "item_name": "Rayman's Hoodie",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:47:09.379Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BuckDuck",
-    "world": "SELLRAYS",
-    "action": "BUY",
-    "item_name": "Rayman's Nose",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:47:13.763Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BuckDuck",
-    "world": "SELLRAYS",
-    "action": "BUY",
-    "item_name": "Rayman's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:47:17.594Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "JUSTHUSNI",
-    "world": "AKA777",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 750,
-    "price_wl": 750,
-    "traded_with": null,
-    "timestamp": "2026-11-05T13:48:44.792Z"
-  },
-  {
     "player1": "corinese",
     "player2": "Buying Machine",
     "world": "BLOCKMO",
@@ -128,5 +76,57 @@
     "price_wl": 365,
     "traded_with": null,
     "timestamp": "2026-11-05T13:51:59.370Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:52:47.091Z"
+  },
+  {
+    "player1": "Tekfis",
+    "player2": "Renting Station",
+    "world": "FAC",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:52:51.909Z"
+  },
+  {
+    "player1": "corinese",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:53:07.233Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BuckDuck",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Legendary Mystery Box",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 11500,
+    "price_wl": 11500,
+    "traded_with": null,
+    "timestamp": "2026-11-05T13:53:16.249Z"
   }
 ]
