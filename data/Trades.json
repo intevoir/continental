@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Citraku",
-    "player2": "Buying Machine",
-    "world": "BLOCKMO",
-    "action": "SELL",
-    "item_name": "Xenonite Crystal",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 8000,
-    "price_wl": 8000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T12:06:47.193Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "HamNt",
     "world": "COLOR",
@@ -128,5 +115,18 @@
     "price_wl": 12000,
     "traded_with": null,
     "timestamp": "2026-11-05T12:08:59.913Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "grockh",
+    "world": "SET",
+    "action": "BUY",
+    "item_name": "Draconic Weather Machine - Dragon's Keep",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 100,
+    "price_wl": 100,
+    "traded_with": null,
+    "timestamp": "2026-11-05T12:10:00.954Z"
   }
 ]
