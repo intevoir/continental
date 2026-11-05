@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrGvez",
-    "world": "PLAZA",
-    "action": "BUY",
-    "item_name": "Black Block",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 5,
-    "price_wl": 5,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:53:06.877Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "jojokod",
     "world": "BFGKYNA",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 11750,
     "traded_with": null,
     "timestamp": "2026-11-05T06:55:25.301Z"
+  },
+  {
+    "player1": "jojokod",
+    "player2": "Buying Machine",
+    "world": "MIU",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 250,
+    "p_name": "World Locks",
+    "p_count": 12000,
+    "price_wl": 12000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:55:38.491Z"
   }
 ]
