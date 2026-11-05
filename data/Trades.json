@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DreEleonore",
-    "world": "BFGADVAN",
-    "action": "BUY",
-    "item_name": "Arroz Con Pollo",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 1000,
-    "price_wl": 1000,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:05:23.821Z"
-  },
-  {
-    "player1": "KajiBolenk",
-    "player2": "Renting Station",
-    "world": "FREEBFG",
-    "action": "RENT",
-    "item_name": "Legendary Shard Sword",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 2,
-    "price_wl": 2,
-    "traded_with": null,
-    "timestamp": "2026-11-05T07:05:34.265Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Levazaa",
     "world": "WNI",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 15470,
     "traded_with": null,
     "timestamp": "2026-11-05T07:09:14.969Z"
+  },
+  {
+    "player1": "khentut",
+    "player2": "Buying Machine",
+    "world": "VENDSPOT",
+    "action": "SELL",
+    "item_name": "Pink Gemstone",
+    "item_count": 17,
+    "p_name": "World Locks",
+    "p_count": 136,
+    "price_wl": 136,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:09:27.485Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "DrGvez",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Open Sign",
+    "item_count": 50,
+    "p_name": "World Locks",
+    "p_count": 250,
+    "price_wl": 250,
+    "traded_with": null,
+    "timestamp": "2026-11-05T07:09:31.750Z"
   }
 ]
