@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "DrSukaMatcha",
-    "world": "BLOCKMO",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 250,
-    "p_name": "World Locks",
-    "p_count": 2500,
-    "price_wl": 2500,
-    "traded_with": null,
-    "timestamp": "2026-11-05T02:54:24.779Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "DrIitch",
     "world": "KUYARROZ",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 1100,
     "traded_with": null,
     "timestamp": "2026-11-05T02:57:26.964Z"
+  },
+  {
+    "player1": "DrRamardo",
+    "player2": "Renting Station",
+    "world": "SEWA",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 15470,
+    "price_wl": 15470,
+    "traded_with": null,
+    "timestamp": "2026-11-05T03:01:20.246Z"
   }
 ]
