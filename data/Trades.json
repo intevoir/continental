@@ -1,44 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "KHNT",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Rayman's Nose",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:04:50.507Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "KHNT",
-    "world": "SHOPL",
-    "action": "BUY",
-    "item_name": "Rayman's Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:04:50.518Z"
-  },
-  {
-    "player1": "KENDU",
-    "player2": "Buying Machine",
-    "world": "PELID",
-    "action": "SELL",
-    "item_name": "Dead Geiger Counter",
-    "item_count": 100,
-    "p_name": "World Locks",
-    "p_count": 200,
-    "price_wl": 200,
-    "traded_with": null,
-    "timestamp": "2026-11-05T06:04:54.500Z"
-  },
-  {
     "player1": "eXhuma",
     "player2": "Renting Station",
     "world": "BUY",
@@ -128,5 +89,44 @@
     "price_wl": 9,
     "traded_with": null,
     "timestamp": "2026-11-05T06:06:50.158Z"
+  },
+  {
+    "player1": "KENDU",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 7,
+    "p_name": "World Locks",
+    "p_count": 105,
+    "price_wl": 105,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:07:14.292Z"
+  },
+  {
+    "player1": "KENDU",
+    "player2": "Buying Machine",
+    "world": "GEIGER",
+    "action": "SELL",
+    "item_name": "Green Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 5,
+    "price_wl": 5,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:07:17.944Z"
+  },
+  {
+    "player1": "@KENTMAUKAYA",
+    "player2": "Renting Station",
+    "world": "RENT",
+    "action": "RENT",
+    "item_name": "SHA'S MRAY",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 9520,
+    "price_wl": 9520,
+    "traded_with": null,
+    "timestamp": "2026-11-05T06:07:21.788Z"
   }
 ]
