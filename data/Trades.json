@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@Fhira",
-    "world": "7KJ",
-    "action": "BUY",
-    "item_name": "Microwave",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-11-05T05:52:51.458Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "AryaTrader",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Bunny Slippers",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-05T05:52:51.464Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ZxDew",
     "world": "UCHEAP",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 600,
     "traded_with": null,
     "timestamp": "2026-11-05T05:55:09.781Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "BusyMan",
+    "world": "SHOPS",
+    "action": "BUY",
+    "item_name": "Fallen Pillar",
+    "item_count": 145,
+    "p_name": "World Locks",
+    "p_count": 29,
+    "price_wl": 29,
+    "traded_with": null,
+    "timestamp": "2026-11-05T05:55:45.584Z"
+  },
+  {
+    "player1": "KCOP",
+    "player2": "Renting Station",
+    "world": "GAIN",
+    "action": "RENT",
+    "item_name": "Mythical Infinity Rayman's Fist",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 14875,
+    "price_wl": 14875,
+    "traded_with": null,
+    "timestamp": "2026-11-05T05:55:49.488Z"
   }
 ]
