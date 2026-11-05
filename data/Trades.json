@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "SSSS020N",
-    "world": "BFGBEH",
-    "action": "BUY",
-    "item_name": "Songpyeon",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 1,
-    "price_wl": 1,
-    "traded_with": null,
-    "timestamp": "2026-11-05T09:33:21.732Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "SSSS020N",
-    "world": "BFGBEH",
-    "action": "BUY",
-    "item_name": "Lucky Clover",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 15,
-    "price_wl": 15,
-    "traded_with": null,
-    "timestamp": "2026-11-05T09:33:29.923Z"
-  },
-  {
     "player1": "CCPC",
     "player2": "Renting Station",
     "world": "SEWA",
@@ -128,5 +102,31 @@
     "price_wl": 0,
     "traded_with": "Danel",
     "timestamp": "2026-11-05T09:35:09.791Z"
+  },
+  {
+    "player1": "Princeluntung",
+    "player2": "Renting Station",
+    "world": "RIBUT",
+    "action": "RENT",
+    "item_name": "Sec's Uchiha Gunbai",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 238,
+    "price_wl": 238,
+    "traded_with": null,
+    "timestamp": "2026-11-05T09:36:18.486Z"
+  },
+  {
+    "player1": "Chaei",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5300,
+    "price_wl": 5300,
+    "traded_with": null,
+    "timestamp": "2026-11-05T09:36:34.151Z"
   }
 ]
