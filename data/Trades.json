@@ -1,18 +1,5 @@
 [
   {
-    "player1": "DrRozen",
-    "player2": "Buying Machine",
-    "world": "BUYMAGPLANT",
-    "action": "SELL",
-    "item_name": "Lock Sucker",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 25,
-    "price_wl": 25,
-    "traded_with": null,
-    "timestamp": "2026-11-05T05:35:00.183Z"
-  },
-  {
     "player1": "Vending Machine",
     "player2": "KHNT",
     "world": "BLOCK",
@@ -128,5 +115,18 @@
     "price_wl": 400,
     "traded_with": null,
     "timestamp": "2026-11-05T05:46:22.288Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "TOTFE",
+    "world": "BELI",
+    "action": "BUY",
+    "item_name": "Raptor Legs",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5000,
+    "price_wl": 5000,
+    "traded_with": null,
+    "timestamp": "2026-11-05T05:48:01.059Z"
   }
 ]
