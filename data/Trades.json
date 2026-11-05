@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "@A7B []",
-    "world": "COLOR",
-    "action": "BUY",
-    "item_name": "Huge Lock",
-    "item_count": 8,
-    "p_name": "World Locks",
-    "p_count": 4,
-    "price_wl": 4,
-    "traded_with": null,
-    "timestamp": "2026-11-05T05:42:17.973Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "BusyMan",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Fish Landing Platform",
-    "item_count": 40,
-    "p_name": "World Locks",
-    "p_count": 400,
-    "price_wl": 400,
-    "traded_with": null,
-    "timestamp": "2026-11-05T05:46:12.315Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "7712",
     "world": "BUYMAGPLANT",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 900,
     "traded_with": null,
     "timestamp": "2026-11-05T05:51:22.844Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "ZxDew",
+    "world": "UCHEAP",
+    "action": "BUY",
+    "item_name": "Ultraviolet Charm",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 4,
+    "price_wl": 4,
+    "traded_with": null,
+    "timestamp": "2026-11-05T05:51:50.469Z"
+  },
+  {
+    "player1": "DrMRSTARK",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Infinity Gems",
+    "item_count": 69,
+    "p_name": "World Locks",
+    "p_count": 3105,
+    "price_wl": 3105,
+    "traded_with": null,
+    "timestamp": "2026-11-05T05:52:17.666Z"
   }
 ]
