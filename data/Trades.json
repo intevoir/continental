@@ -1,31 +1,5 @@
 [
   {
-    "player1": "Sevich",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:20:19.712Z"
-  },
-  {
-    "player1": "Sevich",
-    "player2": "Renting Station",
-    "world": "TIE",
-    "action": "RENT",
-    "item_name": "Mythical Infinity Rayman's Fist",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 14280,
-    "price_wl": 14280,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:20:19.735Z"
-  },
-  {
     "player1": "KingQeme",
     "player2": "Renting Station",
     "world": "KSEEH",
@@ -128,5 +102,31 @@
     "price_wl": 9000,
     "traded_with": null,
     "timestamp": "2026-11-15T10:23:45.123Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sevich",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Arroz Con Pollo",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 1000,
+    "price_wl": 1000,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:24:24.781Z"
+  },
+  {
+    "player1": "Vending Machine",
+    "player2": "Sevich",
+    "world": "BLOCKMO",
+    "action": "BUY",
+    "item_name": "Lucky Clover",
+    "item_count": 200,
+    "p_name": "World Locks",
+    "p_count": 2200,
+    "price_wl": 2200,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:24:35.226Z"
   }
 ]
