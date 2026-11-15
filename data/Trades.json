@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "LoadingAsistent",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Ultra World Spray",
-    "item_count": 9,
-    "p_name": "World Locks",
-    "p_count": 8550,
-    "price_wl": 8550,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:12:48.019Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ParosGajelas",
     "world": "WQC",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 59,
     "traded_with": null,
     "timestamp": "2026-11-15T10:16:17.384Z"
+  },
+  {
+    "player1": "SnakeFlash",
+    "player2": "Renting Station",
+    "world": "RENT",
+    "action": "RENT",
+    "item_name": "Golden Revinci Wings",
+    "item_count": 1,
+    "p_name": "World Locks",
+    "p_count": 5950,
+    "price_wl": 5950,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:16:28.511Z"
   }
 ]
