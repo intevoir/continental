@@ -1,32 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "JuraganBien",
-    "world": "SET",
-    "action": "BUY",
-    "item_name": "Floating Throne",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 100,
-    "price_wl": 100,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:29:20.356Z"
-  },
-  {
-    "player1": "Vending Machine",
-    "player2": "diaznic",
-    "world": "MURAH",
-    "action": "BUY",
-    "item_name": "MAGPLANT 5000",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 340,
-    "price_wl": 340,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:29:20.368Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "Hotaroou",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +102,31 @@
     "price_wl": 320,
     "traded_with": null,
     "timestamp": "2026-11-15T10:31:31.626Z"
+  },
+  {
+    "player1": "MasRusdiAsliNga",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "White Crystal",
+    "item_count": 5,
+    "p_name": "World Locks",
+    "p_count": 70,
+    "price_wl": 70,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:32:39.550Z"
+  },
+  {
+    "player1": "MasRusdiAsliNga",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Radioactive Chemical",
+    "item_count": 16,
+    "p_name": "World Locks",
+    "p_count": 608,
+    "price_wl": 608,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:32:52.674Z"
   }
 ]
