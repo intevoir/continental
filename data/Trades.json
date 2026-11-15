@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "Module",
-    "world": "BLOCK",
-    "action": "BUY",
-    "item_name": "Spikey Anime Hair",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 5000,
-    "price_wl": 5000,
-    "traded_with": null,
-    "timestamp": "2026-11-15T10:36:34.791Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "NNBA",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 5,
     "traded_with": null,
     "timestamp": "2026-11-15T10:39:29.571Z"
+  },
+  {
+    "player1": "Pallz",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 9000,
+    "price_wl": 9000,
+    "traded_with": null,
+    "timestamp": "2026-11-15T10:40:39.791Z"
   }
 ]
