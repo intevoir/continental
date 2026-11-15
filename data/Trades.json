@@ -1,19 +1,6 @@
 [
   {
     "player1": "Vending Machine",
-    "player2": "praiseprada",
-    "world": "SHOP",
-    "action": "BUY",
-    "item_name": "Eggs Benedict",
-    "item_count": 2,
-    "p_name": "World Locks",
-    "p_count": 6,
-    "price_wl": 6,
-    "traded_with": null,
-    "timestamp": "2026-11-15T12:15:06.916Z"
-  },
-  {
-    "player1": "Vending Machine",
     "player2": "ExDenoz",
     "world": "BLOCKMO",
     "action": "BUY",
@@ -128,5 +115,18 @@
     "price_wl": 33000,
     "traded_with": null,
     "timestamp": "2026-11-15T12:17:07.805Z"
+  },
+  {
+    "player1": "OwnWISEBFG",
+    "player2": "Buying Machine",
+    "world": "SHOP",
+    "action": "SELL",
+    "item_name": "Megaphone",
+    "item_count": 2,
+    "p_name": "World Locks",
+    "p_count": 8000,
+    "price_wl": 8000,
+    "traded_with": null,
+    "timestamp": "2026-11-15T12:18:08.397Z"
   }
 ]
