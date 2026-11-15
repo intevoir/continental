@@ -1,18 +1,5 @@
 [
   {
-    "player1": "Vending Machine",
-    "player2": "Arcelio",
-    "world": "BAJU",
-    "action": "BUY",
-    "item_name": "Occean's Eternal Wake",
-    "item_count": 1,
-    "p_name": "World Locks",
-    "p_count": 50,
-    "price_wl": 50,
-    "traded_with": null,
-    "timestamp": "2026-11-15T11:09:41.674Z"
-  },
-  {
     "player1": "SamIsHere",
     "player2": "Renting Station",
     "world": "END",
@@ -128,5 +115,18 @@
     "price_wl": 3,
     "traded_with": null,
     "timestamp": "2026-11-15T11:13:12.946Z"
+  },
+  {
+    "player1": "DrCaval",
+    "player2": "Buying Machine",
+    "world": "BLOCKMO",
+    "action": "SELL",
+    "item_name": "Ultra World Spray",
+    "item_count": 3,
+    "p_name": "World Locks",
+    "p_count": 2700,
+    "price_wl": 2700,
+    "traded_with": null,
+    "timestamp": "2026-11-15T11:13:55.731Z"
   }
 ]
